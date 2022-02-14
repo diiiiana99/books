@@ -34,6 +34,8 @@ code {
 
 .book-card {
   padding: 5px;
+  display: flex;
+
 }
 
 .ui.grid {
