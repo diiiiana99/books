@@ -18,6 +18,8 @@ const apiKey2='AIzaSyBOTcf1Js7o8SlmGyfA0bG7JBLrWJQ37R8'
 //search in title and author
 let booksUrl = 'https://www.googleapis.com/books/v1/volumes?q=atomic+inauthor:clear&printType=books&key='+apiKey2
 
+let zebras = 'https://www.googleapis.com/books/v1/volumes?q=zebras&printType=books&maxResults=25&key='+apiKey2
+
 //get singular result
 // uses volume ID 
 let single = "https://www.googleapis.com/books/v1/volumes/XfFvDwAAQBAJ?key="+apiKey2
@@ -27,7 +29,7 @@ function App() {
 
   // initial book render
   useEffect(()=>{
-    axios.get(booksUrl)
+    axios.get(zebras)
     .then(r=> {
       setBooks(r.data.items)
     })
