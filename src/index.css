@@ -26,16 +26,38 @@ code {
   display: flex;
   flex-direction: row;
   overflow-x: scroll;
-  width: 100vw;
+  /* width: 100vw; */
   margin-left: 1.5%;
   margin-right: 1.5%;
   padding-top: 10px;
+
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;  /* Firefox */
 }
+
+.book-carousel::-webkit-scrollbar {
+  display: none;
+}
+
 
 .book-card {
   padding: 5px;
   display: flex;
+  width: 300px;
+  height: 300px;
 
+  /*Scale down will take the necessary specified space that is 100px x 100px without stretching the image*/
+   object-fit:scale-down;
+}
+
+.book-card:hover {
+  position:relative;
+  top:-50px;
+  left:-15px;
+  display:flex;
+  width:400vw;
+  height:500px;
+  z-index:999;
 }
 
 .ui.grid {
