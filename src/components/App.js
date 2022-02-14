@@ -2,6 +2,7 @@ import React, {useState,useEffect} from 'react';
 // using axios because it is a simpler way of using CRUD, eliminates the r=>r.json() step
 import axios from "axios";
 import '../App.css';
+import Header from './Header';
 import BookCard from './BookCard';
 import BookList from './BookList';
 
@@ -31,41 +32,14 @@ function App() {
       setBooks(r.data.items)
     })
   }, [])
-  
-  //search function
-  const [search,setSearch]=useState('');
-
-  function handleChange(event){
-    setSearch(event.target.value);
-  }
-
-  function handleSubmit(event){
-    event.preventDefault();
-    let burl= `https://www.googleapis.com/books/v1/volumes?q=${search}&printType=books&key=${apiKey2}&maxResults=40`
-    axios.get(burl)
-    .then(r=> {
-      console.log(r)
-      setBooks(r.data.items)
-  })
-  }
 
   return (
     <div className="App">
       <div className='container'>
-        <h1>Book-Report</h1>
-        <form onSubmit={handleSubmit}>
-            <div className='form-group'>
-                <input 
-                  type='text' onChange={handleChange}
-                  className='form-control mt-10' 
-                  placeholder='Search for Books' 
-                  autoComplete='off' />
-            </div>
-            <button 
-              type='submit' 
-              className='btn btn-danger'  
-            >Search</button>
-        </form>
+        <Header 
+          setBooks={setBooks}
+          apiKey2={apiKey2}
+        />
         <BookList
           books={books}
         />
