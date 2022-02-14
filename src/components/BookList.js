@@ -1,14 +1,23 @@
 import React from "react";
+import BookCard from "./BookCard";
 
 function BookList( {books} ) {
       // update books to display 
-    let booksToDisplay = books.map((book)=>{
-        // return <BookCard book={book} />
-        return <img className='book-card' src={book.volumeInfo.imageLinks === undefined
-        ? ""
-        : `${book.volumeInfo.imageLinks.thumbnail}`
-        } alt={book.title}/>
+    let filteredBooks = books.filter((book)=>{
+        return book.volumeInfo.imageLinks !== undefined
+    })
+    let booksToDisplay = filteredBooks.map((book)=>{
+        return (
+            <div className='book-card' >
+                <img 
+                src={book.volumeInfo.imageLinks === undefined? "": `${book.volumeInfo.imageLinks.thumbnail}`} 
+                alt={book.title}/>
+            </div>
+        )
+
         })
+
+    
     return(
         <div className='book-carousel'> 
                 {booksToDisplay}
