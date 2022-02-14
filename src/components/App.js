@@ -2,9 +2,9 @@ import React, {useState,useEffect} from 'react';
 // using axios because it is a simpler way of using CRUD, eliminates the r=>r.json() step
 import axios from "axios";
 import '../App.css';
-import Header from './Header';
-import BookCard from './BookCard';
+import NavBar from './NavBar';
 import BookList from './BookList';
+import { Route, Switch } from "react-router-dom";
 
 // updates to state variables are being delayed by one action
 // ie: if you first search for 'javascript', it will return nothing
@@ -36,13 +36,20 @@ function App() {
   return (
     <div className="App">
       <div className='container'>
-        <Header 
+        <NavBar 
           setBooks={setBooks}
           apiKey2={apiKey2}
         />
-        <BookList
-          books={books}
-        />
+        <Switch>
+          <Route path="/books">
+            <BookList
+              books={books}
+            />
+          </Route>
+          <Route exact path="/">
+            <div>Home</div>
+          </Route>
+        </Switch>
       </div>
     </div>
   );
