@@ -1,9 +1,14 @@
 import React, {useState,useEffect} from 'react';
+// using axios because it is a simpler way of using CRUD, eliminates the r=>r.json() step
 import axios from "axios";
-
 import '../App.css';
+import Card from "./Card";
 
-///TESTING API FUNCTIONALITY
+// updates to state variables are being delayed by one action
+// ie: if you first search for 'javascript', it will return nothing
+// then if you search for 'react', it will return results for javascript, and so forth
+
+///TESTING API FUNCTIONALITY - not super important right now
 
 const apiKey='AIzaSyDQgG9PY_tH65Mss-EP1a8M_YQNZqORmys'
 // const apiKey= 'AIzaSyCu0GO52L8knIMQ7P_gmazBf_7wlngXqyc'
@@ -23,14 +28,22 @@ function App() {
   // let [booksToDisplay,setBooksTD]=useState([])
 
   useEffect(()=>{
-    fetch(booksUrl)
-    .then(r=>r.json())
-    .then(data=>{
-      if (data.items.length>0) {
-        setBooks(data)
-        console.log(books)
-      }
-    })
+    axios.get(booksUrl)
+    .then(r=> {
+    //  { console.log(r.data.items)
+      setResults(r.data.items)
+      console.log(results)
+      if (results.length !==0){
+        setBTD(results.map((book)=>{
+          console.log(book)
+          return <Card book={book} />
+        //   return <img src={book.volumeInfo.imageLinks === undefined
+        //       ? ""
+        //       : `${book.volumeInfo.imageLinks.thumbnail}`
+        // } alt={book.title}/>
+        }))
+    }})
+
   }, [])
 
   const [search,setSearch]=useState('');
@@ -51,10 +64,11 @@ function App() {
       if (results.length !==0){
         setBTD(results.map((book)=>{
           console.log(book)
-          return <img src={book.volumeInfo.imageLinks === undefined
-              ? ""
-              : `${book.volumeInfo.imageLinks.thumbnail}`
-        } alt={book.title}/>
+          return <Card book={book} />
+        //   return <img src={book.volumeInfo.imageLinks === undefined
+        //       ? ""
+        //       : `${book.volumeInfo.imageLinks.thumbnail}`
+        // // } alt={book.title}/>
         }))
     }})
     // fetch(burl)
@@ -88,6 +102,7 @@ function App() {
               className='btn btn-danger'  
             >Search</button>
         </form>
+        {/* <Card/> */}
         {booksToDisplay}
       </div>
     </div>
