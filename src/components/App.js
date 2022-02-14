@@ -3,6 +3,7 @@ import React, {useState,useEffect} from 'react';
 import axios from "axios";
 import '../App.css';
 import BookCard from './BookCard';
+import BookList from './BookList';
 
 // updates to state variables are being delayed by one action
 // ie: if you first search for 'javascript', it will return nothing
@@ -48,16 +49,6 @@ function App() {
   })
   }
 
-  // update books to display 
-  // will not be staying in app component  
-  let booksToDisplay = books.map((book)=>{
-    // return <BookCard book={book} />
-    return <img className='book-card' src={book.volumeInfo.imageLinks === undefined
-      ? ""
-      : `${book.volumeInfo.imageLinks.thumbnail}`
-      } alt={book.title}/>
-})
-
   return (
     <div className="App">
       <div className='container'>
@@ -75,9 +66,9 @@ function App() {
               className='btn btn-danger'  
             >Search</button>
         </form>
-        <div className='book-carousel'> 
-                {booksToDisplay}
-        </div>
+        <BookList
+          books={books}
+        />
       </div>
     </div>
   );
