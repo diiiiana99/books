@@ -12,7 +12,6 @@ function BookCard({ book}) {
       ? ""
       : `${book.volumeInfo.imageLinks.thumbnail}`}/>
         </div>
-        
         <div className="content">
           <div className="header">
             {book.title}

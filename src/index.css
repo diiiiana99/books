@@ -42,14 +42,23 @@ code {
 
 .book-card {
   padding: 5px;
-  display: flex;
   width: 300px;
   height: 300px;
   object-fit:scale-down;
+  display: flex
+}
+
+.book-details {
+
+}
+
+.hidden {
+  display: none;
 }
 
 .book-card:hover {
-  transform: scale(1.25)
+  transform: scale(1.25);
+  transition: transform 0.5s;
 }
 
 .ui.grid {
