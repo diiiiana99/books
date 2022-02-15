@@ -6330,5 +6330,3253 @@
                 "textSnippet": "LEARN MORE 24 INDEX <b>Giraffes</b> are famous for their long necks and legs. A. Books Borgert-Spaniol, Megan. Baby <b>Giraffes</b>. Minneapolis, MN: Bellwether Media, 2016. Hansen, Grace. <b>Giraffes</b>. Minneapolis, MN: Abdo Kids, 2017."
             }
         }
+    ],
+
+    "sputnik": [
+        {
+            "kind": "books#volume",
+            "id": "pw1icrp657kC",
+            "etag": "q959sj/GEew",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/pw1icrp657kC",
+            "volumeInfo": {
+                "title": "The Sputnik Sweetheart",
+                "subtitle": "A Novel",
+                "authors": [
+                    "Haruki Murakami"
+                ],
+                "publisher": "Vintage",
+                "publishedDate": "2002",
+                "description": "An unrequited love for a woman devoted to Kerouac and the writer's life leads a man on a quest to uncover the mysteries of love and human longing after the woman disappears without a trace during her odyssey from parochial Japan through Europe to a Greek island, leaving behind only computer accounts of bizarre events and stories within stories. Reprint.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780375726057"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "0375726055"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 210,
+                "printType": "BOOK",
+                "categories": [
+                    "Fiction"
+                ],
+                "averageRating": 3.5,
+                "ratingsCount": 79,
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "3.4.1.0.preview.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=pw1icrp657kC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=pw1icrp657kC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=pw1icrp657kC&printsec=frontcover&dq=sputnik&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+                "infoLink": "http://books.google.com/books?id=pw1icrp657kC&dq=sputnik&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/The_Sputnik_Sweetheart.html?hl=&id=pw1icrp657kC"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=pw1icrp657kC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "An unrequited love for a woman devoted to Kerouac and the writer&#39;s life leads a man on a quest to uncover the mysteries of love and human longing after the woman disappears without a trace during her odyssey from parochial Japan through ..."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "54tjYP-kiOcC",
+            "etag": "JzrxbL/X60c",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/54tjYP-kiOcC",
+            "volumeInfo": {
+                "title": "The Sputnik Challenge",
+                "authors": [
+                    "Robert A. Divine"
+                ],
+                "publisher": "Oxford University Press",
+                "publishedDate": "1993-03-25",
+                "description": "An account of the drama and birth of the space age discusses the public uproar, secret U-2 flights, bungled missile tests, spy satellites, political maneuvering, and scientific triumph surrounding Sputnik.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780195050080"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "0195050088"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 245,
+                "printType": "BOOK",
+                "categories": [
+                    "History"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "1.1.1.0.preview.1",
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=54tjYP-kiOcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=54tjYP-kiOcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=54tjYP-kiOcC&printsec=frontcover&dq=sputnik&hl=&as_pt=BOOKS&cd=2&source=gbs_api",
+                "infoLink": "http://books.google.com/books?id=54tjYP-kiOcC&dq=sputnik&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/The_Sputnik_Challenge.html?hl=&id=54tjYP-kiOcC"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=54tjYP-kiOcC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "An account of the drama and birth of the space age discusses the public uproar, secret U-2 flights, bungled missile tests, spy satellites, political maneuvering, and scientific triumph surrounding Sputnik."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "X2IUswEACAAJ",
+            "etag": "jXntk6p6hYs",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/X2IUswEACAAJ",
+            "volumeInfo": {
+                "title": "Sputnik",
+                "subtitle": "An Introductory Russian Language Course",
+                "authors": [
+                    "Julia Rochtchina"
+                ],
+                "publishedDate": "2014-12-22",
+                "description": "Sputnik (Part 1) is an introductory Russian course designed to develop basic reading, writing, listening and communication skills. The author provides a step-by-step introduction to Russian with clear and simple explanations of grammar and sentence structure. Audio materials recorded by professional Russian narrators and actors help learners to acquire proper pronunciation. Interactive online activities and a friendly interface for learners and instructors with automatic grading of exercises and tests are designed to support effective learning and teaching. The full package includes a textbook, workbook (sold separately) and free access to a complementary website SputnikTextbook.org. Part 1 covers one semester of the university course. Part 2 is scheduled to be published in the fall of 2015. Dr. Rochtchina teaches Russian at the University of Victoria, Canada. She is also known for her online tutorial RussianForEveryone.com, which is visited by 300,000 people each year from over 200 countries.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "0993913903"
+                    },
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780993913907"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 234,
+                "printType": "BOOK",
+                "categories": [
+                    "Foreign Language Study"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "preview-1.0.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=X2IUswEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=X2IUswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=X2IUswEACAAJ&dq=sputnik&hl=&as_pt=BOOKS&cd=3&source=gbs_api",
+                "infoLink": "http://books.google.com/books?id=X2IUswEACAAJ&dq=sputnik&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Sputnik.html?hl=&id=X2IUswEACAAJ"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "NO_PAGES",
+                "embeddable": false,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=X2IUswEACAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "NONE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "Sputnik (Part 1) is an introductory Russian course designed to develop basic reading, writing, listening and communication skills."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "xJZFDwAAQBAJ",
+            "etag": "PkJUSJaELqw",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/xJZFDwAAQBAJ",
+            "volumeInfo": {
+                "title": "Beyond Sputnik",
+                "subtitle": "U.S. Science Policy in the Twenty-First Century",
+                "authors": [
+                    "Homer Alfred Neal",
+                    "Tobin Smith",
+                    "Jen McCormick"
+                ],
+                "publisher": "University of Michigan Press",
+                "publishedDate": "2010-09-22",
+                "description": "Science and technology are responsible for almost every advance in our modern quality of life. Yet science isn't just about laboratories, telescopes and particle accelerators. Public policy exerts a huge impact on how the scientific community conducts its work. Beyond Sputnik is a comprehensive survey of the field for use as an introductory textbook in courses and a reference guide for legislators, scientists, journalists, and advocates seeking to understand the science policy-making process. Detailed case studies---on topics from cloning and stem cell research to homeland security and science education---offer readers the opportunity to study real instances of policymaking at work. Authors and experts Homer A. Neal, Tobin L. Smith, and Jennifer B. McCormick propose practical ways to implement sound public policy in science and technology and highlight how these policies will guide the results of scientific discovery for years to come. Homer A. Neal is the Samuel A. Goudsmit Distinguished University Professor of Physics, Interim President Emeritus, and Vice President for Research Emeritus at the University of Michigan, and is a former member of the U.S. National Science Board. Tobin L. Smith is Associate Vice President for Federal Relations at the Association of American Universities. He was formerly Assistant Director of the University of Michigan and MIT Washington, DC, offices. Jennifer B. McCormick is an Assistant Professor of Biomedical Ethics in the Division of General Internal Medicine at the Mayo College of Medicine in Rochester, Minnesota, and is the Associate Director of the Research Ethics Resource, part of the Mayo Clinic's NIH Clinical Translational Science Award research programs. GO BEYOND SPUTNIK ONLINE--Visit www.science-policy.net for the latest news, teaching resources, learning guides, and internship opportunities in the 21st-Century field of science policy. \"Beyond Sputnik is a readable, concise, yet remarkably comprehensive introduction to contemporary science policy. It is devoid of 'wonkishness' yet serves the needs of policymakers and students alike. Because science and technology policy is of central importance in the twenty-first century this accessible volume is a godsend.\" ---Charles M. Vest, President of the National Academy of Engineering and Vice Chair of the National Research Council of the National Academies of Sciences and Engineering \"This highly researched book is a treasure trove for anyone concerned with science policy relating to such challenges as providing energy, preserving the environment, assuring healthcare, creating jobs, and more.\" ---Norman Augustine, retired Chairman and CEO of Lockheed Martin Corporation and recipient of the 2008 Vannevar Bush Award from the National Science Board \"Science policy is a subject of growing importance in the United States, yet there has long been a vacuum among textbooks in the field. Beyond Sputnik fills it splendidly and will be greeted with enthusiasm by students and faculty alike. Even those who have practiced the art for years will learn from it.\" ---Albert Teich, Director of Science and Policy Programs at the American Association for the Advancement of Science \"Homer A. Neal, Tobin L. Smith, and Jennifer B. McCormick have written a landmark work calling for a national effort to restore our nation's power in the fields of science, energy, and education, as we did in the remarkable year following Sputnik. The next preident should read Beyond Sputnik and accept this call to action as did President Eisenhower.\" ---Ambassador David M. Abshire, President of the Center for the Study of the Presidency, Cofounder and Vice Chairman of the Center for Strategic and International Studies, and President of the Richard Lounsbery Foundation \"At last we have a text that tells the story from where A. Hunter Dupree left off; an excellent core text for courses in science and technology policy, DC policymakers, and anyone who needs to get up to speed in the field . . . The book that we have all been waiting for.\" ---Christopher T. Hill, Professor of Public Policy and Technology, George Mason University",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780472027453"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "047202745X"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": true
+                },
+                "pageCount": 400,
+                "printType": "BOOK",
+                "categories": [
+                    "Political Science"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.2.1.0.preview.3",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=xJZFDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=xJZFDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=xJZFDwAAQBAJ&printsec=frontcover&dq=sputnik&hl=&as_pt=BOOKS&cd=4&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=xJZFDwAAQBAJ&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=xJZFDwAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 36.95,
+                    "currencyCode": "USD"
+                },
+                "retailPrice": {
+                    "amount": 36.95,
+                    "currencyCode": "USD"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=xJZFDwAAQBAJ&rdid=book-xJZFDwAAQBAJ&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 36950000,
+                            "currencyCode": "USD"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 36950000,
+                            "currencyCode": "USD"
+                        },
+                        "giftable": true
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true
+                },
+                "pdf": {
+                    "isAvailable": true
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=xJZFDwAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "Authors and experts Homer A. Neal, Tobin L. Smith, and Jennifer B. McCormick propose practical ways to implement sound public policy in science and technology and highlight how these policies will guide the results of scientific discovery ..."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "oy-DQgAACAAJ",
+            "etag": "Ftt5TKfIXCY",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/oy-DQgAACAAJ",
+            "volumeInfo": {
+                "title": "Sputnik and the Soviet Space Challenge",
+                "authors": [
+                    "Asif A. Siddiqi"
+                ],
+                "publishedDate": "2003",
+                "description": "Based on new Russian sources, Siddiqi's book reveals the truth about the Soviet space program to tell a technical, political, and personal history of the major Soviet initiatives. Photos & illustrations.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "081302627X"
+                    },
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780813026275"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 527,
+                "printType": "BOOK",
+                "categories": [
+                    "History"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "preview-1.0.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=oy-DQgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=oy-DQgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=oy-DQgAACAAJ&dq=sputnik&hl=&as_pt=BOOKS&cd=5&source=gbs_api",
+                "infoLink": "http://books.google.com/books?id=oy-DQgAACAAJ&dq=sputnik&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Sputnik_and_the_Soviet_Space_Challenge.html?hl=&id=oy-DQgAACAAJ"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "NO_PAGES",
+                "embeddable": false,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=oy-DQgAACAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "NONE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "Based on new Russian sources, Siddiqi&#39;s book reveals the truth about the Soviet space program to tell a technical, political, and personal history of the major Soviet initiatives. Photos &amp; illustrations."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "uxP_RbYt-RwC",
+            "etag": "wDZrmxqs2QE",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/uxP_RbYt-RwC",
+            "volumeInfo": {
+                "title": "Eisenhower's Sputnik Moment",
+                "subtitle": "The Race for Space and World Prestige",
+                "authors": [
+                    "Yanek Mieczkowski"
+                ],
+                "publisher": "Cornell University Press",
+                "publishedDate": "2013-04-15",
+                "description": "In a critical Cold War moment, Dwight D. Eisenhower’s presidency suddenly changed when the Soviet Union launched Sputnik, the world’s first satellite. What Ike called \"a small ball\" became a source of Russian pride and propaganda, and it wounded him politically, as critics charged that he responded sluggishly to the challenge of space exploration. Yet Eisenhower refused to panic after Sputnik—and he did more than just stay calm. He helped to guide the United States into the Space Age, even though Americans have given greater credit to John F. Kennedy for that achievement. In Eisenhower’s Sputnik Moment, Yanek Mieczkowski examines the early history of America’s space program, reassessing Eisenhower’s leadership. He details how Eisenhower approved breakthrough satellites, supported a new civilian space agency, signed a landmark science education law, and fostered improved relations with scientists. These feats made Eisenhower’s post-Sputnik years not the flop that critics alleged but a time of remarkable progress, even as he endured the setbacks of recession, medical illness, and a humiliating first U.S. attempt to launch a satellite. Eisenhower’s principled stands enabled him to resist intense pressure to boost federal spending, and he instead pursued his priorities—a balanced budget, prosperous economy, and sturdy national defense. Yet Sputnik also altered the world’s power dynamics, sweeping Eisenhower in directions that were new—even alien—to him, and he misjudged the importance of space in the Cold War’s \"prestige race.\" By contrast, Kennedy capitalized on the issue in the 1960 election, and after taking office he urged a manned mission to the moon, leaving Eisenhower to grumble over the young president’s aggressive approach. Offering a fast-paced account of this Cold War episode, Mieczkowski demonstrates that Eisenhower built an impressive record in space and on earth, all the while offering warnings about America’s stature and strengths that still hold true today.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780801467929"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "0801467926"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": false
+                },
+                "pageCount": 368,
+                "printType": "BOOK",
+                "categories": [
+                    "History"
+                ],
+                "averageRating": 5,
+                "ratingsCount": 1,
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": true,
+                "contentVersion": "0.7.7.0.preview.2",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=uxP_RbYt-RwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=uxP_RbYt-RwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=uxP_RbYt-RwC&printsec=frontcover&dq=sputnik&hl=&as_pt=BOOKS&cd=6&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=uxP_RbYt-RwC&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=uxP_RbYt-RwC"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 25.99,
+                    "currencyCode": "USD"
+                },
+                "retailPrice": {
+                    "amount": 15.33,
+                    "currencyCode": "USD"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=uxP_RbYt-RwC&rdid=book-uxP_RbYt-RwC&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 25990000,
+                            "currencyCode": "USD"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 15330000,
+                            "currencyCode": "USD"
+                        },
+                        "giftable": true
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com/books/download/Eisenhower_s_Sputnik_Moment-sample-epub.acsm?id=uxP_RbYt-RwC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=uxP_RbYt-RwC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "In Eisenhower’s Sputnik Moment, Yanek Mieczkowski examines the early history of America’s space program, reassessing Eisenhower’s leadership."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "CcbhDwAAQBAJ",
+            "etag": "midZjy6Om/c",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/CcbhDwAAQBAJ",
+            "volumeInfo": {
+                "title": "Spaceflight",
+                "subtitle": "The Complete Story from Sputnik to Curiosity",
+                "authors": [
+                    "Giles Sparrow"
+                ],
+                "publisher": "Penguin",
+                "publishedDate": "2019-04-02",
+                "description": "This compelling story of exploration charts and celebrates humankind in space, from Sputnik's launch in 1957 through the Apollo Moon landings and the International Space Station to future missions to Mars and beyond. Spaceflight chronicles how, in the half-century that followed Sputnik, the world was revolutionized by space travel and exploration. The opening up of Earth's orbit to satellites led to a revolution in communications, monitoring of the environment, and materials science. For the human imagination, the impact has been even greater: the voyages of robotic space probes have transformed our view of the Solar System, while Earth-orbiting satellites and missions to the Moon have forever changed our view of ourselves. This book is a celebration of human ingenuity and imagination. From the work of pioneers like Wernher von Braun, Yuri Gagarin, and Neil Armstrong to the triumphs and tragedies that followed, it reveals the people, science, and technology that have propelled us into the Space Age.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780744020496"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "0744020492"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": true
+                },
+                "pageCount": 320,
+                "printType": "BOOK",
+                "categories": [
+                    "Science"
+                ],
+                "averageRating": 5,
+                "ratingsCount": 1,
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": true,
+                "contentVersion": "1.2.1.0.preview.3",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=CcbhDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=CcbhDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=CcbhDwAAQBAJ&printsec=frontcover&dq=sputnik&hl=&as_pt=BOOKS&cd=7&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=CcbhDwAAQBAJ&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=CcbhDwAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 14.99,
+                    "currencyCode": "USD"
+                },
+                "retailPrice": {
+                    "amount": 14.99,
+                    "currencyCode": "USD"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=CcbhDwAAQBAJ&rdid=book-CcbhDwAAQBAJ&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 14990000,
+                            "currencyCode": "USD"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 14990000,
+                            "currencyCode": "USD"
+                        },
+                        "giftable": true
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com/books/download/Spaceflight-sample-epub.acsm?id=CcbhDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com/books/download/Spaceflight-sample-pdf.acsm?id=CcbhDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=CcbhDwAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "This compelling story of exploration charts and celebrates humankind in space, from Sputnik&#39;s launch in 1957 through the Apollo Moon landings and the International Space Station to future missions to Mars and beyond."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "PhmYA-0YnRkC",
+            "etag": "xgj7zHR+aNw",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/PhmYA-0YnRkC",
+            "volumeInfo": {
+                "title": "Sputnik",
+                "subtitle": "The First Satellite",
+                "authors": [
+                    "Heather Feldman"
+                ],
+                "publisher": "The Rosen Publishing Group, Inc",
+                "publishedDate": "2002-12-15",
+                "description": "Describes the launch of the first space satellite by the Soviet Union in 1957.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "082396244X"
+                    },
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780823962440"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 24,
+                "printType": "BOOK",
+                "categories": [
+                    "Juvenile Nonfiction"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.1.5.0.preview.1",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=PhmYA-0YnRkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=PhmYA-0YnRkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=PhmYA-0YnRkC&printsec=frontcover&dq=sputnik&hl=&as_pt=BOOKS&cd=8&source=gbs_api",
+                "infoLink": "http://books.google.com/books?id=PhmYA-0YnRkC&dq=sputnik&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Sputnik.html?hl=&id=PhmYA-0YnRkC"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=PhmYA-0YnRkC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "Describes the launch of the first space satellite by the Soviet Union in 1957."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "XODEDwAAQBAJ",
+            "etag": "n9JOJIr1oug",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/XODEDwAAQBAJ",
+            "volumeInfo": {
+                "title": "Sputnik",
+                "subtitle": "The Shock of the Century",
+                "authors": [
+                    "Paul Dickson"
+                ],
+                "publisher": "U of Nebraska Press",
+                "publishedDate": "2019-12-27",
+                "description": "On October 4, 1957, the day Leave It to Beaver premiered on American television, the Soviet Union launched the space age. Sputnik, all of 184 pounds with only a radio transmitter inside its highly polished shell, became the first artificial satellite in space; while it immediately shocked the world, its long-term impact was even greater, for it profoundly changed the shape of the twentieth century. Paul Dickson chronicles the dramatic events and developments leading up to and resulting from Sputnik's launch. Supported by groundbreaking, original research and many declassified documents, Sputnik offers a fascinating profile of the early American and Soviet space programs and a strikingly revised picture of the politics and personalities behind the facade of America's fledgling efforts to get into space. The U.S. public reaction to Sputnik was monumental. In a single weekend, Americans were wrenched out of a mood of national smugness and postwar material comfort. Initial shock at and fear of the Soviets' intentions galvanized the country and swiftly prompted innovative developments that define our world today. Sputnik directly or indirectly influenced nearly every aspect of American life: from an immediate shift toward science in the classroom to the arms race that defined the Cold War, the competition to reach the moon, and the birth of the internet. By shedding new light on a pivotal era, Dickson expands our knowledge of the world we now inhabit and reminds us that the story of Sputnik goes far beyond technology and the beginning of the space age, and that its implications are still being felt today.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781496216403"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "1496216407"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": true
+                },
+                "pageCount": 320,
+                "printType": "BOOK",
+                "categories": [
+                    "History"
+                ],
+                "averageRating": 5,
+                "ratingsCount": 1,
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.2.1.0.preview.3",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=XODEDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=XODEDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=XODEDwAAQBAJ&printsec=frontcover&dq=sputnik&hl=&as_pt=BOOKS&cd=9&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=XODEDwAAQBAJ&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=XODEDwAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 24.95,
+                    "currencyCode": "USD"
+                },
+                "retailPrice": {
+                    "amount": 14.72,
+                    "currencyCode": "USD"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=XODEDwAAQBAJ&rdid=book-XODEDwAAQBAJ&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 24950000,
+                            "currencyCode": "USD"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 14720000,
+                            "currencyCode": "USD"
+                        },
+                        "giftable": true
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com/books/download/Sputnik-sample-epub.acsm?id=XODEDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com/books/download/Sputnik-sample-pdf.acsm?id=XODEDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=XODEDwAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "By shedding new light on a pivotal era, Dickson expands our knowledge of the world we now inhabit and reminds us that the story of Sputnik goes far beyond technology and the beginning of the space age, and that its implications are still ..."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "VZ4KvgAACAAJ",
+            "etag": "Fvlzb/qOlBc",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/VZ4KvgAACAAJ",
+            "volumeInfo": {
+                "title": "Sputnik",
+                "subtitle": "An Introductory Russian Language Course",
+                "authors": [
+                    "Julia Rochtchina"
+                ],
+                "publisher": "Tltnetwork",
+                "publishedDate": "2015-12-14",
+                "description": "Sputnik Part 2 is the second volume of an introductory Russian course designed to develop basic reading, writing, listening and communication skills. The author provides a step-by-step introduction to Russian with clear and simple explanations of grammar and sentence structure. Audio materials recorded by professional Russian narrators and actors help learners to acquire proper pronunciation. Interactive online activities and a friendly interface for learners and instructors with automatic grading of exercises and tests are designed to support effective learning and teaching. Dr. Rochtchina teaches Russian at the University of Victoria, Canada. She is also known for her online tutorial RussianForEveryone.com, which is visited by 300,000 people each year from all over the world.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "099391392X"
+                    },
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780993913921"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 250,
+                "printType": "BOOK",
+                "categories": [
+                    "Foreign Language Study"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "preview-1.0.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=VZ4KvgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=VZ4KvgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=VZ4KvgAACAAJ&dq=sputnik&hl=&as_pt=BOOKS&cd=10&source=gbs_api",
+                "infoLink": "http://books.google.com/books?id=VZ4KvgAACAAJ&dq=sputnik&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Sputnik.html?hl=&id=VZ4KvgAACAAJ"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "NO_PAGES",
+                "embeddable": false,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=VZ4KvgAACAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "NONE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "Sputnik Part 2 is the second volume of an introductory Russian course designed to develop basic reading, writing, listening and communication skills."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "7ITICgAAQBAJ",
+            "etag": "4HU/Vc3EkqI",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/7ITICgAAQBAJ",
+            "volumeInfo": {
+                "title": "Sputnik's Guide to Life on Earth",
+                "subtitle": "Tom Fletcher Book Club Selection",
+                "authors": [
+                    "Frank Cottrell-Boyce"
+                ],
+                "publisher": "Pan Macmillan",
+                "publishedDate": "2016-04-07",
+                "description": "Shortlisted for the 2017 Carnegie Medal and selected for the Tom Fletcher Book Club, Sputnik's Guide to Life on Earth by Frank Cottrell-Boyce is an adventure about the Blythes: a big, warm, rambunctious family who live on a small farm and sometimes foster children. Now Prez has come to live with them. But, though he seems cheerful and helpful, he never says a word. Then one day Prez answers the door to someone claiming to be his relative. This small, loud stranger carries a backpack, walks with a swagger and goes by the name of Sputnik. Prez is amazed at the family's response to Sputnik's arrival. They pat him on the head, call him a good boy and drop food into his mouth. It seems they all think Sputnik is a dog! Chaos is unleashed when Sputnik arrives as household items come to life – like a TV remote that fast-forwards people and a toy lightsaber that entertains guests at a children's party, until one of them is nearly decapitated by it – and Prez is going to have to use his voice to explain himself. As Sputnik takes Prez on a journey to finish writing his guidebook to Earth called Ten Things Worth Doing on Earth, each adventure seems to take Prez nearer to the heart of the family he is being fostered by but they also take him closer to the day that he is due to leave them forever . . . This edition features fantastic cover artwork and black and white inside illustrations from the incredible Steven Lenton.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781509804467"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "1509804463"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": false
+                },
+                "printType": "BOOK",
+                "categories": [
+                    "Juvenile Fiction"
+                ],
+                "averageRating": 3.5,
+                "ratingsCount": 2,
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": true,
+                "contentVersion": "2.12.14.0.preview.2",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=7ITICgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=7ITICgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=7ITICgAAQBAJ&printsec=frontcover&dq=sputnik&hl=&as_pt=BOOKS&cd=11&source=gbs_api",
+                "infoLink": "http://books.google.com/books?id=7ITICgAAQBAJ&dq=sputnik&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Sputnik_s_Guide_to_Life_on_Earth.html?hl=&id=7ITICgAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+                "epub": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com/books/download/Sputnik_s_Guide_to_Life_on_Earth-sample-epub.acsm?id=7ITICgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=7ITICgAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": ". . This edition features fantastic cover artwork and black and white inside illustrations from the incredible Steven Lenton."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "ieWz5X-Qh-QC",
+            "etag": "yo88voNpXdc",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/ieWz5X-Qh-QC",
+            "volumeInfo": {
+                "title": "\"Live from Cape Canaveral\"",
+                "subtitle": "Covering the Space Race, from Sputnik to Today",
+                "authors": [
+                    "Jay Barbree"
+                ],
+                "publisher": "Harper Collins",
+                "publishedDate": "2009-03-17",
+                "description": "“From Sputnik to the International Space Station, Jay Barbree has seen it all, and reported it well. ‘Live from Cape Canaveral’ encapsulates the most technically exciting half century in history.” –Neil Armstrong Some fifty years ago, while a cub reporter, Jay Barbree caught space fever the night that Sputnik passed over Georgia. He moved to the then-sleepy village of Cocoa Beach, Florida, right outside Cape Canaveral, and began reporting on rockets that fizzled as often as they soared. In \"Live from Cape Canaveral,\" Barbree—the only reporter who has covered every mission flown by astronauts—offers his unique perspective on the space program. He shares affectionate portraits of astronauts as well as some of his fellow journalists and tells some very funny behind-the-scenes stories—many involving astronaut pranks. Barbree also shows how much the space program and its press coverage have changed over time. Warm and perceptive, he reminds us just how thrilling the great moments of the space race were and why America fell in love with its heroic, sometimes larger-than-life astronauts.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780061735899"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "0061735892"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": false
+                },
+                "pageCount": 336,
+                "printType": "BOOK",
+                "categories": [
+                    "History"
+                ],
+                "averageRating": 5,
+                "ratingsCount": 1,
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": true,
+                "contentVersion": "0.1.2.0.preview.2",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=ieWz5X-Qh-QC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=ieWz5X-Qh-QC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=ieWz5X-Qh-QC&printsec=frontcover&dq=sputnik&hl=&as_pt=BOOKS&cd=12&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=ieWz5X-Qh-QC&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ieWz5X-Qh-QC"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 9.99,
+                    "currencyCode": "USD"
+                },
+                "retailPrice": {
+                    "amount": 9.99,
+                    "currencyCode": "USD"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=ieWz5X-Qh-QC&rdid=book-ieWz5X-Qh-QC&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 9990000,
+                            "currencyCode": "USD"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 9990000,
+                            "currencyCode": "USD"
+                        },
+                        "giftable": true
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+                "epub": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com/books/download/Live_from_Cape_Canaveral-sample-epub.acsm?id=ieWz5X-Qh-QC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=ieWz5X-Qh-QC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "In &quot;Live from Cape Canaveral,&quot; Barbree—the only reporter who has covered every mission flown by astronauts—offers his unique perspective on the space program."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "ymc1L_ZcDuQC",
+            "etag": "hBkMjrjpwmw",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/ymc1L_ZcDuQC",
+            "volumeInfo": {
+                "title": "In Sputnik's Shadow",
+                "subtitle": "The President's Science Advisory Committee and Cold War America",
+                "authors": [
+                    "Zuoyue Wang"
+                ],
+                "publisher": "Rutgers University Press",
+                "publishedDate": "2009",
+                "description": "In Sputnik's Shadow traces the rise and fall of the President's Science Advisory Committee from its ascendance under Eisenhower to its demise during the Nixon years. Zuoyue Wang examines key turning points during the twentieth century, including the beginning of the Cold War, the debates over nuclear weapons, the Sputnik crisis in 1957, the struggle over the Vietnam War, and the eventual end of the Cold War, showing how the involvement of scientists in executive policymaking evolved over time and brings new insights to the intellectual, social, and cultural histories of the era.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780813546889"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "0813546885"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": true
+                },
+                "pageCount": 454,
+                "printType": "BOOK",
+                "categories": [
+                    "Business & Economics"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "1.0.2.0.preview.3",
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=ymc1L_ZcDuQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=ymc1L_ZcDuQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=ymc1L_ZcDuQC&printsec=frontcover&dq=sputnik&hl=&as_pt=BOOKS&cd=13&source=gbs_api",
+                "infoLink": "http://books.google.com/books?id=ymc1L_ZcDuQC&dq=sputnik&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/In_Sputnik_s_Shadow.html?hl=&id=ymc1L_ZcDuQC"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com/books/download/In_Sputnik_s_Shadow-sample-epub.acsm?id=ymc1L_ZcDuQC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com/books/download/In_Sputnik_s_Shadow-sample-pdf.acsm?id=ymc1L_ZcDuQC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=ymc1L_ZcDuQC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "In Sputnik&#39;s Shadow traces the rise and fall of the President&#39;s Science Advisory Committee from its ascendance under Eisenhower to its demise during the Nixon years."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "DOv1vQAACAAJ",
+            "etag": "CjEYmcRCrHs",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/DOv1vQAACAAJ",
+            "volumeInfo": {
+                "title": "Sputnik Workbook",
+                "subtitle": "An Introductory Russian Language Course",
+                "authors": [
+                    "Julia Rochtchina"
+                ],
+                "publisher": "Tltnetwork",
+                "publishedDate": "2016-07-13",
+                "description": "Sputnik Workbook (Part 2) is designed to accompany Sputnik: An Introductory Russian Language Course (Part 2) textbook. Sputnik Textbook is an introductory Russian course designed to develop basic reading, writing, listening and communication skills. Sputnik is designed for classroom use at the university/college level. It will also serve as helpful self-study guide for beginning learners of Russian. The author provides a step-by-step introduction to Russian with clear and simple explanations of grammar and sentence structure. The full package includes a textbook(part 1 & 2), a workbook(part 1 & 2) and free access to a complementary website sputniktextbook.org.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "0993913938"
+                    },
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780993913938"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 74,
+                "printType": "BOOK",
+                "categories": [
+                    "Foreign Language Study"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "preview-1.0.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=DOv1vQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=DOv1vQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=DOv1vQAACAAJ&dq=sputnik&hl=&as_pt=BOOKS&cd=14&source=gbs_api",
+                "infoLink": "http://books.google.com/books?id=DOv1vQAACAAJ&dq=sputnik&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Sputnik_Workbook.html?hl=&id=DOv1vQAACAAJ"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "NO_PAGES",
+                "embeddable": false,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=DOv1vQAACAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "NONE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "Sputnik Workbook (Part 2) is designed to accompany Sputnik: An Introductory Russian Language Course (Part 2) textbook."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "467owmZSdLEC",
+            "etag": "UPtbugb0nys",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/467owmZSdLEC",
+            "volumeInfo": {
+                "title": "Red Moon Rising",
+                "subtitle": "Sputnik and the Hidden Rivalries that Ignited the Space Age",
+                "authors": [
+                    "Matthew Brzezinski"
+                ],
+                "publisher": "Macmillan",
+                "publishedDate": "2007-09-18",
+                "description": "The behind-the-scenes story of the fierce battles on earth that launched the superpowers into space. Khrushchev was frustrated at America's U-2 spy plane, which flew too high to be shot down. But Russia's chief rocket designer, had an answer: an artificia",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "080508147X"
+                    },
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780805081473"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 322,
+                "printType": "BOOK",
+                "categories": [
+                    "History"
+                ],
+                "averageRating": 4.5,
+                "ratingsCount": 8,
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.2.1.0.preview.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=467owmZSdLEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=467owmZSdLEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=467owmZSdLEC&printsec=frontcover&dq=sputnik&hl=&as_pt=BOOKS&cd=15&source=gbs_api",
+                "infoLink": "http://books.google.com/books?id=467owmZSdLEC&dq=sputnik&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Red_Moon_Rising.html?hl=&id=467owmZSdLEC"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=467owmZSdLEC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "The behind-the-scenes story of the fierce battles on earth that launched the superpowers into space."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "RIKZDEn2qbgC",
+            "etag": "ywGADXenBnw",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/RIKZDEn2qbgC",
+            "volumeInfo": {
+                "title": "Sputnik/Explorer I",
+                "subtitle": "The Race to Conquer Space",
+                "authors": [
+                    "Samuel Willard Crompton"
+                ],
+                "publisher": "Infobase Publishing",
+                "publishedDate": "2007",
+                "description": "The cold war served as the backdrop of the competition to find out which superpower - the United States or the Soviet Union - could reach outer space first. On October 4, 1957, the Soviet Union launched Sputnik I, and the space race was officially on. Featuring images, this work presents a description of the unforgettable time in modern history.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781438104249"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "1438104243"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": true
+                },
+                "pageCount": 113,
+                "printType": "BOOK",
+                "categories": [
+                    "Astronautics"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.0.1.0.preview.3",
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=RIKZDEn2qbgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=RIKZDEn2qbgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=RIKZDEn2qbgC&printsec=frontcover&dq=sputnik&hl=&as_pt=BOOKS&cd=16&source=gbs_api",
+                "infoLink": "http://books.google.com/books?id=RIKZDEn2qbgC&dq=sputnik&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Sputnik_Explorer_I.html?hl=&id=RIKZDEn2qbgC"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com/books/download/Sputnik_Explorer_I-sample-epub.acsm?id=RIKZDEn2qbgC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com/books/download/Sputnik_Explorer_I-sample-pdf.acsm?id=RIKZDEn2qbgC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=RIKZDEn2qbgC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "On October 4, 1957, the Soviet Union launched Sputnik I, and the space race was officially on. Featuring images, this work presents a description of the unforgettable time in modern history."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "Q6YIAAAACAAJ",
+            "etag": "+ziCGYbiv20",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/Q6YIAAAACAAJ",
+            "volumeInfo": {
+                "title": "Sputnik",
+                "subtitle": "The Launch of the Space Race",
+                "authors": [
+                    "Dickson, G.",
+                    "Paul Dickson"
+                ],
+                "publisher": "Macfarlane Walter & Ross",
+                "publishedDate": "2002-10-01",
+                "description": "On October 4, 1957 as \"Leave It to Beaver premiered on American television, the Soviet Union launched the first man-made object into space, an 84-kilogram satellite carrying only a radio transmitter. While Sputnik immediately shocked the world, its long-term impact was even greater, for it profoundly changed the shape of the twentieth Century. Washington journalist Paul Dickson chronicles the dramatic events and developments leading up to and emanating from the Sputnik's launch a story that can only now be fully told with the recent release of previously classified documents. \"Sputnik offers a fascinating profile of the early American and Soviet space programs and a strikingly revised picture of the politics and personalities behind the facade of American's fledgling efforts to get into space. Although Sputnik was unmanned, its story is intensely human. Sputnik owed its success to many people, from the earlier visionary Konstantin Tsiolkovsky, whose rocket theories were ahead of their time, to the Soviet spokesmen strategically positioned around the world on the day the satellite was launched, who created one of the greatest public-relations events of all time. It's chief designer, however the brillant Sergei Korolev remained a Soviet state secret until after his death. Equally hidden from view was the political intrigue dominating America's early space program, as the military services jockeyed for control and identity in a peacetime world. For years, former Nazi Wernher von Braun, who ran the U.S. Army's missile program, lobbied for his rocket team to be handed responsibility for the first Earth-orbiting satellite. He was outraged that Sputnik beat him and America intospace. President Eisenhower, though, was secretly pleased that the Russians had launched first, because by orbiting over the United States, Sputnik established the principle of \"freedom of space\" that could justify the spy satellites he thought essential to monitor Soviet missile buildup. As Dickson reveals, Eisenhower was, in fact, much more a master of the Sputnik crisis than he appeared to be at the time and in subsequent accounts. \"From the Hardcover edition.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "1551990997"
+                    },
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781551990996"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 320,
+                "printType": "BOOK",
+                "categories": [
+                    "Technology & Engineering"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "preview-1.0.0",
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=Q6YIAAAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=Q6YIAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=Q6YIAAAACAAJ&dq=sputnik&hl=&as_pt=BOOKS&cd=17&source=gbs_api",
+                "infoLink": "http://books.google.com/books?id=Q6YIAAAACAAJ&dq=sputnik&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Sputnik.html?hl=&id=Q6YIAAAACAAJ"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "NO_PAGES",
+                "embeddable": false,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=Q6YIAAAACAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "NONE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "&quot;From the Hardcover edition. Although Sputnik was unmanned, its story is intensely human. Sputnik owed its success to many people, from the earlier visionary Konstantin Tsiolkovsky, whose rocket theori"
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "JQBtDQAAQBAJ",
+            "etag": "TgoIp/UUtiQ",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/JQBtDQAAQBAJ",
+            "volumeInfo": {
+                "title": "Sputnik’s Children",
+                "subtitle": "A Novel",
+                "authors": [
+                    "Terri Favro"
+                ],
+                "publisher": "ECW Press",
+                "publishedDate": "2017-04-11",
+                "description": "A literary, genre-bending novel full of heart Cult comic book creator Debbie Reynolds Biondi has been riding the success of her Cold War era–inspired superhero series, Sputnik Chick: Girl with No Past, for more than 25 years. But with the comic book losing fans and Debbie struggling to come up with new plotlines for her badass, mutant-killing heroine, she decides to finally tell Sputnik Chick’s origin story. Debbie’s never had to make anything up before and she isn’t starting now. Sputnik Chick is based on Debbie’s own life in an alternate timeline called Atomic Mean Time. As a teenager growing up in Shipman’s Corners — a Rust Belt town voted by Popular Science magazine as “most likely to be nuked” — she was recruited by a self-proclaimed time traveller to collapse Atomic Mean Time before an all-out nuclear war grotesquely altered humanity. In trying to save the world, Debbie risked obliterating everyone she’d ever loved — as well as her own past — in the process. p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 16.0px Times; -webkit-text-stroke: #000000} span.s1 {font-kerning: none} Or so she believes . . . Present-day Debbie is addicted to lorazepam and dirty, wet martinis, making her an unreliable narrator, at best. A time-bending novel that delves into the origin story of the Girl with No Past, Sputnik’s Children explores what it was like to come of age in the Atomic Age.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781773050058"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "1773050052"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": true
+                },
+                "pageCount": 360,
+                "printType": "BOOK",
+                "categories": [
+                    "Fiction"
+                ],
+                "averageRating": 3,
+                "ratingsCount": 1,
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.1.0.0.preview.3",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=JQBtDQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=JQBtDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=JQBtDQAAQBAJ&printsec=frontcover&dq=sputnik&hl=&as_pt=BOOKS&cd=18&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=JQBtDQAAQBAJ&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=JQBtDQAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 11.99,
+                    "currencyCode": "USD"
+                },
+                "retailPrice": {
+                    "amount": 11.99,
+                    "currencyCode": "USD"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=JQBtDQAAQBAJ&rdid=book-JQBtDQAAQBAJ&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 11990000,
+                            "currencyCode": "USD"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 11990000,
+                            "currencyCode": "USD"
+                        },
+                        "giftable": true
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com/books/download/Sputnik_s_Children-sample-epub.acsm?id=JQBtDQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com/books/download/Sputnik_s_Children-sample-pdf.acsm?id=JQBtDQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=JQBtDQAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "A time-bending novel that delves into the origin story of the Girl with No Past, Sputnik’s Children explores what it was like to come of age in the Atomic Age."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "mtdqmwEACAAJ",
+            "etag": "OESbLJRAB7I",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/mtdqmwEACAAJ",
+            "volumeInfo": {
+                "title": "Sputnik a my",
+                "authors": [
+                    "Tomáš Kozák"
+                ],
+                "publishedDate": "2012",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "8074281493"
+                    },
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9788074281495"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 111,
+                "printType": "BOOK",
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "preview-1.0.0",
+                "language": "cs",
+                "previewLink": "http://books.google.com/books?id=mtdqmwEACAAJ&dq=sputnik&hl=&as_pt=BOOKS&cd=19&source=gbs_api",
+                "infoLink": "http://books.google.com/books?id=mtdqmwEACAAJ&dq=sputnik&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Sputnik_a_my.html?hl=&id=mtdqmwEACAAJ"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "NO_PAGES",
+                "embeddable": false,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=mtdqmwEACAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "NONE",
+                "quoteSharingAllowed": false
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "7008AQAAIAAJ",
+            "etag": "vEgr7fkx4mw",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/7008AQAAIAAJ",
+            "volumeInfo": {
+                "title": "Sputnik",
+                "subtitle": "Digest",
+                "publishedDate": "1996",
+                "industryIdentifiers": [
+                    {
+                        "type": "OTHER",
+                        "identifier": "STANFORD:36105017963963"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "printType": "BOOK",
+                "categories": [
+                    "Russia (Federation)"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.2.2.0.preview.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=7008AQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=7008AQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=7008AQAAIAAJ&q=sputnik&dq=sputnik&hl=&as_pt=BOOKS&cd=20&source=gbs_api",
+                "infoLink": "http://books.google.com/books?id=7008AQAAIAAJ&dq=sputnik&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Sputnik.html?hl=&id=7008AQAAIAAJ"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "NO_PAGES",
+                "embeddable": false,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=7008AQAAIAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "NONE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "This issue of <b>SPUTNIK</b> makes an attempt to answer that question. April 1 is called ALL FOOLS&#39; DAY in the West. In our country it is observed as THE DAY OF JOKES. See how SPUTNDX marks this event. GAZPROM is one of the biggest companies&nbsp;..."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "U2IAyxWVF0wC",
+            "etag": "B+AZhf5Qu20",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/U2IAyxWVF0wC",
+            "volumeInfo": {
+                "title": "U. S. Civilian Space Policy Priorities",
+                "subtitle": "Reflections 50 Years After Sputnik",
+                "authors": [
+                    "Deborah D. Stine"
+                ],
+                "publisher": "DIANE Publishing",
+                "publishedDate": "2010-03",
+                "description": "The ¿space age¿ began on Oct. 4, 1957, when the USSR launched Sputnik, the world¿s first artificial satellite. A set of fundamental factors gave importance and urgency to the advancement of space tech. These 4 factors include: the need to explore and discover; nat. defense; prestige and confidence in our S&T systems; and scientific observation and experimentation. Contents of this report: Sputnik and America¿s ¿Sputnik Moment¿; Why Was Sputnik so Influential?; Why is Sputnik Important to Today¿s Policies?; What are the Activities of Other Nations and the Commercial Sector in Space Exploration (SE)?; What is the Nation¿s Current Civilian Space Policy?; Why Invest in SE?; What is the Public¿s Attitude Toward SE? Charts and tables.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781437919615"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "1437919618"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": true
+                },
+                "pageCount": 21,
+                "printType": "BOOK",
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.0.2.0.preview.3",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=U2IAyxWVF0wC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=U2IAyxWVF0wC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=U2IAyxWVF0wC&printsec=frontcover&dq=sputnik&hl=&as_pt=BOOKS&cd=21&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=U2IAyxWVF0wC&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=U2IAyxWVF0wC"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 14.95,
+                    "currencyCode": "USD"
+                },
+                "retailPrice": {
+                    "amount": 14.95,
+                    "currencyCode": "USD"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=U2IAyxWVF0wC&rdid=book-U2IAyxWVF0wC&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 14950000,
+                            "currencyCode": "USD"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 14950000,
+                            "currencyCode": "USD"
+                        },
+                        "giftable": true
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "ALL_PAGES",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true
+                },
+                "pdf": {
+                    "isAvailable": true
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=U2IAyxWVF0wC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "The ¿space age¿ began on Oct. 4, 1957, when the USSR launched Sputnik, the world¿s first artificial satellite."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "363jnxrlSgkC",
+            "etag": "H3vOyf4Ks5Y",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/363jnxrlSgkC",
+            "volumeInfo": {
+                "title": "The Rebirth of the Russian Space Program",
+                "subtitle": "50 Years After Sputnik, New Frontiers",
+                "authors": [
+                    "Brian Harvey"
+                ],
+                "publisher": "Springer Science & Business Media",
+                "publishedDate": "2007-05-10",
+                "description": "This, fifty years after Sputnik, is the definitive book on the Russian space program. The author covers all the key elements of the current Russian space program, including both manned and unmanned missions. He examines the various types of unmanned applications programs as well as the crucial military program, and even analyzes the infrastructure of production, launch centres and tracking. You’ll also find discussion of the commercialization of the program and its relationship with western companies. Russia’s current space experiment is also put in a comparative global context. Strong emphasis is placed on Russia’s future space intentions and on new programs and missions in prospect.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780387713540"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "0387713549"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 358,
+                "printType": "BOOK",
+                "categories": [
+                    "Science"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.1.0.0.preview.1",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=363jnxrlSgkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=363jnxrlSgkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=363jnxrlSgkC&printsec=frontcover&dq=sputnik&hl=&as_pt=BOOKS&cd=22&source=gbs_api",
+                "infoLink": "http://books.google.com/books?id=363jnxrlSgkC&dq=sputnik&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/The_Rebirth_of_the_Russian_Space_Program.html?hl=&id=363jnxrlSgkC"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com/books/download/The_Rebirth_of_the_Russian_Space_Program-sample-pdf.acsm?id=363jnxrlSgkC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=363jnxrlSgkC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "This, fifty years after Sputnik, is the definitive book on the Russian space program."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "ujtle4AgigYC",
+            "etag": "ZZkyaPPKoiE",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/ujtle4AgigYC",
+            "volumeInfo": {
+                "title": "Russia's Sputnik Generation",
+                "subtitle": "Soviet Baby Boomers Talk about Their Lives",
+                "authors": [
+                    "Donald J. Raleigh"
+                ],
+                "publisher": "Indiana University Press",
+                "publishedDate": "2006-06-02",
+                "description": "Russia's Sputnik Generation presents the life stories of eight 1967 graduates of School No. 42 in the Russian city of Saratov. Born in 1949/50, these four men and four women belong to the first generation conceived during the Soviet Union's return to \"normality\" following World War II. Well educated, articulate, and loosely networked even today, they were first-graders the year the USSR launched Sputnik, and grew up in a country that increasingly distanced itself from the excesses of Stalinism. Reaching middle age during the Gorbachev Revolution, they negotiated the transition to a Russian-style market economy and remain active, productive members of society in Russia and the diaspora. In candid interviews with Donald J. Raleigh, these Soviet \"baby boomers\" talk about the historical times in which they grew up, but also about their everyday experiences -- their family backgrounds; childhood pastimes; favorite books, movies, and music; and influential people in their lives. These personal testimonies shed valuable light on Soviet childhood and adolescence, on the reasons and course of perestroika, and on the wrenching transition that has taken place since the collapse of the Soviet Union in 1991.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "0253112141"
+                    },
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780253112149"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 320,
+                "printType": "BOOK",
+                "categories": [
+                    "History"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.1.2.0.preview.1",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=ujtle4AgigYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=ujtle4AgigYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=ujtle4AgigYC&printsec=frontcover&dq=sputnik&hl=&as_pt=BOOKS&cd=23&source=gbs_api",
+                "infoLink": "http://books.google.com/books?id=ujtle4AgigYC&dq=sputnik&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Russia_s_Sputnik_Generation.html?hl=&id=ujtle4AgigYC"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com/books/download/Russia_s_Sputnik_Generation-sample-pdf.acsm?id=ujtle4AgigYC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=ujtle4AgigYC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "Russia&#39;s Sputnik Generation presents the life stories of eight 1967 graduates of School No. 42 in the Russian city of Saratov."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "fH7zYudgdLoC",
+            "etag": "y2uM2NnatGs",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/fH7zYudgdLoC",
+            "volumeInfo": {
+                "title": "Sputnik and American Education",
+                "authors": [
+                    "James William Van Wormer"
+                ],
+                "publishedDate": "1976",
+                "industryIdentifiers": [
+                    {
+                        "type": "OTHER",
+                        "identifier": "MSU:31293105695872"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 384,
+                "printType": "BOOK",
+                "categories": [
+                    "Education"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.0.2.0.preview.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=fH7zYudgdLoC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=fH7zYudgdLoC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=fH7zYudgdLoC&q=sputnik&dq=sputnik&hl=&as_pt=BOOKS&cd=24&source=gbs_api",
+                "infoLink": "http://books.google.com/books?id=fH7zYudgdLoC&dq=sputnik&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Sputnik_and_American_Education.html?hl=&id=fH7zYudgdLoC"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "NO_PAGES",
+                "embeddable": false,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=fH7zYudgdLoC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "NONE",
+                "quoteSharingAllowed": false
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "Z4f5TviPAlwC",
+            "etag": "yLIeo63KHVA",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/Z4f5TviPAlwC",
+            "volumeInfo": {
+                "title": "Reconsidering Sputnik",
+                "subtitle": "Forty Years Since the Soviet Satellite",
+                "authors": [
+                    "Roger D. Lanius",
+                    "John M. Logsdon",
+                    "Robert W. Smith"
+                ],
+                "publisher": "Routledge",
+                "publishedDate": "2013-05-13",
+                "description": "This book explores Russia's stunning success of ushering in the space age by launching Sputnik and beating the United States into space. It also examines the formation of NASA, the race for human exploration of the moon, the reality of global satellite communications, and a new generation of scientific spacecraft that began exploring the universe. An introductory essay by Pulitzer Prize winner Walter A. McDougall sets the context for Sputnik and its significance at the end of the twentieth century.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781134960330"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "1134960336"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": true
+                },
+                "pageCount": 464,
+                "printType": "BOOK",
+                "categories": [
+                    "History"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "1.3.4.0.preview.3",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=Z4f5TviPAlwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=Z4f5TviPAlwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=Z4f5TviPAlwC&pg=PA440&dq=sputnik&hl=&as_pt=BOOKS&cd=25&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=Z4f5TviPAlwC&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Z4f5TviPAlwC"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "FOR_SALE_AND_RENTAL",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 52.95,
+                    "currencyCode": "USD"
+                },
+                "retailPrice": {
+                    "amount": 42.36,
+                    "currencyCode": "USD"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=Z4f5TviPAlwC&rdid=book-Z4f5TviPAlwC&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 52950000,
+                            "currencyCode": "USD"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 42360000,
+                            "currencyCode": "USD"
+                        },
+                        "giftable": true
+                    },
+                    {
+                        "finskyOfferType": 3,
+                        "listPrice": {
+                            "amountInMicros": 26480000,
+                            "currencyCode": "USD"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 23300000,
+                            "currencyCode": "USD"
+                        },
+                        "rentalDuration": {
+                            "unit": "DAY",
+                            "count": 180
+                        }
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com/books/download/Reconsidering_Sputnik-sample-epub.acsm?id=Z4f5TviPAlwC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com/books/download/Reconsidering_Sputnik-sample-pdf.acsm?id=Z4f5TviPAlwC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=Z4f5TviPAlwC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "... and building of <b>Sputnik</b> 1, 54-67; and conception of <b>Sputnik</b> 1, 44-54; and cooperation with IGY, 133-39; and creation of Soviet space industry, 95-1 15; and CSAGI Conference on Rockets and Satellites, 133; and decision for <b>Sputnik</b>,&nbsp;..."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "7oNDDwAAQBAJ",
+            "etag": "eeToLEseggs",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/7oNDDwAAQBAJ",
+            "volumeInfo": {
+                "title": "Sputnik",
+                "subtitle": "Read Along or Enhanced eBook",
+                "authors": [
+                    "Eleanor Cardell"
+                ],
+                "publisher": "Triangle Interactive, Inc. ",
+                "publishedDate": "2017-12-13",
+                "description": "Read Along or Enhanced eBook: Each Flash Points: Liftoff! eShort is a single chapter from the full Flash Points: Liftoff! title, packaged as a mini eBook. Flash Points: Liftoff! eShorts include Sputnik, Apollo 11, Challenger, and Spirit & Opportunity.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781684441754"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "1684441757"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": true
+                },
+                "printType": "BOOK",
+                "categories": [
+                    "Juvenile Nonfiction"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "1.1.1.0.preview.3",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=7oNDDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=7oNDDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=7oNDDwAAQBAJ&printsec=frontcover&dq=sputnik&hl=&as_pt=BOOKS&cd=26&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=7oNDDwAAQBAJ&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=7oNDDwAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 8.95,
+                    "currencyCode": "USD"
+                },
+                "retailPrice": {
+                    "amount": 8.95,
+                    "currencyCode": "USD"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=7oNDDwAAQBAJ&rdid=book-7oNDDwAAQBAJ&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 8950000,
+                            "currencyCode": "USD"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 8950000,
+                            "currencyCode": "USD"
+                        },
+                        "giftable": true
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com/books/download/Sputnik-sample-epub.acsm?id=7oNDDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com/books/download/Sputnik-sample-pdf.acsm?id=7oNDDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=7oNDDwAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "Flash Points: Liftoff! eShorts include Sputnik, Apollo 11, Challenger, and Spirit &amp; Opportunity."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "OnhmDwAAQBAJ",
+            "etag": "BTSDOAWX5Sk",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/OnhmDwAAQBAJ",
+            "volumeInfo": {
+                "title": "Sputnik and the Space Race",
+                "authors": [
+                    "Jordan Johnson"
+                ],
+                "publisher": "Cavendish Square Publishing, LLC",
+                "publishedDate": "2017-07-15",
+                "description": "In the late 1950s, space became the new source of conflict for the United States and the Soviet Union. The world changed in 1957 when the Soviet Union launched Sputnik. The world's first satellite, Sputnik prompted advances in science and technology. Each side was determined to demonstrate technological acumen and military prowess through the ultimate space race. This book explores how technological power was used in the fight for political dominance.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781502627322"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "1502627329"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 112,
+                "printType": "BOOK",
+                "categories": [
+                    "Juvenile Nonfiction"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "preview-1.0.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=OnhmDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=OnhmDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=OnhmDwAAQBAJ&printsec=frontcover&dq=sputnik&hl=&as_pt=BOOKS&cd=27&source=gbs_api",
+                "infoLink": "http://books.google.com/books?id=OnhmDwAAQBAJ&dq=sputnik&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Sputnik_and_the_Space_Race.html?hl=&id=OnhmDwAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=OnhmDwAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "Each side was determined to demonstrate technological acumen and military prowess through the ultimate space race. This book explores how technological power was used in the fight for political dominance."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "Q9MR704IfZUC",
+            "etag": "z+cDKj38ysk",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/Q9MR704IfZUC",
+            "volumeInfo": {
+                "title": "Reconsidering Sputnik",
+                "subtitle": "Forty Years Since the Soviet Satellite",
+                "authors": [
+                    "Roger D. Lanius",
+                    "John M. Logsdon",
+                    "Robert W. Smith"
+                ],
+                "publisher": "Routledge",
+                "publishedDate": "2013-05-13",
+                "description": "This book explores Russia's stunning success of ushering in the space age by launching Sputnik and beating the United States into space. It also examines the formation of NASA, the race for human exploration of the moon, the reality of global satellite communications, and a new generation of scientific spacecraft that began exploring the universe. An introductory essay by Pulitzer Prize winner Walter A. McDougall sets the context for Sputnik and its significance at the end of the twentieth century.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781134960262"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "1134960263"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 464,
+                "printType": "BOOK",
+                "categories": [
+                    "History"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "1.3.1.0.preview.1",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=Q9MR704IfZUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=Q9MR704IfZUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=Q9MR704IfZUC&printsec=frontcover&dq=sputnik&hl=&as_pt=BOOKS&cd=28&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=Q9MR704IfZUC&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Q9MR704IfZUC"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 52.95,
+                    "currencyCode": "USD"
+                },
+                "retailPrice": {
+                    "amount": 42.36,
+                    "currencyCode": "USD"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=Q9MR704IfZUC&rdid=book-Q9MR704IfZUC&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 52950000,
+                            "currencyCode": "USD"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 42360000,
+                            "currencyCode": "USD"
+                        },
+                        "giftable": true
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com/books/download/Reconsidering_Sputnik-sample-pdf.acsm?id=Q9MR704IfZUC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=Q9MR704IfZUC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "This book explores Russia&#39;s stunning success of ushering in the space age by launching Sputnik and beating the United States into space."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "38p6AAAAIAAJ",
+            "etag": "G0qUXpZl2YA",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/38p6AAAAIAAJ",
+            "volumeInfo": {
+                "title": "Sputnik, Scientists, and Eisenhower",
+                "subtitle": "A Memoir of the First Special Assistant to the President for Science and Technology",
+                "authors": [
+                    "James Rhyne Killian"
+                ],
+                "publisher": "MIT Press (MA)",
+                "publishedDate": "1977",
+                "description": "...Killian's book is at once an historical document, a guide for the future, and a charming and revealing personal memoir.\" - William T. Golden, Bulletin of the Atomic Scientists",
+                "industryIdentifiers": [
+                    {
+                        "type": "OTHER",
+                        "identifier": "UCAL:B4534488"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 315,
+                "printType": "BOOK",
+                "categories": [
+                    "Science and state"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.2.2.0.preview.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=38p6AAAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=38p6AAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=38p6AAAAIAAJ&q=sputnik&dq=sputnik&hl=&as_pt=BOOKS&cd=29&source=gbs_api",
+                "infoLink": "http://books.google.com/books?id=38p6AAAAIAAJ&dq=sputnik&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Sputnik_Scientists_and_Eisenhower.html?hl=&id=38p6AAAAIAAJ"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "NO_PAGES",
+                "embeddable": false,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=38p6AAAAIAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "NONE",
+                "quoteSharingAllowed": false
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "rqcsEAAAQBAJ",
+            "etag": "F8zur7yZ+dI",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/rqcsEAAAQBAJ",
+            "volumeInfo": {
+                "title": "How “Sputnik V or Gam-Covid-Vac.” works.",
+                "authors": [
+                    "Dr. Hakim. K. Saboowala"
+                ],
+                "publisher": "Dr.Hakim Saboowala",
+                "publishedDate": "2021-05-05",
+                "description": "How “Sputnik V or Gam-Covid-Vac.” works. ﻿The Sputnik V vaccine, developed by Gamaleya National Research Institute of Epidemiology and Microbiology in Moscow, uses two different viruses that cause the common cold (adenovirus) in humans. · The adenoviruses are weakened so they cannot replicate in humans and cannot cause disease. · They are also modified so that the vaccine delivers a code for making the coronavirus spike protein. This aims to ensure that when the real virus tries to infect the body, it can mount an immune response in the form of antibodies. Sputnik uses a different vector for each of the two Jabs in a course of vaccination. Thus, using a different adenovirus vector may help create a more powerful immune response (compared with using the same vector twice), as it minimizes the risk of the immune system developing resistance to the initial vector. This provides immunity with a longer duration than vaccines using the same delivery mechanism for both shots, according to the Russian Direct Investment Fund (RDIF). Sputnik V is approved for use in over 55 countries with a total population of over 1.5 billion people, according to RDIF. Thus, an attempt has been made in this Booklet to describe“How Sputnik V or Gam-Covid-Vac. works.”, along with relevant Illustrations for better understanding! Although care has been taken while compiling and checking information given in this Booklet to ensure that it is accurate, and none shall be responsible, in any way, liable for contemporaneousness of this information or for any errors, omissions or inaccuracies in this publication. …Dr. H. K. Saboowala. M.B.(Bom) .M.R.S.H.(London)",
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 18,
+                "printType": "BOOK",
+                "categories": [
+                    "Medical"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.0.1.0.preview.1",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=rqcsEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=rqcsEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=rqcsEAAAQBAJ&printsec=frontcover&dq=sputnik&hl=&as_pt=BOOKS&cd=30&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=rqcsEAAAQBAJ&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=rqcsEAAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 3.5,
+                    "currencyCode": "USD"
+                },
+                "retailPrice": {
+                    "amount": 3.5,
+                    "currencyCode": "USD"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=rqcsEAAAQBAJ&rdid=book-rqcsEAAAQBAJ&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 3500000,
+                            "currencyCode": "USD"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 3500000,
+                            "currencyCode": "USD"
+                        },
+                        "giftable": true
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com/books/download/How_Sputnik_V_or_Gam_Covid_Vac_works-sample-pdf.acsm?id=rqcsEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=rqcsEAAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "How “Sputnik V or Gam-Covid-Vac.” works. ﻿The Sputnik V vaccine, developed by Gamaleya National Research Institute of Epidemiology and Microbiology in Moscow, uses two different viruses that cause the common cold (adenovirus) in ..."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "F35fDQAAQBAJ",
+            "etag": "drisBDi2lDw",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/F35fDQAAQBAJ",
+            "volumeInfo": {
+                "title": "Eisenhower at the Dawn of the Space Age",
+                "subtitle": "Sputnik, Rockets, and Helping Hands",
+                "authors": [
+                    "Mark Shanahan"
+                ],
+                "publisher": "Lexington Books",
+                "publishedDate": "2016-11-14",
+                "description": "Historians have established a norm whereby President Eisenhower's actions in relation to the dawn of the space age are judged solely as a response to the Soviet launch of the Sputnik satellite, and are indicative of a passive, negative presidency. His low-key actions are seen merely as a prelude to the US triumph in space which is largely bookended first by President Kennedy’s man-to-the-moon pledge in 1961, and finally by Neil Armstrong’s moon landing eight years later. This book presents an alternative view of the development of space policy during Eisenhower’s administration, assessing the hypothesis that his space policy was not a reaction to the heavily-propagandized Soviet satellite launches, or even the effect they caused in the US political and military elites, but the continuation of a strategic journey. This study engages with three distinct but converging strands of literature and proposes a revised interpretation of Eisenhower’s actions in relation to rockets, missiles and satellites: namely that Eisenhower was operating on a parallel path to the established norm that started with the Bikini Atoll Castle H-bomb tests; developed through the CIA's reconnaissance efforts and was distilled in the Aeronautics and Space Act of 1958 which set a policy for US involvement in outer space that matched Eisenhower’s desire for a balanced budget and fundamental belief in maintaining peace. President Eisenhower was not interested in joining a “space race”: while national security underpinned his thinking, his space policy actions were strategic steps that actively sidestepped internecine armed forces rivalry, and provided a logical next step for both civilian and military space programs at the completion of the International Geophysical Year. In reassessing the United States’ first space policy, the book adds to the revisionism under way in relation to the Eisenhower presidency, focusing on the “Helping Hands” that enabled him to wage peace.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781498528153"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "1498528155"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": true
+                },
+                "pageCount": 244,
+                "printType": "BOOK",
+                "categories": [
+                    "History"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.1.1.0.preview.3",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=F35fDQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=F35fDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=F35fDQAAQBAJ&printsec=frontcover&dq=sputnik&hl=&as_pt=BOOKS&cd=31&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=F35fDQAAQBAJ&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=F35fDQAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 39.5,
+                    "currencyCode": "USD"
+                },
+                "retailPrice": {
+                    "amount": 30.81,
+                    "currencyCode": "USD"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=F35fDQAAQBAJ&rdid=book-F35fDQAAQBAJ&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 39500000,
+                            "currencyCode": "USD"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 30810000,
+                            "currencyCode": "USD"
+                        },
+                        "giftable": true
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com/books/download/Eisenhower_at_the_Dawn_of_the_Space_Age-sample-epub.acsm?id=F35fDQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com/books/download/Eisenhower_at_the_Dawn_of_the_Space_Age-sample-pdf.acsm?id=F35fDQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=F35fDQAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "This book presents an alternative view of the development of space policy during Eisenhower’s administration, assessing the hypothesis that his space policy was not a reaction to the heavily-propagandized Soviet satellite launches, or ..."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "HZtxAAAAMAAJ",
+            "etag": "o3FKyP57pJE",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/HZtxAAAAMAAJ",
+            "volumeInfo": {
+                "title": "AAS History Series",
+                "authors": [
+                    "American Astronautical Society"
+                ],
+                "publishedDate": "1981",
+                "industryIdentifiers": [
+                    {
+                        "type": "OTHER",
+                        "identifier": "WISC:89045773439"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "printType": "BOOK",
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.1.1.0.preview.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=HZtxAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=HZtxAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=HZtxAAAAMAAJ&q=sputnik&dq=sputnik&hl=&as_pt=BOOKS&cd=32&source=gbs_api",
+                "infoLink": "http://books.google.com/books?id=HZtxAAAAMAAJ&dq=sputnik&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/AAS_History_Series.html?hl=&id=HZtxAAAAMAAJ"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "NO_PAGES",
+                "embeddable": false,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=HZtxAAAAMAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "NONE",
+                "quoteSharingAllowed": false
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "L6U5AQAAIAAJ",
+            "etag": "xo9BjfihGYk",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/L6U5AQAAIAAJ",
+            "volumeInfo": {
+                "title": "The Space Race",
+                "subtitle": "From Sputnik to Apollo, and Beyond",
+                "authors": [
+                    "Donald William Cox"
+                ],
+                "publishedDate": "1962",
+                "description": "From Sputnik to Apollo.and beyond. A provocative political-social history of the space age.",
+                "industryIdentifiers": [
+                    {
+                        "type": "OTHER",
+                        "identifier": "UCAL:$B573985"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 393,
+                "printType": "BOOK",
+                "categories": [
+                    "Astronautics"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.1.1.0.preview.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=L6U5AQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=L6U5AQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=L6U5AQAAIAAJ&q=sputnik&dq=sputnik&hl=&as_pt=BOOKS&cd=33&source=gbs_api",
+                "infoLink": "http://books.google.com/books?id=L6U5AQAAIAAJ&dq=sputnik&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/The_Space_Race.html?hl=&id=L6U5AQAAIAAJ"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "NO_PAGES",
+                "embeddable": false,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=L6U5AQAAIAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "NONE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "From Sputnik to Apollo.and beyond. A provocative political-social history of the space age."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "Kg8MAQAAIAAJ",
+            "etag": "i/Z+sY2c8BY",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/Kg8MAQAAIAAJ",
+            "volumeInfo": {
+                "title": "Kitty Hawk to Sputnik to Polaris",
+                "subtitle": "A Contemporary Account of the Struggle Over Military and Commercial Air Policy in the United States",
+                "authors": [
+                    "Eugene Edward Wilson"
+                ],
+                "publishedDate": "1960",
+                "industryIdentifiers": [
+                    {
+                        "type": "OTHER",
+                        "identifier": "STANFORD:36105035285498"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 231,
+                "printType": "BOOK",
+                "categories": [
+                    "Aeronautics"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.1.1.0.preview.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=Kg8MAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=Kg8MAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=Kg8MAQAAIAAJ&q=sputnik&dq=sputnik&hl=&as_pt=BOOKS&cd=34&source=gbs_api",
+                "infoLink": "http://books.google.com/books?id=Kg8MAQAAIAAJ&dq=sputnik&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Kitty_Hawk_to_Sputnik_to_Polaris.html?hl=&id=Kg8MAQAAIAAJ"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "NO_PAGES",
+                "embeddable": false,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=Kg8MAQAAIAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "NONE",
+                "quoteSharingAllowed": false
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "oO1dZXQHkHoC",
+            "etag": "bu/vKKfzgHM",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/oO1dZXQHkHoC",
+            "volumeInfo": {
+                "title": "From Sputnik to Minerva",
+                "subtitle": "Education and American National Security",
+                "authors": [
+                    "Sean Kay"
+                ],
+                "publisher": "DIANE Publishing",
+                "publishedDate": "2009-11",
+                "description": "Rather than focusing primarily on traditional professional military educ., this analysis examines how educ. has been used as a tool of American power. Four major moments of transformation in the international system are surveyed to illustrate a link between ¿strategic educational capacity,¿ defined as the application of attained knowledge and skills, and national power. An important educational capacity is emerging in the new Minerva program in the DoD and other transformational educational concepts with security applications. Educ. is gaining an increasing interest among American decisionmakers as a strategic component of American power and an essential asset for successful military operations in the new global security environment.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781437915945"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "1437915949"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": true
+                },
+                "pageCount": 8,
+                "printType": "BOOK",
+                "categories": [
+                    "Education and state"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.0.3.0.preview.3",
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=oO1dZXQHkHoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=oO1dZXQHkHoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=oO1dZXQHkHoC&pg=PA1&dq=sputnik&hl=&as_pt=BOOKS&cd=35&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=oO1dZXQHkHoC&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=oO1dZXQHkHoC"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 14.95,
+                    "currencyCode": "USD"
+                },
+                "retailPrice": {
+                    "amount": 14.95,
+                    "currencyCode": "USD"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=oO1dZXQHkHoC&rdid=book-oO1dZXQHkHoC&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 14950000,
+                            "currencyCode": "USD"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 14950000,
+                            "currencyCode": "USD"
+                        },
+                        "giftable": true
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "ALL_PAGES",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true
+                },
+                "pdf": {
+                    "isAvailable": true
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=oO1dZXQHkHoC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "<b>Sputnik</b>. to. Minerva: Education. and. American. National. Security. by. Sean. Kay. A publication of the Center for Technology and National Security Policy National Defense University J a n u a r y 2 0 0 9 Number&nbsp;..."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "zyrp1S73kHcC",
+            "etag": "kZzXoZ/yIYM",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/zyrp1S73kHcC",
+            "volumeInfo": {
+                "title": "Sputnik Diner",
+                "authors": [
+                    "Rick Maddocks"
+                ],
+                "publisher": "Vintage Canada",
+                "publishedDate": "2011-04-13",
+                "description": "From an award-winning writer reminiscent of Richard Russo and Russell Banks: get ready for a heady and heartbreaking stay in Nanticoke, home of the Sputnik Diner. Travelling on Highway 3, along the upper lip of Lake Erie and through a moustache of tobacco fields and sky, we arrive in Nanticoke, Ontario. At the heart of the town is the Sputnik Diner, a smoky grill where the jukebox whirs out an ever-changing soundtrack. Navigating their way through the lies and sexual betrayals are Grace, waitress and self-defeating artist; Buzz, who offers the cook's eye view of the eccentric patrons and staff; and Marcel, the gruff French-Canadian owner who doles out hilarious malapropisms and his own peculiar brand of hospitality. In muscular prose, Maddocks traces the lives of flawed, gutsy, and utterly loveable characters: an immigrant family from Wales, struggling to find their place in the ragged, darkly absurd world of tobacco-belt Ontario; two young brothers who steal the family car and try to come to grips with their father's cancer out on the dinosaur mini-putt course in the pouring rain; and Grace, who seeks out her birth parents only to confront the dizzying epiphanies of that momentous discovery. There are others too, whose stalled dreams, gritty hopes and humour spark through the Sputnik Diner universe.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780307369956"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "0307369951"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": false
+                },
+                "pageCount": 304,
+                "printType": "BOOK",
+                "categories": [
+                    "Fiction"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "1.4.1.0.preview.2",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=zyrp1S73kHcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=zyrp1S73kHcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=zyrp1S73kHcC&printsec=frontcover&dq=sputnik&hl=&as_pt=BOOKS&cd=36&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=zyrp1S73kHcC&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=zyrp1S73kHcC"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 13.99,
+                    "currencyCode": "USD"
+                },
+                "retailPrice": {
+                    "amount": 13.99,
+                    "currencyCode": "USD"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=zyrp1S73kHcC&rdid=book-zyrp1S73kHcC&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 13990000,
+                            "currencyCode": "USD"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 13990000,
+                            "currencyCode": "USD"
+                        },
+                        "giftable": true
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com/books/download/Sputnik_Diner-sample-epub.acsm?id=zyrp1S73kHcC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=zyrp1S73kHcC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "From an award-winning writer reminiscent of Richard Russo and Russell Banks: get ready for a heady and heartbreaking stay in Nanticoke, home of the Sputnik Diner."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "EHhMAAAAMAAJ",
+            "etag": "i3R8wxiS/jA",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/EHhMAAAAMAAJ",
+            "volumeInfo": {
+                "title": "A Functional Analysis of the Post-Sputnik Addresses of James Bryant Conant to the National Association of Secondary School Principals",
+                "authors": [
+                    "John Sheldon Cease"
+                ],
+                "publishedDate": "1968",
+                "industryIdentifiers": [
+                    {
+                        "type": "OTHER",
+                        "identifier": "WISC:89015234966"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 304,
+                "printType": "BOOK",
+                "categories": [
+                    "Communication"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.1.2.0.preview.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=EHhMAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=EHhMAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=EHhMAAAAMAAJ&q=sputnik&dq=sputnik&hl=&as_pt=BOOKS&cd=37&source=gbs_api",
+                "infoLink": "http://books.google.com/books?id=EHhMAAAAMAAJ&dq=sputnik&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/A_Functional_Analysis_of_the_Post_Sputni.html?hl=&id=EHhMAAAAMAAJ"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "NO_PAGES",
+                "embeddable": false,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=EHhMAAAAMAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "NONE",
+                "quoteSharingAllowed": false
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "k2OUDwAAQBAJ",
+            "etag": "hm1P9ja3GCM",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/k2OUDwAAQBAJ",
+            "volumeInfo": {
+                "title": "The Race to Space",
+                "subtitle": "From Sputnik to the Moon Landing and Beyond...",
+                "authors": [
+                    "Clive Gifford"
+                ],
+                "publisher": "words & pictures",
+                "publishedDate": "2019-05-21",
+                "description": "You know that man has walked on the Moon, but do you know the story of how he got there? With the 50th anniversary of the Moon Landing on July 20th 2019, this book celebrates the Space Race rivalry between the U.S. and the Soviet Union. Readers will learn about the neck-and-neck race between the two superpowers, through an illustrated story of the rivalry that gripped the world. From Russia's first satellite, Sputnik, to Neil Armstrong planting a U.S. a flag on the moon, discover the events that unfolded through amazing nostalgic illustrations and engaging text. Explore, too, how these two space agencies now work together, and how the monumental achievements of the space race have created world-changing technology that we all use and benefit from today.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781786038906"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "1786038900"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 64,
+                "printType": "BOOK",
+                "categories": [
+                    "Juvenile Nonfiction"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "preview-1.0.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=k2OUDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=k2OUDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=k2OUDwAAQBAJ&printsec=frontcover&dq=sputnik&hl=&as_pt=BOOKS&cd=38&source=gbs_api",
+                "infoLink": "http://books.google.com/books?id=k2OUDwAAQBAJ&dq=sputnik&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/The_Race_to_Space.html?hl=&id=k2OUDwAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=k2OUDwAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "You know that man has walked on the Moon, but do you know the story of how he got there? With the 50th anniversary of the Moon Landing on July 20th 2019, this book celebrates the Space Race rivalry between the U.S. and the Soviet Union."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "Lc8mBQAAQBAJ",
+            "etag": "lPwbn2vSZAE",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/Lc8mBQAAQBAJ",
+            "volumeInfo": {
+                "title": "Sputnik Sweetheart",
+                "subtitle": "Roman",
+                "authors": [
+                    "Haruki Murakami"
+                ],
+                "publisher": "Dumont Buchverlag",
+                "publishedDate": "2011-09-27",
+                "description": "Cooler Realismus und Fantastik verbinden sich in der Geschichte von Sumire und Miu. Die eine ist eine junge weltfremde und romantische Möchtegernautorin, die andere eine siebzehn Jahre ältere erfolgreiche Geschäfsfrau. Unempfänglich ist Miu für das Begehren der jungen Frau, von der sie „süßer Sputnik\" genannt wird. Auf einer Reise durch Frankreich und Italien bis auf eine kleine griechische Insel verschwindet Sumire plötzlich – alle Spuren ihres Schicksals verlieren sich. Ein junger Lehrer, der die betörende Sumire liebt, findet Aufzeichnungen bizarrer Vorfälle und Geschichten in Geschichten, die auch ein Geheimnis von Miu in der Schweiz aufdecken. Mit Haruki Murakamis neuem Roman „Sputnik Sweetheart\" geraten wir an die Ränder der Wirklichkeit, aber auch wenn die Menschen auf getrennten Umlaufbahnen einsam wie ein Sputnik ihre Bahnen ziehen, gibt es noch eine andere Seite des Lebens: „Wir brauchen nur zu träumen.\"",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9783832185947"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "3832185941"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": true
+                },
+                "pageCount": 234,
+                "printType": "BOOK",
+                "categories": [
+                    "Fiction"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": true,
+                "contentVersion": "1.1.2.0.preview.3",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=Lc8mBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=Lc8mBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "de",
+                "previewLink": "http://books.google.com/books?id=Lc8mBQAAQBAJ&printsec=frontcover&dq=sputnik&hl=&as_pt=BOOKS&cd=39&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=Lc8mBQAAQBAJ&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Lc8mBQAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 10.99,
+                    "currencyCode": "USD"
+                },
+                "retailPrice": {
+                    "amount": 8.79,
+                    "currencyCode": "USD"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=Lc8mBQAAQBAJ&rdid=book-Lc8mBQAAQBAJ&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 10990000,
+                            "currencyCode": "USD"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 8790000,
+                            "currencyCode": "USD"
+                        },
+                        "giftable": true
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com/books/download/Sputnik_Sweetheart-sample-epub.acsm?id=Lc8mBQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com/books/download/Sputnik_Sweetheart-sample-pdf.acsm?id=Lc8mBQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=Lc8mBQAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "Mit Haruki Murakamis neuem Roman „Sputnik Sweetheart&quot; geraten wir an die Ränder der Wirklichkeit, aber auch wenn die Menschen auf getrennten Umlaufbahnen einsam wie ein Sputnik ihre Bahnen ziehen, gibt es noch eine andere Seite des ..."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "0wN2DwAAQBAJ",
+            "etag": "xQkXggJbNDg",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/0wN2DwAAQBAJ",
+            "volumeInfo": {
+                "title": "Eisenhower's Sputnik Moment",
+                "subtitle": "The Race for Space and World Prestige",
+                "authors": [
+                    "Yanek Mieczkowski"
+                ],
+                "publisher": "Cornell University Press",
+                "publishedDate": "2013-02-15",
+                "description": "In a critical Cold War moment, Dwight D. Eisenhower's presidency suddenly changed when the Soviet Union launched Sputnik, the world's first satellite. What Ike called \"a small ball\" became a source of Russian pride and propaganda, and it wounded him politically, as critics charged that he responded sluggishly to the challenge of space exploration. Yet Eisenhower refused to panic after Sputnik-and he did more than just stay calm. He helped to guide the United States into the Space Age, even though Americans have given greater credit to John F. Kennedy for that achievement. In Eisenhower's Sputnik Moment, Yanek Mieczkowski examines the early history of America's space program, reassessing Eisenhower's leadership. He details how Eisenhower approved breakthrough satellites, supported a new civilian space agency, signed a landmark science education law, and fostered improved relations with scientists. These feats made Eisenhower's post-Sputnik years not the flop that critics alleged but a time of remarkable progress, even as he endured the setbacks of recession, medical illness, and a humiliating first U.S. attempt to launch a satellite. Eisenhower's principled stands enabled him to resist intense pressure to boost federal spending, and he instead pursued his priorities-a balanced budget, prosperous economy, and sturdy national defense. Yet Sputnik also altered the world's power dynamics, sweeping Eisenhower in directions that were new, even alien, to him, and he misjudged the importance of space in the Cold War's \"prestige race.\" By contrast, Kennedy capitalized on the issue in the 1960 election, and after taking office he urged a manned mission to the moon, leaving Eisenhower to grumble over the young president's aggressive approach. Offering a fast-paced account of this Cold War episode, Mieczkowski demonstrates that Eisenhower built an impressive record in space and on earth, all the while offering warnings about America's stature and strengths that still hold true today.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780801467936"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "0801467934"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 368,
+                "printType": "BOOK",
+                "categories": [
+                    "History"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.1.2.0.preview.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=0wN2DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=0wN2DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=0wN2DwAAQBAJ&pg=PA23&dq=sputnik&hl=&as_pt=BOOKS&cd=40&source=gbs_api",
+                "infoLink": "http://books.google.com/books?id=0wN2DwAAQBAJ&dq=sputnik&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Eisenhower_s_Sputnik_Moment.html?hl=&id=0wN2DwAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=0wN2DwAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "Newsweek devoted a special section to “Satellites and Our Safety,” while Time concluded, “The military threat posed by <b>Sputnik</b> is immense, immediate and sobering.”39 Two days after the launch, CBS aired a television special on <b>Sputnik</b>&nbsp;..."
+            }
+        }
     ]
 }
