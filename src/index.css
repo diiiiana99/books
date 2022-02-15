@@ -45,19 +45,11 @@ code {
   display: flex;
   width: 300px;
   height: 300px;
-
-  /*Scale down will take the necessary specified space that is 100px x 100px without stretching the image*/
-   object-fit:scale-down;
+  object-fit:scale-down;
 }
 
 .book-card:hover {
-  position:relative;
-  top:-50px;
-  left:-15px;
-  display:flex;
-  width:400vw;
-  height:500px;
-  z-index:999;
+  transform: scale(1.25)
 }
 
 .ui.grid {
