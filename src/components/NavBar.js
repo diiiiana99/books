@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import axios from "axios";
 import { NavLink } from "react-router-dom";
+import logo from '../images/book_report_logo.png' 
 
 function NavBar({ onChange, onSubmit}) {
   
@@ -14,7 +15,7 @@ function NavBar({ onChange, onSubmit}) {
     >
     <h1>Book-Report</h1>
     <NavLink style={{ marginRight: "10px" }} to="/">
-      Home
+        <img src={logo} alt="Logo" />
     </NavLink>
     <form onSubmit={onSubmit}>
         <div className='form-group'>

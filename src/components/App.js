@@ -45,12 +45,7 @@ function App() {
   }
 
   function handleSubmit(event){
-      event.preventDefault();
       let burl= `https://www.googleapis.com/books/v1/volumes?q=${search}&printType=books&key=${apiKey}&maxResults=40`
-      axios.get(burl)
-      .then(r=> {
-          setBooks(r.data.items)
-      })
   }
   
   return (
@@ -69,8 +64,10 @@ function App() {
             />
           </Route>
           <Route path ='/search-results'>
-            <SearchResults 
-              
+            <SearchResults
+            books={books} 
+             search= {search}
+             setBooks={setBooks}
             />
           </Route>
         </Switch>
