@@ -30,7 +30,7 @@ function NavBar({ setBooks, apiKey2 }) {
     >
     <h1>Book-Report</h1>
     <NavLink style={{ marginRight: "10px" }} to="/">
-      Home
+        <img src={logo} alt="Logo" />
     </NavLink>
     <NavLink style={{ marginRight: "10px" }} to="/books">
       Books
