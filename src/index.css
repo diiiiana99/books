@@ -42,22 +42,25 @@ code {
 
 .book-card {
   padding: 5px;
-  display: flex;
   width: 300px;
   height: 300px;
+  display: flex;
 
   /*Scale down will take the necessary specified space that is 100px x 100px without stretching the image*/
    object-fit:scale-down;
 }
 
+.book-details {
+
+}
+
+.hidden {
+  display: none;
+}
+
 .book-card:hover {
-  position:relative;
-  top:-50px;
-  left:-15px;
-  display:flex;
-  width:400vw;
-  height:500px;
-  z-index:999;
+  transform: scale(1.25);
+  transition: transform 0.5s;
 }
 
 .ui.grid {
