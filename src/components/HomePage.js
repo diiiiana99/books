@@ -1,5 +1,6 @@
 import React, {useState,useEffect} from "react";
 import axios from "axios";
+import BookCard from "./BookCard";
 
 let localZebras = 'http://localhost:3000/zebras'
 
@@ -21,17 +22,8 @@ function HomePage( {books, setBooks, apiKey} ) {
     })
     let booksToDisplay = filteredBooks.map((book, i)=>{
         return (
-            <div className='book-card'  onMouseOver={() => { console.log('Hovering over book', i+1)}}>
-                <img 
-                key={book.id}
-                src={book.volumeInfo.imageLinks === undefined? "": `${book.volumeInfo.imageLinks.thumbnail}`} 
-                alt={book.title}/>
-                <div className={`book-details-${i} hidden`}>
-                    <h3>Anastasia Lucas</h3>
-                    <p>4.5 out of 5 stars</p>
-                </div>
-            </div>
-        )
+            <BookCard book={book} key={i}/>
+            )
         })
 
     // let nytURL='https://api.nytimes.com/svc/books/v3/lists/current/hardcover-fiction.json?api-key=a8Y1LuFG60g1s9EqYAQ0ZgxEdIZIdnj3';
