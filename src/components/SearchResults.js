@@ -5,7 +5,7 @@ import BookCard from "./BookCard";
 
 function SearchResults({books,setBooks, search,apiKey}){
     // let burl= `https://www.googleapis.com/books/v1/volumes?q=${search}&printType=books&key=${apiKey}&maxResults=40`
-    let localZebras = 'http://localhost:3000/zebras'
+    let localZebras = 'http://localhost:4000/zebras'
 
     useEffect(()=>{
         axios.get(localZebras)
