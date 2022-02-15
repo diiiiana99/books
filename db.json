@@ -3234,5 +3234,3101 @@
             }
         }
     
+    ],
+
+    "giraffes": [
+        {
+            "kind": "books#volume",
+            "id": "9Z-DzQEACAAJ",
+            "etag": "xYIKbUWmHCw",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/9Z-DzQEACAAJ",
+            "volumeInfo": {
+                "title": "West with Giraffes",
+                "subtitle": "A Novel",
+                "authors": [
+                    "Lynda Rutledge"
+                ],
+                "publisher": "Lake Union Publishing",
+                "publishedDate": "2021-02",
+                "description": "1938: The Great Depression lingers. Hitler is threatening Europe, and world-weary Americans long for wonder. They find it in two giraffes who miraculously survive a hurricane while crossing the Atlantic. What follows is a twelve-day road trip in a custom truck to deliver Southern California’s first giraffes to the San Diego Zoo. Behind the wheel is the young Dust Bowl rowdy Woodrow Wilson Nickel. Present day: At 105, Woody feels his life ebbing away. When he learns giraffes are going extinct, he finds himself recalling an experience he cannot take to his grave. In retelling his story, he explores what it means to be changed by the grace of animals, the kindness of strangers, and the passing of time. -- adapted from jacket",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "1542023343"
+                    },
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781542023344"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 372,
+                "printType": "BOOK",
+                "categories": [
+                    "Fiction"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "preview-1.0.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=9Z-DzQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=9Z-DzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=9Z-DzQEACAAJ&dq=giraffes&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+                "infoLink": "http://books.google.com/books?id=9Z-DzQEACAAJ&dq=giraffes&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/West_with_Giraffes.html?hl=&id=9Z-DzQEACAAJ"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "NO_PAGES",
+                "embeddable": false,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=9Z-DzQEACAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "NONE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "1938: The Great Depression lingers."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "zT4lDQAAQBAJ",
+            "etag": "L2wOA8/l93Y",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/zT4lDQAAQBAJ",
+            "volumeInfo": {
+                "title": "Giraffe Reflections",
+                "authors": [
+                    "Dale Peterson"
+                ],
+                "publisher": "Univ of California Press",
+                "publishedDate": "2013-09-09",
+                "description": "Presents a cultural, historical, and pictorial history of giraffes, describing their biology and behavior and demonstrating their grace and elegance through over one hundred photographs.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780520266858"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "0520266854"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 221,
+                "printType": "BOOK",
+                "categories": [
+                    "Nature"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "preview-1.0.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=zT4lDQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=zT4lDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=zT4lDQAAQBAJ&printsec=frontcover&dq=giraffes&hl=&as_pt=BOOKS&cd=2&source=gbs_api",
+                "infoLink": "http://books.google.com/books?id=zT4lDQAAQBAJ&dq=giraffes&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Giraffe_Reflections.html?hl=&id=zT4lDQAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=zT4lDQAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "Thanks to these lyrical words and soulful photos, you&#39;ll never forget how blessed we are to have these prehistoric-looking animals on our planet--nor forgive the loss we&#39;d endure should we allow them to vanish.&quot; —Sy Montgomery, author of ..."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "P7LZCwAAQBAJ",
+            "etag": "Qr+BEt3bu2g",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/P7LZCwAAQBAJ",
+            "volumeInfo": {
+                "title": "How Do Giraffes Take Naps?",
+                "authors": [
+                    "Diane Muldrow"
+                ],
+                "publisher": "Golden Books",
+                "publishedDate": "2016",
+                "description": "Simple text and illustrations shows how the creatures of the animal kingdom settle down to sleep.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780553513332"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "0553513338"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 24,
+                "printType": "BOOK",
+                "categories": [
+                    "Juvenile Fiction"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.1.0.0.preview.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=P7LZCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=P7LZCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=P7LZCwAAQBAJ&printsec=frontcover&dq=giraffes&hl=&as_pt=BOOKS&cd=3&source=gbs_api",
+                "infoLink": "http://books.google.com/books?id=P7LZCwAAQBAJ&dq=giraffes&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/How_Do_Giraffes_Take_Naps.html?hl=&id=P7LZCwAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=P7LZCwAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "Simple text and illustrations shows how the creatures of the animal kingdom settle down to sleep."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "_luGswEACAAJ",
+            "etag": "u0C0BGj/708",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/_luGswEACAAJ",
+            "volumeInfo": {
+                "title": "Giraffes Can't Dance",
+                "authors": [
+                    "Giles Andreae"
+                ],
+                "publisher": "Orchard Books",
+                "publishedDate": "2018-08-09",
+                "description": "Gerald was a tall giraffe whose neck was long and slim, But his knees were awfully bandy and his legs were rather thin . . . Gerald the giraffe longs to go to the great Jungle Dance, but how can he join in when he doesn't know how to tango or two-step? Everyone knows that giraffes can't dance . . . or can they? A funny, touching and triumphant story about being yourself and finding your own tune, with joyful illustrations from Guy Parker Rees. This chunky board book edition is perfect for little hands. \"All toddlers should grow up reading this\" Daily Mail \"A modern classic\" Baby & Me \"A joyful read about an outsider who finds acceptance on his own terms . . . there's also a simple moral about tolerance and daring to be different\" Junior \"A fantastically funny and wonderfully colourful romp\" Daily Telegraph",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "1408354403"
+                    },
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781408354407"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 32,
+                "printType": "BOOK",
+                "averageRating": 4.5,
+                "ratingsCount": 59,
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "preview-1.0.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=_luGswEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=_luGswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=_luGswEACAAJ&dq=giraffes&hl=&as_pt=BOOKS&cd=4&source=gbs_api",
+                "infoLink": "http://books.google.com/books?id=_luGswEACAAJ&dq=giraffes&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Giraffes_Can_t_Dance.html?hl=&id=_luGswEACAAJ"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "NO_PAGES",
+                "embeddable": false,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=_luGswEACAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "NONE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "Gerald the giraffe is too clumsy to dance with all the other animals at the Jungle Dance, until he finds the right music."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "E7o0EAAAQBAJ",
+            "etag": "sT79qtW57eA",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/E7o0EAAAQBAJ",
+            "volumeInfo": {
+                "title": "How Giraffes Work",
+                "authors": [
+                    "Graham Mitchell"
+                ],
+                "publisher": "Oxford University Press",
+                "publishedDate": "2021",
+                "description": "This is a comprehensive overview of wild and free-living giraffes. Graham Mitchell combines nearly every piece of published research about this species into the pages of this book, making it an incredibly useful book for researchers, scientists, and naturalists studying a single species.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780197571194"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "0197571190"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 608,
+                "printType": "BOOK",
+                "categories": [
+                    "Nature"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "1.2.0.0.preview.1",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=E7o0EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=E7o0EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=E7o0EAAAQBAJ&printsec=frontcover&dq=giraffes&hl=&as_pt=BOOKS&cd=5&source=gbs_api",
+                "infoLink": "http://books.google.com/books?id=E7o0EAAAQBAJ&dq=giraffes&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/How_Giraffes_Work.html?hl=&id=E7o0EAAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=E7o0EAAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "This is a comprehensive overview of wild and free-living giraffes."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "tbO7JSU8USoC",
+            "etag": "DiTSSm34tyI",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/tbO7JSU8USoC",
+            "volumeInfo": {
+                "title": "Giraffes",
+                "authors": [
+                    "Kari Schuetz"
+                ],
+                "publisher": "Bellwether Media",
+                "publishedDate": "2011-08-01",
+                "description": "\"Developed by literacy experts for students in kindergarten through grade three, this book introduces giraffes to young readers through leveled text and related photos\"--Provided by publisher.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781600146046"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "160014604X"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 24,
+                "printType": "BOOK",
+                "categories": [
+                    "Juvenile Nonfiction"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.1.0.0.preview.1",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=tbO7JSU8USoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=tbO7JSU8USoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=tbO7JSU8USoC&printsec=frontcover&dq=giraffes&hl=&as_pt=BOOKS&cd=6&source=gbs_api",
+                "infoLink": "http://books.google.com/books?id=tbO7JSU8USoC&dq=giraffes&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Giraffes.html?hl=&id=tbO7JSU8USoC"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=tbO7JSU8USoC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "&quot;Developed by literacy experts for students in kindergarten through grade three, this book introduces giraffes to young readers through leveled text and related photos&quot;--Provided by publisher."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "HiJyDAAAQBAJ",
+            "etag": "R1TIPvues48",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/HiJyDAAAQBAJ",
+            "volumeInfo": {
+                "title": "Giraffes",
+                "authors": [
+                    "Jennifer Dussling"
+                ],
+                "publisher": "Penguin",
+                "publishedDate": "2016",
+                "description": "Introduces young readers to the behavior and eating habits of the giraffe.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780448489698"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "0448489694"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 48,
+                "printType": "BOOK",
+                "categories": [
+                    "Juvenile Nonfiction"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.1.0.0.preview.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=HiJyDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=HiJyDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=HiJyDAAAQBAJ&printsec=frontcover&dq=giraffes&hl=&as_pt=BOOKS&cd=7&source=gbs_api",
+                "infoLink": "http://books.google.com/books?id=HiJyDAAAQBAJ&dq=giraffes&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Giraffes.html?hl=&id=HiJyDAAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=HiJyDAAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "Introduces young readers to the behavior and eating habits of the giraffe."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "YBcUAQAAMAAJ",
+            "etag": "RvFOBJvSo6Q",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/YBcUAQAAMAAJ",
+            "volumeInfo": {
+                "title": "Giraffes",
+                "authors": [
+                    "John Bonnett Wexo"
+                ],
+                "publisher": "Zoobooks/Wildlife Education",
+                "publishedDate": "1996-08",
+                "description": "We arent talking big, herewere talking giant. The heart of an adult giraffe can measure two feet, and pump 20 gallons of blood every minute. With so much blood racing around, how is it a giraffe can bend over to drink and not pass out? All the secrets are revealed in Giraffes. ZOOBOOKS, the 59-book animal series - the \"everything you wanted to know but didn't know who to ask\" guide to the world's most fascinating creatures. Each exciting edition of ZOOBOOKS is packed with current scientific facts, striking photography, beautiful illustrations and unique activities that teach children about animals and the habitats in which they live. With innovative publications and products, Wildlife Education, Ltd. has enriched the lives of children, parents, and educators nationwide for 20 years. All titles are offered in library-bound hardcover and soft-cover styles. ZOOBOOKS, ideal for the knowledge-hungry 5-12 year old!",
+                "industryIdentifiers": [
+                    {
+                        "type": "OTHER",
+                        "identifier": "PSU:000046282347"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 18,
+                "printType": "BOOK",
+                "categories": [
+                    "Juvenile Nonfiction"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.0.1.0.preview.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=YBcUAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=YBcUAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=YBcUAQAAMAAJ&q=giraffes&dq=giraffes&hl=&as_pt=BOOKS&cd=8&source=gbs_api",
+                "infoLink": "http://books.google.com/books?id=YBcUAQAAMAAJ&dq=giraffes&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Giraffes.html?hl=&id=YBcUAQAAMAAJ"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "NO_PAGES",
+                "embeddable": false,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=YBcUAQAAMAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "NONE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "All the secrets are revealed in Giraffes. ZOOBOOKS, the 59-book animal series - the &quot;everything you wanted to know but didn&#39;t know who to ask&quot; guide to the world&#39;s most fascinating creatures."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "S-_hGFoQ5VoC",
+            "etag": "Lg4PaJ8kK8U",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/S-_hGFoQ5VoC",
+            "volumeInfo": {
+                "title": "Tall Blondes",
+                "subtitle": "A Book About Giraffes",
+                "authors": [
+                    "Lynn Sherr"
+                ],
+                "publisher": "Andrews McMeel Publishing",
+                "publishedDate": "1997-08",
+                "description": "Traces the cultural history of the giraffe, includes ancient and contemporary descriptions, and studies the impact of giraffes on the human imagination",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "0836227697"
+                    },
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780836227697"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 167,
+                "printType": "BOOK",
+                "categories": [
+                    "Nature"
+                ],
+                "averageRating": 4,
+                "ratingsCount": 1,
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.4.3.0.preview.1",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=S-_hGFoQ5VoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=S-_hGFoQ5VoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=S-_hGFoQ5VoC&printsec=frontcover&dq=giraffes&hl=&as_pt=BOOKS&cd=9&source=gbs_api",
+                "infoLink": "http://books.google.com/books?id=S-_hGFoQ5VoC&dq=giraffes&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Tall_Blondes.html?hl=&id=S-_hGFoQ5VoC"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=S-_hGFoQ5VoC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "Traces the cultural history of the giraffe, includes ancient and contemporary descriptions, and studies the impact of giraffes on the human imagination"
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "03k6_CwZ5qYC",
+            "etag": "BGKx3DLUL0I",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/03k6_CwZ5qYC",
+            "volumeInfo": {
+                "title": "Giraffe",
+                "authors": [
+                    "J. M. Ledgard"
+                ],
+                "publisher": "Penguin",
+                "publishedDate": "2007-07-31",
+                "description": "A novel based on a bizarre, real-life incident that took place in 1975 Czechoslovakia describes the destruction of the world's largest captive herd of giraffes at a zoo in a small Czech town, recounting the story of the giraffes from their capture in Africa to their apparently senseless slaughter by the secret police. A first novel. Reprint.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "0143038966"
+                    },
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780143038962"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 298,
+                "printType": "BOOK",
+                "categories": [
+                    "Fiction"
+                ],
+                "averageRating": 4,
+                "ratingsCount": 10,
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "4.1.3.0.preview.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=03k6_CwZ5qYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=03k6_CwZ5qYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=03k6_CwZ5qYC&printsec=frontcover&dq=giraffes&hl=&as_pt=BOOKS&cd=10&source=gbs_api",
+                "infoLink": "http://books.google.com/books?id=03k6_CwZ5qYC&dq=giraffes&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Giraffe.html?hl=&id=03k6_CwZ5qYC"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=03k6_CwZ5qYC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "A novel based on a bizarre, real-life incident that took place in 1975 Czechoslovakia describes the destruction of the world&#39;s largest captive herd of giraffes at a zoo in a small Czech town, recounting the story of the giraffes from their ..."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "GvroDwAAQBAJ",
+            "etag": "hM4EMUjUy4E",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/GvroDwAAQBAJ",
+            "volumeInfo": {
+                "title": "Giraffe Problems",
+                "authors": [
+                    "Jory John"
+                ],
+                "publisher": "Random House Books for Young Readers",
+                "publishedDate": "2020-06-09",
+                "description": "\"A giraffe struggles to feel comfortable with his neck\"--",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780593127728"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "0593127722"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 34,
+                "printType": "BOOK",
+                "categories": [
+                    "Juvenile Fiction"
+                ],
+                "averageRating": 5,
+                "ratingsCount": 1,
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "preview-1.0.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=GvroDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=GvroDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=GvroDwAAQBAJ&printsec=frontcover&dq=giraffes&hl=&as_pt=BOOKS&cd=11&source=gbs_api",
+                "infoLink": "http://books.google.com/books?id=GvroDwAAQBAJ&dq=giraffes&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Giraffe_Problems.html?hl=&id=GvroDwAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=GvroDwAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "&quot;A giraffe struggles to feel comfortable with his neck&quot;--"
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "GWuJCgAAQBAJ",
+            "etag": "9cBTIFTMwzQ",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/GWuJCgAAQBAJ",
+            "volumeInfo": {
+                "title": "A Tower of Giraffes",
+                "subtitle": "Animals in Groups",
+                "authors": [
+                    "Anna Wright"
+                ],
+                "publisher": "Charlesbridge Publishing",
+                "publishedDate": "2015-11-03",
+                "description": "A drove of pigs, a romp of otters, an ostentation of peacocks, and a tower of giraffes. . . . This clever book introduces young readers to some of the words we use to refer to animals in a group. The ink, watercolor, and fabric collage art is brightly colored and uniquely sets this fun book apart from the crowd. Each page presents information about an animal and its group behavior, such as how geese fly in a V-shape and honk to encourage the leaders, and that sometimes tens of thousand of flamingos meet up in one location. Young readers will have a great time and create a wellspring of new vocabulary words.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781607349198"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "1607349191"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": true
+                },
+                "pageCount": 32,
+                "printType": "BOOK",
+                "categories": [
+                    "Juvenile Nonfiction"
+                ],
+                "averageRating": 5,
+                "ratingsCount": 1,
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "1.3.2.0.preview.3",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=GWuJCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=GWuJCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=GWuJCgAAQBAJ&printsec=frontcover&dq=giraffes&hl=&as_pt=BOOKS&cd=12&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=GWuJCgAAQBAJ&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=GWuJCgAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 9.99,
+                    "currencyCode": "USD"
+                },
+                "retailPrice": {
+                    "amount": 9.99,
+                    "currencyCode": "USD"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=GWuJCgAAQBAJ&rdid=book-GWuJCgAAQBAJ&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 9990000,
+                            "currencyCode": "USD"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 9990000,
+                            "currencyCode": "USD"
+                        },
+                        "giftable": true
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com/books/download/A_Tower_of_Giraffes-sample-epub.acsm?id=GWuJCgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com/books/download/A_Tower_of_Giraffes-sample-pdf.acsm?id=GWuJCgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=GWuJCgAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": ". . . This clever book introduces young readers to some of the words we use to refer to animals in a group. The ink, watercolor, and fabric collage art is brightly colored and uniquely sets this fun book apart from the crowd."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "AEFReVbOTXgC",
+            "etag": "ZTg9EGVxH6E",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/AEFReVbOTXgC",
+            "volumeInfo": {
+                "title": "Tears of the Giraffe",
+                "authors": [
+                    "Alexander McCall Smith"
+                ],
+                "publisher": "Anchor",
+                "publishedDate": "2003-12-16",
+                "description": "Fans around the world adore the bestselling No. 1 Ladies’ Detective Agency series and its proprietor, Precious Ramotswe, Botswana’s premier lady detective. In this charming series, Mma Ramotswe—with help from her loyal associate, Grace Makutsi—navigates her cases and her personal life with wisdom, good humor, and the occasional cup of tea. Precious Ramotswe is the eminently sensible and cunning proprietor of the only ladies’ detective agency in Botswana. In Tears of the Giraffe she tracks a wayward wife, uncovers an unscrupulous maid, and searches for an American man who disappeared into the plains many years ago. In the midst of resolving uncertainties, pondering her impending marriage to a good, kind man, Mr. J. L. B. Matekoni, and the promotion of her talented secretary (a graduate of the Botswana Secretarial College, with a mark of 97 per cent), she also finds her family suddenly and unexpectedly increased by two.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781400077670"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "1400077672"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": true
+                },
+                "pageCount": 256,
+                "printType": "BOOK",
+                "categories": [
+                    "Fiction"
+                ],
+                "averageRating": 4,
+                "ratingsCount": 73,
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": true,
+                "contentVersion": "2.10.9.0.preview.3",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=AEFReVbOTXgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=AEFReVbOTXgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=AEFReVbOTXgC&printsec=frontcover&dq=giraffes&hl=&as_pt=BOOKS&cd=13&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=AEFReVbOTXgC&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=AEFReVbOTXgC"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 9.99,
+                    "currencyCode": "USD"
+                },
+                "retailPrice": {
+                    "amount": 9.99,
+                    "currencyCode": "USD"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=AEFReVbOTXgC&rdid=book-AEFReVbOTXgC&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 9990000,
+                            "currencyCode": "USD"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 9990000,
+                            "currencyCode": "USD"
+                        },
+                        "giftable": true
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com/books/download/Tears_of_the_Giraffe-sample-epub.acsm?id=AEFReVbOTXgC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com/books/download/Tears_of_the_Giraffe-sample-pdf.acsm?id=AEFReVbOTXgC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=AEFReVbOTXgC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "In this charming series, Mma Ramotswe—with help from her loyal associate, Grace Makutsi—navigates her cases and her personal life with wisdom, good humor, and the occasional cup of tea."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "JHbYoQEACAAJ",
+            "etag": "TL5oztZ+HMM",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/JHbYoQEACAAJ",
+            "volumeInfo": {
+                "title": "5 Giraffes",
+                "authors": [
+                    "Anne Innis Dagg"
+                ],
+                "publisher": "Fitzhenry & Whiteside Limited",
+                "publishedDate": "2015-06",
+                "description": "The latest in the 5 Animals series, with an introduction by Rob Laidlaw, 5 Giraffes profiles five unique giraffes from both captivity and the wild. Accompanying the five giraffe profiles is information on their diet, social life, and chapters on some of their more unique aspects, like the giraffe's unusual body. Includes full color photographs throughout, glossary, bibliography, table of contents and index.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "1554553563"
+                    },
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781554553563"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 88,
+                "printType": "BOOK",
+                "categories": [
+                    "Juvenile Nonfiction"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "preview-1.0.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=JHbYoQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=JHbYoQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=JHbYoQEACAAJ&dq=giraffes&hl=&as_pt=BOOKS&cd=14&source=gbs_api",
+                "infoLink": "http://books.google.com/books?id=JHbYoQEACAAJ&dq=giraffes&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/5_Giraffes.html?hl=&id=JHbYoQEACAAJ"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "NO_PAGES",
+                "embeddable": false,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=JHbYoQEACAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "NONE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "This story follows the lives of 5 giraffes - some who live in the wild and some who live in zoos."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "xi4jcqyLk6kC",
+            "etag": "jk+3EYCnLd8",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/xi4jcqyLk6kC",
+            "volumeInfo": {
+                "title": "Giraffe",
+                "authors": [
+                    "Edgar Williams"
+                ],
+                "publisher": "Reaktion Books",
+                "publishedDate": "2011-01-15",
+                "description": "Their extraordinary long necks, distinctive camouflage, graceful movements, and friendly nature have made giraffes one of the most fascinating and beloved animals on the planet. But while giraffes once roamed the Great Plains of Africa in huge herds, their numbers have greatly diminished, and they are now entirely dependent on humanity for their survival. In Giraffe, Edgar Williams explores not only the biology of the tallest animals on earth, but also their impact on human history—including in ancient Egypt, where giraffes were kept as exotic pets; the Middle Ages, when giraffes were considered mythical beasts as improbable and mysterious as the dragon; and the Victorian era, in which giraffe hunting was considered an exhilarating sport. Giraffe is the first book to provide a comprehensive, twenty-first-century view of the giraffe in art, literature, film, and popular culture, as well as its natural history from prehistory to modern times. With new insights into the giraffe’s genetics and evolution, this book will appeal to those interested in the giraffe’s unique biology and to anyone who admires the majestic giraffe.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781861898890"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "1861898894"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": true
+                },
+                "pageCount": 174,
+                "printType": "BOOK",
+                "categories": [
+                    "Nature"
+                ],
+                "averageRating": 4.5,
+                "ratingsCount": 2,
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "1.3.4.0.preview.3",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=xi4jcqyLk6kC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=xi4jcqyLk6kC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=xi4jcqyLk6kC&printsec=frontcover&dq=giraffes&hl=&as_pt=BOOKS&cd=15&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=xi4jcqyLk6kC&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=xi4jcqyLk6kC"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 19.95,
+                    "currencyCode": "USD"
+                },
+                "retailPrice": {
+                    "amount": 9.99,
+                    "currencyCode": "USD"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=xi4jcqyLk6kC&rdid=book-xi4jcqyLk6kC&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 19950000,
+                            "currencyCode": "USD"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 9990000,
+                            "currencyCode": "USD"
+                        },
+                        "giftable": true
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com/books/download/Giraffe-sample-epub.acsm?id=xi4jcqyLk6kC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com/books/download/Giraffe-sample-pdf.acsm?id=xi4jcqyLk6kC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=xi4jcqyLk6kC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "With new insights into the giraffe’s genetics and evolution, this book will appeal to those interested in the giraffe’s unique biology and to anyone who admires the majestic giraffe."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "GMKmzQEACAAJ",
+            "etag": "OZ9AThqUsf8",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/GMKmzQEACAAJ",
+            "volumeInfo": {
+                "title": "Love from Giraffes Can't Dance",
+                "authors": [
+                    "Giles Andreae"
+                ],
+                "publisher": "Orchard Books",
+                "publishedDate": "2021-01-07",
+                "description": "This magical moonlit rhyme is ideal for sharing and reading aloud with loved ones, and as a sturdy board book, it's perfect for even the littlest hands. The perfect gift to say 'I love you' on Valentine's Day, or at any time of the year.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "1408364832"
+                    },
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781408364833"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 32,
+                "printType": "BOOK",
+                "categories": [
+                    "Animals"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "preview-1.0.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=GMKmzQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=GMKmzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=GMKmzQEACAAJ&dq=giraffes&hl=&as_pt=BOOKS&cd=16&source=gbs_api",
+                "infoLink": "http://books.google.com/books?id=GMKmzQEACAAJ&dq=giraffes&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Love_from_Giraffes_Can_t_Dance.html?hl=&id=GMKmzQEACAAJ"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "NO_PAGES",
+                "embeddable": false,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=GMKmzQEACAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "NONE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "This magical moonlit rhyme is ideal for sharing and reading aloud with loved ones, and as a sturdy board book, it&#39;s perfect for even the littlest hands. The perfect gift to say &#39;I love you&#39; on Valentine&#39;s Day, or at any time of the year."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "2soiDAAAQBAJ",
+            "etag": "KgxfIEmHiTg",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/2soiDAAAQBAJ",
+            "volumeInfo": {
+                "title": "National Geographic Readers: Giraffes",
+                "authors": [
+                    "National Geographic Kids"
+                ],
+                "publisher": "National Geographic Society",
+                "publishedDate": "2016-07-12",
+                "description": "Explore the African savanna with giraffes in this exciting reader. Packed with beautiful and engaging photos, kids will learn all about these amazing animals. This level 1 reader is carefully leveled for an early independent reading or read aloud experience, perfect to encourage the scientists and explorers of tomorrow!",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781426324505"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "1426324502"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": true
+                },
+                "pageCount": 32,
+                "printType": "BOOK",
+                "categories": [
+                    "Juvenile Nonfiction"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "1.3.2.0.preview.3",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=2soiDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=2soiDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=2soiDAAAQBAJ&pg=PP1&dq=giraffes&hl=&as_pt=BOOKS&cd=17&source=gbs_api",
+                "infoLink": "http://books.google.com/books?id=2soiDAAAQBAJ&dq=giraffes&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/National_Geographic_Readers_Giraffes.html?hl=&id=2soiDAAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com/books/download/National_Geographic_Readers_Giraffes-sample-epub.acsm?id=2soiDAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com/books/download/National_Geographic_Readers_Giraffes-sample-pdf.acsm?id=2soiDAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=2soiDAAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "Explore the African savanna with giraffes in this exciting reader."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "s80RswEACAAJ",
+            "etag": "ayDIzzf/J38",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/s80RswEACAAJ",
+            "volumeInfo": {
+                "title": "Giraffes Ruin Everything",
+                "authors": [
+                    "Heidi Schulz"
+                ],
+                "publisher": "Bloomsbury Publishing USA",
+                "publishedDate": "2016-08-16",
+                "description": "It seems that giraffes will misbehave whether attending a birthday party, going to the movies, playing in the park, or just about anything else.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781619634756"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "1619634759"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 40,
+                "printType": "BOOK",
+                "categories": [
+                    "Juvenile Fiction"
+                ],
+                "averageRating": 3.5,
+                "ratingsCount": 2,
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "preview-1.0.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=s80RswEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=s80RswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=s80RswEACAAJ&dq=giraffes&hl=&as_pt=BOOKS&cd=18&source=gbs_api",
+                "infoLink": "http://books.google.com/books?id=s80RswEACAAJ&dq=giraffes&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Giraffes_Ruin_Everything.html?hl=&id=s80RswEACAAJ"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "NO_PAGES",
+                "embeddable": false,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=s80RswEACAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "NONE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "In case you were wondering, here&#39;s an incomplete list of things giraffes ruin: - Birthday parties - Going to the movies - Playing at the park - Hide and Seek - Everything else Yes, that&#39;s right. Giraffes ruin everything."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "ny2NBAAAQBAJ",
+            "etag": "hyhiPTqWYqY",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/ny2NBAAAQBAJ",
+            "volumeInfo": {
+                "title": "Giraffes For Kids - Amazing Animal Books For Young Readers",
+                "authors": [
+                    "John Davidson",
+                    "Valeria Arcas"
+                ],
+                "publisher": "JD-Biz Corp Publishing",
+                "publishedDate": "2013-05-15",
+                "description": "Giraffes For Kids Amazing Animal Books For Young Readers Bestselling author John Davidson presents \"Giraffes For Kids – Amazing Animal Books For Young Readers\". Beautiful Pictures and easy reading format will help children fall in love with Giraffes. This is one of over 30 books in the Amazing Animal Books for Young Readers Series. The series is known as one of the most beautiful on ebooks. The pictures look great even in black and white and are excellent on the full color ereaders. Lots of facts and photos will help your children learn about this wonderful animal. Children are given a well-rounded understanding of this beautiful animal: its anatomy, feeding habits and behavior. *** You and your kids will love learning about Giraffes*** Table of Contents Introduction Let’s Learn About Giraffes (Features) Giraffes and Their Home (Habitat) Chewing All Day Long. What Giraffes Eat? Are You Thirsty? How Giraffes Drink? Nap Time! How Giraffes Sleep? The Nursery - Giraffes and Their Babies Let’s Talk. How Giraffes Communicate? We Look The Same, But We are Not (Sub-species) Please Take Care of Me Come To Visit Me. (Captivity) A Little Bit of Information - Interesting Facts Conclusion Author Bio Introduction Let me introduce you to one of the most beautiful and elegant animals in the African savanna, they are majestic in appearance, with an unusual body form and a peculiar gait, walking with pride, monumental in height and so peaceful, its golden spotted pattern skin shines as the sun in the savanna. The Giraffe! You may have seen them at the zoo, as a tall plush toy in a toy shop or maybe in a movie or cartoon. These adorable creatures have a tender look that makes people want to hug and nurture them. Together we will discover amazing facts about giraffes. Where they live and how they live? What do they eat? How they sleep? Which animals are their fiercest predators and many other interesting facts about them, come on, take your water bottle put on your explorer hat and boots (don’t forget sun block too) and join me in this fantastic journey through the African savanna. Are you ready? Let’s begin and enjoy your reading!",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781310575747"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "1310575746"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 42,
+                "printType": "BOOK",
+                "categories": [
+                    "Juvenile Nonfiction"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": true,
+                "contentVersion": "preview-1.0.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=ny2NBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=ny2NBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=ny2NBAAAQBAJ&printsec=frontcover&dq=giraffes&hl=&as_pt=BOOKS&cd=19&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=ny2NBAAAQBAJ&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ny2NBAAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 2.99,
+                    "currencyCode": "USD"
+                },
+                "retailPrice": {
+                    "amount": 2.99,
+                    "currencyCode": "USD"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=ny2NBAAAQBAJ&rdid=book-ny2NBAAAQBAJ&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 2990000,
+                            "currencyCode": "USD"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 2990000,
+                            "currencyCode": "USD"
+                        },
+                        "giftable": true
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com/books/download/Giraffes_For_Kids_Amazing_Animal_Books_F-sample-pdf.acsm?id=ny2NBAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=ny2NBAAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "Beautiful Pictures and easy reading format will help children fall in love with Giraffes. This is one of over 30 books in the Amazing Animal Books for Young Readers Series. The series is known as one of the most beautiful on ebooks."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "63pjhSovJYcC",
+            "etag": "R9IOM/97TaE",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/63pjhSovJYcC",
+            "volumeInfo": {
+                "title": "Giraffes",
+                "authors": [
+                    "Nicole Helget"
+                ],
+                "publisher": "The Creative Company",
+                "publishedDate": "2008-07",
+                "description": "Introduces giraffes, discussing their physical characteristics, eating habits, behavior, habitat, life cycle, and efforts being made to ensure their future.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "1583416544"
+                    },
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781583416549"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 46,
+                "printType": "BOOK",
+                "categories": [
+                    "Juvenile Nonfiction"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.1.2.0.preview.1",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=63pjhSovJYcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=63pjhSovJYcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=63pjhSovJYcC&pg=PA30&dq=giraffes&hl=&as_pt=BOOKS&cd=20&source=gbs_api",
+                "infoLink": "http://books.google.com/books?id=63pjhSovJYcC&dq=giraffes&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Giraffes.html?hl=&id=63pjhSovJYcC"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=63pjhSovJYcC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "<b>Giraffes</b> appear to be calm and quiet most of the time . leopard , too . When the <b>giraffe</b> arrived , it did nothing but stand and gaze upon the crowd . Roman author Pliny the Elder described it as being “ quiet as a sheep ."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "X5ayk003sJwC",
+            "etag": "62dI+S0tw3M",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/X5ayk003sJwC",
+            "volumeInfo": {
+                "title": "Giraffes",
+                "authors": [
+                    "Donna Bailey"
+                ],
+                "publisher": "Heinemann/Raintree",
+                "publishedDate": "1991",
+                "description": "Studies the physical characteristics, behavior, and life cycle of the world's tallest animal.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "0811426467"
+                    },
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780811426466"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 32,
+                "printType": "BOOK",
+                "categories": [
+                    "Science"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.1.1.0.preview.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=X5ayk003sJwC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=X5ayk003sJwC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=X5ayk003sJwC&q=giraffes&dq=giraffes&hl=&as_pt=BOOKS&cd=21&source=gbs_api",
+                "infoLink": "http://books.google.com/books?id=X5ayk003sJwC&dq=giraffes&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Giraffes.html?hl=&id=X5ayk003sJwC"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "NO_PAGES",
+                "embeddable": false,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=X5ayk003sJwC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "NONE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "Studies the physical characteristics, behavior, and life cycle of the world&#39;s tallest animal."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "Wi1NDQAAQBAJ",
+            "etag": "fkL2ll1cQks",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/Wi1NDQAAQBAJ",
+            "volumeInfo": {
+                "title": "Giraffes",
+                "authors": [
+                    "Laura Marsh",
+                    "National Geographic Society (U.S.)"
+                ],
+                "publisher": "National Geographic Books",
+                "publishedDate": "2016",
+                "description": "Discusses the facts, habits and behaviors of giraffes.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781426324482"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "1426324480"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 32,
+                "printType": "BOOK",
+                "categories": [
+                    "Juvenile Nonfiction"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "1.1.0.0.preview.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=Wi1NDQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=Wi1NDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=Wi1NDQAAQBAJ&printsec=frontcover&dq=giraffes&hl=&as_pt=BOOKS&cd=22&source=gbs_api",
+                "infoLink": "http://books.google.com/books?id=Wi1NDQAAQBAJ&dq=giraffes&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Giraffes.html?hl=&id=Wi1NDQAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=Wi1NDQAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "Discusses the facts, habits and behaviors of giraffes."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "JBaxugEACAAJ",
+            "etag": "FhLWK2bZCPo",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/JBaxugEACAAJ",
+            "volumeInfo": {
+                "title": "What Do Giraffes Eat? (Russian Version)",
+                "subtitle": "Kids Animal Picture Book in Russian",
+                "authors": [
+                    "Greg Wachs"
+                ],
+                "publisher": "Createspace Independent Publishing Platform",
+                "publishedDate": "2018-08-06",
+                "description": "From the author of Milkshake Mermaid, Donut The Dragon, Oscar's Pasta, Cute Kitty in the Big Pizza City, and Anabelle and the Crumbs, Greg Wachs created another fun, and colorful book for kids. Brought to you by Funky Dreamer Storytime, this children's book is for 1-3 year olds for a fun and colorful way to lean what animals eat, \"What do Rabbits eat?,\" \"What do Eagles eat?,\" \"What do Mice Eat?,\" \"What do Monkeys Eat,\" and more! AND, your kids get to practice counting, \"Can you count the Carrots?,\" \"Can you count the Bananas?,\" \"Can you count the Leaves?.\" THEN, at the end of the book, there is a fun test, with all the animals on one page, \"What do they Eat?.\" Illustrated by Rituparna & Pratyush Chatterjee, the pictures are colorful and playful. THIS KIDS BOOK WILL SOON INCLUDE A FREE MATCHING PODCAST! Just go to iTunes and search for the podcast SERIES, \"FUNKY DREAMER STORYTIME,\" and your kids can read along as the podcast narrates the book. Plus, the podcast is layered with really cool music, making the reading experience extra fun! Of course you can just read the book, but give the book + podcast experience a try! Go to iTunes and search for, \"What Do Giraffes Eat?,\" or visit www.funkydreamerstorytime.com to listen of free. WHAT'S A POD-BOOK? Well that is when you pair a Kids book with a Kids Podcast, like Anabelle and the Crumbs, Milkshake Mermaid, Donut The Dragon, and SOON, What Do Giraffes Eat! The Podcast on iTunes and the Book on Amazon match word for word. Not only can you flip the pages as the Podcast narrates the the book for you, but ALSO, the matching podcast adds a new layer to Storytime - the music soundtrack. Add that to bedtime stories, and you get a very unique mix of books & music. Give it a try! The podcast is free, just search for Funky Dreamer Storytime on iTunes, or go to www.funkydreamerstorytime.com, then kick back, and enjoy the adventure!",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "1724542222"
+                    },
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781724542229"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 42,
+                "printType": "BOOK",
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "preview-1.0.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=JBaxugEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=JBaxugEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                },
+                "language": "ru",
+                "previewLink": "http://books.google.com/books?id=JBaxugEACAAJ&dq=giraffes&hl=&as_pt=BOOKS&cd=23&source=gbs_api",
+                "infoLink": "http://books.google.com/books?id=JBaxugEACAAJ&dq=giraffes&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/What_Do_Giraffes_Eat_Russian_Version.html?hl=&id=JBaxugEACAAJ"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "NO_PAGES",
+                "embeddable": false,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=JBaxugEACAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "NONE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "THIS KIDS BOOK WILL SOON INCLUDE A FREE MATCHING PODCAST! Just go to iTunes and search for the podcast SERIES, &quot;FUNKY DREAMER STORYTIME,&quot; and your kids can read along as the podcast narrates the book."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "5i5g3n5xzccC",
+            "etag": "r+PwdbHAVi8",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/5i5g3n5xzccC",
+            "volumeInfo": {
+                "title": "Giraffes",
+                "authors": [
+                    "Judith Jango-Cohen"
+                ],
+                "publisher": "Marshall Cavendish",
+                "publishedDate": "2002",
+                "description": "Describes the physical characteristics, behavior, and habitat of giraffes.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "0761412581"
+                    },
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780761412588"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 48,
+                "printType": "BOOK",
+                "categories": [
+                    "Juvenile Nonfiction"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.3.1.0.preview.1",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=5i5g3n5xzccC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=5i5g3n5xzccC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=5i5g3n5xzccC&pg=PA6&dq=giraffes&hl=&as_pt=BOOKS&cd=24&source=gbs_api",
+                "infoLink": "http://books.google.com/books?id=5i5g3n5xzccC&dq=giraffes&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Giraffes.html?hl=&id=5i5g3n5xzccC"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=5i5g3n5xzccC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "They got their first look at one when the emperor , Julius Caesar , brought a <b>giraffe</b> to Rome in 46 B.C. African people have been painting and carving pictures of <b>giraffes</b> for over five thousand years . African earth holds ancient&nbsp;..."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "33y_nLYIT-wC",
+            "etag": "NggK29PlNww",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/33y_nLYIT-wC",
+            "volumeInfo": {
+                "title": "Giraffes",
+                "authors": [
+                    "Sally Morgan"
+                ],
+                "publisher": "QEB Publishing",
+                "publishedDate": "2006",
+                "description": "Introduces giraffes, including where they live, types, life cycle, what they eat, how their senses work, how they move, how they communicate, and the threats that they face.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "1595662014"
+                    },
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781595662019"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 32,
+                "printType": "BOOK",
+                "categories": [
+                    "Juvenile Nonfiction"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "1.1.1.0.preview.0",
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=33y_nLYIT-wC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=33y_nLYIT-wC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=33y_nLYIT-wC&dq=giraffes&hl=&as_pt=BOOKS&cd=25&source=gbs_api",
+                "infoLink": "http://books.google.com/books?id=33y_nLYIT-wC&dq=giraffes&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Giraffes.html?hl=&id=33y_nLYIT-wC"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "NO_PAGES",
+                "embeddable": false,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=33y_nLYIT-wC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "NONE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "Introduces giraffes, including where they live, types, life cycle, what they eat, how their senses work, how they move, how they communicate, and the threats that they face."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "Cg3Jx3qKAHQC",
+            "etag": "D4cWTZKREAw",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/Cg3Jx3qKAHQC",
+            "volumeInfo": {
+                "title": "Giraffes",
+                "authors": [
+                    "Barbara Keevil Parker"
+                ],
+                "publisher": "Lerner Publications",
+                "publishedDate": "2005-01-01",
+                "description": "Discusses giraffes, including their eating habits, communication, physical traits, and relations with people.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "0822524198"
+                    },
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780822524199"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 47,
+                "printType": "BOOK",
+                "categories": [
+                    "Juvenile Nonfiction"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.2.2.0.preview.1",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=Cg3Jx3qKAHQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=Cg3Jx3qKAHQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=Cg3Jx3qKAHQC&pg=PA12&dq=giraffes&hl=&as_pt=BOOKS&cd=26&source=gbs_api",
+                "infoLink": "http://books.google.com/books?id=Cg3Jx3qKAHQC&dq=giraffes&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Giraffes.html?hl=&id=Cg3Jx3qKAHQC"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=Cg3Jx3qKAHQC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "This leopard is a <b>giraffe</b> enemy . <b>Giraffes</b> &#39; spots have a job to do . Spots make <b>giraffes</b> hard to see . When a <b>giraffe</b> stands next to bushes or trees , its spots blend in with the shadows and sunlight . Spots help <b>giraffes</b> hide from&nbsp;..."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "cBDNzQEACAAJ",
+            "etag": "kRH7UE+pqrk",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/cBDNzQEACAAJ",
+            "volumeInfo": {
+                "title": "Graceful Giraffe Coloring Book",
+                "subtitle": "Beautiful Giraffes Adult Coloring Book",
+                "authors": [
+                    "Dylanna Press"
+                ],
+                "publishedDate": "2020-08-25",
+                "description": "A beautiful adult coloring book of gorgeous giraffe designs. Contains 40 full-page illustrations. Carefully curated designs will provide hours of fun, stress relief, creativity, and relaxation. A variety of styles from simpler to complex allows colorists of all levels to enjoy and create.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "1647900549"
+                    },
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781647900540"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 82,
+                "printType": "BOOK",
+                "categories": [
+                    "Games & Activities"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "preview-1.0.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=cBDNzQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=cBDNzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=cBDNzQEACAAJ&dq=giraffes&hl=&as_pt=BOOKS&cd=27&source=gbs_api",
+                "infoLink": "http://books.google.com/books?id=cBDNzQEACAAJ&dq=giraffes&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Graceful_Giraffe_Coloring_Book.html?hl=&id=cBDNzQEACAAJ"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "NO_PAGES",
+                "embeddable": false,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=cBDNzQEACAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "NONE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "A beautiful adult coloring book of gorgeous giraffe designs."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "KEkaMtfEW1QC",
+            "etag": "GcKGxykNn+Y",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/KEkaMtfEW1QC",
+            "volumeInfo": {
+                "title": "Watching Giraffes in Africa",
+                "authors": [
+                    "Deborah Underwood"
+                ],
+                "publisher": "Capstone Classroom",
+                "publishedDate": "2006",
+                "description": "Describes the physical characteristics, behavior, diet, and life cycle of giraffes.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "1403472432"
+                    },
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781403472434"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 32,
+                "printType": "BOOK",
+                "categories": [
+                    "Juvenile Nonfiction"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.3.1.0.preview.1",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=KEkaMtfEW1QC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=KEkaMtfEW1QC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=KEkaMtfEW1QC&pg=PA4&dq=giraffes&hl=&as_pt=BOOKS&cd=28&source=gbs_api",
+                "infoLink": "http://books.google.com/books?id=KEkaMtfEW1QC&dq=giraffes&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Watching_Giraffes_in_Africa.html?hl=&id=KEkaMtfEW1QC"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=KEkaMtfEW1QC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "Meet the <b>Giraffes</b> This is Africa , home of <b>giraffes</b> . <b>Giraffes</b> are the tallest mammals in the world . To find a <b>giraffe</b> , look for a long neck , long legs , and spots . <b>Giraffes</b> are tall enough to peek into a second story window ."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "UhDbxQEACAAJ",
+            "etag": "Hyzcx7lkOT0",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/UhDbxQEACAAJ",
+            "volumeInfo": {
+                "title": "Giraffes",
+                "authors": [
+                    "Valerie Bodden"
+                ],
+                "publisher": "Creative Paperbacks",
+                "publishedDate": "2020-02-18",
+                "description": "From winged bats to furry wolves, and from leaping dolphins to stalking lions, the world of animals is wonderfully diverse. This popular series travels the planet to study these and other fascinating mammals, birds, reptiles, fish, and invertebrates. Beautiful photos are paired with STEM-appropriate text to examine the featured creature's appearance, habitat, behaviors, and life cycle. Each reissued title also presents a folk story that people have used to help explain the animal's appearance or behavior. This revised edition surveys key aspects of giraffes, describing the towering mammals' appearance, behaviors, and habitats. A folk tale explains why these creatures have long necks.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "1628327669"
+                    },
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781628327663"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 24,
+                "printType": "BOOK",
+                "categories": [
+                    "Juvenile Nonfiction"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "preview-1.0.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=UhDbxQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=UhDbxQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=UhDbxQEACAAJ&dq=giraffes&hl=&as_pt=BOOKS&cd=29&source=gbs_api",
+                "infoLink": "http://books.google.com/books?id=UhDbxQEACAAJ&dq=giraffes&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Giraffes.html?hl=&id=UhDbxQEACAAJ"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "NO_PAGES",
+                "embeddable": false,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=UhDbxQEACAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "NONE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "This revised edition surveys key aspects of giraffes, describing the towering mammals&#39; appearance, behaviors, and habitats. A folk tale explains why these creatures have long necks."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "nsBMDwAAQBAJ",
+            "etag": "rrL3umVzr7Y",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/nsBMDwAAQBAJ",
+            "volumeInfo": {
+                "title": "Giraffes on Horseback Salad",
+                "subtitle": "Salvador Dali, the Marx Brothers, and the Strangest Movie Never Made",
+                "authors": [
+                    "Josh Frank",
+                    "Tim Heidecker"
+                ],
+                "publisher": "Quirk Books",
+                "publishedDate": "2019-03-19",
+                "description": "This lushly illustrated graphic novel re-creates a lost Marx Brothers script written by modern art icon Salvador Dali. Grab some popcorn and take a seat...The curtain is about to rise on a film like no other! But first, the real-life backstory: Giraffes on Horseback Salad was a Marx Brothers film written by modern art icon Salvador Dali, who’d befriended Harpo. Rejected by MGM, the script was thought lost forever. Author and lost-film buff Josh Frank unearthed the original script, and Dali’s notes and sketches for the project, tucked away in museum archives. With comedian Tim Heidecker and Spanish comics creator Manuela Pertega, he’s re-created the film as a graphic novel in all its gorgeous full-color, cinematic, surreal glory. In the story, a businessman named Jimmy (played by Harpo) is drawn to the mysterious Surrealist Woman, whose very presence changes humdrum reality into Dali-esque fantasy. With the help of Groucho and Chico, Jimmy seeks to join her fantastical world—but forces of normalcy threaten to end their romance. Includes new Marx Brothers songs and antics, plus the real-world story behind the historic collaboration.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781594749247"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "1594749248"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": true
+                },
+                "pageCount": 224,
+                "printType": "BOOK",
+                "categories": [
+                    "Comics & Graphic Novels"
+                ],
+                "averageRating": 4,
+                "ratingsCount": 3,
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": true,
+                "contentVersion": "1.2.2.0.preview.3",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=nsBMDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=nsBMDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=nsBMDwAAQBAJ&printsec=frontcover&dq=giraffes&hl=&as_pt=BOOKS&cd=30&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=nsBMDwAAQBAJ&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=nsBMDwAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 15.99,
+                    "currencyCode": "USD"
+                },
+                "retailPrice": {
+                    "amount": 15.99,
+                    "currencyCode": "USD"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=nsBMDwAAQBAJ&rdid=book-nsBMDwAAQBAJ&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 15990000,
+                            "currencyCode": "USD"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 15990000,
+                            "currencyCode": "USD"
+                        },
+                        "giftable": true
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com/books/download/Giraffes_on_Horseback_Salad-sample-epub.acsm?id=nsBMDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com/books/download/Giraffes_on_Horseback_Salad-sample-pdf.acsm?id=nsBMDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=nsBMDwAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "In the story, a businessman named Jimmy (played by Harpo) is drawn to the mysterious Surrealist Woman, whose very presence changes humdrum reality into Dali-esque fantasy."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "MCcagkgePUcC",
+            "etag": "jU+NeAP4ihY",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/MCcagkgePUcC",
+            "volumeInfo": {
+                "title": "Giraffes",
+                "authors": [
+                    "Jill Kalz"
+                ],
+                "publisher": "The Creative Company",
+                "publishedDate": "2006",
+                "description": "Describes the physical characteristics, habitat, and behavior of giraffes.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "1583413502"
+                    },
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781583413500"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 31,
+                "printType": "BOOK",
+                "categories": [
+                    "Juvenile Nonfiction"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.4.3.0.preview.1",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=MCcagkgePUcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=MCcagkgePUcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=MCcagkgePUcC&pg=PP12&dq=giraffes&hl=&as_pt=BOOKS&cd=31&source=gbs_api",
+                "infoLink": "http://books.google.com/books?id=MCcagkgePUcC&dq=giraffes&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Giraffes.html?hl=&id=MCcagkgePUcC"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=MCcagkgePUcC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "No two <b>giraffes</b> look exactly alike . The pattern of brownish blotches on a <b>giraffe&#39;s</b> short , dense fur is as unique as a human fingerprint . But general patterns appear regularly and can be used to identify the region in which a <b>giraffe</b>&nbsp;..."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "GqyjiKYT7qUC",
+            "etag": "EHNEUc8lp88",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/GqyjiKYT7qUC",
+            "volumeInfo": {
+                "title": "Giraffes",
+                "authors": [
+                    "Lynn M. Stone"
+                ],
+                "publisher": "Vero Beach, Fla. : Rourke Corporation 1990.",
+                "publishedDate": "1990",
+                "description": "Describes the physical characteristics, habitat, and behavior of the giraffe.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "0865930503"
+                    },
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780865930506"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 24,
+                "printType": "BOOK",
+                "categories": [
+                    "Juvenile Nonfiction"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.1.2.0.preview.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=GqyjiKYT7qUC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=GqyjiKYT7qUC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=GqyjiKYT7qUC&q=giraffes&dq=giraffes&hl=&as_pt=BOOKS&cd=32&source=gbs_api",
+                "infoLink": "http://books.google.com/books?id=GqyjiKYT7qUC&dq=giraffes&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Giraffes.html?hl=&id=GqyjiKYT7qUC"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "NO_PAGES",
+                "embeddable": false,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=GqyjiKYT7qUC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "NONE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "Describes the physical characteristics, habitat, and behavior of the giraffe."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "uspCtAEACAAJ",
+            "etag": "r2stvKtxJv8",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/uspCtAEACAAJ",
+            "volumeInfo": {
+                "title": "Giraffes",
+                "authors": [
+                    "Laura Marsh"
+                ],
+                "publisher": "National Geographic Readers",
+                "publishedDate": "2017-10-02",
+                "description": "National Geographic Primary Readers is a high-interest series of beginning reading books that have been developed in consultation with education experts. The books pair magnificent National Geographic photographs with lively text by skilled children's book authors across four reading levels. Level 2: Becoming fluentThese books are a good match for kids who are developing reading stamina and enjoy a longer book. They are ideal for readers of Green, Orange and Turquoise books. Explore the African savanna with giraffes in this exciting reader. Packed with beautiful and engaging photos, kids will learn all about these amazing animals. This level 2 reader is carefully levelled for an early independent reading or read-aloud experience, perfect to encourage the scientists and explorers of tomorrow!",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "0008266638"
+                    },
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780008266639"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 32,
+                "printType": "BOOK",
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "preview-1.0.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=uspCtAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=uspCtAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=uspCtAEACAAJ&dq=giraffes&hl=&as_pt=BOOKS&cd=33&source=gbs_api",
+                "infoLink": "http://books.google.com/books?id=uspCtAEACAAJ&dq=giraffes&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Giraffes.html?hl=&id=uspCtAEACAAJ"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "NO_PAGES",
+                "embeddable": false,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=uspCtAEACAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "NONE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "The books pair magnificent National Geographic photographs with lively text by skilled children&#39;s book authors across four reading levels."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "U57LDAAAQBAJ",
+            "etag": "dbwRuy3gEQ8",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/U57LDAAAQBAJ",
+            "volumeInfo": {
+                "title": "The Giraffe",
+                "subtitle": "Biology, Ecology, Evolution and Behaviour",
+                "authors": [
+                    "Bryan Shorrocks"
+                ],
+                "publisher": "John Wiley & Sons",
+                "publishedDate": "2016-10-31",
+                "description": "Provides a comprehensive overview of one of nature's most engaging mammals Covers fossil history, taxonomy, genetics, physiology, biomechanics, behavior, ecology, and conservation Includes genetic analysis of five of the six subspecies of modern giraffes Includes giraffe network studies from Laikipia Kenya, Etosha National Park, Namibia andSamburu National Reserve, Kenya",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781118587478"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "1118587472"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 232,
+                "printType": "BOOK",
+                "categories": [
+                    "Science"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.3.0.0.preview.1",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=U57LDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=U57LDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=U57LDAAAQBAJ&printsec=frontcover&dq=giraffes&hl=&as_pt=BOOKS&cd=34&source=gbs_api",
+                "infoLink": "http://books.google.com/books?id=U57LDAAAQBAJ&dq=giraffes&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/The_Giraffe.html?hl=&id=U57LDAAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=U57LDAAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "The Giraffe: Biology, Ecology, Evolution and Behaviour reviews the fossil history, taxonomy, genetics, physiology, biomechanics, behaviour, ecology, and conservation of the giraffe."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "PZyBKbYB2ikC",
+            "etag": "aoyKsP8gZeY",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/PZyBKbYB2ikC",
+            "volumeInfo": {
+                "title": "Giraffes",
+                "subtitle": "Long-Necked Leaf-Eaters",
+                "authors": [
+                    "Lola M. Schaefer"
+                ],
+                "publisher": "Capstone",
+                "publishedDate": "2002",
+                "description": "Presents an introduction to giraffes describing their physical characteristics, habitat, young, food, predators, and relationship to people.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "0736809651"
+                    },
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780736809658"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 24,
+                "printType": "BOOK",
+                "categories": [
+                    "Juvenile Nonfiction"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.4.1.0.preview.1",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=PZyBKbYB2ikC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=PZyBKbYB2ikC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=PZyBKbYB2ikC&pg=PA3&dq=giraffes&hl=&as_pt=BOOKS&cd=35&source=gbs_api",
+                "infoLink": "http://books.google.com/books?id=PZyBKbYB2ikC&dq=giraffes&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Giraffes.html?hl=&id=PZyBKbYB2ikC"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=PZyBKbYB2ikC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "17 <b>Giraffes</b> .... <b>Giraffes</b> Are Mammals ... A <b>Giraffe&#39;s</b> Habitat Leaf - Eaters and Water - Sippers . How Do <b>Giraffes</b> Eat ? ... Mating and Birth .... <b>Giraffe</b> Calves Predators . <b>Giraffes</b> and People .. Hands On : Reach for the Trees ."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "NAeUjgEACAAJ",
+            "etag": "U7tSi3iGQ4M",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/NAeUjgEACAAJ",
+            "volumeInfo": {
+                "title": "Giraffes Can't Dance W/CD",
+                "authors": [
+                    "Giles Andreae"
+                ],
+                "publisher": "Perfection Learning",
+                "publishedDate": "2008-10",
+                "description": "Gerald is a giraffe that can't dance. Try as he might, his long, spindly legs buckle whenever he starts to boogie. Every year he dreads going to the Great Jungle Dance--until one night he finds his own special music. Full-color illustrations.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "162765982X"
+                    },
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781627659826"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "printType": "BOOK",
+                "categories": [
+                    "Juvenile Fiction"
+                ],
+                "averageRating": 5,
+                "ratingsCount": 1,
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "preview-1.0.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=NAeUjgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=NAeUjgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=NAeUjgEACAAJ&dq=giraffes&hl=&as_pt=BOOKS&cd=36&source=gbs_api",
+                "infoLink": "http://books.google.com/books?id=NAeUjgEACAAJ&dq=giraffes&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Giraffes_Can_t_Dance_W_CD.html?hl=&id=NAeUjgEACAAJ"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "NO_PAGES",
+                "embeddable": false,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=NAeUjgEACAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "NONE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "So Gerald starts swaying to his own sweet tune. With light-footed rhymes and high-stepping illustrations, this tale is gentle inspiration for every child with dreams of greatness."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "fvNcqsTlU5kC",
+            "etag": "KoUGnuSzq0s",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/fvNcqsTlU5kC",
+            "volumeInfo": {
+                "title": "Comparing Giraffes and Polar Bears",
+                "authors": [
+                    "Bobbie Neate"
+                ],
+                "publisher": "neate publishing",
+                "publishedDate": "2000",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "1903634024"
+                    },
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781903634028"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 24,
+                "printType": "BOOK",
+                "categories": [
+                    "Giraffe"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "2.5.3.0.preview.1",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=fvNcqsTlU5kC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=fvNcqsTlU5kC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=fvNcqsTlU5kC&printsec=frontcover&dq=giraffes&hl=&as_pt=BOOKS&cd=37&source=gbs_api",
+                "infoLink": "http://books.google.com/books?id=fvNcqsTlU5kC&dq=giraffes&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Comparing_Giraffes_and_Polar_Bears.html?hl=&id=fvNcqsTlU5kC"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=fvNcqsTlU5kC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "X6PyAwAAQBAJ",
+            "etag": "lkZ9RD5UyiM",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/X6PyAwAAQBAJ",
+            "volumeInfo": {
+                "title": "Giraffes: Long-Necked Wonders",
+                "subtitle": "A 15-Minute Book",
+                "authors": [
+                    "Caitlind L. Alexander"
+                ],
+                "publisher": "Learning Island",
+                "description": "The giraffe is that tallest animal alive today. A male giraffe can grow to be over 18 feet (5.5 metres) tall. That's taller than a two-story house! Giraffes look a bit like a horse with a stretched out neck and stretched out legs. They have long skinny legs and a very long neck. Their front legs are longer than their back legs. That is why their backs slope down toward their rump. Find out more about this wonderful animal and learn the answers to these questions: How thick is a giraffe’s skin? How many bones does a giraffe have in their neck? How big is a giraffe’s heart? What is different between the way a male giraffe eats and the way a female giraffe eats? What is strange about the way a giraffe walks? And many more! Learn what a giraffe looks like, where it lives, what it eats, what eats it, how babies are born, and other fun facts. Ages 7 - 10 Reading Level 3.2 All measurements in American and metric. LearningIsland.com believes in the value of children practicing reading for 15 minutes every day. Our 15-Minute Books give children lots of fun, exciting choices to read, from classic stories, to mysteries, to books of knowledge. Many books are appropriate for hi-lo readers. Open the world of reading to a child by having them read for 15 minutes a day.",
+                "readingModes": {
+                    "text": true,
+                    "image": true
+                },
+                "pageCount": 25,
+                "printType": "BOOK",
+                "categories": [
+                    "Juvenile Nonfiction"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "1.1.1.0.preview.3",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=X6PyAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=X6PyAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=X6PyAwAAQBAJ&pg=PT29&dq=giraffes&hl=&as_pt=BOOKS&cd=38&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=X6PyAwAAQBAJ&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=X6PyAwAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 0.99,
+                    "currencyCode": "USD"
+                },
+                "retailPrice": {
+                    "amount": 0.99,
+                    "currencyCode": "USD"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=X6PyAwAAQBAJ&rdid=book-X6PyAwAAQBAJ&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 990000,
+                            "currencyCode": "USD"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 990000,
+                            "currencyCode": "USD"
+                        },
+                        "giftable": true
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com/books/download/Giraffes_Long_Necked_Wonders-sample-epub.acsm?id=X6PyAwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com/books/download/Giraffes_Long_Necked_Wonders-sample-pdf.acsm?id=X6PyAwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=X6PyAwAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "<b>Giraffes</b> have the same enemies that a lot of animals in Africa do. Lions like to eat <b>giraffes</b>. So do hyenas and cheetahs. The <b>giraffe</b> can run faster than most of his enemies, but not the cheetah. The cheetah is the fastest animal on&nbsp;..."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "eT4jxu1PEgoC",
+            "etag": "89BUGo6Qx2s",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/eT4jxu1PEgoC",
+            "volumeInfo": {
+                "title": "Giraffes and Their Babies",
+                "authors": [
+                    "Marianne Johnston"
+                ],
+                "publisher": "The Rosen Publishing Group",
+                "publishedDate": "1999",
+                "description": "Describes the characteristics of giraffes and how mother giraffes living in zoos are taught to care for their babies.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "0823953165"
+                    },
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780823953165"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 24,
+                "printType": "BOOK",
+                "categories": [
+                    "Juvenile Nonfiction"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.6.5.0.preview.1",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=eT4jxu1PEgoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=eT4jxu1PEgoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=eT4jxu1PEgoC&pg=PA5&dq=giraffes&hl=&as_pt=BOOKS&cd=39&source=gbs_api",
+                "infoLink": "http://books.google.com/books?id=eT4jxu1PEgoC&dq=giraffes&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Giraffes_and_Their_Babies.html?hl=&id=eT4jxu1PEgoC"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=eT4jxu1PEgoC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "<b>Giraffes</b> are the tallest land animals in the world . Most <b>giraffes</b> grow to be sixteen to eighteen feet tall . The tallest <b>giraffe</b> known to man was nineteen feet tall . A <b>giraffe&#39;s</b> long neck has the same number of bones as a human&#39;s neck&nbsp;..."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "javXDwAAQBAJ",
+            "etag": "dvq/AkvN2fw",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/javXDwAAQBAJ",
+            "volumeInfo": {
+                "title": "How Giraffes Grow Up",
+                "authors": [
+                    "Linda Bozzo"
+                ],
+                "publisher": "Enslow Publishing, LLC",
+                "publishedDate": "2019-07-15",
+                "description": "Readers will learn all about baby giraffes, including what they eat and how they fall six feet to the ground when they are born. Amazing photographs of these super-cute animals are accompanied by Fast Facts. This book supports the Next Generation Science Standards on growth and development of organisms, biodiversity, and social interactions in animal groups by exploring such details as how calves learn to stand within a half hour after being born, and how they protect themselves in the wild. Budding scientists can follow giraffe calves as they grow into independent adults.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781978508279"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "1978508271"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 24,
+                "printType": "BOOK",
+                "categories": [
+                    "Juvenile Nonfiction"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.0.1.0.preview.1",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=javXDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=javXDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=javXDwAAQBAJ&pg=PA24&dq=giraffes&hl=&as_pt=BOOKS&cd=40&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=javXDwAAQBAJ&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=javXDwAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 22.6,
+                    "currencyCode": "USD"
+                },
+                "retailPrice": {
+                    "amount": 13.56,
+                    "currencyCode": "USD"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=javXDwAAQBAJ&rdid=book-javXDwAAQBAJ&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 22600000,
+                            "currencyCode": "USD"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 13560000,
+                            "currencyCode": "USD"
+                        },
+                        "giftable": true
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com/books/download/How_Giraffes_Grow_Up-sample-pdf.acsm?id=javXDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=javXDwAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "LEARN MORE 24 INDEX <b>Giraffes</b> are famous for their long necks and legs. A. Books Borgert-Spaniol, Megan. Baby <b>Giraffes</b>. Minneapolis, MN: Bellwether Media, 2016. Hansen, Grace. <b>Giraffes</b>. Minneapolis, MN: Abdo Kids, 2017."
+            }
+        }
     ]
 }
