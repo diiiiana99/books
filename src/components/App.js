@@ -3,7 +3,8 @@ import React, {useState,useEffect} from 'react';
 import axios from "axios";
 import '../App.css';
 import NavBar from './NavBar';
-import BookList from './BookList';
+import HomePage from './HomePage';
+import SearchResults from "./SearchResults";
 import { Route, Switch } from "react-router-dom";
 
 // updates to state variables are being delayed by one action
@@ -36,31 +37,41 @@ let single = "https://www.googleapis.com/books/v1/volumes/XfFvDwAAQBAJ?key="+api
 function App() {
   let [books,setBooks]= useState([])
 
-  // initial book render
-  useEffect(()=>{
-    axios.get(localZebras)
-    .then(r=> {
-      setBooks(r.data)
-    })
-    console.log(books)
-  }, [])
+    //search function
+  const [search,setSearch]=useState('');
 
+  function handleChange(event){
+      setSearch(event.target.value);
+  }
+
+  function handleSubmit(event){
+      event.preventDefault();
+      let burl= `https://www.googleapis.com/books/v1/volumes?q=${search}&printType=books&key=${apiKey}&maxResults=40`
+      axios.get(burl)
+      .then(r=> {
+          setBooks(r.data.items)
+      })
+  }
+  
   return (
     <div className="App">
       <div className='container'>
         <NavBar 
-          setBooks={setBooks}
-          apiKey={apiKey}
+          onChange={handleChange}
+          onSubmit={handleSubmit}
         />
         <Switch>
-          <Route path="/books">
-            <BookList
+          <Route exact path="/">
+            <HomePage
               books={books}
               apiKey={apiKey}
+              setBooks={setBooks}
             />
           </Route>
-          <Route exact path="/">
-            <div>Home</div>
+          <Route path ='/search-results'>
+            <SearchResults 
+              
+            />
           </Route>
         </Switch>
       </div>
