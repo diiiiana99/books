@@ -2,21 +2,31 @@ import React, {useState,useEffect} from 'react';
 import axios from "axios";
 import BookCard from "./BookCard";
 
-
-function SearchResults({books,setBooks, search,apiKey}){
-    // let burl= `https://www.googleapis.com/books/v1/volumes?q=${search}&printType=books&key=${apiKey}&maxResults=40`
+let allanKey= 'AIzaSyDVGpNSqYZdyylw2q3fRDfa2cVe2A7xDHU'
+function SearchResults({books,setBooks,search,apiKey}){
+    let searchUrl= `https://www.googleapis.com/books/v1/volumes?q=intitle:${search}&printType=books&key=${allanKey}&maxResults=40`
     let localZebras = 'http://localhost:4000/zebras'
+    let localGiraffes = ' http://localhost:4000/giraffes'
+    let localSputnik = 'http://localhost:4000/sputnik'
+    let localDune = 'http://localhost:4000/dune'
 
-    useEffect(()=>{
-        axios.get(localZebras)
-        .then(r=> {
-            setBooks(r.data)
-        })
-    },[])
+    let [searchResults,setSearchResults] = useState([])
+
+    // useEffect(()=>{
+    //     if (search===''){
+    //         axios.get(localGiraffes)
+    //         .then(r=> {
+    //             console.log(r.data)
+    //             setSearchResults(r.data)
+    //         })    
+    //     } else{
+
+    //     }
+    // },[search])
 
           // update books to display 
     let filteredBooks = books.filter((book)=>{
-    return book.volumeInfo.imageLinks !== undefined & book.volumeInfo.categories.includes('Performing Arts')
+    return book.volumeInfo.imageLinks !== undefined
         })
 
     let booksToDisplay = filteredBooks.map((book, i)=>{
@@ -28,9 +38,10 @@ function SearchResults({books,setBooks, search,apiKey}){
 
     return(
         <React.Fragment>
+            <div>{searchUrl}</div>
             <div> 
                     {booksToDisplay}
-            </div> 
+            </div>
 
         </React.Fragment>
     )

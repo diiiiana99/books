@@ -2,10 +2,15 @@ import React, {useState,useEffect} from "react";
 import axios from "axios";
 import BookCard from "./BookCard";
 
-let localZebras = 'http://localhost:4000/zebras'
-
+let localZebras = 'http://localhost:4000/zebras';
+let localGiraffes = ' http://localhost:4000/giraffes'
+let localSputnik = 'http://localhost:4000/sputnik'
 
 function HomePage( {books, setBooks, apiKey} ) {
+
+    let [books2,setBooks2]= useState([]);
+    let [books3,setBooks3]= useState([]);
+
 
       // initial book render
     useEffect(()=>{
@@ -25,6 +30,45 @@ function HomePage( {books, setBooks, apiKey} ) {
             <BookCard book={book} key={i}/>
             )
         })
+
+    useEffect(()=>{
+        axios.get(localGiraffes)
+        .then(r=> {
+        setBooks2(r.data)
+        })
+        console.log(books)
+    }, [])
+
+        // update books to display 
+    let filteredBooks2 = books2.filter((book)=>{
+        return book.volumeInfo.imageLinks !== undefined
+    })
+    let booksToDisplay2 = filteredBooks2.map((book, i)=>{
+        return (
+            <BookCard book={book} key={i}/>
+            )
+        })
+
+    useEffect(()=>{
+        axios.get(localSputnik)
+        .then(r=> {
+        setBooks3(r.data)
+        })
+        console.log(books)
+    }, [])
+
+        // update books to display 
+    let filteredBooks3 = books3.filter((book)=>{
+        return book.volumeInfo.imageLinks !== undefined
+    })
+    let booksToDisplay3 = filteredBooks3.map((book, i)=>{
+        return (
+            <BookCard book={book} key={i}/>
+            )
+        })
+    
+    
+    
 
     // let nytURL='https://api.nytimes.com/svc/books/v3/lists/current/hardcover-fiction.json?api-key=a8Y1LuFG60g1s9EqYAQ0ZgxEdIZIdnj3';
 
@@ -83,12 +127,12 @@ function HomePage( {books, setBooks, apiKey} ) {
             <h1>Trending Authors</h1>
             <div className='book-carousel'> 
                     {/* {bestSellersToDisplay} */}
-                    {booksToDisplay}
+                    {booksToDisplay2}
             </div> 
             <h1>Classics</h1>
             <div className='book-carousel'> 
                     {/* {bestSellersToDisplay} */}
-                    {booksToDisplay}
+                    {booksToDisplay3}
             </div> 
 
         </React.Fragment>
