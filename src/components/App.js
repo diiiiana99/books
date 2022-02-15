@@ -5,6 +5,7 @@ import '../App.css';
 import NavBar from './NavBar';
 import HomePage from './HomePage';
 import SearchResults from "./SearchResults";
+import SelectedBook from './SelectedBook';
 import { Route, Switch } from "react-router-dom";
 
 // updates to state variables are being delayed by one action
@@ -63,11 +64,16 @@ function App() {
               setBooks={setBooks}
             />
           </Route>
-          <Route path ='/search-results'>
+          <Route exact path ='/search-results/:searchText'>
             <SearchResults
-            books={books} 
-             search= {search}
-             setBooks={setBooks}
+              books={books} 
+              search= {search}
+              setBooks={setBooks}
+            />
+          </Route>
+          <Route exact path ='/book/:bookId'>
+            <SelectedBook
+              books={books}
             />
           </Route>
         </Switch>

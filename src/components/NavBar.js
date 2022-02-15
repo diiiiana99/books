@@ -13,7 +13,6 @@ function NavBar({ onChange, onSubmit}) {
         marginBottom: "12px",
       }}
     >
-    <h1>Book-Report</h1>
     <NavLink style={{ marginRight: "10px" }} to="/">
         <img src={logo} alt="Logo" />
     </NavLink>
