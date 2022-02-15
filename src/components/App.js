@@ -29,9 +29,10 @@ function App() {
 
   // initial book render
   useEffect(()=>{
-    axios.get(zebras)
+    axios.get('http://localhost:3000/zebras')
     .then(r=> {
-      setBooks(r.data.items)
+      console.log(r.data)
+      setBooks(r.data)
     })
   }, [])
 
