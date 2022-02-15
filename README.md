@@ -10,7 +10,7 @@ Google Books API Field Documentation:
 
 https://www.googleapis.com/books/v1/volumes?q={{{atomic}}}+inauthor:{{{clear}}}&printType={{{books}}}&projection=lite&key=AIzaSyDQgG9PY_tH65Mss-EP1a8M_YQNZqORmys
 
-* q= "search text for title"
+* q= "search text"
 * +inauthor= "search text for author name"
 * &printType= "books" or "magazines
 

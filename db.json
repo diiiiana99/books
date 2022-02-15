@@ -1,0 +1,3238 @@
+ { "zebras":  [    
+        {
+            "kind": "books#volume",
+            "id": "MvYGrFNK_h0C",
+            "etag": "YC+CWcEKBuo",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/MvYGrFNK_h0C",
+            "volumeInfo": {
+                "title": "What If the Zebras Lost Their Stripes?",
+                "authors": [
+                    "John Reitano"
+                ],
+                "publishedDate": "1998",
+                "description": "If the zebras lost their stripes and became different from one another, some white and some black, would they turn and fight each other and stop living life as loving friends?.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780809166497"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "0809166496"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": false
+                },
+                "pageCount": 32,
+                "printType": "BOOK",
+                "categories": [
+                    "Juvenile Nonfiction"
+                ],
+                "averageRating": 4.5,
+                "ratingsCount": 5,
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.0.2.0.preview.2",
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=MvYGrFNK_h0C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=MvYGrFNK_h0C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=MvYGrFNK_h0C&dq=zebras&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+                "infoLink": "http://books.google.com/books?id=MvYGrFNK_h0C&dq=zebras&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/What_If_the_Zebras_Lost_Their_Stripes.html?hl=&id=MvYGrFNK_h0C"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "NO_PAGES",
+                "embeddable": false,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true
+                },
+                "pdf": {
+                    "isAvailable": true
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=MvYGrFNK_h0C&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "NONE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "If the zebras lost their stripes and became different from one another, some white and some black, would they turn and fight each other and stop living life as loving friends?."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "KJCEDQAAQBAJ",
+            "etag": "aHVXBbea/9U",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/KJCEDQAAQBAJ",
+            "volumeInfo": {
+                "title": "Zebra Stripes",
+                "authors": [
+                    "Tim Caro"
+                ],
+                "publisher": "University of Chicago Press",
+                "publishedDate": "2016-12-05",
+                "description": "Why do zebras have stripes? Popular explanations range from camouflage to confusion of predators, social facilitation, and even temperature regulation. It is a challenge to test these proposals on large animals living in the wild, but using a combination of careful observations, simple field experiments, comparative information, and logic, Caro concludes that black-and-white stripes are an adaptation to thwart biting fly attack.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780226411019"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "022641101X"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 318,
+                "printType": "BOOK",
+                "categories": [
+                    "Science"
+                ],
+                "averageRating": 4,
+                "ratingsCount": 1,
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "preview-1.0.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=KJCEDQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=KJCEDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=KJCEDQAAQBAJ&printsec=frontcover&dq=zebras&hl=&as_pt=BOOKS&cd=2&source=gbs_api",
+                "infoLink": "http://books.google.com/books?id=KJCEDQAAQBAJ&dq=zebras&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Zebra_Stripes.html?hl=&id=KJCEDQAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=KJCEDQAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "It is a challenge to test these proposals on large animals living in the wild, but using a combination of careful observations, simple field experiments, comparative information, and logic, Caro concludes that black-and-white stripes are an ..."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "eNxhhrDg_sQC",
+            "etag": "qcCzVFc6JWI",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/eNxhhrDg_sQC",
+            "volumeInfo": {
+                "title": "A Zeal of Zebras",
+                "subtitle": "An Alphabet of Collective Nouns",
+                "authors": [
+                    "Woop Studios"
+                ],
+                "publisher": "Chronicle Books",
+                "publishedDate": "2012-06-22",
+                "description": "An embarrassment of pandas, a galaxy of starfish, a shiver of sharks...these are all collective nouns used to describe their groups. Woop Studios, acclaimed for their work on the Harry Potter movies, has illustrated these quirky phrases, creating a series of extraordinarily beautiful art that has been collected here for the first time. The colorful introduction to animals and the alphabet is accessible for young children, while the gorgeous, whimsical art and clever wordplay make it perfect for design-savvy parents and inspired gift givers. Longer than the standard picture book, with high design and production values, this is a volume readers will want on their coffee tables in addition to their child's bookshelf.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781452119793"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "1452119791"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": true
+                },
+                "pageCount": 64,
+                "printType": "BOOK",
+                "categories": [
+                    "Juvenile Fiction"
+                ],
+                "averageRating": 4.5,
+                "ratingsCount": 2,
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.3.2.0.preview.3",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=eNxhhrDg_sQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=eNxhhrDg_sQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=eNxhhrDg_sQC&printsec=frontcover&dq=zebras&hl=&as_pt=BOOKS&cd=3&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=eNxhhrDg_sQC&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=eNxhhrDg_sQC"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 11.99,
+                    "currencyCode": "USD"
+                },
+                "retailPrice": {
+                    "amount": 9.59,
+                    "currencyCode": "USD"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=eNxhhrDg_sQC&rdid=book-eNxhhrDg_sQC&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 11990000,
+                            "currencyCode": "USD"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 9590000,
+                            "currencyCode": "USD"
+                        },
+                        "giftable": true
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com/books/download/A_Zeal_of_Zebras-sample-epub.acsm?id=eNxhhrDg_sQC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com/books/download/A_Zeal_of_Zebras-sample-pdf.acsm?id=eNxhhrDg_sQC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=eNxhhrDg_sQC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "An embarrassment of pandas, a galaxy of starfish, a shiver of sharks...these are all collective nouns used to describe their groups."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "4nK9mu4VFXsC",
+            "etag": "n+Dubh3bcwg",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/4nK9mu4VFXsC",
+            "volumeInfo": {
+                "title": "Zebras",
+                "authors": [
+                    "Lynn M. Stone"
+                ],
+                "publisher": "Lerner Publications",
+                "publishedDate": "2008-01-01",
+                "description": "Describes the different types of zebras, where they live, how they socialize and protect their young from predators, and the dangers zebras face from urban growth in Africa.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780822575115"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "0822575116"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 48,
+                "printType": "BOOK",
+                "categories": [
+                    "Juvenile Nonfiction"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "preview-1.0.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=4nK9mu4VFXsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=4nK9mu4VFXsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=4nK9mu4VFXsC&printsec=frontcover&dq=zebras&hl=&as_pt=BOOKS&cd=4&source=gbs_api",
+                "infoLink": "http://books.google.com/books?id=4nK9mu4VFXsC&dq=zebras&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Zebras.html?hl=&id=4nK9mu4VFXsC"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=4nK9mu4VFXsC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "Describes the different types of zebras, where they live, how they socialize and protect their young from predators, and the dangers zebras face from urban growth in Africa."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "afjzIFJkMuwC",
+            "etag": "ZHNVok2pqfo",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/afjzIFJkMuwC",
+            "volumeInfo": {
+                "title": "Zebras",
+                "authors": [
+                    "Melissa Stewart"
+                ],
+                "publisher": "Childrens Press",
+                "publishedDate": "2002",
+                "description": "An overview of the physical characteristics, behavior, habitat, and different varieties of zebras.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "0516222031"
+                    },
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780516222035"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 47,
+                "printType": "BOOK",
+                "categories": [
+                    "Juvenile Nonfiction"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.0.1.0.preview.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=afjzIFJkMuwC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=afjzIFJkMuwC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=afjzIFJkMuwC&q=zebras&dq=zebras&hl=&as_pt=BOOKS&cd=5&source=gbs_api",
+                "infoLink": "http://books.google.com/books?id=afjzIFJkMuwC&dq=zebras&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Zebras.html?hl=&id=afjzIFJkMuwC"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "NO_PAGES",
+                "embeddable": false,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=afjzIFJkMuwC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "NONE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "An overview of the physical characteristics, behavior, habitat, and different varieties of zebras."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "51pnuddML9cC",
+            "etag": "zVSr/W83RrI",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/51pnuddML9cC",
+            "volumeInfo": {
+                "title": "Zebras",
+                "authors": [
+                    "Julie Murray"
+                ],
+                "publisher": "ABDO",
+                "publishedDate": "2012-01-01",
+                "description": "Bold colors, easy-to-read text, and oversized, striking photos introduce young readers to the zebra! Readers will discover the zebra's unique body features, diet, social behavior, habitat, ways of communication, predators, methods of defense, and threats to its survival. In addition, readers will learn about the life of a baby zebra, from foal to independence. Maps highlight zebra territory, fun facts appear throughout, and the book closes with a full page of kid-friendly zebra facts. This title will leave readers with a deeper appreciation of the continent of Africa and the incredible zebra! Features include a table of contents, fun facts, maps, a glossary with phonetic spellings, and an index. Aligned to Common Core Standards and correlated to state standards. Big Buddy Books is an imprint of Abdo Publishing, a division of ABDO.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781614784777"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "1614784779"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 32,
+                "printType": "BOOK",
+                "categories": [
+                    "Juvenile Nonfiction"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "preview-1.0.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=51pnuddML9cC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=51pnuddML9cC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=51pnuddML9cC&printsec=frontcover&dq=zebras&hl=&as_pt=BOOKS&cd=6&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=51pnuddML9cC&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=51pnuddML9cC"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 29.93,
+                    "currencyCode": "USD"
+                },
+                "retailPrice": {
+                    "amount": 29.93,
+                    "currencyCode": "USD"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=51pnuddML9cC&rdid=book-51pnuddML9cC&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 29930000,
+                            "currencyCode": "USD"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 29930000,
+                            "currencyCode": "USD"
+                        },
+                        "giftable": true
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com/books/download/Zebras-sample-pdf.acsm?id=51pnuddML9cC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=51pnuddML9cC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "In addition, readers will learn about the life of a baby zebra, from foal to independence. Maps highlight zebra territory, fun facts appear throughout, and the book closes with a full page of kid-friendly zebra facts."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "vehQ8VIQjkIC",
+            "etag": "fIAHHTm9ytY",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/vehQ8VIQjkIC",
+            "volumeInfo": {
+                "title": "Zebras",
+                "authors": [
+                    "Derek Zobel"
+                ],
+                "publisher": "Bellwether Media",
+                "publishedDate": "2011-08-01",
+                "description": "\"Developed by literacy experts for students in kindergarten through grade three, this book introduces zebras to young readers through leveled text and related photos\"--Provided by publisher.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781600146114"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "1600146112"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 24,
+                "printType": "BOOK",
+                "categories": [
+                    "Juvenile Nonfiction"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.2.0.0.preview.1",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=vehQ8VIQjkIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=vehQ8VIQjkIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=vehQ8VIQjkIC&printsec=frontcover&dq=zebras&hl=&as_pt=BOOKS&cd=7&source=gbs_api",
+                "infoLink": "http://books.google.com/books?id=vehQ8VIQjkIC&dq=zebras&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Zebras.html?hl=&id=vehQ8VIQjkIC"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=vehQ8VIQjkIC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "&quot;Developed by literacy experts for students in kindergarten through grade three, this book introduces zebras to young readers through leveled text and related photos&quot;--Provided by publisher."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "FhVvo3PcWPUC",
+            "etag": "iUNZr+WXuDk",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/FhVvo3PcWPUC",
+            "volumeInfo": {
+                "title": "Zebras and Cheetahs",
+                "subtitle": "Look Different and Stay Agile to Survive the Business Jungle",
+                "authors": [
+                    "Micheal J. Burt",
+                    "Colby B. Jubenville"
+                ],
+                "publisher": "John Wiley & Sons",
+                "publishedDate": "2013-04-16",
+                "description": "Leaders, business owners, entrepreneurs, managers, and CEOs are all obsessed with one thing: Growth. But, growth can be incredibly complicated, disconnected, and confusing for everyone involved. Enter the Zebra and Cheetah Philosophy, Model, and Leader. Zebras and Cheetahs is a philosophy that redefines leadership and results in a new perspective and mind-set. Zebras and Cheetahs is a model that takes the complicated growth of organizations and makes it simple, engaging, and fun. It allows leadership to define roles so that everyone understands where they fit, offers the highest value of everyone's time toward a dominant aspiration and focus, increases accountability, tracks and measures success, and drastically enhances the energy of your tribe in exciting ways. A competitive marketplace demands that you distinguish yourself from your competitors, be quicker to market, and change course whenever you find your organization on the wrong side of the profit-and-loss sheet. This book teaches you how to look different and stay agile to survive the business jungle. Zebras and Cheetahs can help any size organization learn to act with speed and precision, with proven leadership guidance on how to: Identify your unique value that comes from your unique perspective, education, experience, and struggle Understand what leadership qualities you possess and can further develop to become a leader your tribe will want to follow instead of have to follow Cultivate passion in your tribe by providing opportunities to learn, grow, contribute, and be recognized Help your tribe make the shift and embrace a dominant aspiration and focus Keep your motivational arsenal well stocked And much more! Zebras and Cheetahs provides a glimpse into the concrete jungle, with lessons on how to close the gap through speed and integration of work initiatives to get ahead. Escape the chaos around you to truly reign as king of the concrete jungle.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781118644782"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "1118644786"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 240,
+                "printType": "BOOK",
+                "categories": [
+                    "Business & Economics"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": true,
+                "contentVersion": "0.1.0.0.preview.1",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=FhVvo3PcWPUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=FhVvo3PcWPUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=FhVvo3PcWPUC&printsec=frontcover&dq=zebras&hl=&as_pt=BOOKS&cd=8&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=FhVvo3PcWPUC&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=FhVvo3PcWPUC"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 15,
+                    "currencyCode": "USD"
+                },
+                "retailPrice": {
+                    "amount": 15,
+                    "currencyCode": "USD"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=FhVvo3PcWPUC&rdid=book-FhVvo3PcWPUC&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 15000000,
+                            "currencyCode": "USD"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 15000000,
+                            "currencyCode": "USD"
+                        },
+                        "giftable": true
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com/books/download/Zebras_and_Cheetahs-sample-pdf.acsm?id=FhVvo3PcWPUC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=FhVvo3PcWPUC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "This book teaches you how to look different and stay agile to survive the business jungle."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "8GxaDwAAQBAJ",
+            "etag": "m80hirbbRCc",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/8GxaDwAAQBAJ",
+            "volumeInfo": {
+                "title": "Zebra",
+                "authors": [
+                    "Christopher Plumb",
+                    "Samuel Shaw"
+                ],
+                "publisher": "Reaktion Books",
+                "publishedDate": "2018-05-15",
+                "description": "Common and exotic, glamorous and ferocious, sociable and sullen: zebras mean many things to many people. But one facet of zebras universally fascinates: their stripes. The extraordinary beauty of zebras’ striped coats has ensured their status as one of the world’s most recognizable and popular animals. Zebra print is everywhere in contemporary society—on beanbags and bikinis, car seats and pencil cases. Many zoos house a zebra or two, and they are a common feature of children’s books and films. Zebras have been immortalized in paint by artists, including George Stubbs and Lucian Freud, and they even have a road crossing named after them. But despite their ubiquity, the natural and cultural history of zebras remain a mystery to most. Zebra is the most comprehensive and wide-ranging survey ever published of the natural and cultural history of this cherished animal, exploring its biology and cultural relevance in Africa and beyond. Few know that there are three species of zebra (plains, mountain, and Grévy's), that one of these is currently endangered, or that among the many subspecies was once found the quagga, an animal that once roamed southern Africa in large numbers before dying out in the 1880s. Drawing on a range of examples as dizzying as the zebra’s stripes, this book shows how the zebra’s history engages and intersects with subjects as diverse and rich as eighteenth-century humor, imperialism, and technologies of concealment. Including more than one hundred illustrations, many previously unpublished, Zebra offers a new perspective on this much-loved, much-depicted, but frequently misunderstood animal.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781780239712"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "1780239718"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": true
+                },
+                "pageCount": 216,
+                "printType": "BOOK",
+                "categories": [
+                    "Nature"
+                ],
+                "averageRating": 5,
+                "ratingsCount": 1,
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "1.1.2.0.preview.3",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=8GxaDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=8GxaDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=8GxaDwAAQBAJ&pg=PP1&dq=zebras&hl=&as_pt=BOOKS&cd=9&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=8GxaDwAAQBAJ&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=8GxaDwAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 19.95,
+                    "currencyCode": "USD"
+                },
+                "retailPrice": {
+                    "amount": 9.99,
+                    "currencyCode": "USD"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=8GxaDwAAQBAJ&rdid=book-8GxaDwAAQBAJ&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 19950000,
+                            "currencyCode": "USD"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 9990000,
+                            "currencyCode": "USD"
+                        },
+                        "giftable": true
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com/books/download/Zebra-sample-epub.acsm?id=8GxaDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com/books/download/Zebra-sample-pdf.acsm?id=8GxaDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=8GxaDwAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "Few know that there are three species of zebra (plains, mountain, and Grévy&#39;s), that one of these is currently endangered, or that among the many subspecies was once found the quagga, an animal that once roamed southern Africa in large ..."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "brZwDwAAQBAJ",
+            "etag": "Z3t0lAftKFk",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/brZwDwAAQBAJ",
+            "volumeInfo": {
+                "title": "Baby Zebras",
+                "authors": [
+                    "Megan Borgert-Spaniol"
+                ],
+                "publisher": "Bellwether Media",
+                "publishedDate": "2017-01-01",
+                "description": "ItÕs a wobbly beginning for baby zebras. Newborns have to get used to their long legs. But in no time, they are running with the herd! The youngest readers are sure to be hypnotized by the stripes of the most adorable baby zebras.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781681032771"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "1681032775"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 24,
+                "printType": "BOOK",
+                "categories": [
+                    "Juvenile Nonfiction"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "preview-1.0.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=brZwDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=brZwDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=brZwDwAAQBAJ&pg=PA1&dq=zebras&hl=&as_pt=BOOKS&cd=10&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=brZwDwAAQBAJ&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=brZwDwAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 6.99,
+                    "currencyCode": "USD"
+                },
+                "retailPrice": {
+                    "amount": 6.99,
+                    "currencyCode": "USD"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=brZwDwAAQBAJ&rdid=book-brZwDwAAQBAJ&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 6990000,
+                            "currencyCode": "USD"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 6990000,
+                            "currencyCode": "USD"
+                        },
+                        "giftable": true
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com/books/download/Baby_Zebras-sample-pdf.acsm?id=brZwDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=brZwDwAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "ItÕs a wobbly beginning for baby zebras. Newborns have to get used to their long legs. But in no time, they are running with the herd! The youngest readers are sure to be hypnotized by the stripes of the most adorable baby zebras."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "N61dbDly5wgC",
+            "etag": "YLdgnLUCG0Q",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/N61dbDly5wgC",
+            "volumeInfo": {
+                "title": "Zebras",
+                "authors": [
+                    "Christina Wilsdon"
+                ],
+                "publisher": "Gareth Stevens Publishing LLLP",
+                "publishedDate": "2009-01-01",
+                "description": "Presents an introduction to zebras, discussing their physical characteristics, different types, herding behavior, life cycle, and future threats to the Grevy and mountain zebras.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "0836891139"
+                    },
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780836891133"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 48,
+                "printType": "BOOK",
+                "categories": [
+                    "Juvenile Nonfiction"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "2.2.5.0.preview.1",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=N61dbDly5wgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=N61dbDly5wgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=N61dbDly5wgC&printsec=frontcover&dq=zebras&hl=&as_pt=BOOKS&cd=11&source=gbs_api",
+                "infoLink": "http://books.google.com/books?id=N61dbDly5wgC&dq=zebras&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Zebras.html?hl=&id=N61dbDly5wgC"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=N61dbDly5wgC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "Presents an introduction to zebras, discussing their physical characteristics, different types, herding behavior, life cycle, and future threats to the Grevy and mountain zebras."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "tgOzDwAAQBAJ",
+            "etag": "5ELgXbtm5Mg",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/tgOzDwAAQBAJ",
+            "volumeInfo": {
+                "title": "Follow Those Zebras!",
+                "subtitle": "Solving a Migration Mystery",
+                "authors": [
+                    "Sandra Markle"
+                ],
+                "publisher": "Millbrook Press (Tm)",
+                "publishedDate": "2020",
+                "description": "Every year in Namibia, about two thousand zebras suddenly disappear from their grazing area along the Chobe River. Months later, the herd returns. Where do they go? And why? Thanks to satellite-tracking collars, scientists were able to solve the mystery, but several questions remain. Award-winning science author Sandra Markle reveals the process scientists used to study the zebras, and she also delves into the science of migration, exploring how animals know where to go, how to get there, and when to leave.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781541538375"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "1541538374"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 40,
+                "printType": "BOOK",
+                "categories": [
+                    "Juvenile Nonfiction"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "preview-1.0.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=tgOzDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=tgOzDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=tgOzDwAAQBAJ&printsec=frontcover&dq=zebras&hl=&as_pt=BOOKS&cd=12&source=gbs_api",
+                "infoLink": "http://books.google.com/books?id=tgOzDwAAQBAJ&dq=zebras&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Follow_Those_Zebras.html?hl=&id=tgOzDwAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=tgOzDwAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "Award-winning science author Sandra Markle reveals the process scientists used to study the zebras, and she also delves into the science of migration, exploring how animals know where to go, how to get there, and when to leave."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "JfkTZ-lotjQC",
+            "etag": "mvWt7eEnvFU",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/JfkTZ-lotjQC",
+            "volumeInfo": {
+                "title": "Zebras",
+                "authors": [
+                    "Catherine Ipcizade",
+                    "Gail Saunders-Smith, Ph.D."
+                ],
+                "publisher": "Capstone",
+                "publishedDate": "2010-02-01",
+                "description": "Discusses the characteristics and habits of zebras.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781429648851"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "1429648856"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": true
+                },
+                "pageCount": 24,
+                "printType": "BOOK",
+                "categories": [
+                    "Juvenile Nonfiction"
+                ],
+                "averageRating": 5,
+                "ratingsCount": 1,
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.0.1.0.preview.3",
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=JfkTZ-lotjQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=JfkTZ-lotjQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=JfkTZ-lotjQC&printsec=frontcover&dq=zebras&hl=&as_pt=BOOKS&cd=13&source=gbs_api",
+                "infoLink": "http://books.google.com/books?id=JfkTZ-lotjQC&dq=zebras&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Zebras.html?hl=&id=JfkTZ-lotjQC"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com/books/download/Zebras-sample-epub.acsm?id=JfkTZ-lotjQC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=JfkTZ-lotjQC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "Discusses the characteristics and habits of zebras."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "NpxLkAfNWm8C",
+            "etag": "fjOSElRkBYk",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/NpxLkAfNWm8C",
+            "volumeInfo": {
+                "title": "Zebras",
+                "authors": [
+                    "Bill Ivy",
+                    "Scholastic",
+                    "Merebeth Switzer"
+                ],
+                "publisher": "In the Hands of a Child",
+                "description": "A two sided book offering information on two animal forms: Zebras / Rhinoceros.",
+                "readingModes": {
+                    "text": true,
+                    "image": true
+                },
+                "pageCount": 94,
+                "printType": "BOOK",
+                "categories": [
+                    "Rhinoceros"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.1.1.0.preview.3",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=NpxLkAfNWm8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=NpxLkAfNWm8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=NpxLkAfNWm8C&printsec=frontcover&dq=zebras&hl=&as_pt=BOOKS&cd=14&source=gbs_api",
+                "infoLink": "http://books.google.com/books?id=NpxLkAfNWm8C&dq=zebras&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Zebras.html?hl=&id=NpxLkAfNWm8C"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com/books/download/Zebras-sample-epub.acsm?id=NpxLkAfNWm8C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=NpxLkAfNWm8C&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "A two sided book offering information on two animal forms: Zebras / Rhinoceros."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "Cql3qTEptHUC",
+            "etag": "qCTYGypsjH8",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/Cql3qTEptHUC",
+            "volumeInfo": {
+                "title": "Zebras",
+                "authors": [
+                    "Anthony D. Fredericks"
+                ],
+                "publisher": "Lerner Publications",
+                "publishedDate": "2000-09-01",
+                "description": "Describes the physical characteristics, behavior, habitat, uses, and endangered status of this black and white striped animal found on the plains of Africa.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "0822530430"
+                    },
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780822530435"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 48,
+                "printType": "BOOK",
+                "categories": [
+                    "Juvenile Nonfiction"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.2.2.0.preview.1",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=Cql3qTEptHUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=Cql3qTEptHUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=Cql3qTEptHUC&printsec=frontcover&dq=zebras&hl=&as_pt=BOOKS&cd=15&source=gbs_api",
+                "infoLink": "http://books.google.com/books?id=Cql3qTEptHUC&dq=zebras&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Zebras.html?hl=&id=Cql3qTEptHUC"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=Cql3qTEptHUC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "Describes the physical characteristics, behavior, habitat, uses, and endangered status of this black and white striped animal found on the plains of Africa."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "o0WoDwAAQBAJ",
+            "etag": "c7NwwSLPU6A",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/o0WoDwAAQBAJ",
+            "volumeInfo": {
+                "title": "Zebras",
+                "authors": [
+                    "Kaitlyn Duling"
+                ],
+                "publisher": "Bellwether Media",
+                "publishedDate": "2019-08-01",
+                "description": "Zebras’ stripes don’t just look fancy--they help zebras survive their grassland habitat! The unique patterns of the stripes help keep dangerous flies away. In this title, low-level text and special features on diet and physical characteristics explain the special adaptations zebras have to make the African savanna their perfect home.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781618916372"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "1618916378"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 24,
+                "printType": "BOOK",
+                "categories": [
+                    "Juvenile Nonfiction"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.0.1.0.preview.1",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=o0WoDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=o0WoDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=o0WoDwAAQBAJ&pg=PA1&dq=zebras&hl=&as_pt=BOOKS&cd=16&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=o0WoDwAAQBAJ&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=o0WoDwAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 6.99,
+                    "currencyCode": "USD"
+                },
+                "retailPrice": {
+                    "amount": 6.99,
+                    "currencyCode": "USD"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=o0WoDwAAQBAJ&rdid=book-o0WoDwAAQBAJ&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 6990000,
+                            "currencyCode": "USD"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 6990000,
+                            "currencyCode": "USD"
+                        },
+                        "giftable": true
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com/books/download/Zebras-sample-pdf.acsm?id=o0WoDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=o0WoDwAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "Zebras’ stripes don’t just look fancy--they help zebras survive their grassland habitat!"
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "R-oBAAAACAAJ",
+            "etag": "X5MU8Doi+4g",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/R-oBAAAACAAJ",
+            "volumeInfo": {
+                "title": "How the Zebra Got Its Stripes",
+                "authors": [
+                    "Justine Fontes",
+                    "Ron Fontes",
+                    "Peter Grosshauser"
+                ],
+                "publisher": "Golden Books",
+                "publishedDate": "2002",
+                "description": "As a group of African animals hang out at the local watering hole, they share funny stories about how the zebra got its stripes. At the end of the book, fun facts explain why zebras really have stripes. For any child intrigued by zebras, this colorful, informative book is a must!",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "0307988708"
+                    },
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780307988706"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 24,
+                "printType": "BOOK",
+                "categories": [
+                    "Juvenile Fiction"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "preview-1.0.0",
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=R-oBAAAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=R-oBAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=R-oBAAAACAAJ&dq=zebras&hl=&as_pt=BOOKS&cd=17&source=gbs_api",
+                "infoLink": "http://books.google.com/books?id=R-oBAAAACAAJ&dq=zebras&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/How_the_Zebra_Got_Its_Stripes.html?hl=&id=R-oBAAAACAAJ"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "NO_PAGES",
+                "embeddable": false,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=R-oBAAAACAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "NONE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "At the end of the book, fun facts explain why zebras really have stripes. For any child intrigued by zebras, this colorful, informative book is a must!"
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "svoxEAAAQBAJ",
+            "etag": "4RYWIWD8kIg",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/svoxEAAAQBAJ",
+            "volumeInfo": {
+                "title": "Zebra Facts for Kids: Fun Facts about Zebras",
+                "authors": [
+                    "Joseph Eleyinte"
+                ],
+                "publisher": "Lulu Press, Inc",
+                "publishedDate": "2021-06-05",
+                "description": "Zebras are fascinating animals. How much do you really know about them? Learn about their black and white stripes, what they eat, where they live and much more. Discover these amazing facts you did or didn't know about Zebras! This animal book for kids is also designed for the visually impaired!",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781291676655"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "1291676651"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": true
+                },
+                "printType": "BOOK",
+                "categories": [
+                    "Juvenile Nonfiction"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.3.3.0.preview.3",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=svoxEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=svoxEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=svoxEAAAQBAJ&printsec=frontcover&dq=zebras&hl=&as_pt=BOOKS&cd=18&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=svoxEAAAQBAJ&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=svoxEAAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 1.99,
+                    "currencyCode": "USD"
+                },
+                "retailPrice": {
+                    "amount": 1.99,
+                    "currencyCode": "USD"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=svoxEAAAQBAJ&rdid=book-svoxEAAAQBAJ&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 1990000,
+                            "currencyCode": "USD"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 1990000,
+                            "currencyCode": "USD"
+                        },
+                        "giftable": true
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com/books/download/Zebra_Facts_for_Kids_Fun_Facts_about_Zeb-sample-epub.acsm?id=svoxEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com/books/download/Zebra_Facts_for_Kids_Fun_Facts_about_Zeb-sample-pdf.acsm?id=svoxEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=svoxEAAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "Learn about their black and white stripes, what they eat, where they live and much more. Discover these amazing facts you did or didn&#39;t know about Zebras! This animal book for kids is also designed for the visually impaired!"
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "idCVNiin7SIC",
+            "etag": "GQ+O405GWqI",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/idCVNiin7SIC",
+            "volumeInfo": {
+                "title": "Zebras",
+                "authors": [
+                    "Sandra Markle"
+                ],
+                "publisher": "First Avenue Editions",
+                "publishedDate": "2008-02-01",
+                "description": "Follows a herd of zebras as they slowly migrate north, find food, avoid predators, and raise young on the plains of Africa.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780822560654"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "0822560658"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": true
+                },
+                "pageCount": 39,
+                "printType": "BOOK",
+                "categories": [
+                    "Juvenile Nonfiction"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.0.1.0.preview.3",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=idCVNiin7SIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=idCVNiin7SIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=idCVNiin7SIC&printsec=frontcover&dq=zebras&hl=&as_pt=BOOKS&cd=19&source=gbs_api",
+                "infoLink": "http://books.google.com/books?id=idCVNiin7SIC&dq=zebras&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Zebras.html?hl=&id=idCVNiin7SIC"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com/books/download/Zebras-sample-epub.acsm?id=idCVNiin7SIC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=idCVNiin7SIC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "Follows a herd of zebras as they slowly migrate north, find food, avoid predators, and raise young on the plains of Africa."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "Cpbkud7YhS8C",
+            "etag": "G7gKCE5vM+g",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/Cpbkud7YhS8C",
+            "volumeInfo": {
+                "title": "Chasing Zebras",
+                "subtitle": "The Unofficial Guide to House, M. D.",
+                "authors": [
+                    "Barbara Barnett"
+                ],
+                "publisher": "ECW Press",
+                "publishedDate": "2010-12-15",
+                "description": "\"I look for zebras because other doctors have ruled out all the horses.\"--Dr. Gregory House Medical students are taught that when they hear hoofbeats, they should think horses, not zebras, but Dr. House's unique talent of diagnosing unusual illnesses has made House, M.D. one of the most popular and fascinating series on television. In \"Chasing Zebras: The Unofficial Guide to House,\" M.D., Barbara Barnett, widely considered a leading House expert, takes fans deep into the heart of the show's central character and his world, examining the way this medical Sherlock Holmes's.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781554908097"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "1554908094"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": true
+                },
+                "pageCount": 429,
+                "printType": "BOOK",
+                "categories": [
+                    "Performing Arts"
+                ],
+                "averageRating": 3.5,
+                "ratingsCount": 2,
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": true,
+                "contentVersion": "1.4.3.0.preview.3",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=Cpbkud7YhS8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=Cpbkud7YhS8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=Cpbkud7YhS8C&printsec=frontcover&dq=zebras&hl=&as_pt=BOOKS&cd=20&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=Cpbkud7YhS8C&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Cpbkud7YhS8C"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 13.95,
+                    "currencyCode": "USD"
+                },
+                "retailPrice": {
+                    "amount": 13.95,
+                    "currencyCode": "USD"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=Cpbkud7YhS8C&rdid=book-Cpbkud7YhS8C&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 13950000,
+                            "currencyCode": "USD"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 13950000,
+                            "currencyCode": "USD"
+                        },
+                        "giftable": true
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com/books/download/Chasing_Zebras-sample-epub.acsm?id=Cpbkud7YhS8C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com/books/download/Chasing_Zebras-sample-pdf.acsm?id=Cpbkud7YhS8C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=Cpbkud7YhS8C&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "In &quot;Chasing Zebras: The Unofficial Guide to House,&quot; M.D., Barbara Barnett, widely considered a leading House expert, takes fans deep into the heart of the show&#39;s central character and his world, examining the way this medical Sherlock ..."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "UnD8t6rndDQC",
+            "etag": "jafrxOq5RMM",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/UnD8t6rndDQC",
+            "volumeInfo": {
+                "title": "Zebras",
+                "authors": [
+                    "Kevin J. Holmes"
+                ],
+                "publisher": "Capstone",
+                "publishedDate": "2000",
+                "description": "Provides an introduction to the zebra, covering its physical characteristics, habits, food, and relationship to humans.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "0736804978"
+                    },
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780736804974"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 24,
+                "printType": "BOOK",
+                "categories": [
+                    "Juvenile Nonfiction"
+                ],
+                "averageRating": 5,
+                "ratingsCount": 1,
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.6.1.0.preview.1",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=UnD8t6rndDQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=UnD8t6rndDQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=UnD8t6rndDQC&pg=PA7&dq=zebras&hl=&as_pt=BOOKS&cd=21&source=gbs_api",
+                "infoLink": "http://books.google.com/books?id=UnD8t6rndDQC&dq=zebras&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Zebras.html?hl=&id=UnD8t6rndDQC"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=UnD8t6rndDQC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "<b>Zebras Zebras</b> are easy animals to recognize . <b>Zebras</b> are horselike animals with black and white stripes . <b>Zebras</b> are mammals . Mammals are warm - blooded animals with backbones . The body heat of warm - blooded animals does not change&nbsp;..."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "jK0xEAAAQBAJ",
+            "etag": "hSzoMaQzux4",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/jK0xEAAAQBAJ",
+            "volumeInfo": {
+                "title": "Zoodles for Zebras",
+                "authors": [
+                    "Berin Fuerst"
+                ],
+                "publisher": "Fulton Books, Inc.",
+                "publishedDate": "2021-06-03",
+                "description": "Meet Xander, a lovable and curious zebra who lives at the zoo with his friends. One day he decides he would like to know what all his friends like to eat for lunch.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781646541584"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "1646541588"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": true
+                },
+                "pageCount": 34,
+                "printType": "BOOK",
+                "categories": [
+                    "Juvenile Fiction"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "preview-1.0.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=jK0xEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=jK0xEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=jK0xEAAAQBAJ&printsec=frontcover&dq=zebras&hl=&as_pt=BOOKS&cd=22&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=jK0xEAAAQBAJ&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=jK0xEAAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 9.99,
+                    "currencyCode": "USD"
+                },
+                "retailPrice": {
+                    "amount": 9.99,
+                    "currencyCode": "USD"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=jK0xEAAAQBAJ&rdid=book-jK0xEAAAQBAJ&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 9990000,
+                            "currencyCode": "USD"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 9990000,
+                            "currencyCode": "USD"
+                        },
+                        "giftable": true
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com/books/download/Zoodles_for_Zebras-sample-epub.acsm?id=jK0xEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com/books/download/Zoodles_for_Zebras-sample-pdf.acsm?id=jK0xEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=jK0xEAAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "Meet Xander, a lovable and curious zebra who lives at the zoo with his friends. One day he decides he would like to know what all his friends like to eat for lunch."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "KeM-AQAAIAAJ",
+            "etag": "+CWB+7RAmOc",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/KeM-AQAAIAAJ",
+            "volumeInfo": {
+                "title": "A Natural History of Zebras",
+                "authors": [
+                    "Dorcas MacClintock"
+                ],
+                "publisher": "Encore Editions",
+                "publishedDate": "1976",
+                "description": "Discusses the evolution, relatives, habits, behavior, habitats, and enemies of zebras.",
+                "industryIdentifiers": [
+                    {
+                        "type": "OTHER",
+                        "identifier": "UCSC:32106002583281"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 134,
+                "printType": "BOOK",
+                "categories": [
+                    "Zebras"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.1.1.0.preview.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=KeM-AQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=KeM-AQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=KeM-AQAAIAAJ&q=zebras&dq=zebras&hl=&as_pt=BOOKS&cd=23&source=gbs_api",
+                "infoLink": "http://books.google.com/books?id=KeM-AQAAIAAJ&dq=zebras&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/A_Natural_History_of_Zebras.html?hl=&id=KeM-AQAAIAAJ"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "NO_PAGES",
+                "embeddable": false,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=KeM-AQAAIAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "NONE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "Discusses the evolution, relatives, habits, behavior, habitats, and enemies of zebras."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "Dh_bPA_noQAC",
+            "etag": "LngLhnZdAnY",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/Dh_bPA_noQAC",
+            "volumeInfo": {
+                "title": "Zebras",
+                "authors": [
+                    "Katherine Noble-Goodman"
+                ],
+                "publisher": "Marshall Cavendish",
+                "publishedDate": "2006",
+                "description": "A visual introduction to the world of zebras combines educational facts about their physical characteristics, behaviors and habitat with striking photographs.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "0761418717"
+                    },
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780761418719"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 48,
+                "printType": "BOOK",
+                "categories": [
+                    "Juvenile Nonfiction"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.2.2.0.preview.1",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=Dh_bPA_noQAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=Dh_bPA_noQAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=Dh_bPA_noQAC&pg=PA41&dq=zebras&hl=&as_pt=BOOKS&cd=24&source=gbs_api",
+                "infoLink": "http://books.google.com/books?id=Dh_bPA_noQAC&dq=zebras&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Zebras.html?hl=&id=Dh_bPA_noQAC"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=Dh_bPA_noQAC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "What can be done to save the <b>zebras</b> ? Like all wild animals , the best way to protect <b>zebras</b> is to protect their habitat . One way to do this is to set aside wildlife areas and to pass laws that make it illegal for humans to change the&nbsp;..."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "8Bj4q83ry1QC",
+            "etag": "fk75S8i22PE",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/8Bj4q83ry1QC",
+            "volumeInfo": {
+                "title": "Equids--zebras, Asses, and Horses",
+                "subtitle": "Status Survey and Conservation Action Plan",
+                "authors": [
+                    "Patricia D. Moehlman"
+                ],
+                "publisher": "IUCN",
+                "publishedDate": "2002",
+                "description": "The new Equid Action Plan provides current knowledge on the biology, ecology and conservation status of wild zebras, asses, and horses. It specifies what information is lacking, and prioritizes needed conservation actions. The Action Plan also provides chapters on equid taxonomy, genetics, reproductive biology, and population dynamics. These chapters highlight unsolved issues of taxonomy and genetics. They also provide information and insight into the special demographic and genetic challenges of managing small populations. The chapter on disease provides a review of documented equine disease and epidemiology and focuses on priorities for equid conservation health. The final chapter deals with the importance of developing an assessment methodology that explicitly considers the role of equids in ecosystems and the ecological processes that are necessary for ecosystem viability. The approach of combining ecological field studies and ecosystem modeling should prove useful for the scientific management and conservation of wild equids worldwide. These chapters provide research and conservation practitioners with new information and paradigms.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "2831706475"
+                    },
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9782831706474"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 190,
+                "printType": "BOOK",
+                "categories": [
+                    "Pets"
+                ],
+                "averageRating": 5,
+                "ratingsCount": 1,
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.3.3.0.preview.1",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=8Bj4q83ry1QC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=8Bj4q83ry1QC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=8Bj4q83ry1QC&pg=PA20&dq=zebras&hl=&as_pt=BOOKS&cd=25&source=gbs_api",
+                "infoLink": "http://books.google.com/books?id=8Bj4q83ry1QC&dq=zebras&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Equids_zebras_Asses_and_Horses.html?hl=&id=8Bj4q83ry1QC"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=8Bj4q83ry1QC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "However , if hunting re - opens in Kenya , including Grévy&#39;s <b>zebra</b> in a permit scheme is not recommended . ... For example , in Sibiloi National Park , Grévy&#39;s <b>zebras</b> are now uncommon , whilst Losai National Reserve is not functional as&nbsp;..."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "6p2LGxkJbRMC",
+            "etag": "w5jiVd++HXA",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/6p2LGxkJbRMC",
+            "volumeInfo": {
+                "title": "Zebras and Oxpeckers Work Together",
+                "authors": [
+                    "Martha Elizabeth Hillman Rustad",
+                    "Jackie Gai",
+                    "Gail Saunders-Smith"
+                ],
+                "publisher": "Capstone",
+                "publishedDate": "2011-01-01",
+                "description": "\"Simple text and full-color photographs introduce the symbiotic relationship of zebras and oxpeckers\"--Provided by publisher.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781429653008"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "1429653000"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": true
+                },
+                "pageCount": 24,
+                "printType": "BOOK",
+                "categories": [
+                    "Juvenile Nonfiction"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "2.0.1.0.preview.3",
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=6p2LGxkJbRMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=6p2LGxkJbRMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=6p2LGxkJbRMC&printsec=frontcover&dq=zebras&hl=&as_pt=BOOKS&cd=26&source=gbs_api",
+                "infoLink": "http://books.google.com/books?id=6p2LGxkJbRMC&dq=zebras&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Zebras_and_Oxpeckers_Work_Together.html?hl=&id=6p2LGxkJbRMC"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com/books/download/Zebras_and_Oxpeckers_Work_Together-sample-epub.acsm?id=6p2LGxkJbRMC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=6p2LGxkJbRMC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "&quot;Simple text and full-color photographs introduce the symbiotic relationship of zebras and oxpeckers&quot;--Provided by publisher."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "eiqdZVfA8C0C",
+            "etag": "4WpHlapCocY",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/eiqdZVfA8C0C",
+            "volumeInfo": {
+                "title": "Zebras",
+                "authors": [
+                    "Gareth Editorial Staff"
+                ],
+                "publisher": "Gareth Stevens Publishing LLLP",
+                "publishedDate": "2004-12-15",
+                "description": "Discusses the physical characteristics, habitat, social behavior, and life cycle of the zebra.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "0836841905"
+                    },
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780836841909"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 32,
+                "printType": "BOOK",
+                "categories": [
+                    "Juvenile Nonfiction"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.4.1.0.preview.1",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=eiqdZVfA8C0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=eiqdZVfA8C0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=eiqdZVfA8C0C&pg=PA10&dq=zebras&hl=&as_pt=BOOKS&cd=27&source=gbs_api",
+                "infoLink": "http://books.google.com/books?id=eiqdZVfA8C0C&dq=zebras&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Zebras.html?hl=&id=eiqdZVfA8C0C"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=eiqdZVfA8C0C&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "HOME , SWEET HOME Common <b>zebras</b> , which are also known as plains <b>zebras</b> , live on the savannas of Africa . Savannas have hot , dry weather , especially during summer . <b>Zebras</b> need to get a big drink of water at least once a day&nbsp;..."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "-3C8BgAAQBAJ",
+            "etag": "OIUb0EDTsvA",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/-3C8BgAAQBAJ",
+            "volumeInfo": {
+                "title": "Zebras Have Stripes",
+                "authors": [
+                    "Susan H. Gray"
+                ],
+                "publisher": "Cherry Lake",
+                "publishedDate": "2015-01-01",
+                "description": "Young children are naturally curious about animals. Tell Me Why Zebras Have Stripes offers answers to their most compelling questions about the unusual pattern of this African animal. Age-appropriate explanations and appealing photos encourage readers to continue their quest for knowledge. Additional text features and search tools, including a glossary and an index, help students locate information and learn new words.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781633620797"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "1633620794"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 24,
+                "printType": "BOOK",
+                "categories": [
+                    "Juvenile Nonfiction"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.6.0.0.preview.1",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=-3C8BgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=-3C8BgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=-3C8BgAAQBAJ&printsec=frontcover&dq=zebras&hl=&as_pt=BOOKS&cd=28&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=-3C8BgAAQBAJ&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=-3C8BgAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 27.07,
+                    "currencyCode": "USD"
+                },
+                "retailPrice": {
+                    "amount": 14.89,
+                    "currencyCode": "USD"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=-3C8BgAAQBAJ&rdid=book--3C8BgAAQBAJ&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 27070000,
+                            "currencyCode": "USD"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 14890000,
+                            "currencyCode": "USD"
+                        },
+                        "giftable": true
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com/books/download/Zebras_Have_Stripes-sample-pdf.acsm?id=-3C8BgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=-3C8BgAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "Young children are naturally curious about animals. Tell Me Why Zebras Have Stripes offers answers to their most compelling questions about the unusual pattern of this African animal."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "QpGMQyJz5xkC",
+            "etag": "MZb6iog/njg",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/QpGMQyJz5xkC",
+            "volumeInfo": {
+                "title": "Zebras",
+                "authors": [
+                    "Wendy Perkins"
+                ],
+                "publisher": "Capstone",
+                "publishedDate": "2005",
+                "description": "A brief introduction to zebras, discussing their characteristics, habitat, life cycle, and predators. Includes a range map, life cycle illustration, and amazing facts.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "0736837221"
+                    },
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780736837224"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 24,
+                "printType": "BOOK",
+                "categories": [
+                    "Juvenile Nonfiction"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.2.2.0.preview.1",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=QpGMQyJz5xkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=QpGMQyJz5xkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=QpGMQyJz5xkC&pg=PA7&dq=zebras&hl=&as_pt=BOOKS&cd=29&source=gbs_api",
+                "infoLink": "http://books.google.com/books?id=QpGMQyJz5xkC&dq=zebras&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Zebras.html?hl=&id=QpGMQyJz5xkC"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=QpGMQyJz5xkC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "What <b>Zebras</b> Look Like Like horses , <b>zebras</b> have long faces and legs . A <b>zebra&#39;s</b> stripes make it unique . No two <b>zebras</b> have exactly the same stripe pattern . <b>Zebras</b> have short manes and long tails . A <b>zebra&#39;s</b> mane sticks up from the&nbsp;..."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "KS0dk5kN8aYC",
+            "etag": "veV62N9dAJk",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/KS0dk5kN8aYC",
+            "volumeInfo": {
+                "title": "Selling to Zebras",
+                "subtitle": "How to Close 90% of the Business You Pursue Faster, More Easily, and More Profitably",
+                "authors": [
+                    "Jeff Koser",
+                    "Chad Koser"
+                ],
+                "publisher": "Greenleaf Book Group",
+                "publishedDate": "2008-10",
+                "description": "Even the most competitive companies only close about 15 percent of the deals in their sales pipelines. That means that salespeople spend time with prospects who, 85 percent of the time, aren't going to buy. Wouldn't those salespeople rather spend more time pursuing prospects they knew they could close? Or spend time with their prospects where it matters most at an executive level? Readers who are ready for exceptional results for themselves and their companies need \"Selling to Zebras\". The Zebra way can help salespeople identify the perfect prospects for their companies--their Zebras--and develop a sales process that will help them close deals 90 percent of the time. The Zebra method of selling will: Increase close rates; Shorten sales cycles; Increase average deal size; Reduce discounting and increase margins; Make better use of scarce resources; Make customers happy, creating a stable of great references. Jeff and Chad Koser don't just offer theories and concepts. They give readers specific tools, models, and spreadsheets they can customise to make the Zebra way the best way for their companies to do business.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781929774579"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "1929774575"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": true
+                },
+                "pageCount": 240,
+                "printType": "BOOK",
+                "categories": [
+                    "Business & Economics"
+                ],
+                "averageRating": 5,
+                "ratingsCount": 2,
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "1.1.2.0.preview.3",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=KS0dk5kN8aYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=KS0dk5kN8aYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=KS0dk5kN8aYC&printsec=frontcover&dq=zebras&hl=&as_pt=BOOKS&cd=30&source=gbs_api",
+                "infoLink": "http://books.google.com/books?id=KS0dk5kN8aYC&dq=zebras&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Selling_to_Zebras.html?hl=&id=KS0dk5kN8aYC"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com/books/download/Selling_to_Zebras-sample-epub.acsm?id=KS0dk5kN8aYC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com/books/download/Selling_to_Zebras-sample-pdf.acsm?id=KS0dk5kN8aYC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=KS0dk5kN8aYC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "Or spend time with their prospects where it matters most at an executive level? Readers who are ready for exceptional results for themselves and their companies need &quot;Selling to Zebras&quot;."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "F1XmBQAAQBAJ",
+            "etag": "Q1RXlHiDdTg",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/F1XmBQAAQBAJ",
+            "volumeInfo": {
+                "title": "Zebras Are Awesome!",
+                "authors": [
+                    "Megan Cooley Peterson"
+                ],
+                "publisher": "Capstone",
+                "publishedDate": "2015",
+                "description": "\"Describes characteristics, habitat, behavior, life cycle, and threats to zebras living in the wild of Africa\"--",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781491417645"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "1491417641"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 32,
+                "printType": "BOOK",
+                "categories": [
+                    "Juvenile Nonfiction"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "1.0.0.0.preview.1",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=F1XmBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=F1XmBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=F1XmBQAAQBAJ&printsec=frontcover&dq=zebras&hl=&as_pt=BOOKS&cd=31&source=gbs_api",
+                "infoLink": "http://books.google.com/books?id=F1XmBQAAQBAJ&dq=zebras&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Zebras_Are_Awesome.html?hl=&id=F1XmBQAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=F1XmBQAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "&quot;Describes characteristics, habitat, behavior, life cycle, and threats to zebras living in the wild of Africa&quot;--"
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "hNtPPgAACAAJ",
+            "etag": "7WLU1TKx/Bc",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/hNtPPgAACAAJ",
+            "volumeInfo": {
+                "title": "How Zebras Got Their Stripes",
+                "authors": [
+                    "Lesley Sims"
+                ],
+                "publisher": "Usborne Pub Limited",
+                "publishedDate": "2009-06-01",
+                "description": "This story is based on an old folktalke from Namibia in Africa. The story explains how the very first Zebra got it's stripes.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "0794525253"
+                    },
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780794525255"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 32,
+                "printType": "BOOK",
+                "categories": [
+                    "Juvenile Fiction"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "preview-1.0.0",
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=hNtPPgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=hNtPPgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=hNtPPgAACAAJ&dq=zebras&hl=&as_pt=BOOKS&cd=32&source=gbs_api",
+                "infoLink": "http://books.google.com/books?id=hNtPPgAACAAJ&dq=zebras&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/How_Zebras_Got_Their_Stripes.html?hl=&id=hNtPPgAACAAJ"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "NO_PAGES",
+                "embeddable": false,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=hNtPPgAACAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "NONE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "This story is based on an old folktalke from Namibia in Africa. The story explains how the very first Zebra got it&#39;s stripes."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "hhAXfosooJ8C",
+            "etag": "y6J/GfPNikQ",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/hhAXfosooJ8C",
+            "volumeInfo": {
+                "title": "Zebras",
+                "authors": [
+                    "Shona Grimbly"
+                ],
+                "publisher": "Cavendish Square Publishing",
+                "publishedDate": "1999",
+                "description": "Describes the physical characteristics, habits, and natural environment of the last three species of zebras left in the world--the plains zebra, the mountain zebra, and Grevy's zebra. Also discusses what is being done to protect these animals from complete extinction.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "0761403205"
+                    },
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780761403203"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 32,
+                "printType": "BOOK",
+                "categories": [
+                    "Juvenile Nonfiction"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.1.3.0.preview.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=hhAXfosooJ8C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=hhAXfosooJ8C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=hhAXfosooJ8C&q=zebras&dq=zebras&hl=&as_pt=BOOKS&cd=33&source=gbs_api",
+                "infoLink": "http://books.google.com/books?id=hhAXfosooJ8C&dq=zebras&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Zebras.html?hl=&id=hhAXfosooJ8C"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "NO_PAGES",
+                "embeddable": false,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=hhAXfosooJ8C&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "NONE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "Describes the physical characteristics, habits, and natural environment of the last three species of zebras left in the world--the plains zebra, the mountain zebra, and Grevy&#39;s zebra."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "Co5y8BUJT-EC",
+            "etag": "+4cvZbSvdHE",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/Co5y8BUJT-EC",
+            "volumeInfo": {
+                "title": "Endangered Zebras",
+                "authors": [
+                    "Kelley MacAulay",
+                    "Bobbie Kalman"
+                ],
+                "publisher": "Crabtree Publishing Company",
+                "publishedDate": "2007",
+                "description": "Examines the lives, habits, and bodies of zebras, as well as their loss of habitat and other threats to their existence.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "0778718646"
+                    },
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780778718642"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 32,
+                "printType": "BOOK",
+                "categories": [
+                    "Juvenile Nonfiction"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.1.1.0.preview.1",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=Co5y8BUJT-EC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=Co5y8BUJT-EC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=Co5y8BUJT-EC&pg=PA20&dq=zebras&hl=&as_pt=BOOKS&cd=34&source=gbs_api",
+                "infoLink": "http://books.google.com/books?id=Co5y8BUJT-EC&dq=zebras&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Endangered_Zebras.html?hl=&id=Co5y8BUJT-EC"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=Co5y8BUJT-EC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "<b>Zebra</b> behavior Good grooming Always alert <b>Zebras</b> nibble one another&#39;s fur <b>Zebras</b>. Mat ( kuna a <b>Zebras</b> communicate , or send messages to one another , using sounds . A <b>zebra</b> makes a soft sound called a whinny to find another <b>zebra</b> in a&nbsp;..."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "pql2AgAAQBAJ",
+            "etag": "TNuJUMNhQa4",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/pql2AgAAQBAJ",
+            "volumeInfo": {
+                "title": "Zebras",
+                "authors": [
+                    "Julie Murray"
+                ],
+                "publisher": "ABDO Publishing Company",
+                "publishedDate": "2012-01-01",
+                "description": "Bold colors, easy-to-read text, and oversized, striking photos introduce young readers to the zebra! Readers will discover the zebraÍs unique body features, diet, social behavior, habitat, ways of communication, predators, methods of defense, and threats to its survival. In addition, readers will learn about the life of a baby zebra, from foal to independence. Maps highlight zebra territory, fun facts appear throughout, and the book closes with a full page of kid-friendly zebra facts. This title will leave readers with a deeper appreciation of the continent of Africa and the incredible zebra! Features include a table of contents, fun facts, maps, a glossary with phonetic spellings, and an index. Big Buddy BOOKS is an imprint of ABDO Publishing Company.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781614786382"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "1614786380"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 32,
+                "printType": "BOOK",
+                "categories": [
+                    "Juvenile Nonfiction"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.1.0.0.preview.1",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=pql2AgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=pql2AgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=pql2AgAAQBAJ&pg=PT29&dq=zebras&hl=&as_pt=BOOKS&cd=35&source=gbs_api",
+                "infoLink": "http://books.google.com/books?id=pql2AgAAQBAJ&dq=zebras&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Zebras.html?hl=&id=pql2AgAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com/books/download/Zebras-sample-pdf.acsm?id=pql2AgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=pql2AgAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "Life in Africa isn&#39;t easy for <b>zebras</b>. Besides natural predators, humans hunt them for their meat and fur. And, new buildings and farms take over their habitats. Still, <b>zebras</b> survive. In fact, plains <b>zebras</b> can be found in large numbers&nbsp;..."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "8jqqDwAAQBAJ",
+            "etag": "93bnlHpgQWs",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/8jqqDwAAQBAJ",
+            "volumeInfo": {
+                "title": "Zebras",
+                "authors": [
+                    "Tammy Gagne"
+                ],
+                "publisher": "North Star Editions, Inc.",
+                "publishedDate": "2017-08-01",
+                "description": "Introduces readers to the life, diet, habitat, behavior, and physical description of zebras. Colorful spreads, fun facts, diagrams, a range map, and a special reading feature make this an exciting read for animal lovers and report writers alike.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781635174649"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "1635174643"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 32,
+                "printType": "BOOK",
+                "categories": [
+                    "Juvenile Nonfiction"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.0.1.0.preview.1",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=8jqqDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=8jqqDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=8jqqDwAAQBAJ&pg=PA28&dq=zebras&hl=&as_pt=BOOKS&cd=36&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=8jqqDwAAQBAJ&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=8jqqDwAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 9.95,
+                    "currencyCode": "USD"
+                },
+                "retailPrice": {
+                    "amount": 9.95,
+                    "currencyCode": "USD"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=8jqqDwAAQBAJ&rdid=book-8jqqDwAAQBAJ&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 9950000,
+                            "currencyCode": "USD"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 9950000,
+                            "currencyCode": "USD"
+                        },
+                        "giftable": true
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com/books/download/Zebras-sample-pdf.acsm?id=8jqqDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=8jqqDwAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "<b>ZEBRAS</b>. 1. Write a letter to a friend describing what you learned about a <b>zebra&#39;s</b> diet. 2. Which trait do you think best helps <b>zebras</b> avoid predators? Why? 3. Which type of <b>zebra</b> has thin stripes? A. plains <b>zebra</b> B. Grevy&#39;s <b>zebra</b> C."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "WzbvAwAAQBAJ",
+            "etag": "DvHaQG4lI9M",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/WzbvAwAAQBAJ",
+            "volumeInfo": {
+                "title": "Zebras: Striped Horses of Africa",
+                "subtitle": "A 15-Minute Book",
+                "authors": [
+                    "Caitlind L. Alexander"
+                ],
+                "publisher": "Learning Island",
+                "description": "Zebras are striped horses that live on the plains of Africa. How much do you know about them? Do you know: How do you tell how old a zebra is? What is a zebra’s favorite food? Do zebras eat meat? Who leads the herd when there is danger and they have to run? Find out what a zebra looks like, where it lives, what it eats, what eats it, how babies are born, and other fun facts. Ages 7 - 10 Reading Level 3.8 All measurements in American and metric. LearningIsland.com believes in the value of children practicing reading for 15 minutes every day. Our 15-Minute Books give children lots of fun, exciting choices to read, from classic stories, to mysteries, to books of knowledge. Many books are appropriate for hi-lo readers. Open the world of reading to a child by having them read for 15 minutes a day.",
+                "readingModes": {
+                    "text": true,
+                    "image": true
+                },
+                "pageCount": 25,
+                "printType": "BOOK",
+                "categories": [
+                    "Juvenile Nonfiction"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "1.1.1.0.preview.3",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=WzbvAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=WzbvAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=WzbvAwAAQBAJ&printsec=frontcover&dq=zebras&hl=&as_pt=BOOKS&cd=37&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=WzbvAwAAQBAJ&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=WzbvAwAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 0.99,
+                    "currencyCode": "USD"
+                },
+                "retailPrice": {
+                    "amount": 0.99,
+                    "currencyCode": "USD"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=WzbvAwAAQBAJ&rdid=book-WzbvAwAAQBAJ&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 990000,
+                            "currencyCode": "USD"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 990000,
+                            "currencyCode": "USD"
+                        },
+                        "giftable": true
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com/books/download/Zebras_Striped_Horses_of_Africa-sample-epub.acsm?id=WzbvAwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com/books/download/Zebras_Striped_Horses_of_Africa-sample-pdf.acsm?id=WzbvAwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=WzbvAwAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "Zebras are striped horses that live on the plains of Africa."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "rsOMVTTzhFcC",
+            "etag": "X61DzHwu7aE",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/rsOMVTTzhFcC",
+            "volumeInfo": {
+                "title": "Little Zebras",
+                "authors": [
+                    "Valerie Guidoux"
+                ],
+                "publisher": "Gareth Stevens Publishing LLLP",
+                "publishedDate": "2005-12-15",
+                "description": "Describes the physical aspects and social behavior of zebras from birth to adulthood.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "0836847415"
+                    },
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780836847413"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 24,
+                "printType": "BOOK",
+                "categories": [
+                    "Juvenile Nonfiction"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.1.2.0.preview.1",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=rsOMVTTzhFcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=rsOMVTTzhFcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=rsOMVTTzhFcC&pg=PA22&dq=zebras&hl=&as_pt=BOOKS&cd=38&source=gbs_api",
+                "infoLink": "http://books.google.com/books?id=rsOMVTTzhFcC&dq=zebras&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Little_Zebras.html?hl=&id=rsOMVTTzhFcC"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=rsOMVTTzhFcC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "<b>Zebras</b> are mammals . There are three types of <b>zebras</b> . Plains <b>zebras</b> live on Africa&#39;s savannas . Mountain <b>zebras</b> live on the slopes and plateaus , or flat areas , of Africa&#39;s mountains . A third kind of <b>zebra</b> lives on Africa&#39;s drier&nbsp;..."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "r85hDwAAQBAJ",
+            "etag": "GjPG3WjnY1w",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/r85hDwAAQBAJ",
+            "volumeInfo": {
+                "title": "Hyenas Stalk, Zebras Kick",
+                "authors": [
+                    "Porter Holmes"
+                ],
+                "publisher": "The Rosen Publishing Group, Inc",
+                "publishedDate": "2017-07-15",
+                "description": "This thrilling book about the predator-and-prey pairing of hyenas against zebras is sure to dazzle readers. Striking photographs capture the features and behaviors of both species. Accessible language makes advanced concepts comprehensible to developing readers. This creative spin on curricular subject matter is sure to motivate emerging scientists both in and out of the classroom.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781508156673"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "1508156670"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 24,
+                "printType": "BOOK",
+                "categories": [
+                    "Juvenile Nonfiction"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "preview-1.0.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=r85hDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=r85hDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=r85hDwAAQBAJ&pg=PA6&dq=zebras&hl=&as_pt=BOOKS&cd=39&source=gbs_api",
+                "infoLink": "http://books.google.com/books?id=r85hDwAAQBAJ&dq=zebras&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Hyenas_Stalk_Zebras_Kick.html?hl=&id=r85hDwAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=r85hDwAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "<b>Zebra</b> Basics Like many other species in the African savanna, <b>zebras</b> are ungulates, or mammals with hooves. They are closely related to horses and are part of the Equidae family. There are three species of <b>zebras</b>: plains, mountain,&nbsp;..."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "19OcDwAAQBAJ",
+            "etag": "RD+lmrat66Q",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/19OcDwAAQBAJ",
+            "volumeInfo": {
+                "title": "Zebras Are Awesome!",
+                "authors": [
+                    "Megan C Peterson"
+                ],
+                "publisher": "Capstone",
+                "publishedDate": "2019-05-01",
+                "description": "Africa's wild animals are awesome! Bold, vibrant photos and engaging text bring readers up close with zebras. Includes information on habitat, behavior, life cycle, and threats to these amazing creatures.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781496621511"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "1496621514"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": true
+                },
+                "pageCount": 32,
+                "printType": "BOOK",
+                "categories": [
+                    "Juvenile Nonfiction"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "1.1.1.0.preview.3",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=19OcDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=19OcDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=19OcDwAAQBAJ&pg=PT9&dq=zebras&hl=&as_pt=BOOKS&cd=40&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=19OcDwAAQBAJ&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=19OcDwAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 7.95,
+                    "currencyCode": "USD"
+                },
+                "retailPrice": {
+                    "amount": 7.95,
+                    "currencyCode": "USD"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=19OcDwAAQBAJ&rdid=book-19OcDwAAQBAJ&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 7950000,
+                            "currencyCode": "USD"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 7950000,
+                            "currencyCode": "USD"
+                        },
+                        "giftable": true
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com/books/download/Zebras_Are_Awesome-sample-epub.acsm?id=19OcDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com/books/download/Zebras_Are_Awesome-sample-pdf.acsm?id=19OcDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=19OcDwAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "There are three kinds of <b>zebras</b>. Each kind has a different stripe pattern. Grevy&#39;s <b>zebras</b> have thin, close stripes. Some plains <b>zebras</b> have light brown “shadow” stripes between black stripes. Wide stripes cover a mountain <b>zebra&#39;s</b> back."
+            }
+        }
+    
+    ]
+}

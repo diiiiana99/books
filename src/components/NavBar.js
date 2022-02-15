@@ -1,8 +1,11 @@
 import React, { useState } from "react";
 import axios from "axios";
 import { NavLink } from "react-router-dom";
+import logo from '../images/book_report_logo.png';
 
-function NavBar({ setBooks, apiKey2 }) {
+function NavBar({ setBooks
+                // , apiKey2
+              }) {
 
   //search function
   const [search,setSearch]=useState('');
@@ -13,7 +16,8 @@ function NavBar({ setBooks, apiKey2 }) {
 
   function handleSubmit(event){
       event.preventDefault();
-      let burl= `https://www.googleapis.com/books/v1/volumes?q=${search}&printType=books&key=${apiKey2}&maxResults=40`
+      // let burl= `https://www.googleapis.com/books/v1/volumes?q=${search}&printType=books&key=${apiKey2}&maxResults=40`
+      let burl= 'http://localhost:3001/zebras'
       axios.get(burl)
       .then(r=> {
           setBooks(r.data.items)
@@ -28,28 +32,28 @@ function NavBar({ setBooks, apiKey2 }) {
         marginBottom: "12px",
       }}
     >
-    <h1>Book-Report</h1>
-    <NavLink style={{ marginRight: "10px" }} to="/">
-      Home
-    </NavLink>
-    <NavLink style={{ marginRight: "10px" }} to="/books">
-      Books
-    </NavLink>
-    <form onSubmit={handleSubmit}>
-        <div className='form-group'>
-            <input 
-            type='text' onChange={handleChange}
-            className='form-control mt-10' 
-            placeholder='Search for Books' 
-            autoComplete='off' />
-        </div>
-        <button 
-        type='submit' 
-        className='btn btn-danger'  
-        >
-          Search
-        </button>
-    </form>
+      {/* <h1>Book-Report</h1> */}
+      <NavLink style={{ marginRight: "10px" }} to="/">
+        <img src={logo} alt="Logo" />
+      </NavLink>
+      {/* <NavLink style={{ marginRight: "10px" }} to="/my-lists">
+        My Lists
+      </NavLink> */}
+      <form onSubmit={handleSubmit}>
+          <div className='form-group'>
+              <input 
+              type='text' onChange={handleChange}
+              className='form-control mt-10' 
+              placeholder='Search for Books' 
+              autoComplete='off' />
+          </div>
+          <button 
+          type='submit' 
+          className='btn btn-danger'  
+          >
+            Search
+          </button>
+      </form>
     </div>
   );
 }
