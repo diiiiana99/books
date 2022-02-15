@@ -1,18 +1,13 @@
 import React, {useState,useEffect} from 'react';
 // using axios because it is a simpler way of using CRUD, eliminates the r=>r.json() step
 import axios from "axios";
-import '../App.css';
 import NavBar from './NavBar';
 import HomePage from './HomePage';
 import SearchResults from "./SearchResults";
 import SelectedBook from './SelectedBook';
-import { Route, Switch } from "react-router-dom";
+import { Redirect, Route, Switch, useHistory } from "react-router-dom";
 
-// updates to state variables are being delayed by one action
-// ie: if you first search for 'javascript', it will return nothing
-// then if you search for 'react', it will return results for javascript, and so forth
-
-///TESTING API FUNCTIONALITY - not super important right now
+///API KEYS:
 
 // const apiKey1 ='AIzaSyDQgG9PY_tH65Mss-EP1a8M_YQNZqORmys'
 // const apiKey2='AIzaSyBOTcf1Js7o8SlmGyfA0bG7JBLrWJQ37R8'
@@ -30,12 +25,16 @@ let booksUrl = 'https://www.googleapis.com/books/v1/volumes?q=atomic+inauthor:cl
 let zebras = 'https://www.googleapis.com/books/v1/volumes?q=zebras&printType=books&maxResults=25&key='+apiKey
 
 let localZebras = 'http://localhost:4000/zebras'
+let localGiraffes = ' http://localhost:4000/giraffes'
+let localSputnik = 'http://localhost:4000/sputnik'
 
 //get singular result
 // uses volume ID 
 let single = "https://www.googleapis.com/books/v1/volumes/XfFvDwAAQBAJ?key="+apiKey
 
 function App() {
+  let history = useHistory();
+
   let [books,setBooks]= useState([])
 
     //search function
@@ -43,11 +42,28 @@ function App() {
 
   function handleChange(event){
       setSearch(event.target.value);
+      console.log(search)
   }
 
+  // let [searchUrl,setSearchUrl] = useState('');
   function handleSubmit(event){
-      let burl= `https://www.googleapis.com/books/v1/volumes?q=${search}&printType=books&key=${apiKey}&maxResults=40`
-  }
+    event.preventDefault();
+    history.push('./search-results')
+      if (search!==''){
+          axios.get(localSputnik)
+          .then(r=> {
+              console.log(r.data)
+              setBooks(r.data)
+          })    
+      } else{
+          axios.get(localGiraffes)
+          .then(r=> {
+              console.log(r.data)
+              setBooks(r.data)
+      })
+    }
+}
+
   
   return (
     <div className="App">
@@ -64,7 +80,7 @@ function App() {
               setBooks={setBooks}
             />
           </Route>
-          <Route exact path ='/search-results/:searchText'>
+          <Route path='/search-results'>
             <SearchResults
               books={books} 
               search= {search}
@@ -74,6 +90,8 @@ function App() {
           <Route exact path ='/book/:bookId'>
             <SelectedBook
               books={books}
+              search= {search}
+              setBooks={setBooks}
             />
           </Route>
         </Switch>
