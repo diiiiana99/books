@@ -16,16 +16,30 @@ function NavBar({ onChange, onSubmit}) {
     <NavLink style={{ marginRight: "10px" }} to="/">
         <img src={logo} alt="Logo" />
     </NavLink>
-    <form onSubmit={onSubmit}>
-        <div className='form-group'>
+    <div class="search-container">
+      <form 
+        onSubmit={onSubmit}
+        className='form'
+        >
             <input 
-            type='text' onChange={onChange}
-            className='form-control mt-10' 
+            type='text' 
+            onChange={onChange}
+            // className='form-control mt-10' 
+            className="search-field"
             placeholder='Search for Books' 
-            autoComplete='off' />
-        </div>
-
-    </form>
+            autoComplete='off'
+            cursor='pointer'
+            />
+            <button 
+              type="submit" 
+              class="search-button"
+            >
+              <img 
+              src="https://www.kindacode.com/wp-content/uploads/2020/12/search.png"
+              />
+            </button>
+        </form>
+    </div>
     </div>
   );
 }
