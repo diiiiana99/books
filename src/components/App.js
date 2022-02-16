@@ -90,8 +90,6 @@ function App() {
           <Route exact path ='/book/:bookId'>
             <SelectedBook
               books={books}
-              search= {search}
-              setBooks={setBooks}
             />
           </Route>
         </Switch>

@@ -4,11 +4,11 @@ import { useParams } from "react-router-dom";
 function SelectedBook({ books }) {
     // call useParams to access the `params` from the url: the dynamic portion of our /book/:bookId path
     const params = useParams();
-    console.log("books array of objects: " + books)
+    console.log(books)
 
 
     const [ selectedBook, setSelectedBook ] = useState(books.find(book => book.id === params.bookId));
-
+    if(books.length == 0) {return null}
     // const match = useRouteMatch();
     // console.log( books)
     // console.log(params)
