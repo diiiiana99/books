@@ -22,6 +22,7 @@ code {
   max-width: 100%;
 }
 
+
  .book-carousel {
   display: flex;
   flex-direction: row;
@@ -45,7 +46,7 @@ code {
   width: 300px;
   height: 300px;
   object-fit:scale-down;
-  display: flex
+  display: flex;
 }
 
 .book-details {
@@ -63,4 +64,36 @@ code {
 
 .ui.grid {
   padding: 0px 20px;
+}
+
+/* search bar */
+/* .container {
+  margin: 200px auto;
+  width: 500px;
+  height: 60px
+} */
+
+.form {
+  display: flex;
+  flex-direction: row;
+}
+.search-field {
+  width: 100%;
+  padding: 10px 35px 10px 15px;
+  border: none;
+  border-radius: 100px;
+  outline: none;
+}
+
+.search-button {
+  background: transparent;
+  border: none;
+  outline: none;
+  margin-left: -33px;
+}
+
+.search-button img {
+  width: 20px;
+  height: 20px;
+  object-fit: cover;
 }

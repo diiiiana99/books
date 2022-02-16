@@ -64,7 +64,10 @@ function HomePage( {books, setBooks, apiKey} ) {
     })
     let booksToDisplay3 = filteredBooks3.map((book, i)=>{
         return (
-            <BookCard book={book} key={i}/>
+            <BookCard 
+                book={book}
+                key={i}
+            />
             )
         })
     

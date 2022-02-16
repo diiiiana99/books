@@ -31,7 +31,9 @@ function SearchResults({books,setBooks,search,apiKey}){
 
     let booksToDisplay = filteredBooks.map((book, i)=>{
         return (
-            <BookCard book={book} key={i}/>
+            <BookCard book={book} key={i}
+            cursor='pointer'
+            />
             )
         })
         
