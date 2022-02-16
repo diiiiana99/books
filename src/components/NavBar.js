@@ -4,6 +4,12 @@ import { NavLink } from "react-router-dom";
 import logo from '../images/book_report_logo.png' 
 
 function NavBar({ onChange, onSubmit}) {
+
+  let [searchVis,setSearchVis]= useState(true)
+
+  function handleSearchClick(){
+    setSearchVis(!searchVis);
+  }
   
   return (
     <div
@@ -16,12 +22,12 @@ function NavBar({ onChange, onSubmit}) {
     <NavLink style={{ marginRight: "10px" }} to="/">
         <img src={logo} alt="Logo" />
     </NavLink>
-    <div class="search-container">
-      <form 
+    <div className="search-container">
+      <div
         onSubmit={onSubmit}
         className='form'
         >
-            <input 
+        {searchVis? <input 
             type='text' 
             onChange={onChange}
             // className='form-control mt-10' 
@@ -29,16 +35,27 @@ function NavBar({ onChange, onSubmit}) {
             placeholder='Search for Books' 
             autoComplete='off'
             cursor='pointer'
-            />
+            />:''
+}
+            {/* <input 
+            id='searchinput'
+            type='text' 
+            onChange={onChange}
+            // className='form-control mt-10' 
+            className="search-field"
+            placeholder='Search for Books' 
+            autoComplete='off'
+            cursor='pointer'
+            /> */}
             <button 
-              type="submit" 
-              class="search-button"
+              onClick={handleSearchClick}
+              className="search-button"
             >
               <img 
               src="https://www.kindacode.com/wp-content/uploads/2020/12/search.png"
               />
             </button>
-        </form>
+        </div>
     </div>
     </div>
   );

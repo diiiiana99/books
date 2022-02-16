@@ -16,11 +16,10 @@ function HomePage( {books, setBooks, apiKey} ) {
 
       // initial book render
     useEffect(()=>{
-        axios.get(localGiraffes)
+        axios.get(bestSellers)
         .then(r=> {
-        setBooks(r)
+        setBooks(r.data)
         })
-        console.log(books)
     }, [])
 
     // update books to display 
@@ -38,7 +37,6 @@ function HomePage( {books, setBooks, apiKey} ) {
         .then(r=> {
         setBooks2(r.data)
         })
-        console.log(books)
     }, [])
 
         // update books to display 
@@ -56,7 +54,6 @@ function HomePage( {books, setBooks, apiKey} ) {
         .then(r=> {
         setBooks3(r.data)
         })
-        console.log(books)
     }, [])
 
         // update books to display 
@@ -79,36 +76,77 @@ function HomePage( {books, setBooks, apiKey} ) {
 
     // use isbn number to get google api results and then display 
 
-    let [bestSellers2,setBS]= useState([])
+    // let [bestSellers2,setBS]= useState([])
 
-    useEffect(()=>{
-      axios.get(nytURL)
-      .then(r=> {
-        setBS(r.data.results.books)
-      })
-    }, [])
+    // useEffect(()=>{
+    //   axios.get(nytURL)
+    //   .then(r=> {
+    //     setBS(r.data.results.books)
+    //   })
+    // }, [])
 
-    let isbnList = bestSellers2.map((book)=>{
-        // console.log(book)
-        return book.isbns[0]['isbn10']
-    })
+    // let isbnList = bestSellers2.map((book)=>{
+    //     // console.log(book)
+    //     return book.isbns[0]['isbn10']
+    // })
 
-    let [topBooks,setTB] = useState([])
-    let nytbooks = [];
+    let isbnList = [
+        "0525559477",
+        "0593358333",
+        "0593356152",
+        "0735222355",
+        "1250274613",
+        "1501171348",
+        "0385546025",
+        "0316499773",
+        "1984818414",
+        "0593087488",
+        "0593185412",
+        "006288834X",
+        "0593315030",
+        "0374212236",
+        "1982168439"
+    ]
 
-    useEffect(()=>{
-        isbnList.map((book)=>{
-            // console.log(book.isbns[0]['isbn10'])
-            axios.get('https://www.googleapis.com/books/v1/volumes?q=+isbn:'+book+'&printType=books&key='+apiKey)
-            .then(r=> {
-                let data = r.data.items
-                nytbooks={...nytbooks, data}
-                setTB(nytbooks)
-            })
 
-        })
-        console.log(nytbooks)
-    },[bestSellers2])
+    // let nytBestSellers = [];
+    // isbnList.map((book)=>{
+    //     axios.get('https://www.googleapis.com/books/v1/volumes?q=+isbn:'+book+'&printType=books&key='+apiKey)
+    //     .then(r=>{ console.log(r.data.items)
+    //         nytBestSellers.push(r.data.items)})
+    // })
+    // console.log(nytBestSellers)
+
+    // let [topBooks,setTB] = useState([])
+    // let nytbooks = [];
+
+    //     // isbnList.map((book)=>{
+    //     //     // console.log(book.isbns[0]['isbn10'])
+    //     //     axios.get('https://www.googleapis.com/books/v1/volumes?q=+isbn:'+book+'&printType=books&key='+apiKey)
+    //     //     .then(r=> {
+    //     //         console.log(r)
+    //     //         let datax = r.data.items
+    //     //         nytbooks={...nytbooks, datax}
+    //     //         setTB(nytbooks)
+    //     //     })
+    //     // })
+    //     console.log(topBooks)
+
+
+    // useEffect(()=>{
+    //     console.log(isbnList);
+    //     isbnList.map((book)=>{
+    //         // console.log(book.isbns[0]['isbn10'])
+    //         axios.get('https://www.googleapis.com/books/v1/volumes?q=+isbn:'+book+'&printType=books&key='+apiKey)
+    //         .then(r=> {
+    //             console.log(r)
+    //             let datax = r.data.items
+    //             nytbooks={...nytbooks, datax}
+    //             setTB(nytbooks)
+    //         })
+    //     })
+    //     console.log(topBooks)
+    // },[])
    
     // let bestSellersToDisplay = topBooks.map((book)=>{
     //         console.log(bestSellersToDisplay)
@@ -130,7 +168,6 @@ function HomePage( {books, setBooks, apiKey} ) {
             </div> 
             <h1>Trending Authors</h1>
             <div className='book-carousel'> 
-                    {/* {bestSellersToDisplay} */}
                     {booksToDisplay2}
             </div> 
             <h1>Classics</h1>

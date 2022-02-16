@@ -75277,6 +75277,1134 @@
                 "quoteSharingAllowed": false
             }
         }
+    ],
+
+    "bestsellers": [
+        {
+            "kind": "books#volume",
+            "id": "Fj06zgEACAAJ",
+            "etag": "k/2Ygw+K2bo",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/Fj06zgEACAAJ",
+            "volumeInfo": {
+                "title": "The Stranger in the Lifeboat",
+                "subtitle": "A Novel",
+                "authors": [
+                    "Mitch Albom"
+                ],
+                "publisher": "Harper",
+                "publishedDate": "2021-11-02",
+                "description": "\"In ... [this] novel of hope and faith, a group of shipwrecked passengers pull a strange man from the sea. He claims to be 'the Lord.' And he says he can only save them if they all believe in him\"--",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "006288834X"
+                    },
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780062888341"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 288,
+                "printType": "BOOK",
+                "categories": [
+                    "Fiction"
+                ],
+                "averageRating": 4,
+                "ratingsCount": 5,
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "preview-1.0.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=Fj06zgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=Fj06zgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=Fj06zgEACAAJ&dq=isbn:006288834X&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+                "infoLink": "http://books.google.com/books?id=Fj06zgEACAAJ&dq=isbn:006288834X&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/The_Stranger_in_the_Lifeboat.html?hl=&id=Fj06zgEACAAJ"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "NO_PAGES",
+                "embeddable": false,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=Fj06zgEACAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "NONE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "&quot;In ... [this] novel of hope and faith, a group of shipwrecked passengers pull a strange man from the sea. He claims to be &#39;the Lord.&#39; And he says he can only save them if they all believe in him&quot;--"
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "FcZvzgEACAAJ",
+            "etag": "OGKCDHXlDZA",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/FcZvzgEACAAJ",
+            "volumeInfo": {
+                "title": "Wish You Were Here",
+                "authors": [
+                    "Jodi Picoult"
+                ],
+                "publisher": "Ballantine Books",
+                "publishedDate": "2021-11-30",
+                "description": "An upcoming book to be published by Penguin Random House.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "1984818414"
+                    },
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781984818416"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 336,
+                "printType": "BOOK",
+                "categories": [
+                    "Fiction"
+                ],
+                "averageRating": 4,
+                "ratingsCount": 20,
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "preview-1.0.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=FcZvzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=FcZvzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=FcZvzgEACAAJ&dq=isbn:1984818414&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+                "infoLink": "http://books.google.com/books?id=FcZvzgEACAAJ&dq=isbn:1984818414&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Wish_You_Were_Here.html?hl=&id=FcZvzgEACAAJ"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "NO_PAGES",
+                "embeddable": false,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=FcZvzgEACAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "NONE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "&quot;Emily is having the time of her lifeshes in the mountains of Chile with her best friend, Kristen, on their annual reunion trip, and the women are feeling closer than ever."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "ZKVPEAAAQBAJ",
+            "etag": "QC/LvjDPCXk",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/ZKVPEAAAQBAJ",
+            "volumeInfo": {
+                "title": "The Books of Jacob",
+                "subtitle": "A Novel",
+                "authors": [
+                    "Olga Tokarczuk"
+                ],
+                "publisher": "Penguin",
+                "publishedDate": "2022-02-01",
+                "description": "The Nobel Prize–winner’s richest, most sweeping and ambitious novel yet follows the comet-like rise and fall of a mysterious, messianic religious leader as he blazes his way across eighteenth-century Europe. In the mid-eighteenth century, as new ideas—and a new unrest—begin to sweep the Continent, a young Jew of mysterious origins arrives in a village in Poland. Before long, he has changed not only his name but his persona; visited by what seem to be ecstatic experiences, Jacob Frank casts a charismatic spell that attracts an increasingly fervent following. In the decade to come, Frank will traverse the Hapsburg and Ottoman empires with throngs of disciples in his thrall as he reinvents himself again and again, converts to Islam and then Catholicism, is pilloried as a heretic and revered as the Messiah, and wreaks havoc on the conventional order, Jewish and Christian alike, with scandalous rumors of his sect’s secret rituals and the spread of his increasingly iconoclastic beliefs. The story of Frank—a real historical figure around whom mystery and controversy swirl to this day—is the perfect canvas for the genius and unparalleled reach of Olga Tokarczuk. Narrated through the perspectives of his contemporaries—those who revere him, those who revile him, the friend who betrays him, the lone woman who sees him for what he is—The Books of Jacob captures a world on the cusp of precipitous change, searching for certainty and longing for transcendence. In a nod to books written in Hebrew, The Books of Jacob is paginated in reverse, beginning on p. 955 and ending on p. 1 – but read traditionally, front cover to back.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780593087480"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "0593087488"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 992,
+                "printType": "BOOK",
+                "categories": [
+                    "Fiction"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "1.1.1.0.preview.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=ZKVPEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=ZKVPEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=ZKVPEAAAQBAJ&printsec=frontcover&dq=isbn:0593087488&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+                "infoLink": "http://books.google.com/books?id=ZKVPEAAAQBAJ&dq=isbn:0593087488&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/The_Books_of_Jacob.html?hl=&id=ZKVPEAAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=ZKVPEAAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "The comedy in this novel blends, as it does in life, with genuine tragedy.” –Dwight Garner, The New York Times The Nobel Prize–winner’s richest, most sweeping and ambitious novel yet follows the comet-like rise and fall of a ..."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "JqcsEAAAQBAJ",
+            "etag": "vSL3jdxZV6o",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/JqcsEAAAQBAJ",
+            "volumeInfo": {
+                "title": "The Last Thing He Told Me",
+                "subtitle": "A Novel",
+                "authors": [
+                    "Laura Dave"
+                ],
+                "publisher": "Simon and Schuster",
+                "publishedDate": "2021-05-04",
+                "description": "\"When her husband of a year disappears, Hannah quickly learns he is not who he said he was and is left to sort out the truth with just one ally- her husband's teenage daughter, who hates her\"--",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781501171345"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "1501171348"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 320,
+                "printType": "BOOK",
+                "categories": [
+                    "Fiction"
+                ],
+                "averageRating": 4,
+                "ratingsCount": 38,
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.4.0.0.preview.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=JqcsEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=JqcsEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=JqcsEAAAQBAJ&printsec=frontcover&dq=isbn:1501171348&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+                "infoLink": "http://books.google.com/books?id=JqcsEAAAQBAJ&dq=isbn:1501171348&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/The_Last_Thing_He_Told_Me.html?hl=&id=JqcsEAAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=JqcsEAAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "&quot;When her husband of a year disappears, Hannah quickly learns he is not who he said he was and is left to sort out the truth with just one ally- her husband&#39;s teenage daughter, who hates her&quot;--"
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "pZ09EAAAQBAJ",
+            "etag": "hZj4sg9Ublg",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/pZ09EAAAQBAJ",
+            "volumeInfo": {
+                "title": "Devil House",
+                "subtitle": "A Novel",
+                "authors": [
+                    "John Darnielle"
+                ],
+                "publisher": "MCD",
+                "publishedDate": "2022-01-25",
+                "description": "From New York Times bestselling author and Mountain Goats’ singer/songwriter John Darnielle—“a master at building suspense” (Los Angeles Times)—comes an epic, gripping novel about murder, truth, artistic obsession, and the dangers of storytelling in Devil House. Gage Chandler is descended from kings. That’s what his mother always told him. Now, he is a true crime writer, with one grisly success—and movie adaptation—to his name, along with a series of subsequent lesser efforts that have paid the bills but not much more. But now he is being offered the chance for the big break: To move into the house—what the locals call “The Devil House”—in which a briefly notorious pair of murders occurred, apparently the work of disaffected 1980s teens. He begins his research with diligence and enthusiasm, but soon the story leads him into a puzzle he never expected—back into his own work and what it means, back to the very core of what he does and who he is. John Darnielle has long been known to millions of Mountain Goats fans as a storyteller of uncanny sensitivity and mythic power. In Universal Harvester and Wolf in White Van before it, he has proven himself a novelist of the highest order. With Devil House, Darnielle rises above with a novel that blurs the line between fact and fiction, that combines daring formal experimentation with a gripping tale of crime, writing, memory, and artistic obsession.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780374212230"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "0374212236"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": false
+                },
+                "pageCount": 416,
+                "printType": "BOOK",
+                "categories": [
+                    "Fiction"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "preview-1.0.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=pZ09EAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=pZ09EAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=pZ09EAAAQBAJ&dq=isbn:0374212236&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+                "infoLink": "http://books.google.com/books?id=pZ09EAAAQBAJ&dq=isbn:0374212236&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Devil_House.html?hl=&id=pZ09EAAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "NO_PAGES",
+                "embeddable": false,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=pZ09EAAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "NONE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "&quot;An epic, gripping novel about murder, truth, artistic obsession, and the dangers of storytelling&quot;--"
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "GKVPEAAAQBAJ",
+            "etag": "op7ZXkunKhc",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/GKVPEAAAQBAJ",
+            "volumeInfo": {
+                "title": "The Midnight Library",
+                "subtitle": "A Novel",
+                "authors": [
+                    "Matt Haig"
+                ],
+                "publisher": "Penguin",
+                "publishedDate": "2020-09-29",
+                "description": "The #1 New York Times bestselling WORLDWIDE phenomenon Winner of the Goodreads Choice Award for Fiction | A Good Morning America Book Club Pick | Independent (London) Ten Best Books of the Year \"A feel-good book guaranteed to lift your spirits.\"—The Washington Post The dazzling reader-favorite about the choices that go into a life well lived, from the acclaimed author of How To Stop Time and The Comfort Book. Somewhere out beyond the edge of the universe there is a library that contains an infinite number of books, each one the story of another reality. One tells the story of your life as it is, along with another book for the other life you could have lived if you had made a different choice at any point in your life. While we all wonder how our lives might have been, what if you had the chance to go to the library and see for yourself? Would any of these other lives truly be better? In The Midnight Library, Matt Haig's enchanting blockbuster novel, Nora Seed finds herself faced with this decision. Faced with the possibility of changing her life for a new one, following a different career, undoing old breakups, realizing her dreams of becoming a glaciologist; she must search within herself as she travels through the Midnight Library to decide what is truly fulfilling in life, and what makes it worth living in the first place.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780525559474"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "0525559477"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": false
+                },
+                "pageCount": 304,
+                "printType": "BOOK",
+                "categories": [
+                    "Fiction"
+                ],
+                "averageRating": 4,
+                "ratingsCount": 105,
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "preview-1.0.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=GKVPEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=GKVPEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=GKVPEAAAQBAJ&dq=isbn:0525559477&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+                "infoLink": "http://books.google.com/books?id=GKVPEAAAQBAJ&dq=isbn:0525559477&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/The_Midnight_Library.html?hl=&id=GKVPEAAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "NO_PAGES",
+                "embeddable": false,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=GKVPEAAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "NONE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "One tells the story of your life as it is, along with another book for the other life you could have lived if you had made a different choice at any point in your life."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "FcZvzgEACAAJ",
+            "etag": "LONEi5jNBgo",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/FcZvzgEACAAJ",
+            "volumeInfo": {
+                "title": "Wish You Were Here",
+                "authors": [
+                    "Jodi Picoult"
+                ],
+                "publisher": "Ballantine Books",
+                "publishedDate": "2021-11-30",
+                "description": "An upcoming book to be published by Penguin Random House.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "1984818414"
+                    },
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781984818416"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 336,
+                "printType": "BOOK",
+                "categories": [
+                    "Fiction"
+                ],
+                "averageRating": 4,
+                "ratingsCount": 20,
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "preview-1.0.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=FcZvzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=FcZvzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=FcZvzgEACAAJ&dq=isbn:1984818414&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+                "infoLink": "http://books.google.com/books?id=FcZvzgEACAAJ&dq=isbn:1984818414&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Wish_You_Were_Here.html?hl=&id=FcZvzgEACAAJ"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "NO_PAGES",
+                "embeddable": false,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=FcZvzgEACAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "NONE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "&quot;Emily is having the time of her lifeshes in the mountains of Chile with her best friend, Kristen, on their annual reunion trip, and the women are feeling closer than ever."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "ERQ2zgEACAAJ",
+            "etag": "joXRBD9S4XQ",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/ERQ2zgEACAAJ",
+            "volumeInfo": {
+                "title": "Recitatif",
+                "subtitle": "A Story",
+                "authors": [
+                    "Toni Morrison"
+                ],
+                "publisher": "Knopf",
+                "publishedDate": "2022-02",
+                "description": "A beautiful, arresting story about race and the relationships that shape us through life by the legendary Toni Morrison, in a stand-alone Knopf hardcover for the first time, with an introduction by Zadie Smith. In this 1983 short story--the only short story Morrison ever wrote--we meet Twyla and Roberta, who have known each other since they were eight years old and spent four months together as roommates in St. Bonaventure shelter. Inseparable then, they lose touch as they grow older, only later to find each other again at a diner, a grocery store, and again at a protest. Seemingly at opposite ends of every problem, and at each other's throats each time they meet, the two women still cannot deny the deep bond their shared experience has forged between them. Another work of genius by this masterly writer, Recitatif keeps Twyla's and Roberta's races ambiguous throughout the story. Morrison herself described Recitatif, a story which will keep readers thinking and discussing for years to come, as \"an experiment in the removal of all racial codes from a narrative about two characters of different races for whom racial identity is crucial.\" We know that one is white and one is Black, but which is which? And who is right about the race of the woman the girls tormented at the orphanage? A remarkable look into what keeps us together and what keeps us apart, and how perceptions are made tangible by reality, Recitatif is a gift to readers in these changing times.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "0593315030"
+                    },
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780593315033"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 64,
+                "printType": "BOOK",
+                "categories": [
+                    "Fiction"
+                ],
+                "averageRating": 5,
+                "ratingsCount": 1,
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "preview-1.0.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=ERQ2zgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=ERQ2zgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=ERQ2zgEACAAJ&dq=isbn:0593315030&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+                "infoLink": "http://books.google.com/books?id=ERQ2zgEACAAJ&dq=isbn:0593315030&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Recitatif.html?hl=&id=ERQ2zgEACAAJ"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "NO_PAGES",
+                "embeddable": false,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=ERQ2zgEACAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "NONE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "&quot; --Zadie Smith, award-winning, best-selling author of White Teeth In this 1983 short story--the only short story Morrison ever wrote--we meet Twyla and Roberta, who have known each other since they were eight years old and spent four ..."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "NX5nzgEACAAJ",
+            "etag": "KIKJskUy5ng",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/NX5nzgEACAAJ",
+            "volumeInfo": {
+                "title": "The Judge's List",
+                "subtitle": "A Novel",
+                "authors": [
+                    "John Grisham"
+                ],
+                "publisher": "Doubleday",
+                "publishedDate": "2021-10-19",
+                "description": "From the #1 New York Times bestselling author, a new legal thriller about a man who might be the most criminal sitting judge in American history As an investigator for the Florida Board on Judicial Conduct, Lacy Stoltz sees plenty of corruption among the men and women elected to the bench. In THE WHISTLER, she took on a crime syndicate that was paying millions to a crooked judge. Now, in THE JUDGE'S LIST, the crimes are even worse. The man hiding behind the black robe is not taking bribes--but he may be taking lives. THE JUDGE'S LIST--you don't want to be on it.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "0385546025"
+                    },
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780385546027"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 400,
+                "printType": "BOOK",
+                "averageRating": 4,
+                "ratingsCount": 9,
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "preview-1.0.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=NX5nzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=NX5nzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=NX5nzgEACAAJ&dq=isbn:0385546025&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+                "infoLink": "http://books.google.com/books?id=NX5nzgEACAAJ&dq=isbn:0385546025&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/The_Judge_s_List.html?hl=&id=NX5nzgEACAAJ"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "NO_PAGES",
+                "embeddable": false,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=NX5nzgEACAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "NONE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "Lacy Stoltz meets a mysterious woman who is so frightened she uses a number of aliases."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "NX5nzgEACAAJ",
+            "etag": "KIKJskUy5ng",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/NX5nzgEACAAJ",
+            "volumeInfo": {
+                "title": "The Judge's List",
+                "subtitle": "A Novel",
+                "authors": [
+                    "John Grisham"
+                ],
+                "publisher": "Doubleday",
+                "publishedDate": "2021-10-19",
+                "description": "From the #1 New York Times bestselling author, a new legal thriller about a man who might be the most criminal sitting judge in American history As an investigator for the Florida Board on Judicial Conduct, Lacy Stoltz sees plenty of corruption among the men and women elected to the bench. In THE WHISTLER, she took on a crime syndicate that was paying millions to a crooked judge. Now, in THE JUDGE'S LIST, the crimes are even worse. The man hiding behind the black robe is not taking bribes--but he may be taking lives. THE JUDGE'S LIST--you don't want to be on it.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "0385546025"
+                    },
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780385546027"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 400,
+                "printType": "BOOK",
+                "averageRating": 4,
+                "ratingsCount": 9,
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "preview-1.0.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=NX5nzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=NX5nzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=NX5nzgEACAAJ&dq=isbn:0385546025&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+                "infoLink": "http://books.google.com/books?id=NX5nzgEACAAJ&dq=isbn:0385546025&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/The_Judge_s_List.html?hl=&id=NX5nzgEACAAJ"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "NO_PAGES",
+                "embeddable": false,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=NX5nzgEACAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "NONE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "Lacy Stoltz meets a mysterious woman who is so frightened she uses a number of aliases."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "sqVPEAAAQBAJ",
+            "etag": "YCOaU1JNwFE",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/sqVPEAAAQBAJ",
+            "volumeInfo": {
+                "title": "One Step Too Far",
+                "subtitle": "A Novel",
+                "authors": [
+                    "Lisa Gardner"
+                ],
+                "publisher": "Penguin",
+                "publishedDate": "2022-01-18",
+                "description": "From #1 New York Times bestselling author Lisa Gardner, a chilling thriller about a young man gone missing in the wilderness of Wyoming…and the secrets uncovered by the desperate effort to find him Timothy O’Day knew the woods. Yet when he disappeared on the first night of a bachelor party camping trip with his best friends in the world, he didn’t leave a trace. What he did leave behind were two heartbroken parents, a crew of guilt-ridden groomsmen, and a pile of clues that don’t add up. Frankie Elkin doesn’t know the woods, but she knows how to find people. So when she reads that Timothy’s father is organizing one last search, she heads to Wyoming. Despite the rescue team’s reluctance, she joins them. But as they hike into the mountains, it becomes clear that there’s something dangerous at work in the woods…or someone who is willing to do anything to stop them from going any further. Running out of time and up against the worst man and nature have to offer, Frankie and the search party will discover what evil awaits those who go one step too far…",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780593185414"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "0593185412"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 416,
+                "printType": "BOOK",
+                "categories": [
+                    "Fiction"
+                ],
+                "averageRating": 5,
+                "ratingsCount": 1,
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "1.2.1.0.preview.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=sqVPEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=sqVPEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=sqVPEAAAQBAJ&printsec=frontcover&dq=isbn:0593185412&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+                "infoLink": "http://books.google.com/books?id=sqVPEAAAQBAJ&dq=isbn:0593185412&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/One_Step_Too_Far.html?hl=&id=sqVPEAAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=sqVPEAAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "From #1 New York Times bestselling author Lisa Gardner, a chilling thriller about a young man gone missing in the wilderness of Wyoming…and the secrets uncovered by the desperate effort to find him Timothy O’Day knew the woods."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "TXlwzgEACAAJ",
+            "etag": "WFx31hAjJoU",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/TXlwzgEACAAJ",
+            "volumeInfo": {
+                "title": "The Horsewoman",
+                "authors": [
+                    "James Patterson",
+                    "Mike Lupica"
+                ],
+                "publishedDate": "2022-01-10",
+                "description": "Maggie Atwood and Becky McCabe, mother and daughter, both champion riders, vowed to never, ever, go up against one another. Until the tense, harrowing competitions leading to the Paris Olympics. Mother and daughter share a dream: to be the best horsewoman in the world.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "0316499773"
+                    },
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780316499774"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 448,
+                "printType": "BOOK",
+                "categories": [
+                    "Fiction"
+                ],
+                "averageRating": 5,
+                "ratingsCount": 1,
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "preview-1.0.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=TXlwzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=TXlwzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=TXlwzgEACAAJ&dq=isbn:0316499773&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+                "infoLink": "http://books.google.com/books?id=TXlwzgEACAAJ&dq=isbn:0316499773&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/The_Horsewoman.html?hl=&id=TXlwzgEACAAJ"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "NO_PAGES",
+                "embeddable": false,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=TXlwzgEACAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "NONE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "&quot;Maggie Atwood and Becky McCabe--mother and daughter, both champion riders--vowed to never, ever, go up against one another, until the tense, harrowing competitions leading to the Paris Olympics&quot;--Dust jacket flap."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "blRFEAAAQBAJ",
+            "etag": "587lswM3DCc",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/blRFEAAAQBAJ",
+            "volumeInfo": {
+                "title": "Cloud Cuckoo Land",
+                "subtitle": "A Novel",
+                "authors": [
+                    "Anthony Doerr"
+                ],
+                "publisher": "Simon and Schuster",
+                "publishedDate": "2021-09-28",
+                "description": "Finalist for the 2021 National Book Award, longlisted for the 2022 Andrew Carnegie Medal, and the instant New York Times bestseller! From the Pulitzer Prize-winning author of All the Light We Cannot See, perhaps the most bestselling and beloved literary fiction of our time, comes the highly anticipated Cloud Cuckoo Land. Set in Constantinople in the fifteenth century, in a small town in present-day Idaho, and on an interstellar ship decades from now, Anthony Doerr's gorgeous third novel is a triumph of imagination and compassion, a soaring story about children on the cusp of adulthood in worlds in peril, who find resilience, hope--and a book. In Cloud Cuckoo Land, Doerr has created a magnificent tapestry of times and places that reflects our vast interconnectedness--with other species, with each other, with those who lived before us, and with those who will be here after we're gone. Thirteen-year-old Anna, an orphan, lives inside the formidable walls of Constantinople in a house of women who make their living embroidering the robes of priests. Restless, insatiably curious, Anna learns to read, and in this ancient city, famous for its libraries, she finds a book, the story of Aethon, who longs to be turned into a bird so that he can fly to a utopian paradise in the sky. This she reads to her ailing sister as the walls of the only place she has known are bombarded in the great siege of Constantinople. Outside the walls is Omeir, a village boy, miles from home, conscripted with his beloved oxen into the invading army. His path and Anna's will cross. Five hundred years later, in a library in Idaho, octogenarian Zeno, who learned Greek as a prisoner of war, rehearses five children in a play adaptation of Aethon's story, preserved against all odds through centuries. Tucked among the library shelves is a bomb, planted by a troubled, idealistic teenager, Seymour. This is another siege. And in a not-so-distant future, on the interstellar ship Argos, Konstance is alone in a vault, copying on scraps of sacking the story of Aethon, told to her by her father. She has never set foot on our planet. Like Marie-Laure and Werner in All the Light We Cannot See, Anna, Omeir, Seymour, Zeno, and Konstance are dreamers and outsiders who find resourcefulness and hope in the midst of gravest danger. Their lives are gloriously intertwined. Doerr's dazzling imagination transports us to worlds so dramatic and immersive that we forget, for a time, our own. Dedicated to \"the librarians then, now, and in the years to come,\" Cloud Cuckoo Land is a beautiful and redemptive novel about stewardship--of the book, of the Earth, of the human heart.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781982168438"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "1982168439"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 640,
+                "printType": "BOOK",
+                "categories": [
+                    "Fiction"
+                ],
+                "averageRating": 4,
+                "ratingsCount": 33,
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.3.0.0.preview.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=blRFEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=blRFEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=blRFEAAAQBAJ&printsec=frontcover&dq=isbn:1982168439&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+                "infoLink": "http://books.google.com/books?id=blRFEAAAQBAJ&dq=isbn:1982168439&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Cloud_Cuckoo_Land.html?hl=&id=blRFEAAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=blRFEAAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "A &quot;novel about children on the cusp of adulthood in a broken world who find resilience, hope, and story ... [They] are trying to figure out the world around them, and to survive."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "TN5qzgEACAAJ",
+            "etag": "7B9DGHCVo5M",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/TN5qzgEACAAJ",
+            "volumeInfo": {
+                "title": "Black Cake",
+                "authors": [
+                    "Charmaine Wilkerson"
+                ],
+                "publisher": "Ballantine Books",
+                "publishedDate": "2022-02",
+                "description": "In this moving debut novel, two estranged siblings must set aside their differences to deal with their mother's death and her hidden past--a journey of discovery that takes them from the Caribbean to London to California and ends with her famous black cake. In present-day California, Eleanor Bennett's death leaves behind a puzzling inheritance for her two children, Byron and Benny: a traditional Caribbean black cake, made from a family recipe with a long history, and a voice recording. In her message, Eleanor shares a tumultuous story about a headstrong young swimmer who escapes her island home under suspicion of murder. The heartbreaking journey Eleanor unfolds, the secrets she still holds back, and the mystery of a long-lost child, challenge everything the siblings thought they knew about their family, and themselves. Can Byron and Benny reclaim their once-close relationship, piece together Eleanor's true history, and fulfill her final request to \"share the black cake when the time is right?\" Will their mother's revelations bring them back together or leave them feeling more lost than ever? Charmaine Wilkerson's debut novel is a story of how the inheritance of betrayals, secrets, memories, and even names, can shape relationships and history. Deeply evocative and beautifully written, Black Cake is an extraordinary journey through the life of a family changed forever by the choices of its matriarch.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "0593358333"
+                    },
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780593358337"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 352,
+                "printType": "BOOK",
+                "categories": [
+                    "Fiction"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "preview-1.0.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=TN5qzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=TN5qzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=TN5qzgEACAAJ&dq=isbn:0593358333&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+                "infoLink": "http://books.google.com/books?id=TN5qzgEACAAJ&dq=isbn:0593358333&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Black_Cake.html?hl=&id=TN5qzgEACAAJ"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "NO_PAGES",
+                "embeddable": false,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=TN5qzgEACAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "NONE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "In this moving debut novel, two estranged siblings must set aside their differences to deal with their mother&#39;s death and her hidden past--a journey of discovery that takes them from the Caribbean to London to California and ends with her ..."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "B2tBEAAAQBAJ",
+            "etag": "bCDiwzcCtoo",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/B2tBEAAAQBAJ",
+            "volumeInfo": {
+                "title": "The Lincoln Highway",
+                "subtitle": "A Novel",
+                "authors": [
+                    "Amor Towles"
+                ],
+                "publisher": "Penguin",
+                "publishedDate": "2021-10-05",
+                "description": "#1 NEW YORK TIMES BESTSELLER A TODAY Show Read with Jenna Book Club Pick “Wise and wildly entertaining . . . permeated with light, wit, youth.” —The New York Times Book Review “A classic that we will read for years to come.” —Jenna Bush Hager, Read with Jenna book club “A real joyride . . . elegantly constructed and compulsively readable.” – NPR The bestselling author of A Gentleman in Moscow and Rules of Civility and master of absorbing, sophisticated fiction returns with a stylish and propulsive novel set in 1950s America In June, 1954, eighteen-year-old Emmett Watson is driven home to Nebraska by the warden of the juvenile work farm where he has just served fifteen months for involuntary manslaughter. His mother long gone, his father recently deceased, and the family farm foreclosed upon by the bank, Emmett's intention is to pick up his eight-year-old brother, Billy, and head to California where they can start their lives anew. But when the warden drives away, Emmett discovers that two friends from the work farm have hidden themselves in the trunk of the warden's car. Together, they have hatched an altogether different plan for Emmett's future, one that will take them all on a fateful journey in the opposite direction—to the City of New York. Spanning just ten days and told from multiple points of view, Towles's third novel will satisfy fans of his multi-layered literary styling while providing them an array of new and richly imagined settings, characters, and themes.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780735222359"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "0735222355"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 592,
+                "printType": "BOOK",
+                "categories": [
+                    "Fiction"
+                ],
+                "averageRating": 4,
+                "ratingsCount": 40,
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.2.0.0.preview.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=B2tBEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=B2tBEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=B2tBEAAAQBAJ&printsec=frontcover&dq=isbn:0735222355&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+                "infoLink": "http://books.google.com/books?id=B2tBEAAAQBAJ&dq=isbn:0735222355&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/The_Lincoln_Highway.html?hl=&id=B2tBEAAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=B2tBEAAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "But when the warden drives away, Emmett discovers that two friends from the work farm have hidden themselves in the trunk of the warden&#39;s car."
+            }
+        }
+
     ]
     
 }
