@@ -5,6 +5,7 @@ import NavBar from './NavBar';
 import HomePage from './HomePage';
 import SearchResults from "./SearchResults";
 import SelectedBook from './SelectedBook';
+import Footer from "./Footer";
 import { Redirect, Route, Switch, useHistory } from "react-router-dom";
 
 ///API KEYS:
@@ -16,8 +17,8 @@ import { Redirect, Route, Switch, useHistory } from "react-router-dom";
 // const apiKey5='AIzaSyDnjytUM4gOUWl7PpUTriSO3K8DuCBemiU'
 // const apiKey6= 'AIzaSyA8fo7zDXJrVGuia8Pml1RT8WIxmWA5Hzg'
 // const apiKey7= 'AIzaSyDVGpNSqYZdyylw2q3fRDfa2cVe2A7xDHU'
-// const apiKey8 = 'AIzaSyB74bDSFkfuOu0WV_Z7iPIPUOAEiq2Mmbg'
-const apiKey='AIzaSyACwOvdEqnIZO3oG-IP35G2-XFB6EQqIts'
+const apiKey = 'AIzaSyB74bDSFkfuOu0WV_Z7iPIPUOAEiq2Mmbg'
+// const apiKey='AIzaSyACwOvdEqnIZO3oG-IP35G2-XFB6EQqIts'
 
 //search in title and author
 let booksUrl = 'https://www.googleapis.com/books/v1/volumes?q=atomic+inauthor:clear&printType=books&key='+apiKey
@@ -95,6 +96,9 @@ function App() {
             />
           </Route>
         </Switch>
+        <Footer
+        
+        />
       </div>
     </div>
   );

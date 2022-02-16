@@ -97,3 +97,23 @@ code {
   height: 20px;
   object-fit: cover;
 }
+
+.share-label{
+  margin-right: 10px;
+  font-size: 20px;
+  color: grey;
+  top: 50%;
+  left: 50%;
+  
+}
+
+.share-button {
+  vertical-align: top;
+  display: inline-block;
+  margin-right: 10px;
+  text-align: center;
+}
+
+.share-button:hover:not(:active) {
+  opacity: 0.75;
+}
