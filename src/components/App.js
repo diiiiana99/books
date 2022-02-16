@@ -4,18 +4,19 @@ import axios from "axios";
 import NavBar from './NavBar';
 import HomePage from './HomePage';
 import SearchResults from "./SearchResults";
+import SelectedBook from './SelectedBook';
 import { Redirect, Route, Switch, useHistory } from "react-router-dom";
 
 ///API KEYS:
 
-const apiKey1 ='AIzaSyDQgG9PY_tH65Mss-EP1a8M_YQNZqORmys'
-const apiKey2='AIzaSyBOTcf1Js7o8SlmGyfA0bG7JBLrWJQ37R8'
-const apiKey3='AIzaSyA8fo7zDXJrVGuia8Pml1RT8WIxmWA5Hzg'
-const apiKey4='AIzaSyA2Dg912lB4wLmPm0XaY--L-yc2PfdVG84'
-const apiKey5='AIzaSyDnjytUM4gOUWl7PpUTriSO3K8DuCBemiU'
-const apiKey6= 'AIzaSyA8fo7zDXJrVGuia8Pml1RT8WIxmWA5Hzg'
-const apiKey7= 'AIzaSyDVGpNSqYZdyylw2q3fRDfa2cVe2A7xDHU'
-const apiKey8 = 'AIzaSyB74bDSFkfuOu0WV_Z7iPIPUOAEiq2Mmbg'
+// const apiKey1 ='AIzaSyDQgG9PY_tH65Mss-EP1a8M_YQNZqORmys'
+// const apiKey2='AIzaSyBOTcf1Js7o8SlmGyfA0bG7JBLrWJQ37R8'
+// const apiKey3='AIzaSyA8fo7zDXJrVGuia8Pml1RT8WIxmWA5Hzg'
+// const apiKey4='AIzaSyA2Dg912lB4wLmPm0XaY--L-yc2PfdVG84'
+// const apiKey5='AIzaSyDnjytUM4gOUWl7PpUTriSO3K8DuCBemiU'
+// const apiKey6= 'AIzaSyA8fo7zDXJrVGuia8Pml1RT8WIxmWA5Hzg'
+// const apiKey7= 'AIzaSyDVGpNSqYZdyylw2q3fRDfa2cVe2A7xDHU'
+// const apiKey8 = 'AIzaSyB74bDSFkfuOu0WV_Z7iPIPUOAEiq2Mmbg'
 const apiKey='AIzaSyACwOvdEqnIZO3oG-IP35G2-XFB6EQqIts'
 
 //search in title and author
@@ -81,10 +82,16 @@ function App() {
           </Route>
           <Route path='/search-results'>
             <SearchResults
-            books={books} 
-            search= {search}
-            setBooks={setBooks}
-            // searchUrl={searchUrl}
+              books={books} 
+              search= {search}
+              setBooks={setBooks}
+            />
+          </Route>
+          <Route exact path ='/book/:bookId'>
+            <SelectedBook
+              books={books}
+              search= {search}
+              setBooks={setBooks}
             />
           </Route>
         </Switch>

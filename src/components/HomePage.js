@@ -21,7 +21,7 @@ function HomePage( {books, setBooks, apiKey} ) {
         console.log(books)
     }, [])
 
-      // update books to display 
+    // update books to display 
     let filteredBooks = books.filter((book)=>{
         return book.volumeInfo.imageLinks !== undefined
     })
@@ -119,12 +119,8 @@ function HomePage( {books, setBooks, apiKey} ) {
 
     return(
         <React.Fragment>
-            {/* <div className='book-carousel'> 
-                    {booksToDisplay}
-            </div> */}
             <h1>Best Sellers</h1>
             <div className='book-carousel'> 
-                    {/* {bestSellersToDisplay} */}
                     {booksToDisplay}
             </div> 
             <h1>Trending Authors</h1>
@@ -137,11 +133,7 @@ function HomePage( {books, setBooks, apiKey} ) {
                     {/* {bestSellersToDisplay} */}
                     {booksToDisplay3}
             </div> 
-
         </React.Fragment>
-
-         
-        
     );
 }
 
