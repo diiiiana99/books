@@ -10,19 +10,38 @@ let localSputnik = 'http://localhost:4000/sputnik';
 function HomePage( {books, setBooks, apiKey} ) {
 
     let [books2,setBooks2]= useState([]);
-    let [books3,setBooks3]= useState([]);
+    let [sputnikBooks,setSputnik]= useState([]);
+    let [nycbooksList,setnycBooks]= useState([]);
+    let [javascriptBooks,setJavascriptBooks]= useState([]);
+    let [benjaminBooks,setBenjaminBooks] = useState([]);
+    let [moviebooks,setMovieBooks]= useState([]);
+    let [duneBooks,setDuneBooks] = useState([]);
 
 
-      // initial book render
+    let bestSellers = 'http://localhost:4000/bestsellers'
+    let nycbooks='http://localhost:4000/nyc';
+    let devdigest='http://localhost:4000/devdigest'
+    let javascriptbooks='http://localhost:4000/javascript'
+    let benjaminfranklin='http://localhost:4000/benjaminfranklin'
+    let movies = 'http://localhost:4000/moviebooks'
+    let dune = 'http://localhost:4000/dune'
+    
+    function displayBooks(bookList){
+        let newBookList = bookList.filter((book)=>book.volumeInfo.imageLinks !== undefined)
+        return newBookList.map((book,i)=>{
+            return (
+                <BookCard book={book} key={i}/>
+                )
+            })
+    }
+  
     useEffect(()=>{
-        axios.get(localZebras)
+        axios.get(bestSellers)
         .then(r=> {
         setBooks(r.data)
         })
-        console.log(books)
     }, [])
 
-    // update books to display 
     let filteredBooks = books.filter((book)=>{
         return book.volumeInfo.imageLinks !== undefined
     })
@@ -32,15 +51,14 @@ function HomePage( {books, setBooks, apiKey} ) {
             )
         })
 
+    //developers digest
     useEffect(()=>{
-        axios.get(localGiraffes)
+        axios.get(devdigest)
         .then(r=> {
         setBooks2(r.data)
         })
-        console.log(books)
     }, [])
 
-        // update books to display 
     let filteredBooks2 = books2.filter((book)=>{
         return book.volumeInfo.imageLinks !== undefined
     })
@@ -49,20 +67,19 @@ function HomePage( {books, setBooks, apiKey} ) {
             <BookCard book={book} key={i}/>
             )
         })
-
+        
+    //New York
     useEffect(()=>{
-        axios.get(localSputnik)
+        axios.get(nycbooks)
         .then(r=> {
-        setBooks3(r.data)
+        setnycBooks(r.data)
         })
-        console.log(books)
     }, [])
 
-        // update books to display 
-    let filteredBooks3 = books3.filter((book)=>{
+    let filteredNYC = nycbooksList.filter((book)=>{
         return book.volumeInfo.imageLinks !== undefined
     })
-    let booksToDisplay3 = filteredBooks3.map((book, i)=>{
+    let nycToDisplay = filteredNYC.map((book, i)=>{
         return (
             <BookCard 
                 book={book}
@@ -70,70 +87,110 @@ function HomePage( {books, setBooks, apiKey} ) {
             />
             )
         })
+
+    //Javascript
+    useEffect(()=>{
+        axios.get(javascriptbooks)
+        .then(r=> {
+            setJavascriptBooks(r.data)
+        })
+    }, [])
+
+    let javascriptToDisplay = displayBooks(javascriptBooks);
+
+    //Benjamin
+    useEffect(()=>{
+        axios.get(benjaminfranklin)
+        .then(r=> {
+            setBenjaminBooks(r.data)
+        })
+    }, [])
+
+    let benjaminToDisplay = displayBooks(benjaminBooks);
     
-    
-    
+    //Movies
+    useEffect(()=>{
+        axios.get(movies)
+        .then(r=> {
+            setMovieBooks(r.data)
+        })
+    }, [])
 
-    // let nytURL='https://api.nytimes.com/svc/books/v3/lists/current/hardcover-fiction.json?api-key=a8Y1LuFG60g1s9EqYAQ0ZgxEdIZIdnj3';
+    let moviesToDisplay = displayBooks(moviebooks);
 
-    // // use isbn number to get google api results and then display 
+    //Random Historical Event:
+    useEffect(()=>{
+        axios.get(localSputnik)
+        .then(r=> {
+            setSputnik(r.data)
+        })
+    }, [])
 
-    // let [bestSellers,setBS]= useState([])
+    let sputnikToDisplay = displayBooks(sputnikBooks);
 
-    // useEffect(()=>{
-    //   axios.get(nytURL)
-    //   .then(r=> {
-    //     setBS(r.data.results.books)
-    //   })
-    // }, [])
+    //Dune
+    useEffect(()=>{
+        axios.get(dune)
+        .then(r=> {
+            setDuneBooks(r.data)
+        })
+    }, [])
 
-    // let isbnList = bestSellers.map((book)=>{
-    //     // console.log(book)
-    //     return book.isbns[0]['isbn10']
-    // })
-
-    // let [topBooks,setTB] = useState([])
-    // let nytbooks = [];
-
-    // useEffect(()=>{
-    //     isbnList.map((book)=>{
-    //         // console.log(book.isbns[0]['isbn10'])
-    //         axios.get('https://www.googleapis.com/books/v1/volumes?q=+isbn:'+book+'&printType=books&key='+apiKey)
-    //         .then(r=> {
-    //             nytbooks.push(r.data.items)
-    //             setTB(nytbooks)
-    //         })
-    //     })
-    // },[bestSellers])
-   
-    // let bestSellersToDisplay = topBooks.map((book)=>{
-    //         console.log(bestSellersToDisplay)
-    //         return (
-    //             <div className='book-card' >
-    //                 <img 
-    //                 src={book[0].volumeInfo.imageLinks.thumbnail} 
-    //                 alt={book.title}/>
-    //             </div>
-    //         )
-    //         })
-
+    let duneToDisplay = displayBooks(duneBooks);
 
     return(
         <React.Fragment>
+
             <h1>Best Sellers</h1>
+            <p>This week's most popular books</p>
             <div className='book-carousel'> 
                     {booksToDisplay}
             </div> 
-            <h1>Trending Authors</h1>
+
+            <h1>Developer's Digest</h1>
+            <p>Recommendations from the Team </p>
             <div className='book-carousel'> 
-                    {/* {bestSellersToDisplay} */}
                     {booksToDisplay2}
             </div> 
-            <h1>Classics</h1>
+
+            <h1>See it on the Screen</h1>
+            <p>Books Made into Movies</p>
             <div className='book-carousel'> 
-                    {/* {bestSellersToDisplay} */}
-                    {booksToDisplay3}
+                    {moviesToDisplay}
             </div> 
+
+            <h1>New York, New York</h1>
+            <p>All About the City and More</p>
+            <div className='book-carousel'> 
+                    {nycToDisplay}
+            </div>
+
+            <h1>The Dune Saga</h1>
+            <p>Catch Up on the Epic Sci-Fi Original</p>
+            <div className='book-carousel'> 
+                    {duneToDisplay}
+            </div> 
+
+
+            <h1>Javascript</h1>
+            <p>Wanna Learn More? Check out these!</p>
+            <div className='book-carousel'> 
+                    {javascriptToDisplay}
+            </div> 
+
+            <h1>Author in Focus: Benjamin Franklin</h1>
+            <p>Learn more about this week's featured artist!</p>
+            <div className='book-carousel'> 
+                    {benjaminToDisplay}
+            </div> 
+
+            <h1>This Week in History: Sputnik</h1>
+            <p>Learn more about this pivotal event in history!</p>
+            <div className='book-carousel'> 
+                    {sputnikToDisplay}
+            </div> 
+
+
         </React.Fragment>
     );
 }

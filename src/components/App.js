@@ -5,19 +5,21 @@ import NavBar from './NavBar';
 import HomePage from './HomePage';
 import SearchResults from "./SearchResults";
 import SelectedBook from './SelectedBook';
+import Footer from "./Footer";
+import Genre from "./Genre";
 import { Redirect, Route, Switch, useHistory } from "react-router-dom";
 
 ///API KEYS:
 
-// const apiKey1 ='AIzaSyDQgG9PY_tH65Mss-EP1a8M_YQNZqORmys'
+const apiKey ='AIzaSyDQgG9PY_tH65Mss-EP1a8M_YQNZqORmys'
 // const apiKey2='AIzaSyBOTcf1Js7o8SlmGyfA0bG7JBLrWJQ37R8'
 // const apiKey3='AIzaSyA8fo7zDXJrVGuia8Pml1RT8WIxmWA5Hzg'
 // const apiKey4='AIzaSyA2Dg912lB4wLmPm0XaY--L-yc2PfdVG84'
 // const apiKey5='AIzaSyDnjytUM4gOUWl7PpUTriSO3K8DuCBemiU'
 // const apiKey6= 'AIzaSyA8fo7zDXJrVGuia8Pml1RT8WIxmWA5Hzg'
-// const apiKey7= 'AIzaSyDVGpNSqYZdyylw2q3fRDfa2cVe2A7xDHU'
-// const apiKey8 = 'AIzaSyB74bDSFkfuOu0WV_Z7iPIPUOAEiq2Mmbg'
-const apiKey='AIzaSyACwOvdEqnIZO3oG-IP35G2-XFB6EQqIts'
+// const apiKey= 'AIzaSyDVGpNSqYZdyylw2q3fRDfa2cVe2A7xDHU'
+// const apiKey = 'AIzaSyB74bDSFkfuOu0WV_Z7iPIPUOAEiq2Mmbg'
+// const apiKey='AIzaSyACwOvdEqnIZO3oG-IP35G2-XFB6EQqIts'
 
 //search in title and author
 let booksUrl = 'https://www.googleapis.com/books/v1/volumes?q=atomic+inauthor:clear&printType=books&key='+apiKey
@@ -45,12 +47,14 @@ function App() {
       console.log(search)
   }
 
+  let allanKey= 'AIzaSyDVGpNSqYZdyylw2q3fRDfa2cVe2A7xDHU'
   // let [searchUrl,setSearchUrl] = useState('');
   function handleSubmit(event){
     event.preventDefault();
+    let searchUrl= `https://www.googleapis.com/books/v1/volumes?q=intitle:${search}+inauthor:herbert&printType=books&key=${allanKey}&maxResults=10`
     history.push('./search-results')
       if (search!==''){
-          axios.get(localSputnik)
+          axios.get(searchUrl)
           .then(r=> {
               console.log(r.data)
               setBooks(r.data)
@@ -67,7 +71,7 @@ function App() {
   
   return (
     <div className="App">
-      <div className='container'>
+      <div >
         <NavBar 
           onChange={handleChange}
           onSubmit={handleSubmit}
@@ -92,7 +96,18 @@ function App() {
               books={books}
             />
           </Route>
+          <Route exact path ='/genre/:genre'>
+            <Genre 
+            />
+          </Route>
+        <Route path ='/favorites'>
+          {/* <Favorites 
+          /> */}
+        </Route>
         </Switch>
+        <Footer
+        
+        />
       </div>
     </div>
   );
