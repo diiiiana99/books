@@ -5,12 +5,12 @@ import axios from "axios";
 function Genre({ books }){
 
     const params = useParams();
-    console.log(books)
+    // console.log(books)
 
-    console.log(params)
-
-    // const [ selectedGenre, setSelectedGenre ] = useState(books.find(book => book.volumeInfo.categories.includes(params.Genre)));
-
+    
+    // const [ selectedGenre, setSelectedGenre ] = useState(books.find(book => book.volumeInfo.categories.includes(params.genre)));
+    
+    // console.log(selectedGenre)
 
     return (
         <div></div>

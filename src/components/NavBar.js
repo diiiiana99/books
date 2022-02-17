@@ -16,112 +16,33 @@ function NavBar({ onChange, onSubmit}) {
   const dune = 'http://localhost:4000/dune'
 
   const [ genres, setGenres] = useState([]);
-  const genresArray = [];
-
-  useEffect(() => {
-    axios.get(bestSellers)
-    .then(response => {
-      response.data.forEach((book) => {
-        const categories = book.volumeInfo.categories;
-        if(categories) {
-          if(genresArray.indexOf(categories[0].toLowerCase()) === -1) {
-            genresArray.push(categories[0].toLowerCase())
-          }
-        }
-      })
-      setGenres(genresArray);
-    })
-  }, [])
-
-  useEffect(() => {
-    axios.get(nycbooks)
-    .then(response => {
-      response.data.forEach((book) => {
-        const categories = book.volumeInfo.categories;
-        if(categories) {
-          if(genresArray.indexOf(categories[0].toLowerCase()) === -1) {
-            genresArray.push(categories[0].toLowerCase())
-          }
-        }
-      })
-      setGenres(genresArray);
-    })
-  }, [])
-
-  useEffect(() => {
-    axios.get(devdigest)
-    .then(response => {
-      response.data.forEach((book) => {
-        const categories = book.volumeInfo.categories;
-        if(categories) {
-          if(genresArray.indexOf(categories[0].toLowerCase()) === -1) {
-            genresArray.push(categories[0].toLowerCase())
-          }
-        }
-      })
-      setGenres(genresArray);
-    })
-  }, [])
-
-  useEffect(() => {
-    axios.get(javascriptbooks)
-    .then(response => {
-      response.data.forEach((book) => {
-        const categories = book.volumeInfo.categories;
-        if(categories) {
-          if(genresArray.indexOf(categories[0].toLowerCase()) === -1) {
-            genresArray.push(categories[0].toLowerCase())
-          }
-        }
-      })
-      setGenres(genresArray);
-    })
-  }, [])
-
-  useEffect(() => {
-    axios.get(benjaminfranklin)
-    .then(response => {
-      response.data.forEach((book) => {
-        const categories = book.volumeInfo.categories;
-        if(categories) {
-          if(genresArray.indexOf(categories[0].toLowerCase()) === -1) {
-            genresArray.push(categories[0].toLowerCase())
-          }
-        }
-      })
-      setGenres(genresArray);
-    })
-  }, [])
-
-  useEffect(() => {
-    axios.get(movies)
-    .then(response => {
-      response.data.forEach((book) => {
-        const categories = book.volumeInfo.categories;
-        if(categories) {
-          if(genresArray.indexOf(categories[0].toLowerCase()) === -1) {
-            genresArray.push(categories[0].toLowerCase())
-          }
-        }
-      })
-      setGenres(genresArray);
-    })
-  }, [])
   
-  useEffect(() => {
-    axios.get(dune)
-    .then(response => {
-      response.data.forEach((book) => {
-        const categories = book.volumeInfo.categories;
-        if(categories) {
-          if(genresArray.indexOf(categories[0].toLowerCase()) === -1) {
-            genresArray.push(categories[0].toLowerCase())
-          }
+  const requestGenre = async (topic) => {
+    const genresArray = [];
+    let req = await fetch(topic)
+    let res = await req.json()
+    res.forEach((book) => {
+      const categories = book.volumeInfo.categories;
+      if(categories) {
+        if(genresArray.indexOf(categories[0].toLowerCase()) === -1) {
+          genresArray.push(categories[0].toLowerCase())
         }
-      })
-      setGenres(genresArray);
+      }
     })
-  }, [])  
+    return(genresArray)
+}
+
+  useEffect(async () => {
+      const bestSellersGenres = await requestGenre(bestSellers)
+      const nycbooksGenres = await requestGenre(nycbooks)
+      const devdigestGenres = await requestGenre(devdigest)
+      const javascriptbooksGenres = await requestGenre(javascriptbooks)
+      const benjaminfranklinGenres = await requestGenre(benjaminfranklin)
+      const moviesGenres = await requestGenre(movies)
+      const duneGenres = await requestGenre(dune)
+      const uniqueGenres = new Array(...new Set([...bestSellersGenres,...nycbooksGenres,...devdigestGenres,...javascriptbooksGenres,...benjaminfranklinGenres,...moviesGenres,...duneGenres]))
+      setGenres(uniqueGenres)
+  }, [])
   
   // setGenres(genresArray);
   // console.log(genresArray)
@@ -164,11 +85,11 @@ function NavBar({ onChange, onSubmit}) {
       <div onMouseOver={handleOver} onMouseOut={handleOff}>
           Browse Genres
         <div id = 'genrecontainer' className={'genre-container hidden'}>
-          {genres.sort().map((category) =>
+          {/* {genres.sort().map((category) =>
               <NavLink style={{ marginRight: "10px" }} to={`/genre/${category}`}>
                 <div>{titleCase(category)}</div>
               </NavLink>
-          )}
+          )} */}
         </div>
       </div>
       <div>Favorites</div>
