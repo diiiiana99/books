@@ -162,26 +162,25 @@ function App() {
           </Route>
           <Route exact path ='/genre/:genre'>
             <Genre 
-              books={books}
+              // books={books}
             />
           </Route>
-        <Route path ='/favorites'>
-          <Favorites 
-            books={favoriteBooks}
-            setBooks={setBooks}
-            onReadClick={handleReadClickoutList}
-            onFavoriteClick={handleFavoritesClickIN}
-          />
-        </Route>
-        <Route path ='/toread'>
-          <ToReadList
-            books={toReadBooks}
-            setBooks={setBooks}
-            onReadClick={handleReadClickinList}
-            onFavoriteClick={handleFavoritesClickOUT}
-          />
-        </Route>
-
+          <Route path ='/favorites'>
+            <Favorites 
+              books={favoriteBooks}
+              setBooks={setBooks}
+              onReadClick={handleReadClickoutList}
+              onFavoriteClick={handleFavoritesClickIN}
+            />
+          </Route>
+          <Route path ='/toread'>
+            <ToReadList
+              books={toReadBooks}
+              setBooks={setBooks}
+              onReadClick={handleReadClickinList}
+              onFavoriteClick={handleFavoritesClickOUT}
+            />
+          </Route>
         </Switch>
         <Footer
         
