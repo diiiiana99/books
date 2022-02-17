@@ -43,10 +43,6 @@ function NavBar({ onChange, onSubmit}) {
       const uniqueGenres = new Array(...new Set([...bestSellersGenres,...nycbooksGenres,...devdigestGenres,...javascriptbooksGenres,...benjaminfranklinGenres,...moviesGenres,...duneGenres]))
       setGenres(uniqueGenres)
   }, [])
-  
-  // setGenres(genresArray);
-  // console.log(genresArray)
-  console.log(genres);
 
   function handleSearchClick(){
     setSearchVis(!searchVis);
@@ -85,11 +81,11 @@ function NavBar({ onChange, onSubmit}) {
       <div onMouseOver={handleOver} onMouseOut={handleOff}>
           Browse Genres
         <div id = 'genrecontainer' className={'genre-container hidden'}>
-          {/* {genres.sort().map((category) =>
+          {genres.sort().map((category) =>
               <NavLink style={{ marginRight: "10px" }} to={`/genre/${category}`}>
                 <div>{titleCase(category)}</div>
               </NavLink>
-          )} */}
+          )}
         </div>
       </div>
       <div>Favorites</div>
