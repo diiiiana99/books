@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
 import axios from "axios";
 import { NavLink } from "react-router-dom";
 import logo from '../images/book_report_logo.png' 
@@ -6,6 +6,126 @@ import logo from '../images/book_report_logo.png'
 function NavBar({ onChange, onSubmit}) {
 
   let [searchVis,setSearchVis]= useState(true)
+  
+  const bestSellers = 'http://localhost:4000/bestsellers'
+  const nycbooks='http://localhost:4000/nyc';
+  const devdigest='http://localhost:4000/devdigest'
+  const javascriptbooks='http://localhost:4000/javascript'
+  const benjaminfranklin='http://localhost:4000/benjaminfranklin'
+  const movies = 'http://localhost:4000/moviebooks'
+  const dune = 'http://localhost:4000/dune'
+
+  const [ genres, setGenres] = useState([]);
+  const genresArray = [];
+
+  useEffect(() => {
+    axios.get(bestSellers)
+    .then(response => {
+      response.data.forEach((book) => {
+        const categories = book.volumeInfo.categories;
+        if(categories) {
+          if(genresArray.indexOf(categories[0].toLowerCase()) === -1) {
+            genresArray.push(categories[0].toLowerCase())
+          }
+        }
+      })
+      setGenres(genresArray);
+    })
+  }, [])
+
+  useEffect(() => {
+    axios.get(nycbooks)
+    .then(response => {
+      response.data.forEach((book) => {
+        const categories = book.volumeInfo.categories;
+        if(categories) {
+          if(genresArray.indexOf(categories[0].toLowerCase()) === -1) {
+            genresArray.push(categories[0].toLowerCase())
+          }
+        }
+      })
+      setGenres(genresArray);
+    })
+  }, [])
+
+  useEffect(() => {
+    axios.get(devdigest)
+    .then(response => {
+      response.data.forEach((book) => {
+        const categories = book.volumeInfo.categories;
+        if(categories) {
+          if(genresArray.indexOf(categories[0].toLowerCase()) === -1) {
+            genresArray.push(categories[0].toLowerCase())
+          }
+        }
+      })
+      setGenres(genresArray);
+    })
+  }, [])
+
+  useEffect(() => {
+    axios.get(javascriptbooks)
+    .then(response => {
+      response.data.forEach((book) => {
+        const categories = book.volumeInfo.categories;
+        if(categories) {
+          if(genresArray.indexOf(categories[0].toLowerCase()) === -1) {
+            genresArray.push(categories[0].toLowerCase())
+          }
+        }
+      })
+      setGenres(genresArray);
+    })
+  }, [])
+
+  useEffect(() => {
+    axios.get(benjaminfranklin)
+    .then(response => {
+      response.data.forEach((book) => {
+        const categories = book.volumeInfo.categories;
+        if(categories) {
+          if(genresArray.indexOf(categories[0].toLowerCase()) === -1) {
+            genresArray.push(categories[0].toLowerCase())
+          }
+        }
+      })
+      setGenres(genresArray);
+    })
+  }, [])
+
+  useEffect(() => {
+    axios.get(movies)
+    .then(response => {
+      response.data.forEach((book) => {
+        const categories = book.volumeInfo.categories;
+        if(categories) {
+          if(genresArray.indexOf(categories[0].toLowerCase()) === -1) {
+            genresArray.push(categories[0].toLowerCase())
+          }
+        }
+      })
+      setGenres(genresArray);
+    })
+  }, [])
+  
+  useEffect(() => {
+    axios.get(dune)
+    .then(response => {
+      response.data.forEach((book) => {
+        const categories = book.volumeInfo.categories;
+        if(categories) {
+          if(genresArray.indexOf(categories[0].toLowerCase()) === -1) {
+            genresArray.push(categories[0].toLowerCase())
+          }
+        }
+      })
+      setGenres(genresArray);
+    })
+  }, [])  
+  
+  // setGenres(genresArray);
+  // console.log(genresArray)
+  console.log(genres);
 
   function handleSearchClick(){
     setSearchVis(!searchVis);
@@ -21,6 +141,13 @@ function NavBar({ onChange, onSubmit}) {
     document.getElementById('genrecontainer').className=('genre-container hidden')
   }
 
+  function titleCase(str) {
+    str = str.toLowerCase().split(' ');
+    for (var i = 0; i < str.length; i++) {
+      str[i] = str[i].charAt(0).toUpperCase() + str[i].slice(1); 
+    }
+    return str.join(' ');
+  }
   
   return (
     <div
@@ -35,18 +162,14 @@ function NavBar({ onChange, onSubmit}) {
           <img src={logo} alt="Logo" />
       </NavLink>
       <div onMouseOver={handleOver} onMouseOut={handleOff}>
-          Browse
-      <div id = 'genrecontainer' className={'genre-container hidden'}>
-        <NavLink style={{ marginRight: "10px" }} to="/browse">
-            <div>Testing</div>
-        </NavLink>
-        <NavLink style={{ marginRight: "10px" }} to="/browse">
-            <div>Testing2</div>
-        </NavLink>
-        <NavLink style={{ marginRight: "10px" }} to="/browse">
-            <div>Testing3</div>
-        </NavLink>
-      </div>
+          Browse Genres
+        <div id = 'genrecontainer' className={'genre-container hidden'}>
+          {genres.sort().map((category) =>
+              <NavLink style={{ marginRight: "10px" }} to={`/genre/${category}`}>
+                <div>{titleCase(category)}</div>
+              </NavLink>
+          )}
+        </div>
       </div>
       <div>Favorites</div>
       <div>To-Read</div>
