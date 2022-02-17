@@ -84387,7 +84387,7 @@
         "contentVersion": "preview-1.0.0",
         "imageLinks": {
           "smallThumbnail": "http://books.google.com/books/content?id=a5kNrgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-          "thumbnail": "http://books.google.com/books/content?id=a5kNrgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          "thumbnail": "http://books.google.com/books/content?id=2atsvgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
         },
         "language": "fr",
         "previewLink": "http://books.google.com/books?id=a5kNrgEACAAJ&dq=intitle:american+psycho&hl=&as_pt=BOOKS&cd=2&source=gbs_api",
@@ -86484,6 +86484,156 @@
   "favorites": [
     {
       "kind": "books#volume",
+      "id": "jAetDwAAQBAJ",
+      "etag": "j3PWF+ww3T4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/jAetDwAAQBAJ",
+      "volumeInfo": {
+        "title": "The Communist Manifesto",
+        "authors": [
+          "Karl Marx",
+          "Friedrich Engels"
+        ],
+        "publisher": "Vintage",
+        "publishedDate": "2019-08-06",
+        "description": "The Communist Manifesto was first published in London in 1848 by two young men in their twenties, Karl Marx and Friedrich Engels, and its impact reverberated across the globe and through the next century. Foreshadowing globalization 150 years before it happened, the Manifesto brims with prescient insights into the crisis facing capitalism today. It is an essential read for anyone seeking to understand the modern political landscape. This edition includes a new introduction by the bestselling author of And the Weak Suffer What They Must? and Talking to My Daughter About the Economy, Yanis Varoufakis.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780525566724"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0525566724"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 128,
+        "printType": "BOOK",
+        "categories": [
+          "Philosophy"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=aUf1DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=aUf1DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=jAetDwAAQBAJ&printsec=frontcover&dq=intitle:communist&hl=&as_pt=BOOKS&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=jAetDwAAQBAJ&dq=intitle:communist&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Communist_Manifesto.html?hl=&id=jAetDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=jAetDwAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This edition includes a new introduction by the bestselling author of And the Weak Suffer What They Must? and Talking to My Daughter About the Economy, Yanis Varoufakis."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "XfFvDwAAQBAJ",
+      "etag": "+GUbSbrG0mk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/XfFvDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Atomic Habits",
+        "subtitle": "An Easy & Proven Way to Build Good Habits & Break Bad Ones",
+        "authors": [
+          "James Clear"
+        ],
+        "publisher": "Penguin",
+        "publishedDate": "2018-10-16",
+        "description": "The #1 New York Times bestseller. Over 3 million copies sold! Tiny Changes, Remarkable Results No matter your goals, Atomic Habits offers a proven framework for improving--every day. James Clear, one of the world's leading experts on habit formation, reveals practical strategies that will teach you exactly how to form good habits, break bad ones, and master the tiny behaviors that lead to remarkable results. If you're having trouble changing your habits, the problem isn't you. The problem is your system. Bad habits repeat themselves again and again not because you don't want to change, but because you have the wrong system for change. You do not rise to the level of your goals. You fall to the level of your systems. Here, you'll get a proven system that can take you to new heights. Clear is known for his ability to distill complex topics into simple behaviors that can be easily applied to daily life and work. Here, he draws on the most proven ideas from biology, psychology, and neuroscience to create an easy-to-understand guide for making good habits inevitable and bad habits impossible. Along the way, readers will be inspired and entertained with true stories from Olympic gold medalists, award-winning artists, business leaders, life-saving physicians, and star comedians who have used the science of small habits to master their craft and vault to the top of their field. Learn how to: • make time for new habits (even when life gets crazy); • overcome a lack of motivation and willpower; • design your environment to make success easier; • get back on track when you fall off course; ...and much more. Atomic Habits will reshape the way you think about progress and success, and give you the tools and strategies you need to transform your habits--whether you are a team looking to win a championship, an organization hoping to redefine an industry, or simply an individual who wishes to quit smoking, lose weight, reduce stress, or achieve any other goal.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780735211292"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0735211299"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 320,
+        "printType": "BOOK",
+        "categories": [
+          "Business & Economics"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 27,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.9.0.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=XfFvDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=XfFvDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=XfFvDwAAQBAJ&printsec=frontcover&dq=intitle:atomic+habits&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=XfFvDwAAQBAJ&dq=intitle:atomic+habits&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Atomic_Habits.html?hl=&id=XfFvDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=XfFvDwAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Atomic Habits will reshape the way you think about progress and success, and give you the tools and strategies you need to transform your habits--whether you are a team looking to win a championship, an organization hoping to redefine an ..."
+      }
+    },
+    {
+      "kind": "books#volume",
       "id": "FM4y7N1kM9AC",
       "etag": "wd7Hv0AkpAo",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/FM4y7N1kM9AC",
@@ -86582,7 +86732,777 @@
       "searchInfo": {
         "textSnippet": "A special fiftieth anniversary edition of Kurt Vonnegut’s masterpiece, “a desperate, painfully honest attempt to confront the monstrous crimes of the twentieth century” (Time), featuring a new introduction by Kevin Powers, author of ..."
       }
+    },
+    {
+      "kind": "books#volume",
+      "id": "SEsIPQAACAAJ",
+      "etag": "jgo9bCtceyg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/SEsIPQAACAAJ",
+      "volumeInfo": {
+        "title": "Man's Search For Meaning",
+        "authors": [
+          "Viktor E Frankl"
+        ],
+        "publishedDate": "2008-02-07",
+        "description": "A prominent Viennese psychiatrist before the war, Viktor Frankl was uniquely able to observe the way that he and other inmates coped with the experience of being in Auschwitz. He noticed that it was the men who comforted others and who gave away their last piece of bread who survived the longest - and who offered proof that everything can be taken away from us except the ability to choose our attitude in any given set of circumstances. The sort of person the prisoner became was the result of an inner decision and not of camp influences alone. Only those who allowed their inner hold on their moral and spiritual selves to subside eventually fell victim to the camp's degenerating influence - while those who made a victory of those experiences turned them into an inner triumph. Frankl came to believe that man's deepest desire is to search for meaning and purpose. This outstanding work offers us all a way to transcend suffering and find significance in the art of living.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1846041244"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781846041242"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 154,
+        "printType": "BOOK",
+        "categories": [
+          "Existential psychotherapy"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=SK5KEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=SK5KEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=SEsIPQAACAAJ&dq=intitle:search+for+meaning&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=SEsIPQAACAAJ&dq=intitle:search+for+meaning&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Man_s_Search_For_Meaning.html?hl=&id=SEsIPQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=SEsIPQAACAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A prominent Viennese psychiatrist before the war, Viktor Frankl was uniquely able to observe the way that he and other inmates coped with the experience of being in Auschwitz."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "XODEDwAAQBAJ",
+      "etag": "n9JOJIr1oug",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/XODEDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Sputnik",
+        "subtitle": "The Shock of the Century",
+        "authors": [
+          "Paul Dickson"
+        ],
+        "publisher": "U of Nebraska Press",
+        "publishedDate": "2019-12-27",
+        "description": "On October 4, 1957, the day Leave It to Beaver premiered on American television, the Soviet Union launched the space age. Sputnik, all of 184 pounds with only a radio transmitter inside its highly polished shell, became the first artificial satellite in space; while it immediately shocked the world, its long-term impact was even greater, for it profoundly changed the shape of the twentieth century. Paul Dickson chronicles the dramatic events and developments leading up to and resulting from Sputnik's launch. Supported by groundbreaking, original research and many declassified documents, Sputnik offers a fascinating profile of the early American and Soviet space programs and a strikingly revised picture of the politics and personalities behind the facade of America's fledgling efforts to get into space. The U.S. public reaction to Sputnik was monumental. In a single weekend, Americans were wrenched out of a mood of national smugness and postwar material comfort. Initial shock at and fear of the Soviets' intentions galvanized the country and swiftly prompted innovative developments that define our world today. Sputnik directly or indirectly influenced nearly every aspect of American life: from an immediate shift toward science in the classroom to the arms race that defined the Cold War, the competition to reach the moon, and the birth of the internet. By shedding new light on a pivotal era, Dickson expands our knowledge of the world we now inhabit and reminds us that the story of Sputnik goes far beyond technology and the beginning of the space age, and that its implications are still being felt today.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781496216403"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1496216407"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 320,
+        "printType": "BOOK",
+        "categories": [
+          "History"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=XODEDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=XODEDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=XODEDwAAQBAJ&printsec=frontcover&dq=sputnik&hl=&as_pt=BOOKS&cd=9&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=XODEDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=XODEDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 24.95,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 14.72,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=XODEDwAAQBAJ&rdid=book-XODEDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 24950000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 14720000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Sputnik-sample-epub.acsm?id=XODEDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Sputnik-sample-pdf.acsm?id=XODEDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=XODEDwAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "By shedding new light on a pivotal era, Dickson expands our knowledge of the world we now inhabit and reminds us that the story of Sputnik goes far beyond technology and the beginning of the space age, and that its implications are still ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "2edvDwAAQBAJ",
+      "etag": "N30oMNNYloI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/2edvDwAAQBAJ",
+      "volumeInfo": {
+        "title": "One Giant Leap",
+        "authors": [
+          "Robert Burleigh"
+        ],
+        "publisher": "Puffin Books",
+        "publishedDate": "2014-06-12",
+        "description": "Recreates the experiences of Neil Armstrong and Buzz Aldrin as they approach, land, and walk on the Moon, plant the American flag, collect rocks, take pictures, and finally lift off, reconnecting with their space ship, the Columbia.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780147511652"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0147511658"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 48,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Nonfiction"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 8,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=2edvDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=2edvDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=2edvDwAAQBAJ&printsec=frontcover&dq=intitle:one+giant+leap&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=2edvDwAAQBAJ&dq=intitle:one+giant+leap&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/One_Giant_Leap.html?hl=&id=2edvDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=2edvDwAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Recreates the experiences of Neil Armstrong and Buzz Aldrin as they approach, land, and walk on the Moon, plant the American flag, collect rocks, take pictures, and finally lift off, reconnecting with their space ship, the Columbia."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "9mpsCgAAQBAJ",
+      "etag": "aqcG3FIktNs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/9mpsCgAAQBAJ",
+      "volumeInfo": {
+        "title": "Affordable Housing in New York",
+        "subtitle": "The People, Places, and Policies That Transformed a City",
+        "authors": [
+          "Nicholas Dagen Bloom",
+          "Matthew Gordon Lasner"
+        ],
+        "publisher": "Princeton University Press",
+        "publishedDate": "2016",
+        "description": "How has America's most expensive and progressive city helped its residents to live? Since the nineteenth century, the need for high-quality affordable housing has been one of New York City’s most urgent issues. Affordable Housing in New York explores the past, present, and future of the city’s pioneering efforts, from the 1920s to the major initiatives of Mayor Bill de Blasio. The book examines the people, places, and policies that have helped make New York livable, from early experiments by housing reformers and the innovative public-private solutions of the 1970s and 1980s to today’s professionalized affordable housing industry. More than two dozen leading scholars tell the story of key figures of the era, including Fiorello LaGuardia, Robert Moses, Jane Jacobs, and Ed Koch. Over twenty-five individual housing complexes are profiled, including Queensbridge Houses, America’s largest public housing complex; Stuyvesant Town; Co-op City; and recent additions like Via Verde. Plans, models, archival photos, and newly commissioned portraits of buildings and tenants put the efforts of the past century into social, political, and cultural context and look ahead to future prospects for below-market subsidized housing. A richly illustrated, dynamic portrait of an evolving city, this is a comprehensive and authoritative history of public and middle-income housing in New York and contributes significantly to contemporary debates on how to enable future generations of New Yorkers to call the city home. Contributors include: Matthias Altwicker, Hilary Ballon, Lizabeth Cohen, Andrew S. Dolkart, Peter Eisenstadt, Richard Greenwald, Christopher Klemek, Jeffrey A. Kroessler, Nancy H. Kwak, Nadia A. Mian, Annemarie Sammartino, David Schalliol, Susanne Schindler, David Smiley, Jonathan Soffer, Fritz Umbach, and Samuel Zipp. Featured housing complexes include: Amalgamated Cooperative Apartments • Amsterdam Houses • Bell Park Gardens • Boulevard Gardens • Co-op City • East River Houses • Eastwood • Harlem River Houses • Hughes House • Jacob Riis Houses • Johnson Houses • Marcus Garvey Village • Melrose Commons • Nehemiah Houses • Paul Laurence Dunbar Apartments • Penn South • Queensbridge Houses • Queensview • Ravenswood Houses • Riverbend Houses • Rochdale Village • Schomburg Plaza • Starrett City • Stuyvesant Town • Sunnyside Gardens • Twin Parks • Via Verde • West Side Urban Renewal Area • West Village Houses • Williamsburg Houses",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780691167817"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0691167818"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 352,
+        "printType": "BOOK",
+        "categories": [
+          "Architecture"
+        ],
+        "averageRating": 2,
+        "ratingsCount": 3,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.4.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=9mpsCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=9mpsCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=9mpsCgAAQBAJ&printsec=frontcover&dq=intitle:new+york+city&hl=&as_pt=BOOKS&cd=39&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=9mpsCgAAQBAJ&dq=intitle:new+york+city&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Affordable_Housing_in_New_York.html?hl=&id=9mpsCgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=9mpsCgAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Whether one is an expert on housing or new to the field, this book will be an essential reference.&quot;--Alex Schwartz, author of Housing Policy in the United States"
+      }
     }
   ],
-  "to-read": []
+  "to-read": [
+    {
+      "kind": "books#volume",
+      "id": "Fj06zgEACAAJ",
+      "etag": "k/2Ygw+K2bo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Fj06zgEACAAJ",
+      "volumeInfo": {
+        "title": "The Stranger in the Lifeboat",
+        "subtitle": "A Novel",
+        "authors": [
+          "Mitch Albom"
+        ],
+        "publisher": "Harper",
+        "publishedDate": "2021-11-02",
+        "description": "\"In ... [this] novel of hope and faith, a group of shipwrecked passengers pull a strange man from the sea. He claims to be 'the Lord.' And he says he can only save them if they all believe in him\"--",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "006288834X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780062888341"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 288,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 5,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Fj06zgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Fj06zgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=Fj06zgEACAAJ&dq=isbn:006288834X&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=Fj06zgEACAAJ&dq=isbn:006288834X&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Stranger_in_the_Lifeboat.html?hl=&id=Fj06zgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Fj06zgEACAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;In ... [this] novel of hope and faith, a group of shipwrecked passengers pull a strange man from the sea. He claims to be &#39;the Lord.&#39; And he says he can only save them if they all believe in him&quot;--"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "FcZvzgEACAAJ",
+      "etag": "LONEi5jNBgo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/FcZvzgEACAAJ",
+      "volumeInfo": {
+        "title": "Wish You Were Here",
+        "authors": [
+          "Jodi Picoult"
+        ],
+        "publisher": "Ballantine Books",
+        "publishedDate": "2021-11-30",
+        "description": "An upcoming book to be published by Penguin Random House.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1984818414"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781984818416"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 336,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 20,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=FcZvzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=FcZvzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=FcZvzgEACAAJ&dq=isbn:1984818414&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=FcZvzgEACAAJ&dq=isbn:1984818414&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Wish_You_Were_Here.html?hl=&id=FcZvzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=FcZvzgEACAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;Emily is having the time of her lifeshes in the mountains of Chile with her best friend, Kristen, on their annual reunion trip, and the women are feeling closer than ever."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "IIabzQEACAAJ",
+      "etag": "SPkqI9t/0c4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/IIabzQEACAAJ",
+      "volumeInfo": {
+        "title": "Money Has No Smell",
+        "subtitle": "The Africanization of New York City",
+        "authors": [
+          "Paul Stoller"
+        ],
+        "publisher": "University of Chicago Press",
+        "publishedDate": "2002-04-15",
+        "description": "In February 1999 the tragic New York City police shooting of Amadou Diallo, an unarmed street vendor from Guinea, brought into focus the existence of West African merchants in urban America. In Money Has No Smell, Paul Stoller offers us a more complete portrait of the complex lives of West African immigrants like Diallo, a portrait based on years of research Stoller conducted on the streets of New York City during the 1990s. Blending fascinating ethnographic description with incisive social analysis, Stoller shows how these savvy West African entrepreneurs have built cohesive and effective multinational trading networks, in part through selling a simulated Africa to African Americans. These and other networks set up by the traders, along with their faith as devout Muslims, help them cope with the formidable state regulations and personal challenges they face in America. As Stoller demonstrates, the stories of these West African traders illustrate and illuminate ongoing debates about globalization, the informal economy, and the changing nature of American communities.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0226775305"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780226775302"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 234,
+        "printType": "BOOK",
+        "categories": [
+          "Social Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=IIabzQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=IIabzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=IIabzQEACAAJ&dq=intitle:new+york+city&hl=&as_pt=BOOKS&cd=38&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=IIabzQEACAAJ&dq=intitle:new+york+city&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Money_Has_No_Smell.html?hl=&id=IIabzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=IIabzQEACAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "As Stoller demonstrates, the stories of these West African traders illustrate and illuminate ongoing debates about globalization, the informal economy, and the changing nature of American communities."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "_E2YZwEACAAJ",
+      "etag": "9zQmOsxwFpA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/_E2YZwEACAAJ",
+      "volumeInfo": {
+        "title": "Central Park Trees and Landscapes",
+        "subtitle": "A Guide to New York City's Masterpiece",
+        "authors": [
+          "Edward S. Barnard",
+          "Neil Calvanese"
+        ],
+        "publishedDate": "2016-04-17",
+        "description": "The splendor of New York's most famous green space comes alive in this essential companion for nature lovers and travelers to New York. In more than 900 color images, a leading nature writer and a long-time Central Park naturalist detail the park's tree species and their place in the park's iconic landscapes. More than a botanical guide, this book cultivates an appreciation of the park as both a natural triumph and an embodiment of the city's varied spirit.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0231152876"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780231152877"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 336,
+        "printType": "BOOK",
+        "categories": [
+          "Central Park (New York, N.Y.)"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=_E2YZwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=_E2YZwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=_E2YZwEACAAJ&dq=intitle:new+york+city&hl=&as_pt=BOOKS&cd=35&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=_E2YZwEACAAJ&dq=intitle:new+york+city&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Central_Park_Trees_and_Landscapes.html?hl=&id=_E2YZwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_E2YZwEACAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "More than a botanical guide, this book cultivates an appreciation of the park as both a natural triumph and an embodiment of the city&#39;s varied spirit."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "4EA2xwEACAAJ",
+      "etag": "4OUqQxOZspw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/4EA2xwEACAAJ",
+      "volumeInfo": {
+        "title": "Dune Messiah",
+        "authors": [
+          "Frank Herbert"
+        ],
+        "publisher": "Berkley Books",
+        "publishedDate": "1975",
+        "description": "For use in schools and libraries only. The sisterhood of the Bene Gesserit plots to seize control of the galaxy-wide empire of their supernatural leader.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0425029522"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780425029527"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 256,
+        "printType": "BOOK",
+        "categories": [
+          "Dune (Imaginary place)"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=8pHqDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=8pHqDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=4EA2xwEACAAJ&dq=intitle:messiah+inauthor:herbert&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=4EA2xwEACAAJ&dq=intitle:messiah+inauthor:herbert&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Dune_Messiah.html?hl=&id=4EA2xwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=4EA2xwEACAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Paul Atreides, genetically bred and trained to become the leader of his planet, is still subject to human frailties. The second book of the series. Copyright © Libri GmbH. All rights reserved."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "GKVPEAAAQBAJ",
+      "etag": "op7ZXkunKhc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/GKVPEAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Midnight Library",
+        "subtitle": "A Novel",
+        "authors": [
+          "Matt Haig"
+        ],
+        "publisher": "Penguin",
+        "publishedDate": "2020-09-29",
+        "description": "The #1 New York Times bestselling WORLDWIDE phenomenon Winner of the Goodreads Choice Award for Fiction | A Good Morning America Book Club Pick | Independent (London) Ten Best Books of the Year \"A feel-good book guaranteed to lift your spirits.\"—The Washington Post The dazzling reader-favorite about the choices that go into a life well lived, from the acclaimed author of How To Stop Time and The Comfort Book. Somewhere out beyond the edge of the universe there is a library that contains an infinite number of books, each one the story of another reality. One tells the story of your life as it is, along with another book for the other life you could have lived if you had made a different choice at any point in your life. While we all wonder how our lives might have been, what if you had the chance to go to the library and see for yourself? Would any of these other lives truly be better? In The Midnight Library, Matt Haig's enchanting blockbuster novel, Nora Seed finds herself faced with this decision. Faced with the possibility of changing her life for a new one, following a different career, undoing old breakups, realizing her dreams of becoming a glaciologist; she must search within herself as she travels through the Midnight Library to decide what is truly fulfilling in life, and what makes it worth living in the first place.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780525559474"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0525559477"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 304,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 105,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=GKVPEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=GKVPEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=GKVPEAAAQBAJ&dq=isbn:0525559477&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=GKVPEAAAQBAJ&dq=isbn:0525559477&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Midnight_Library.html?hl=&id=GKVPEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=GKVPEAAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "One tells the story of your life as it is, along with another book for the other life you could have lived if you had made a different choice at any point in your life."
+      }
+    }
+  ]
 }
