@@ -7,7 +7,7 @@ function Genre(){
 // function Genre({ books }){
 
     const { genre } = useParams();
-    console.log(genre)
+    // console.log(genre)
 
     const bestSellers = 'http://localhost:4000/bestsellers'
     const nycbooks='http://localhost:4000/nyc';
@@ -46,7 +46,7 @@ function Genre(){
         const duneGenres = await requestGenre(dune)
         const uniqueGenres = new Array(...new Set([...bestSellersGenres,...nycbooksGenres,...devdigestGenres,...javascriptbooksGenres,...benjaminfranklinGenres,...moviesGenres,...duneGenres]))
         setBooks(uniqueGenres)
-    }, [])
+    }, [genre])
   
     // console.log(uniqueGenres)
 
