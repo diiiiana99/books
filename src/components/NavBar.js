@@ -88,8 +88,12 @@ function NavBar({ onChange, onSubmit}) {
           )}
         </div>
       </div>
-      <div>Favorites</div>
-      <div>To-Read</div>
+      <NavLink to="/favorites">
+        <div>Favorites</div>
+      </NavLink>
+      <NavLink to="/toread">
+          <div>To-Read</div>
+      </NavLink>
       <div className="search-container">
         <form
           onSubmit={onSubmit}

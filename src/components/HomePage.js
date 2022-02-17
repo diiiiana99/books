@@ -7,11 +7,11 @@ let localZebras = 'http://localhost:4000/zebras';
 let localGiraffes = ' http://localhost:4000/giraffes';
 let localSputnik = 'http://localhost:4000/sputnik';
 
-function HomePage( {books, setBooks, apiKey} ) {
+function HomePage( {books, setBooks, apiKey,onReadClick, onFavoriteClick,displayBooks} ) {
 
-    let [books2,setBooks2]= useState([]);
+    let [devDigestBooks,setDevDigestBooks]= useState([]);
     let [sputnikBooks,setSputnik]= useState([]);
-    let [nycbooksList,setnycBooks]= useState([]);
+    let [nycbooksList,setnycBooksList]= useState([]);
     let [javascriptBooks,setJavascriptBooks]= useState([]);
     let [benjaminBooks,setBenjaminBooks] = useState([]);
     let [moviebooks,setMovieBooks]= useState([]);
@@ -30,7 +30,7 @@ function HomePage( {books, setBooks, apiKey} ) {
         let newBookList = bookList.filter((book)=>book.volumeInfo.imageLinks !== undefined)
         return newBookList.map((book,i)=>{
             return (
-                <BookCard book={book} key={i}/>
+                <BookCard book={book} key={i} onFavoriteClick={onFavoriteClick} onReadClick={onReadClick} />
                 )
             })
     }
@@ -42,51 +42,27 @@ function HomePage( {books, setBooks, apiKey} ) {
         })
     }, [])
 
-    let filteredBooks = books.filter((book)=>{
-        return book.volumeInfo.imageLinks !== undefined
-    })
-    let booksToDisplay = filteredBooks.map((book, i)=>{
-        return (
-            <BookCard book={book} key={i}/>
-            )
-        })
+    let booksToDisplay = displayBooks(books);
 
     //developers digest
     useEffect(()=>{
         axios.get(devdigest)
         .then(r=> {
-        setBooks2(r.data)
+        setDevDigestBooks(r.data)
         })
     }, [])
 
-    let filteredBooks2 = books2.filter((book)=>{
-        return book.volumeInfo.imageLinks !== undefined
-    })
-    let booksToDisplay2 = filteredBooks2.map((book, i)=>{
-        return (
-            <BookCard book={book} key={i}/>
-            )
-        })
+    let devDigestToDisplay = displayBooks(devDigestBooks)
         
     //New York
     useEffect(()=>{
         axios.get(nycbooks)
         .then(r=> {
-        setnycBooks(r.data)
+        setnycBooksList(r.data)
         })
     }, [])
 
-    let filteredNYC = nycbooksList.filter((book)=>{
-        return book.volumeInfo.imageLinks !== undefined
-    })
-    let nycToDisplay = filteredNYC.map((book, i)=>{
-        return (
-            <BookCard 
-                book={book}
-                key={i}
-            />
-            )
-        })
+    let nycToDisplay = displayBooks(nycbooksList)
 
     //Javascript
     useEffect(()=>{
@@ -150,7 +126,7 @@ function HomePage( {books, setBooks, apiKey} ) {
             <h1>Developer's Digest</h1>
             <p>Recommendations from the Team </p>
             <div className='book-carousel'> 
-                    {booksToDisplay2}
+                    {devDigestToDisplay}
             </div> 
 
             <h1>See it on the Screen</h1>

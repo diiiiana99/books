@@ -3,10 +3,7 @@ import { Route, Link } from "react-router-dom";
 import SelectedBook from './SelectedBook';
 import axios from 'axios'
 
-const favoriteList = 'http://localhost:4000/favorites'
-const toReadList= 'http://localhost:4000/to-read'
-
-function BookCard({book}){
+function BookCard({book,onReadClick,onFavoriteClick}){
 
     function handleHoverOver(event){
         // console.log(document.getElementById(book.id))
@@ -21,15 +18,14 @@ function BookCard({book}){
     }
 
     function handleFavoriteClick(){
-        axios.post(favoriteList,book)
+        onFavoriteClick(book)
     }
 
     function handleReadClick(){
-        console.log('clicked')
+        onReadClick(book)
     }
 
     return (
-        // <Link to={`/book/${book.id}`}>
             <div className='book-card'  onMouseOver={handleHoverOver} onMouseOut={handleHoverOut}>
                 <img 
                 src={book.volumeInfo.imageLinks === undefined? "": `${book.volumeInfo.imageLinks.thumbnail}`} 
@@ -41,14 +37,7 @@ function BookCard({book}){
                     <button onClick={handleReadClick}>👁</button>
                 </div>
             </div>
-        // </Link>
     )
 }
 
 export default BookCard;
-
-
-// const match = useRouteMatch();
-// {/* <Route path={`${match.url}/:movieId`}>
-//     <SelectedBook book={book} />
-// </Route> */}
