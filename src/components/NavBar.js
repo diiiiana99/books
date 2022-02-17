@@ -2,6 +2,7 @@ import React, { useState } from "react";
 import axios from "axios";
 import { NavLink } from "react-router-dom";
 import logo from '../images/book_report_logo.png' 
+import BellLogo from '../images/bell-logo.svg'
 
 function NavBar({ onChange, onSubmit}) {
 
@@ -30,63 +31,70 @@ function NavBar({ onChange, onSubmit}) {
         marginBottom: "12px",
       }}
     >
-    <div className='nav-bar'>
-      <NavLink style={{ marginRight: "10px" }} to="/">
-          <img src={logo} alt="Logo" />
-      </NavLink>
-      <div onMouseOver={handleOver} onMouseOut={handleOff}>
-          Browse
-      <div id = 'genrecontainer' className={'genre-container hidden'}>
-        <NavLink style={{ marginRight: "10px" }} to="/browse">
-            <div>Testing</div>
-        </NavLink>
-        <NavLink style={{ marginRight: "10px" }} to="/browse">
-            <div>Testing2</div>
-        </NavLink>
-        <NavLink style={{ marginRight: "10px" }} to="/browse">
-            <div>Testing3</div>
-        </NavLink>
-      </div>
-      </div>
-      <NavLink to="/favorites">
-        <div>Favorites</div>
-      </NavLink>
-      <NavLink to="/toread">
-          <div>To-Read</div>
-      </NavLink>
-      <div className="search-container">
-        <form
-          onSubmit={onSubmit}
-          className='search-form'
-          >
-          {searchVis? <input 
-              type='text' 
-              onChange={onChange}
-              // className='form-control mt-10' 
-              className="search-field"
-              placeholder='Search for Titles, Authors, Genres' 
-              autoComplete='off'
-              cursor='pointer'
-              />:''}
+    <div className="navigation">
+      <div className='nav-container'>
 
-              {/* <input 
-              id='searchinput'
-              type='text' 
-              onChange={onChange}
-              // className='form-control mt-10' 
-              className="search-field"
-              placeholder='Search for Books' 
-              autoComplete='off'
-              cursor='pointer'
-              /> */}
-              <button 
-                // onClick={handleSearchClick} 
-                className="search-button">
-                <img src="https://www.kindacode.com/wp-content/uploads/2020/12/search.png"/>
-              </button>
-          </form>
+        <NavLink style={{ marginRight: "10px" }} to="/">
+            <img 
+              src={logo}
+              alt="Logo"
+              className="website-logo"
+              />
+        </NavLink>
+
+        <NavLink to="/">
+          <div className="nav-link">Home</div>
+        </NavLink>
+
+        <div className="nav-link" onMouseOver={handleOver} onMouseOut={handleOff}>
+            Browse
+          <div id = 'genrecontainer' className='dropdownContent'>
+            <NavLink style={{ marginRight: "10px" }} to="/testing1">
+                <div>Testing</div>
+            </NavLink>
+            <NavLink style={{ marginRight: "10px" }} to="/testing2">
+                <div>Testing2</div>
+            </NavLink>
+            <NavLink style={{ marginRight: "10px" }} to="/testing3">
+                <div>Testing3</div>
+            </NavLink>
+          </div>
         </div>
-    </div>
+
+        <NavLink to="/new">
+          <div className="nav-link">New Releases</div>
+        </NavLink>
+        <NavLink to="/favorites">
+          <div className="nav-link">Favorites</div>
+        </NavLink>
+        <NavLink to="/toread">
+            <div className="nav-link">To-Read</div>
+        </NavLink>
+
+          <div className="nav-search-container">
+            <form
+              onSubmit={onSubmit}
+              className='search-form'
+              >
+              <input 
+                  type='text' 
+                  onChange={onChange}
+                  className="nav-search-input"
+                  placeholder='Titles, Authors, Genres...' 
+                  autoComplete='off'
+                  cursor='pointer'
+                  />
+                  <button 
+                    // onClick={handleSearchClick} 
+                    className="search-button">
+                    <img src="https://www.kindacode.com/wp-content/uploads/2020/12/search.png"/>
+                </button>
+              </form>
+            </div>
+            
+        </div>
+      </div>
+      {/* <div className="spacer"></div> */}
     </div>
   );
 }

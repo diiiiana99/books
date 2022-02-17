@@ -19,11 +19,14 @@ function Favorites({books,onReadClick,onFavoriteClick}){
 
     return (
         <React.Fragment>
+            <div className="spacer"></div>
             <h1>Favorite Books</h1>
-            <p>Testing</p>
-            <div className='book-carousel'> 
-                    {booksToDisplay}
-            </div> 
+            {/* <p>Testing</p> */}
+            <div className="backdrop">
+                <div className='book-carousel'> 
+                        {booksToDisplay}
+                </div> 
+            </div>
         </React.Fragment>
 )
 }

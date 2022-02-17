@@ -1,38 +1,17 @@
 import React, { useState } from "react";
 import {
     FacebookShareButton,
-    FacebookMessengerShareButton,
-    FacebookMessengerIcon,
     LinkedinShareButton,
     TwitterShareButton,
-    PinterestShareButton,
-    VKShareButton,
-    OKShareButton,
-    TelegramShareButton,
     WhatsappShareButton,
-    RedditShareButton,
-    EmailShareButton,
-    TumblrShareButton,
-    LivejournalShareButton,
-    MailruShareButton,
-    ViberShareButton,
-    WorkplaceShareButton,
-    LineShareButton,
     WeiboShareButton,
-    PocketShareButton,
     InstapaperShareButton,
-    HatenaShareButton,
     FacebookIcon,
     TwitterIcon,
     LinkedinIcon,
-    PinterestIcon,
-    VKIcon,
-    OKIcon,
-    TelegramIcon,
     WhatsappIcon,
     InstapaperIcon,
     WeiboIcon,
-    HatenaIcon,
   } from "react-share"
 
 
@@ -41,13 +20,17 @@ function Footer() {
     const title = 'Book-Report';
     return(
         <React.Fragment>
-            <div
+        <div className="spacer"></div>
+        <div className="spacer"></div>
+
+        <div className="fixed-footer">
+            {/* <div
                 style={{
                 borderBottom: "2px solid black",
                 paddingBottom: "10px",
                 marginBottom: "12px",
             }}>
-        </div>
+        </div> */}
         <div>
         <label className="share-label">SHARE:</label>
           <FacebookShareButton
@@ -103,8 +86,10 @@ function Footer() {
 
 
         </div>
-        <p>Book Information Provided By the Google Books API</p>
+        {/* <p>Book Information Provided By the Google Books API</p>
         <p>Developed by: Alan, Henry, Nathalia</p>  
+ */}
+        </div>
 
         </React.Fragment>
 

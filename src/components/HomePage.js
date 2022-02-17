@@ -116,56 +116,77 @@ function HomePage( {books, setBooks, apiKey,onReadClick, onFavoriteClick,display
 
     return(
         <React.Fragment>
-
+            <div className="spacer"></div>
+    
             <h1>Best Sellers</h1>
-            <p>This week's most popular books</p>
+            <div className="backdrop">
             <div className='book-carousel'> 
                     {booksToDisplay}
             </div> 
+            </div>
+
 
             <h1>Developer's Digest</h1>
-            <p>Recommendations from the Team </p>
+            <div className="backdrop">
             <div className='book-carousel'> 
                     {devDigestToDisplay}
             </div> 
+            </div> 
+
 
             <h1>See it on the Screen</h1>
-            <p>Books Made into Movies</p>
+            {/* <p>Books Made into Movies</p> */}
+            <div className="backdrop">
+
             <div className='book-carousel'> 
                     {moviesToDisplay}
             </div> 
+            </div> 
+
 
             <h1>New York, New York</h1>
-            <p>All About the City and More</p>
+            {/* <p>All About the City and More</p> */}
+            <div className="backdrop">
             <div className='book-carousel'> 
                     {nycToDisplay}
             </div>
+            </div> 
+
 
             <h1>The Dune Saga</h1>
-            <p>Catch Up on the Epic Sci-Fi Original</p>
+            {/* <p>Catch Up on the Epic Sci-Fi Original</p> */}
+            <div className="backdrop">
             <div className='book-carousel'> 
                     {duneToDisplay}
+            </div> 
             </div> 
 
 
             <h1>Javascript</h1>
-            <p>Wanna Learn More? Check out these!</p>
+            {/* <p>Wanna Learn More? Check out these!</p> */}
+            <div className="backdrop">
             <div className='book-carousel'> 
                     {javascriptToDisplay}
             </div> 
+            </div> 
+
 
             <h1>Author in Focus: Benjamin Franklin</h1>
-            <p>Learn more about this week's featured artist!</p>
+            {/* <p>Learn more about this week's featured artist!</p> */}
+            <div className="backdrop">
             <div className='book-carousel'> 
                     {benjaminToDisplay}
             </div> 
+            </div> 
+
 
             <h1>This Week in History: Sputnik</h1>
-            <p>Learn more about this pivotal event in history!</p>
+            {/* <p>Learn more about this pivotal event in history!</p> */}
+            <div className="backdrop">
             <div className='book-carousel'> 
                     {sputnikToDisplay}
             </div> 
-
+            </div> 
 
         </React.Fragment>
     );
