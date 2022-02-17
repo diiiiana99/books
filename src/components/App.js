@@ -94,10 +94,11 @@ function App() {
           <Route exact path ='/book/:bookId'>
             <SelectedBook
               books={books}
-            />
+              />
           </Route>
           <Route exact path ='/genre/:genre'>
             <Genre 
+              books={books}
             />
           </Route>
         <Route path ='/favorites'>
