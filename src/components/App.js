@@ -158,8 +158,6 @@ function App() {
           <Route exact path ='/book/:bookId'>
             <SelectedBook
               books={books}
-              search= {search}
-              setBooks={setBooks}
             />
           </Route>
           <Route exact path ='/genre/:genre'>

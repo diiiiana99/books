@@ -2,9 +2,10 @@ import React, {useState,useEffect} from "react";
 import axios from "axios";
 import BookCard from "./BookCard";
 
+let localBooks = 'http://localhost:4000';
 let localZebras = 'http://localhost:4000/zebras';
-let localGiraffes = ' http://localhost:4000/giraffes'
-let localSputnik = 'http://localhost:4000/sputnik'
+let localGiraffes = ' http://localhost:4000/giraffes';
+let localSputnik = 'http://localhost:4000/sputnik';
 
 function HomePage( {books, setBooks, apiKey,onReadClick, onFavoriteClick,displayBooks} ) {
 
