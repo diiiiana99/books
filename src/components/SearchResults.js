@@ -11,38 +11,39 @@ function SearchResults({books,setBooks,search,apiKey}){
     let localDune = 'http://localhost:4000/dune'
 
     let [searchResults,setSearchResults] = useState([])
+    useEffect(()=>{
+        if (search===''){
+            axios.get(localGiraffes)
+            .then(r=> {
+                // console.log(r)
+                setBooks(r.data)
+            })    
+        } else{
 
-    // useEffect(()=>{
-    //     if (search===''){
-    //         axios.get(localGiraffes)
-    //         .then(r=> {
-    //             console.log(r.data)
-    //             setSearchResults(r.data)
-    //         })    
-    //     } else{
+        }
+    },[])
 
-    //     }
-    // },[search])
+    console.log(books);
 
-          // update books to display 
-    let filteredBooks = books.filter((book)=>{
-    return book.volumeInfo.imageLinks !== undefined
-        })
+    //       // update books to display 
+    // let filteredBooks = books.filter((book)=>{
+    // return book.volumeInfo.imageLinks !== undefined
+    //     })
 
-    let booksToDisplay = filteredBooks.map((book, i)=>{
-        return (
-            <BookCard book={book} key={i}
-            cursor='pointer'
-            />
-            )
-        })
+    // let booksToDisplay = filteredBooks.map((book, i)=>{
+    //     return (
+    //         <BookCard book={book} key={i}
+    //         cursor='pointer'
+    //         />
+    //         )
+    //     })
         
 
     return(
         <React.Fragment>
             <div>{searchUrl}</div>
             <div> 
-                    {booksToDisplay}
+                    {/* {booksToDisplay} */}
             </div>
 
         </React.Fragment>

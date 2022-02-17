@@ -55,7 +55,7 @@ function Footer() {
             url={shareUrl}
             quote={title}
           >
-            <FacebookIcon size={40} round />
+            <FacebookIcon size={30} round />
           </FacebookShareButton>
             
           <TwitterShareButton
@@ -63,7 +63,7 @@ function Footer() {
             url={shareUrl}
             title={title}
           >
-            <TwitterIcon size={40} round />
+            <TwitterIcon size={30} round />
           </TwitterShareButton>
 
           <LinkedinShareButton 
@@ -72,7 +72,7 @@ function Footer() {
             title={title}
             >
             
-            <LinkedinIcon size={40} round />
+            <LinkedinIcon size={30} round />
           </LinkedinShareButton>
 
           <WhatsappShareButton
@@ -80,7 +80,7 @@ function Footer() {
             url={shareUrl}
             title={title}
             >
-              <WhatsappIcon size={40} round/>
+              <WhatsappIcon size={30} round/>
           </WhatsappShareButton>
 
           <InstapaperShareButton 
@@ -89,7 +89,7 @@ function Footer() {
             title={title}
             >
             
-            <InstapaperIcon size={40} round />
+            <InstapaperIcon size={30} round />
           </InstapaperShareButton>
         
           <WeiboShareButton 
@@ -98,7 +98,7 @@ function Footer() {
             title={title}
             >
             
-            <WeiboIcon size={40} round />
+            <WeiboIcon size={30} round />
           </WeiboShareButton>
 
 

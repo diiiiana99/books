@@ -6,6 +6,7 @@ import HomePage from './HomePage';
 import SearchResults from "./SearchResults";
 import SelectedBook from './SelectedBook';
 import Footer from "./Footer";
+import Genre from "./Genre";
 import { Redirect, Route, Switch, useHistory } from "react-router-dom";
 
 ///API KEYS:
@@ -46,12 +47,14 @@ function App() {
       console.log(search)
   }
 
+  let allanKey= 'AIzaSyDVGpNSqYZdyylw2q3fRDfa2cVe2A7xDHU'
   // let [searchUrl,setSearchUrl] = useState('');
   function handleSubmit(event){
     event.preventDefault();
+    let searchUrl= `https://www.googleapis.com/books/v1/volumes?q=intitle:${search}+inauthor:herbert&printType=books&key=${allanKey}&maxResults=10`
     history.push('./search-results')
       if (search!==''){
-          axios.get(localSputnik)
+          axios.get(searchUrl)
           .then(r=> {
               console.log(r.data)
               setBooks(r.data)
@@ -68,7 +71,7 @@ function App() {
   
   return (
     <div className="App">
-      <div className='container'>
+      <div >
         <NavBar 
           onChange={handleChange}
           onSubmit={handleSubmit}
@@ -95,6 +98,14 @@ function App() {
               setBooks={setBooks}
             />
           </Route>
+          <Route exact path ='/genre/:genre'>
+            <Genre 
+            />
+          </Route>
+        <Route path ='/favorites'>
+          {/* <Favorites 
+          /> */}
+        </Route>
         </Switch>
         <Footer
         
