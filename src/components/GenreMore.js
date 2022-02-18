@@ -73,7 +73,10 @@ function GenreMore({onFavoriteClick,onReadClick}){
     }
   
     function titleCase(str) {
-        str = str.toLowerCase().split(' ');
+        const indexParenthesis = str.indexOf('(');
+        (indexParenthesis >=0 ) ? 
+            str = str.substr(0, indexParenthesis).toLowerCase().split(' ') :
+            str = str.toLowerCase().split(' ');
         for (var i = 0; i < str.length; i++) {
             str[i] = str[i].charAt(0).toUpperCase() + str[i].slice(1); 
         }

@@ -62,7 +62,7 @@ function MoreList(){
   
 
     let sortedGenres = genres.sort().map((category) =>
-        <NavLink key={category} className='nav-link-small' style={{ marginRight: "10px" }} to={`/genre/${category}`}>
+        <NavLink key={category} className='nav-link-small' style={{ marginRight: "10px" }} to={`/genre-more/${category}`}>
           <div>{titleCase(category)}</div>
         </NavLink>
     )
@@ -72,12 +72,15 @@ function MoreList(){
     let sg3 = sortedGenres.slice(20,30)
 
     function titleCase(str) {
+      const indexParenthesis = str.indexOf('(');
+      (indexParenthesis >=0 ) ? 
+        str = str.substr(0, indexParenthesis).toLowerCase().split(' ') :
         str = str.toLowerCase().split(' ');
-        for (var i = 0; i < str.length; i++) {
-          str[i] = str[i].charAt(0).toUpperCase() + str[i].slice(1); 
-        }
-        return str.join(' ');
+      for (var i = 0; i < str.length; i++) {
+        str[i] = str[i].charAt(0).toUpperCase() + str[i].slice(1); 
       }
+      return str.join(' ');
+    }
 
 
 
