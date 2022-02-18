@@ -2,7 +2,6 @@ import React, { useState, useEffect } from "react";
 import axios from "axios";
 import { NavLink } from "react-router-dom";
 import logo from '../images/alt_book_report_logo.png' 
-import BellLogo from '../images/bell-logo.svg'
 
 function NavBar({ onChange, onSubmit}) {
 
@@ -101,6 +100,9 @@ let genreList = ['history','tech','Fiction','Science','Biography','Fantasy','Phi
                 <div>{titleCase(category)}</div>
               </NavLink>
           )}
+          <NavLink to="/more">
+            <div className="nav-link-small">More</div>
+          </NavLink>
           </div>
         </div>
         </div>

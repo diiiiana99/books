@@ -9,22 +9,22 @@ function SearchResults({books,setBooks,search,onReadClick,onFavoriteClick,search
     // let searchUrl= `https://www.googleapis.com/books/v1/volumes?q=intitle:${search}&printType=books&key=${allanKey}&maxResults=40`
       
     let [searchingBooks,setSearchingBooks]=useState([])
-    // useEffect(async ()=>{
-    //     console.log(searchUrl)
-    //     axios.get(searchUrl)
-    //     .then(r=> {
-    //         console.log(r.data)
-    //         setSearchingBooks(r.data)
-    //     })   
-    // },[searchUrl])
+    useEffect(async ()=>{
+        console.log(searchUrl)
+        axios.get(searchUrl)
+        .then(r=> {
+            console.log(r.data)
+            setSearchingBooks(r.data.items)
+        })   
+    },[searchUrl])
 
-    useEffect(()=>{
-        axios.get(localGiraffes)
-        .then(r=>setSearchingBooks(r.data))
-    },[])
+    // useEffect(()=>{
+    //     axios.get(localGiraffes)
+    //     .then(r=>setSearchingBooks(r.data))
+    // },[])
   
     function displayBooks(bookList){
-        // let newBookList = bookList.filter((book)=>book.volumeInfo.imageLinks !== undefined)
+        let newBookList = bookList.filter((book)=>book.volumeInfo.imageLinks !== undefined)
         return bookList.map((book,i)=>{
             return (
                 <BookCard book={book} key={i} onFavoriteClick={onFavoriteClick} onReadClick={onReadClick}/>

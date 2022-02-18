@@ -86553,255 +86553,6 @@
   "favorites": [
     {
       "kind": "books#volume",
-      "etag": "j3PWF+ww3T4",
-      "selfLink": "https://www.googleapis.com/books/v1/volumes/jAetDwAAQBAJ",
-      "volumeInfo": {
-        "title": "The Communist Manifesto",
-        "authors": [
-          "Karl Marx",
-          "Friedrich Engels"
-        ],
-        "publisher": "Vintage",
-        "publishedDate": "2019-08-06",
-        "description": "The Communist Manifesto was first published in London in 1848 by two young men in their twenties, Karl Marx and Friedrich Engels, and its impact reverberated across the globe and through the next century. Foreshadowing globalization 150 years before it happened, the Manifesto brims with prescient insights into the crisis facing capitalism today. It is an essential read for anyone seeking to understand the modern political landscape. This edition includes a new introduction by the bestselling author of And the Weak Suffer What They Must? and Talking to My Daughter About the Economy, Yanis Varoufakis.",
-        "industryIdentifiers": [
-          {
-            "type": "ISBN_13",
-            "identifier": "9780525566724"
-          },
-          {
-            "type": "ISBN_10",
-            "identifier": "0525566724"
-          }
-        ],
-        "readingModes": {
-          "text": false,
-          "image": false
-        },
-        "pageCount": 128,
-        "printType": "BOOK",
-        "categories": [
-          "Philosophy"
-        ],
-        "maturityRating": "NOT_MATURE",
-        "allowAnonLogging": false,
-        "contentVersion": "preview-1.0.0",
-        "panelizationSummary": {
-          "containsEpubBubbles": false,
-          "containsImageBubbles": false
-        },
-        "imageLinks": {
-          "smallThumbnail": "http://books.google.com/books/content?id=aUf1DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-          "thumbnail": "http://books.google.com/books/content?id=aUf1DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-        },
-        "language": "en",
-        "previewLink": "http://books.google.com/books?id=jAetDwAAQBAJ&printsec=frontcover&dq=intitle:communist&hl=&as_pt=BOOKS&cd=2&source=gbs_api",
-        "infoLink": "http://books.google.com/books?id=jAetDwAAQBAJ&dq=intitle:communist&hl=&as_pt=BOOKS&source=gbs_api",
-        "canonicalVolumeLink": "https://books.google.com/books/about/The_Communist_Manifesto.html?hl=&id=jAetDwAAQBAJ"
-      },
-      "saleInfo": {
-        "country": "US",
-        "saleability": "NOT_FOR_SALE",
-        "isEbook": false
-      },
-      "accessInfo": {
-        "country": "US",
-        "viewability": "PARTIAL",
-        "embeddable": true,
-        "publicDomain": false,
-        "textToSpeechPermission": "ALLOWED",
-        "epub": {
-          "isAvailable": false
-        },
-        "pdf": {
-          "isAvailable": false
-        },
-        "webReaderLink": "http://play.google.com/books/reader?id=jAetDwAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
-        "accessViewStatus": "SAMPLE",
-        "quoteSharingAllowed": false
-      },
-      "searchInfo": {
-        "textSnippet": "This edition includes a new introduction by the bestselling author of And the Weak Suffer What They Must? and Talking to My Daughter About the Economy, Yanis Varoufakis."
-      }
-    },
-    {
-      "kind": "books#volume",
-      "id": "XODEDwAAQBAJ",
-      "etag": "n9JOJIr1oug",
-      "selfLink": "https://www.googleapis.com/books/v1/volumes/XODEDwAAQBAJ",
-      "volumeInfo": {
-        "title": "Sputnik",
-        "subtitle": "The Shock of the Century",
-        "authors": [
-          "Paul Dickson"
-        ],
-        "publisher": "U of Nebraska Press",
-        "publishedDate": "2019-12-27",
-        "description": "On October 4, 1957, the day Leave It to Beaver premiered on American television, the Soviet Union launched the space age. Sputnik, all of 184 pounds with only a radio transmitter inside its highly polished shell, became the first artificial satellite in space; while it immediately shocked the world, its long-term impact was even greater, for it profoundly changed the shape of the twentieth century. Paul Dickson chronicles the dramatic events and developments leading up to and resulting from Sputnik's launch. Supported by groundbreaking, original research and many declassified documents, Sputnik offers a fascinating profile of the early American and Soviet space programs and a strikingly revised picture of the politics and personalities behind the facade of America's fledgling efforts to get into space. The U.S. public reaction to Sputnik was monumental. In a single weekend, Americans were wrenched out of a mood of national smugness and postwar material comfort. Initial shock at and fear of the Soviets' intentions galvanized the country and swiftly prompted innovative developments that define our world today. Sputnik directly or indirectly influenced nearly every aspect of American life: from an immediate shift toward science in the classroom to the arms race that defined the Cold War, the competition to reach the moon, and the birth of the internet. By shedding new light on a pivotal era, Dickson expands our knowledge of the world we now inhabit and reminds us that the story of Sputnik goes far beyond technology and the beginning of the space age, and that its implications are still being felt today.",
-        "industryIdentifiers": [
-          {
-            "type": "ISBN_13",
-            "identifier": "9781496216403"
-          },
-          {
-            "type": "ISBN_10",
-            "identifier": "1496216407"
-          }
-        ],
-        "readingModes": {
-          "text": true,
-          "image": true
-        },
-        "pageCount": 320,
-        "printType": "BOOK",
-        "categories": [
-          "History"
-        ],
-        "averageRating": 5,
-        "ratingsCount": 1,
-        "maturityRating": "NOT_MATURE",
-        "allowAnonLogging": false,
-        "contentVersion": "0.2.1.0.preview.3",
-        "panelizationSummary": {
-          "containsEpubBubbles": false,
-          "containsImageBubbles": false
-        },
-        "imageLinks": {
-          "smallThumbnail": "http://books.google.com/books/content?id=XODEDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-          "thumbnail": "http://books.google.com/books/content?id=XODEDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-        },
-        "language": "en",
-        "previewLink": "http://books.google.com/books?id=XODEDwAAQBAJ&printsec=frontcover&dq=sputnik&hl=&as_pt=BOOKS&cd=9&source=gbs_api",
-        "infoLink": "https://play.google.com/store/books/details?id=XODEDwAAQBAJ&source=gbs_api",
-        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=XODEDwAAQBAJ"
-      },
-      "saleInfo": {
-        "country": "US",
-        "saleability": "FOR_SALE",
-        "isEbook": true,
-        "listPrice": {
-          "amount": 24.95,
-          "currencyCode": "USD"
-        },
-        "retailPrice": {
-          "amount": 14.72,
-          "currencyCode": "USD"
-        },
-        "buyLink": "https://play.google.com/store/books/details?id=XODEDwAAQBAJ&rdid=book-XODEDwAAQBAJ&rdot=1&source=gbs_api",
-        "offers": [
-          {
-            "finskyOfferType": 1,
-            "listPrice": {
-              "amountInMicros": 24950000,
-              "currencyCode": "USD"
-            },
-            "retailPrice": {
-              "amountInMicros": 14720000,
-              "currencyCode": "USD"
-            },
-            "giftable": true
-          }
-        ]
-      },
-      "accessInfo": {
-        "country": "US",
-        "viewability": "PARTIAL",
-        "embeddable": true,
-        "publicDomain": false,
-        "textToSpeechPermission": "ALLOWED",
-        "epub": {
-          "isAvailable": true,
-          "acsTokenLink": "http://books.google.com/books/download/Sputnik-sample-epub.acsm?id=XODEDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
-        },
-        "pdf": {
-          "isAvailable": true,
-          "acsTokenLink": "http://books.google.com/books/download/Sputnik-sample-pdf.acsm?id=XODEDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
-        },
-        "webReaderLink": "http://play.google.com/books/reader?id=XODEDwAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
-        "accessViewStatus": "SAMPLE",
-        "quoteSharingAllowed": false
-      },
-      "searchInfo": {
-        "textSnippet": "By shedding new light on a pivotal era, Dickson expands our knowledge of the world we now inhabit and reminds us that the story of Sputnik goes far beyond technology and the beginning of the space age, and that its implications are still ..."
-      }
-    },
-    {
-      "kind": "books#volume",
-      "id": "2edvDwAAQBAJ",
-      "etag": "N30oMNNYloI",
-      "selfLink": "https://www.googleapis.com/books/v1/volumes/2edvDwAAQBAJ",
-      "volumeInfo": {
-        "title": "One Giant Leap",
-        "authors": [
-          "Robert Burleigh"
-        ],
-        "publisher": "Puffin Books",
-        "publishedDate": "2014-06-12",
-        "description": "Recreates the experiences of Neil Armstrong and Buzz Aldrin as they approach, land, and walk on the Moon, plant the American flag, collect rocks, take pictures, and finally lift off, reconnecting with their space ship, the Columbia.",
-        "industryIdentifiers": [
-          {
-            "type": "ISBN_13",
-            "identifier": "9780147511652"
-          },
-          {
-            "type": "ISBN_10",
-            "identifier": "0147511658"
-          }
-        ],
-        "readingModes": {
-          "text": false,
-          "image": false
-        },
-        "pageCount": 48,
-        "printType": "BOOK",
-        "categories": [
-          "Juvenile Nonfiction"
-        ],
-        "averageRating": 4,
-        "ratingsCount": 8,
-        "maturityRating": "NOT_MATURE",
-        "allowAnonLogging": false,
-        "contentVersion": "preview-1.0.0",
-        "panelizationSummary": {
-          "containsEpubBubbles": false,
-          "containsImageBubbles": false
-        },
-        "imageLinks": {
-          "smallThumbnail": "http://books.google.com/books/content?id=2edvDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-          "thumbnail": "http://books.google.com/books/content?id=2edvDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-        },
-        "language": "en",
-        "previewLink": "http://books.google.com/books?id=2edvDwAAQBAJ&printsec=frontcover&dq=intitle:one+giant+leap&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
-        "infoLink": "http://books.google.com/books?id=2edvDwAAQBAJ&dq=intitle:one+giant+leap&hl=&as_pt=BOOKS&source=gbs_api",
-        "canonicalVolumeLink": "https://books.google.com/books/about/One_Giant_Leap.html?hl=&id=2edvDwAAQBAJ"
-      },
-      "saleInfo": {
-        "country": "US",
-        "saleability": "NOT_FOR_SALE",
-        "isEbook": false
-      },
-      "accessInfo": {
-        "country": "US",
-        "viewability": "PARTIAL",
-        "embeddable": true,
-        "publicDomain": false,
-        "textToSpeechPermission": "ALLOWED",
-        "epub": {
-          "isAvailable": false
-        },
-        "pdf": {
-          "isAvailable": false
-        },
-        "webReaderLink": "http://play.google.com/books/reader?id=2edvDwAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
-        "accessViewStatus": "SAMPLE",
-        "quoteSharingAllowed": false
-      },
-      "searchInfo": {
-        "textSnippet": "Recreates the experiences of Neil Armstrong and Buzz Aldrin as they approach, land, and walk on the Moon, plant the American flag, collect rocks, take pictures, and finally lift off, reconnecting with their space ship, the Columbia."
-      }
-    },
-    {
-      "kind": "books#volume",
       "id": "B4d1swEACAAJ",
       "etag": "Yx235uMiXSE",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/B4d1swEACAAJ",
@@ -86969,70 +86720,6 @@
       },
       "searchInfo": {
         "textSnippet": "A special fiftieth anniversary edition of Kurt Vonnegut’s masterpiece, “a desperate, painfully honest attempt to confront the monstrous crimes of the twentieth century” (Time), featuring a new introduction by Kevin Powers, author of ..."
-      }
-    },
-    {
-      "kind": "books#volume",
-      "id": "ggTnAAAAMAAJ",
-      "etag": "sFVOEXLxjbU",
-      "selfLink": "https://www.googleapis.com/books/v1/volumes/ggTnAAAAMAAJ",
-      "volumeInfo": {
-        "title": "The History of the New York City Legislature",
-        "authors": [
-          "Frederick Shaw"
-        ],
-        "publishedDate": "1954",
-        "industryIdentifiers": [
-          {
-            "type": "OTHER",
-            "identifier": "WISC:89058271727"
-          }
-        ],
-        "readingModes": {
-          "text": false,
-          "image": false
-        },
-        "pageCount": 300,
-        "printType": "BOOK",
-        "categories": [
-          "New York (N.Y.)"
-        ],
-        "maturityRating": "NOT_MATURE",
-        "allowAnonLogging": false,
-        "contentVersion": "1.2.1.0.preview.0",
-        "panelizationSummary": {
-          "containsEpubBubbles": false,
-          "containsImageBubbles": false
-        },
-        "imageLinks": {
-          "smallThumbnail": "http://books.google.com/books/content?id=ggTnAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-          "thumbnail": "http://books.google.com/books/content?id=ggTnAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
-        },
-        "language": "en",
-        "previewLink": "http://books.google.com/books?id=ggTnAAAAMAAJ&q=intitle:new+york+city&dq=intitle:new+york+city&hl=&as_pt=BOOKS&cd=19&source=gbs_api",
-        "infoLink": "http://books.google.com/books?id=ggTnAAAAMAAJ&dq=intitle:new+york+city&hl=&as_pt=BOOKS&source=gbs_api",
-        "canonicalVolumeLink": "https://books.google.com/books/about/The_History_of_the_New_York_City_Legisla.html?hl=&id=ggTnAAAAMAAJ"
-      },
-      "saleInfo": {
-        "country": "US",
-        "saleability": "NOT_FOR_SALE",
-        "isEbook": false
-      },
-      "accessInfo": {
-        "country": "US",
-        "viewability": "NO_PAGES",
-        "embeddable": false,
-        "publicDomain": false,
-        "textToSpeechPermission": "ALLOWED",
-        "epub": {
-          "isAvailable": false
-        },
-        "pdf": {
-          "isAvailable": false
-        },
-        "webReaderLink": "http://play.google.com/books/reader?id=ggTnAAAAMAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
-        "accessViewStatus": "NONE",
-        "quoteSharingAllowed": false
       }
     },
     {
@@ -87406,152 +87093,6 @@
     },
     {
       "kind": "books#volume",
-      "id": "71nDBQAAQBAJ",
-      "etag": "aU15LdiQPuk",
-      "selfLink": "https://www.googleapis.com/books/v1/volumes/71nDBQAAQBAJ",
-      "volumeInfo": {
-        "title": "JavaScript for Kids",
-        "subtitle": "A Playful Introduction to Programming",
-        "authors": [
-          "Nick Morgan"
-        ],
-        "publisher": "No Starch Press",
-        "publishedDate": "2014-12-14",
-        "description": "JavaScript is the programming language of the Internet, the secret sauce that makes the Web awesome, your favorite sites interactive, and online games fun! JavaScript for Kids is a lighthearted introduction that teaches programming essentials through patient, step-by-step examples paired with funny illustrations. You’ll begin with the basics, like working with strings, arrays, and loops, and then move on to more advanced topics, like building interactivity with jQuery and drawing graphics with Canvas. Along the way, you’ll write games such as Find the Buried Treasure, Hangman, and Snake. You’ll also learn how to: –Create functions to organize and reuse your code –Write and modify HTML to create dynamic web pages –Use the DOM and jQuery to make your web pages react to user input –Use the Canvas element to draw and animate graphics –Program real user-controlled games with collision detection and score keeping With visual examples like bouncing balls, animated bees, and racing cars, you can really see what you’re programming. Each chapter builds on the last, and programming challenges at the end of each chapter will stretch your brain and inspire your own amazing programs. Make something cool with JavaScript today! Ages 10+ (and their parents!)",
-        "industryIdentifiers": [
-          {
-            "type": "ISBN_13",
-            "identifier": "9781593274085"
-          },
-          {
-            "type": "ISBN_10",
-            "identifier": "1593274084"
-          }
-        ],
-        "readingModes": {
-          "text": true,
-          "image": true
-        },
-        "pageCount": 336,
-        "printType": "BOOK",
-        "categories": [
-          "Computers"
-        ],
-        "averageRating": 4.5,
-        "ratingsCount": 2,
-        "maturityRating": "NOT_MATURE",
-        "allowAnonLogging": true,
-        "contentVersion": "1.2.2.0.preview.3",
-        "panelizationSummary": {
-          "containsEpubBubbles": false,
-          "containsImageBubbles": false
-        },
-        "imageLinks": {
-          "smallThumbnail": "http://books.google.com/books/content?id=71nDBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-          "thumbnail": "http://books.google.com/books/content?id=71nDBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-        },
-        "language": "en",
-        "previewLink": "http://books.google.com/books?id=71nDBQAAQBAJ&printsec=frontcover&dq=intitle:javascript&hl=&as_pt=BOOKS&cd=4&source=gbs_api",
-        "infoLink": "http://books.google.com/books?id=71nDBQAAQBAJ&dq=intitle:javascript&hl=&as_pt=BOOKS&source=gbs_api",
-        "canonicalVolumeLink": "https://books.google.com/books/about/JavaScript_for_Kids.html?hl=&id=71nDBQAAQBAJ"
-      },
-      "saleInfo": {
-        "country": "US",
-        "saleability": "NOT_FOR_SALE",
-        "isEbook": false
-      },
-      "accessInfo": {
-        "country": "US",
-        "viewability": "PARTIAL",
-        "embeddable": true,
-        "publicDomain": false,
-        "textToSpeechPermission": "ALLOWED",
-        "epub": {
-          "isAvailable": true
-        },
-        "pdf": {
-          "isAvailable": true
-        },
-        "webReaderLink": "http://play.google.com/books/reader?id=71nDBQAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
-        "accessViewStatus": "SAMPLE",
-        "quoteSharingAllowed": false
-      },
-      "searchInfo": {
-        "textSnippet": "JavaScript for Kids is a lighthearted introduction that teaches programming essentials through patient, step-by-step examples paired with funny illustrations."
-      }
-    },
-    {
-      "kind": "books#volume",
-      "id": "d_1fzgEACAAJ",
-      "etag": "aZU5a6K1oJY",
-      "selfLink": "https://www.googleapis.com/books/v1/volumes/d_1fzgEACAAJ",
-      "volumeInfo": {
-        "title": "To Paradise",
-        "authors": [
-          "Hanya Yanagihara"
-        ],
-        "publisher": "Picador",
-        "publishedDate": "2022-01-11",
-        "description": "From the author of the classic A Little Life, a bold, brilliant novel spanning three centuries and three different versions of the American experiment, about lovers, family, loss and the elusive promise of utopia. In an alternate version of 1893 America, New York is part of the Free States, where people may live and love whomever they please (or so it seems). The fragile young scion of a distinguished family resists betrothal to a worthy suitor, drawn to a charming music teacher of no means. In a 1993 Manhattan besieged by the AIDS epidemic, a young Hawaiian man lives with his much older, wealthier partner, hiding his troubled childhood and the fate of his father. And in 2093, in a world riven by plagues and governed by totalitarian rule, a powerful scientist's damaged granddaughter tries to navigate life without him - and solve the mystery of her husband's disappearances. These three sections are joined in an enthralling and ingenious symphony, as recurring notes and themes deepen and enrich one another: A townhouse in Washington Square Park in Greenwich Village; illness, and treatments that come at a terrible cost; wealth and squalor; the weak and the strong; race; the definition of family, and of nationhood; the dangerous righteousness of the powerful, and of revolutionaries; the longing to find a place in an earthly paradise, and the gradual realization that it can't exist. What unites not just the characters, but these Americas, are their reckonings with the qualities that make us human: Fear. Love. Shame. Need. Loneliness. To Paradise is a fin de siecle novel of marvelous literary effect, but above all it is a work of emotional genius. The great power of this remarkable novel is driven by Hanya Yanagihara's understanding of the aching desire to protect those we love - partners, lovers, children, friends, family and even our fellow citizens - and the pain that ensues when we cannot.",
-        "industryIdentifiers": [
-          {
-            "type": "ISBN_10",
-            "identifier": "1529077478"
-          },
-          {
-            "type": "ISBN_13",
-            "identifier": "9781529077476"
-          }
-        ],
-        "readingModes": {
-          "text": false,
-          "image": false
-        },
-        "pageCount": 668,
-        "printType": "BOOK",
-        "maturityRating": "NOT_MATURE",
-        "allowAnonLogging": false,
-        "contentVersion": "preview-1.0.0",
-        "panelizationSummary": {
-          "containsEpubBubbles": false,
-          "containsImageBubbles": false
-        },
-        "imageLinks": {
-          "smallThumbnail": "http://books.google.com/books/content?id=d_1fzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-          "thumbnail": "http://books.google.com/books/content?id=d_1fzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
-        },
-        "language": "en",
-        "previewLink": "http://books.google.com/books?id=d_1fzgEACAAJ&dq=intitle:to+paradise&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
-        "infoLink": "http://books.google.com/books?id=d_1fzgEACAAJ&dq=intitle:to+paradise&hl=&as_pt=BOOKS&source=gbs_api",
-        "canonicalVolumeLink": "https://books.google.com/books/about/To_Paradise.html?hl=&id=d_1fzgEACAAJ"
-      },
-      "saleInfo": {
-        "country": "US",
-        "saleability": "NOT_FOR_SALE",
-        "isEbook": false
-      },
-      "accessInfo": {
-        "country": "US",
-        "viewability": "NO_PAGES",
-        "embeddable": false,
-        "publicDomain": false,
-        "textToSpeechPermission": "ALLOWED",
-        "epub": {
-          "isAvailable": false
-        },
-        "pdf": {
-          "isAvailable": false
-        },
-        "webReaderLink": "http://play.google.com/books/reader?id=d_1fzgEACAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
-        "accessViewStatus": "NONE",
-        "quoteSharingAllowed": false
-      },
-      "searchInfo": {
-        "textSnippet": "The eagerly anticipated novel from Hanya Yanagihara, a brilliant exploration of inclusion and exclusion, race and empire, sexuality and disease, love and family."
-      }
-    },
-    {
-      "kind": "books#volume",
       "id": "Cql3qTEptHUC",
       "etag": "qCTYGypsjH8",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/Cql3qTEptHUC",
@@ -87695,85 +87236,108 @@
       "searchInfo": {
         "textSnippet": "A beautiful adult coloring book of gorgeous giraffe designs."
       }
-    }
-  ],
-  "to-read": [
+    },
     {
       "kind": "books#volume",
-      "id": "Fj06zgEACAAJ",
-      "etag": "k/2Ygw+K2bo",
-      "selfLink": "https://www.googleapis.com/books/v1/volumes/Fj06zgEACAAJ",
+      "id": "SF9mgXguwaUC",
+      "etag": "+qbZDBA6IOI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/SF9mgXguwaUC",
       "volumeInfo": {
-        "title": "The Stranger in the Lifeboat",
-        "subtitle": "A Novel",
+        "title": "A Goomba's Guide to Life",
         "authors": [
-          "Mitch Albom"
+          "Steven R. Schirripa",
+          "Charles Fleming"
         ],
-        "publisher": "Harper",
-        "publishedDate": "2021-11-02",
-        "description": "\"In ... [this] novel of hope and faith, a group of shipwrecked passengers pull a strange man from the sea. He claims to be 'the Lord.' And he says he can only save them if they all believe in him\"--",
+        "publisher": "Crown",
+        "publishedDate": "2010-06-23",
+        "description": "Attention would-be paesans: Can’t distinguish “gabagool” from “pasta fazool”? Not sure how to properly accessorize your track suit with gold chains? Does the phrase “go to the mattresses” make you sleepy? Now Steven R. Schirripa, The Sopranos’ own Bobby Bacala, exposes the inner mysteries of this unique Italian-American hybrid in A Goomba’s Guide to Life so that anyone can walk, talk, and live like a guy “from the neighborhood.” Über-goomba Steve Schirripa shows how being a goomba made him what he is today, offering lessons learned on his own journey from Bensonhurst to Vegas, and to his current gig as Bobby Bacala on one of TV’s most popular shows. Along the way, he shares secrets that will help you get in touch with your own inner goomba. You’ll learn what music to enjoy (Sinatra, yes; Snoop Dogg, no), what movies to watch (Raging Bull, yes; Titanic, never), which sports to follow (baseball is good; golf and tennis, fuhgeddaboudit), and even tips on goomba etiquette. Ever wonder how a real goomba gets the best seat in the house? (Hint: It involves tipping, jewelry, and intimidation.) Schirripa even includes goomba do’s and don’ts (never, ever criticize a goomba’s mother or her gravy; always wear more jewelry than you think you need). With knockout photographs of Schirripa and his compares, and insider information on how to think goomba, speak goomba, cook and eat goomba, and even how to behave at goomba weddings and funerals, A Goomba’s Guide to Life will show any wiseguy wannabe how to sing like a Soprano.",
         "industryIdentifiers": [
           {
-            "type": "ISBN_10",
-            "identifier": "006288834X"
+            "type": "ISBN_13",
+            "identifier": "9780307528933"
           },
           {
-            "type": "ISBN_13",
-            "identifier": "9780062888341"
+            "type": "ISBN_10",
+            "identifier": "0307528936"
           }
         ],
         "readingModes": {
-          "text": false,
-          "image": false
+          "text": true,
+          "image": true
         },
-        "pageCount": 288,
+        "pageCount": 256,
         "printType": "BOOK",
         "categories": [
-          "Fiction"
+          "Humor"
         ],
-        "averageRating": 4,
-        "ratingsCount": 5,
         "maturityRating": "NOT_MATURE",
-        "allowAnonLogging": false,
-        "contentVersion": "preview-1.0.0",
+        "allowAnonLogging": true,
+        "contentVersion": "1.1.3.0.preview.3",
         "panelizationSummary": {
           "containsEpubBubbles": false,
           "containsImageBubbles": false
         },
         "imageLinks": {
-          "smallThumbnail": "http://books.google.com/books/content?id=Fj06zgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-          "thumbnail": "http://books.google.com/books/content?id=Fj06zgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          "smallThumbnail": "http://books.google.com/books/content?id=SF9mgXguwaUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=SF9mgXguwaUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
         },
         "language": "en",
-        "previewLink": "http://books.google.com/books?id=Fj06zgEACAAJ&dq=isbn:006288834X&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
-        "infoLink": "http://books.google.com/books?id=Fj06zgEACAAJ&dq=isbn:006288834X&hl=&as_pt=BOOKS&source=gbs_api",
-        "canonicalVolumeLink": "https://books.google.com/books/about/The_Stranger_in_the_Lifeboat.html?hl=&id=Fj06zgEACAAJ"
+        "previewLink": "http://books.google.com/books?id=SF9mgXguwaUC&printsec=frontcover&dq=gabagool&hl=&as_pt=BOOKS&cd=37&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=SF9mgXguwaUC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=SF9mgXguwaUC"
       },
       "saleInfo": {
         "country": "US",
-        "saleability": "NOT_FOR_SALE",
-        "isEbook": false
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 12.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 12.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=SF9mgXguwaUC&rdid=book-SF9mgXguwaUC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 12990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 12990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
       },
       "accessInfo": {
         "country": "US",
-        "viewability": "NO_PAGES",
-        "embeddable": false,
+        "viewability": "PARTIAL",
+        "embeddable": true,
         "publicDomain": false,
         "textToSpeechPermission": "ALLOWED",
         "epub": {
-          "isAvailable": false
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/A_Goomba_s_Guide_to_Life-sample-epub.acsm?id=SF9mgXguwaUC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
         },
         "pdf": {
-          "isAvailable": false
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/A_Goomba_s_Guide_to_Life-sample-pdf.acsm?id=SF9mgXguwaUC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
         },
-        "webReaderLink": "http://play.google.com/books/reader?id=Fj06zgEACAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
-        "accessViewStatus": "NONE",
+        "webReaderLink": "http://play.google.com/books/reader?id=SF9mgXguwaUC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
         "quoteSharingAllowed": false
       },
       "searchInfo": {
-        "textSnippet": "&quot;In ... [this] novel of hope and faith, a group of shipwrecked passengers pull a strange man from the sea. He claims to be &#39;the Lord.&#39; And he says he can only save them if they all believe in him&quot;--"
+        "textSnippet": "With knockout photographs of Schirripa and his compares, and insider information on how to think goomba, speak goomba, cook and eat goomba, and even how to behave at goomba weddings and funerals, A Goomba’s Guide to Life will show any ..."
       }
-    },
+    }
+  ],
+  "to-read": [
     {
       "kind": "books#volume",
       "id": "FcZvzgEACAAJ",
@@ -88738,6 +88302,153 @@
       },
       "searchInfo": {
         "textSnippet": "Fifteen thousand years after Leto II&#39;s death, the remnants of the Bene Gesserit contend with the ruthless leaders of an alien culture to forge a new civilization and preserve the best of the Old Empire."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "hLNduHheg7QC",
+      "etag": "K7xJi3ALu08",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/hLNduHheg7QC",
+      "volumeInfo": {
+        "title": "The Compleated Autobiography of Benjamin Franklin",
+        "authors": [
+          "Mark Skousen",
+          "Benjamin Franklin"
+        ],
+        "publisher": "Regnery Publishing",
+        "publishedDate": "2005-11-01",
+        "description": "A lifelong scholar of Benjamin Franklin's life completes the unfinished \"Autobiography\" with information on Franklin's attitudes about such topics as the Constitutional Convention, slavery, and Thomas Jefferson.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780895260338"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0895260336"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 256,
+        "printType": "BOOK",
+        "categories": [
+          "Biography & Autobiography"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=hLNduHheg7QC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=hLNduHheg7QC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=hLNduHheg7QC&printsec=frontcover&dq=inauthor:benjamin+franklin&hl=&as_pt=BOOKS&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=hLNduHheg7QC&dq=inauthor:benjamin+franklin&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Compleated_Autobiography_of_Benjamin.html?hl=&id=hLNduHheg7QC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Compleated_Autobiography_of_Benjamin-sample-pdf.acsm?id=hLNduHheg7QC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=hLNduHheg7QC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A lifelong scholar of Benjamin Franklin&#39;s life completes the unfinished &quot;Autobiography&quot; with information on Franklin&#39;s attitudes about such topics as the Constitutional Convention, slavery, and Thomas Jefferson."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "B4d1swEACAAJ",
+      "etag": "Yx235uMiXSE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/B4d1swEACAAJ",
+      "volumeInfo": {
+        "title": "Watership Down",
+        "authors": [
+          "Richard Adams"
+        ],
+        "publisher": "Puffin",
+        "publishedDate": "2018-11-29",
+        "description": "Fiver could sense danger. Something terrible was going to happen to the warren - he felt sure of it. So did his brother Hazel, for Fiver's sixth sense was never wrong. They had to leave immediately, and they had to persuade the other rabbits to join them. And so begins a long and perilous journey of a small band of rabbits in search of a safe home. Fiver's vision finally leads them to Watership Down, but here they face their most difficult challenge of all... Watership Down is an epic journey, a stirring tale of adventure, courage and survival against the odds.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0141378948"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780141378947"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 656,
+        "printType": "BOOK",
+        "averageRating": 4,
+        "ratingsCount": 240,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=B4d1swEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=B4d1swEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=B4d1swEACAAJ&dq=intitle:Watership+down&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=B4d1swEACAAJ&dq=intitle:Watership+down&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Watership_Down.html?hl=&id=B4d1swEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=B4d1swEACAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Fiver&#39;s vision finally leads them to Watership Down, but here they face their most difficult challenge of all... Watership Down is an epic journey, a stirring tale of adventure, courage and survival against the odds."
       }
     }
   ],

@@ -7,10 +7,12 @@ import SearchResults from "./SearchResults";
 import SelectedBook from './SelectedBook';
 import Footer from "./Footer";
 import Genre from "./Genre";
+import GenreMore from "./GenreMore";
 import { Redirect, Route, Switch, useHistory } from "react-router-dom";
 import Favorites from "./Favorites";
 import ToReadList from './ToReadList';
 import NewReleases from './NewReleases';
+import MoreList from './MoreList';
 
 ///API KEYS:
 
@@ -62,7 +64,7 @@ function App() {
   let [searchUrl,setSearchUrl]= useState('')
   function handleSubmit(event){
     event.preventDefault();
-    setSearchUrl(`https://www.googleapis.com/books/v1/volumes?q=intitle:${search}&printType=books&key=${allanKey}&maxResults=5`)
+    setSearchUrl(`https://www.googleapis.com/books/v1/volumes?q=${search}&printType=books&key=${allanKey}&maxResults=40`)
     history.push('./search-results')
       if (search!==''){
         history.push('./search-results')
@@ -84,7 +86,6 @@ function App() {
     function handleReadClickinList(selectedBook){
       axios.delete(`${localToRead}/${selectedBook.id}`)
       setToReadBooks(toReadBooks.filter((book)=>book.id!==selectedBook.id))
-      // console.log(`${localToRead}/${selectedBook.id}`)
     }
 
     // WHEN NOT IN THE 'TO-READ' PAGE, the book is added to the to read list
@@ -110,14 +111,11 @@ function App() {
     function handleFavoritesClickIN(selectedBook){
       axios.delete(`${localFavorites}/${selectedBook.id}`)
       setFavoriteBooks(favoriteBooks.filter((book)=>book.id!==selectedBook.id))
-      console.log('deleted')
-      // console.log(`${localToRead}/${selectedBook.id}`)
     }
 
     // WHEN NOT IN THE 'favorite' PAGE, the book is added to the to read list
     function handleFavoritesClickOUT(selectedBook){
       if (favoriteBooks.includes(selectedBook)){
-        console.log('in the data already')
       } else {
         axios.post(localFavorites,selectedBook)
         setFavoriteBooks([...favoriteBooks,selectedBook])  
@@ -174,6 +172,12 @@ function App() {
               onFavoriteClick={handleFavoritesClickOUT}
               />
           </Route>
+          <Route exact path ='/genre-more/:genre'>
+            <GenreMore
+              onReadClick={handleReadClickoutList}
+              onFavoriteClick={handleFavoritesClickOUT}
+              />
+          </Route>
         <Route path ='/favorites'>
           <Favorites 
             books={favoriteBooks}
@@ -192,6 +196,14 @@ function App() {
         </Route>
         <Route path ='/new'>
           <NewReleases
+            books={newReleases}
+            setBooks={setBooks}
+            onReadClick={handleReadClickoutList}
+            onFavoriteClick={handleFavoritesClickOUT}
+        />
+        </Route>
+        <Route path ='/more'>
+          <MoreList
             books={newReleases}
             setBooks={setBooks}
             onReadClick={handleReadClickoutList}
