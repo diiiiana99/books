@@ -10,6 +10,7 @@ import Genre from "./Genre";
 import { Redirect, Route, Switch, useHistory } from "react-router-dom";
 import Favorites from "./Favorites";
 import ToReadList from './ToReadList';
+import NewReleases from './NewReleases';
 
 ///API KEYS:
 
@@ -35,6 +36,7 @@ let localSputnik = 'http://localhost:4000/sputnik'
 //local favorites/to read
 const localFavorites= 'http://localhost:4000/favorites'
 const localToRead= 'http://localhost:4000/to-read'
+const localNew = 'http://localhost:4000/new'
 
 
 //get singular result
@@ -51,27 +53,20 @@ function App() {
 
   function handleChange(event){
       setSearch(event.target.value);
-      console.log(search)
+      // console.log(search)
   }
 
   let allanKey= 'AIzaSyDVGpNSqYZdyylw2q3fRDfa2cVe2A7xDHU'
   // let [searchUrl,setSearchUrl] = useState('');
+  let [searchBooks,setSearchBooks]= useState([]);
+  let [searchUrl,setSearchUrl]= useState('')
   function handleSubmit(event){
     event.preventDefault();
-    let searchUrl= `https://www.googleapis.com/books/v1/volumes?q=intitle:${search}+inauthor:herbert&printType=books&key=${allanKey}&maxResults=10`
+    setSearchUrl(`https://www.googleapis.com/books/v1/volumes?q=intitle:${search}&printType=books&key=${allanKey}&maxResults=5`)
     history.push('./search-results')
       if (search!==''){
-          axios.get(searchUrl)
-          .then(r=> {
-              console.log(r.data)
-              setBooks(r.data)
-          })    
-      } else{
-          axios.get(localGiraffes)
-          .then(r=> {
-              console.log(r.data)
-              setBooks(r.data)
-      })
+        history.push('./search-results')
+      } else if (search===''){
     }
   }
 
@@ -111,23 +106,33 @@ function App() {
         })
     }, [])
     
-        // WHEN IN THE 'favorite' PAGE the book is removed from the read list
-        function handleFavoritesClickIN(selectedBook){
-          axios.delete(`${localFavorites}/${selectedBook.id}`)
-          setFavoriteBooks(favoriteBooks.filter((book)=>book.id!==selectedBook.id))
-          console.log('deleted')
-          // console.log(`${localToRead}/${selectedBook.id}`)
-        }
-    
-        // WHEN NOT IN THE 'favorite' PAGE, the book is added to the to read list
-        function handleFavoritesClickOUT(selectedBook){
-          if (favoriteBooks.includes(selectedBook)){
-            console.log('in the data already')
-          } else {
-            axios.post(localFavorites,selectedBook)
-            setFavoriteBooks([...favoriteBooks,selectedBook])  
-          }
-          }
+    // WHEN IN THE 'favorite' PAGE the book is removed from the read list
+    function handleFavoritesClickIN(selectedBook){
+      axios.delete(`${localFavorites}/${selectedBook.id}`)
+      setFavoriteBooks(favoriteBooks.filter((book)=>book.id!==selectedBook.id))
+      console.log('deleted')
+      // console.log(`${localToRead}/${selectedBook.id}`)
+    }
+
+    // WHEN NOT IN THE 'favorite' PAGE, the book is added to the to read list
+    function handleFavoritesClickOUT(selectedBook){
+      if (favoriteBooks.includes(selectedBook)){
+        console.log('in the data already')
+      } else {
+        axios.post(localFavorites,selectedBook)
+        setFavoriteBooks([...favoriteBooks,selectedBook])  
+      }
+      }
+
+        
+    let [newReleases,setNewReleases] = useState([]);
+
+    useEffect(()=>{
+      axios.get(localNew)
+      .then(r=> {
+        setNewReleases(r.data)
+      })
+  }, [])
     
 
   
@@ -150,7 +155,10 @@ function App() {
           </Route>
           <Route path='/search-results'>
             <SearchResults
-              books={books} 
+              books={searchBooks} 
+              onReadClick={handleReadClickoutList}
+              onFavoriteClick={handleFavoritesClickOUT}
+              searchUrl={searchUrl}
               search= {search}
               setBooks={setBooks}
             />
@@ -162,7 +170,9 @@ function App() {
           </Route>
           <Route exact path ='/genre/:genre'>
             <Genre 
-            />
+              onReadClick={handleReadClickoutList}
+              onFavoriteClick={handleFavoritesClickOUT}
+              />
           </Route>
         <Route path ='/favorites'>
           <Favorites 
@@ -180,6 +190,15 @@ function App() {
             onFavoriteClick={handleFavoritesClickOUT}
           />
         </Route>
+        <Route path ='/new'>
+          <NewReleases
+            books={newReleases}
+            setBooks={setBooks}
+            onReadClick={handleReadClickoutList}
+            onFavoriteClick={handleFavoritesClickOUT}
+        />
+        </Route>
+
 
         </Switch>
         <Footer

@@ -20,13 +20,14 @@ function Favorites({books,onReadClick,onFavoriteClick}){
     return (
         <React.Fragment>
             <div className="spacer"></div>
-            <h1>Favorite Books</h1>
+            <h1 className="heading">Favorite Books</h1>
             {/* <p>Testing</p> */}
             <div className="backdrop">
                 <div className='book-carousel'> 
                         {booksToDisplay}
                 </div> 
             </div>
+            <div className="bot-spacer"></div>
         </React.Fragment>
 )
 }

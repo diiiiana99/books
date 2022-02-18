@@ -25,6 +25,8 @@ function HomePage( {books, setBooks, apiKey,onReadClick, onFavoriteClick,display
     let benjaminfranklin='http://localhost:4000/benjaminfranklin'
     let movies = 'http://localhost:4000/moviebooks'
     let dune = 'http://localhost:4000/dune'
+    const localNew = 'http://localhost:4000/new'
+
     
     function displayBooks(bookList){
         let newBookList = bookList.filter((book)=>book.volumeInfo.imageLinks !== undefined)
@@ -114,19 +116,49 @@ function HomePage( {books, setBooks, apiKey,onReadClick, onFavoriteClick,display
 
     let duneToDisplay = displayBooks(duneBooks);
 
+    let [newReleases,setNewReleases] = useState([]);
+
+    useEffect(()=>{
+      axios.get(localNew)
+      .then(r=> {
+        setNewReleases(r.data)
+      })
+  }, [])
+
+    let newReleasesToDisplay = displayBooks(newReleases);
+
+
+
+
     return(
         <React.Fragment>
             <div className="spacer"></div>
     
-            <h1>Best Sellers</h1>
+            
+            <h1 className="heading">This Week's Best Sellers</h1>
             <div className="backdrop">
             <div className='book-carousel'> 
                     {booksToDisplay}
             </div> 
             </div>
 
+            <h1 className="heading">New and Noteworthy</h1>
+            <div className="backdrop">
+                <div className='book-carousel'> 
+                        {newReleasesToDisplay}
+                </div> 
+            </div>
 
-            <h1>Developer's Digest</h1>
+
+            {/* <div className="backdrop">
+                <div className='book-carousel'> 
+                        {booksToDisplay2}
+                </div> 
+            </div> */}
+
+
+
+            <h1 className="heading">Developer's Digest</h1>
             <div className="backdrop">
             <div className='book-carousel'> 
                     {devDigestToDisplay}
@@ -134,7 +166,7 @@ function HomePage( {books, setBooks, apiKey,onReadClick, onFavoriteClick,display
             </div> 
 
 
-            <h1>See it on the Screen</h1>
+            <h1 className="heading">See it on the Screen</h1>
             {/* <p>Books Made into Movies</p> */}
             <div className="backdrop">
 
@@ -144,7 +176,7 @@ function HomePage( {books, setBooks, apiKey,onReadClick, onFavoriteClick,display
             </div> 
 
 
-            <h1>New York, New York</h1>
+            <h1 className="heading">New York, New York</h1>
             {/* <p>All About the City and More</p> */}
             <div className="backdrop">
             <div className='book-carousel'> 
@@ -153,7 +185,7 @@ function HomePage( {books, setBooks, apiKey,onReadClick, onFavoriteClick,display
             </div> 
 
 
-            <h1>The Dune Saga</h1>
+            <h1 className="heading">The Dune Saga</h1>
             {/* <p>Catch Up on the Epic Sci-Fi Original</p> */}
             <div className="backdrop">
             <div className='book-carousel'> 
@@ -162,7 +194,7 @@ function HomePage( {books, setBooks, apiKey,onReadClick, onFavoriteClick,display
             </div> 
 
 
-            <h1>Javascript</h1>
+            <h1 className="heading">Learn More: Javascript</h1>
             {/* <p>Wanna Learn More? Check out these!</p> */}
             <div className="backdrop">
             <div className='book-carousel'> 
@@ -171,7 +203,7 @@ function HomePage( {books, setBooks, apiKey,onReadClick, onFavoriteClick,display
             </div> 
 
 
-            <h1>Author in Focus: Benjamin Franklin</h1>
+            <h1 className="heading">Author in Focus: Benjamin Franklin</h1>
             {/* <p>Learn more about this week's featured artist!</p> */}
             <div className="backdrop">
             <div className='book-carousel'> 
@@ -180,13 +212,14 @@ function HomePage( {books, setBooks, apiKey,onReadClick, onFavoriteClick,display
             </div> 
 
 
-            <h1>This Week in History: Sputnik</h1>
+            <h1 className="heading">This Week in History: Sputnik</h1>
             {/* <p>Learn more about this pivotal event in history!</p> */}
             <div className="backdrop">
             <div className='book-carousel'> 
                     {sputnikToDisplay}
             </div> 
             </div> 
+            <div className="bot-spacer-home"></div>
 
         </React.Fragment>
     );

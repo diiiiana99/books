@@ -42659,7 +42659,7 @@
       }
     }
   ],
-  "SelfHelp": [
+  "Self-Help": [
     {
       "kind": "books#volume",
       "id": "Mmtn9-YpF6EC",
@@ -84387,7 +84387,7 @@
         "contentVersion": "preview-1.0.0",
         "imageLinks": {
           "smallThumbnail": "http://books.google.com/books/content?id=a5kNrgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-          "thumbnail": "http://books.google.com/books/content?id=2atsvgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          "thumbnail": "http://books.google.com/books/content?id=a5kNrgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
         },
         "language": "fr",
         "previewLink": "http://books.google.com/books?id=a5kNrgEACAAJ&dq=intitle:american+psycho&hl=&as_pt=BOOKS&cd=2&source=gbs_api",
@@ -85567,6 +85567,75 @@
     },
     {
       "kind": "books#volume",
+      "id": "VlrIngEACAAJ",
+      "etag": "4YuQpd54vko",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/VlrIngEACAAJ",
+      "volumeInfo": {
+        "title": "Battle Royale: Remastered",
+        "authors": [
+          "Koushun Takami"
+        ],
+        "publisher": "Haikasoru",
+        "publishedDate": "2014-04-01",
+        "description": "Koushun Takami's notorious high-octane thriller envisions a nightmare scenario: a class of junior high school students is taken to a deserted island where, as part of a ruthless authoritarian program, they are provided arms and forced to kill until only one survivor is left standing. Criticized as violent exploitation when first published in Japan—where it became a runaway best seller—Battle Royale is a Lord of the Flies for the 21st century, a potent allegory of what it means to be young and (barely) alive in a dog-eat-dog world. A new translation by Nathan Collins.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1421565986"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781421565989"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 600,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=VlrIngEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=VlrIngEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=VlrIngEACAAJ&dq=intitle:battle+royale&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=VlrIngEACAAJ&dq=intitle:battle+royale&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Battle_Royale_Remastered.html?hl=&id=VlrIngEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=VlrIngEACAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Koushun Takami&#39;s notorious high-octane thriller envisions a nightmare scenario: a class of junior high school students is taken to a deserted island where, as part of a ruthless authoritarian program, they are provided arms and forced to ..."
+      }
+    },
+    {
+      "kind": "books#volume",
       "id": "XfFvDwAAQBAJ",
       "etag": "+GUbSbrG0mk",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/XfFvDwAAQBAJ",
@@ -86484,7 +86553,6 @@
   "favorites": [
     {
       "kind": "books#volume",
-      "id": "jAetDwAAQBAJ",
       "etag": "j3PWF+ww3T4",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/jAetDwAAQBAJ",
       "volumeInfo": {
@@ -86807,8 +86875,6 @@
     {
       "kind": "books#volume",
       "id": "FM4y7N1kM9AC",
-      "etag": "wd7Hv0AkpAo",
-      "selfLink": "https://www.googleapis.com/books/v1/volumes/FM4y7N1kM9AC",
       "volumeInfo": {
         "title": "Slaughterhouse-Five",
         "subtitle": "A Novel",
@@ -86903,81 +86969,6 @@
       },
       "searchInfo": {
         "textSnippet": "A special fiftieth anniversary edition of Kurt Vonnegut’s masterpiece, “a desperate, painfully honest attempt to confront the monstrous crimes of the twentieth century” (Time), featuring a new introduction by Kevin Powers, author of ..."
-      }
-    },
-    {
-      "kind": "books#volume",
-      "id": "B1hSG45JCX4C",
-      "etag": "bS4qF7kL43I",
-      "selfLink": "https://www.googleapis.com/books/v1/volumes/B1hSG45JCX4C",
-      "volumeInfo": {
-        "title": "Dune",
-        "authors": [
-          "Frank Herbert"
-        ],
-        "publisher": "Penguin",
-        "publishedDate": "2005",
-        "description": "Follows the adventures of Paul Atreides, the son of a betrayed duke given up for dead on a treacherous desert planet and adopted by its fierce, nomadic people, who help him unravel his most unexpected destiny.",
-        "industryIdentifiers": [
-          {
-            "type": "ISBN_10",
-            "identifier": "0441013597"
-          },
-          {
-            "type": "ISBN_13",
-            "identifier": "9780441013593"
-          }
-        ],
-        "readingModes": {
-          "text": false,
-          "image": false
-        },
-        "pageCount": 528,
-        "printType": "BOOK",
-        "categories": [
-          "Fiction"
-        ],
-        "averageRating": 4.5,
-        "ratingsCount": 25,
-        "maturityRating": "NOT_MATURE",
-        "allowAnonLogging": false,
-        "contentVersion": "3.2.4.0.preview.0",
-        "panelizationSummary": {
-          "containsEpubBubbles": false,
-          "containsImageBubbles": false
-        },
-        "imageLinks": {
-          "smallThumbnail": "http://books.google.com/books/content?id=B1hSG45JCX4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-          "thumbnail": "http://books.google.com/books/content?id=B1hSG45JCX4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-        },
-        "language": "en",
-        "previewLink": "http://books.google.com/books?id=B1hSG45JCX4C&printsec=frontcover&dq=intitle:dune&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
-        "infoLink": "http://books.google.com/books?id=B1hSG45JCX4C&dq=intitle:dune&hl=&as_pt=BOOKS&source=gbs_api",
-        "canonicalVolumeLink": "https://books.google.com/books/about/Dune.html?hl=&id=B1hSG45JCX4C"
-      },
-      "saleInfo": {
-        "country": "US",
-        "saleability": "NOT_FOR_SALE",
-        "isEbook": false
-      },
-      "accessInfo": {
-        "country": "US",
-        "viewability": "PARTIAL",
-        "embeddable": true,
-        "publicDomain": false,
-        "textToSpeechPermission": "ALLOWED",
-        "epub": {
-          "isAvailable": false
-        },
-        "pdf": {
-          "isAvailable": false
-        },
-        "webReaderLink": "http://play.google.com/books/reader?id=B1hSG45JCX4C&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
-        "accessViewStatus": "SAMPLE",
-        "quoteSharingAllowed": false
-      },
-      "searchInfo": {
-        "textSnippet": "Follows the adventures of Paul Atreides, the son of a betrayed duke given up for dead on a treacherous desert planet and adopted by its fierce, nomadic people, who help him unravel his most unexpected destiny."
       }
     },
     {
@@ -87344,6 +87335,365 @@
       },
       "searchInfo": {
         "textSnippet": "You need to be ninja-stealthy, efficient, and ready for anything. This book shows you how. Purchase of the print book includes a free eBook in PDF, Kindle, and ePub formats from Manning Publications."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "6ctFAQAAQBAJ",
+      "etag": "fJNqEO6cBBI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/6ctFAQAAQBAJ",
+      "volumeInfo": {
+        "title": "Theodore Roosevelt",
+        "subtitle": "The American Presidents Series: The 26th President, 1901-1909",
+        "authors": [
+          "Louis Auchincloss"
+        ],
+        "publisher": "Macmillan",
+        "publishedDate": "2002-01-04",
+        "description": "A biography of the first president of the twentieth century delves into the life of this great leader, from his early involvement in the politics of New York City to his presidency.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780805069068"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0805069062"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 155,
+        "printType": "BOOK",
+        "categories": [
+          "Biography & Autobiography"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.0.0.preview.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=6ctFAQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=6ctFAQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=6ctFAQAAQBAJ&printsec=frontcover&dq=subject:Biography&hl=&as_pt=BOOKS&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=6ctFAQAAQBAJ&dq=subject:Biography&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Theodore_Roosevelt.html?hl=&id=6ctFAQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=6ctFAQAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "71nDBQAAQBAJ",
+      "etag": "aU15LdiQPuk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/71nDBQAAQBAJ",
+      "volumeInfo": {
+        "title": "JavaScript for Kids",
+        "subtitle": "A Playful Introduction to Programming",
+        "authors": [
+          "Nick Morgan"
+        ],
+        "publisher": "No Starch Press",
+        "publishedDate": "2014-12-14",
+        "description": "JavaScript is the programming language of the Internet, the secret sauce that makes the Web awesome, your favorite sites interactive, and online games fun! JavaScript for Kids is a lighthearted introduction that teaches programming essentials through patient, step-by-step examples paired with funny illustrations. You’ll begin with the basics, like working with strings, arrays, and loops, and then move on to more advanced topics, like building interactivity with jQuery and drawing graphics with Canvas. Along the way, you’ll write games such as Find the Buried Treasure, Hangman, and Snake. You’ll also learn how to: –Create functions to organize and reuse your code –Write and modify HTML to create dynamic web pages –Use the DOM and jQuery to make your web pages react to user input –Use the Canvas element to draw and animate graphics –Program real user-controlled games with collision detection and score keeping With visual examples like bouncing balls, animated bees, and racing cars, you can really see what you’re programming. Each chapter builds on the last, and programming challenges at the end of each chapter will stretch your brain and inspire your own amazing programs. Make something cool with JavaScript today! Ages 10+ (and their parents!)",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781593274085"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1593274084"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 336,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "averageRating": 4.5,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=71nDBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=71nDBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=71nDBQAAQBAJ&printsec=frontcover&dq=intitle:javascript&hl=&as_pt=BOOKS&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=71nDBQAAQBAJ&dq=intitle:javascript&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/JavaScript_for_Kids.html?hl=&id=71nDBQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=71nDBQAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "JavaScript for Kids is a lighthearted introduction that teaches programming essentials through patient, step-by-step examples paired with funny illustrations."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "d_1fzgEACAAJ",
+      "etag": "aZU5a6K1oJY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/d_1fzgEACAAJ",
+      "volumeInfo": {
+        "title": "To Paradise",
+        "authors": [
+          "Hanya Yanagihara"
+        ],
+        "publisher": "Picador",
+        "publishedDate": "2022-01-11",
+        "description": "From the author of the classic A Little Life, a bold, brilliant novel spanning three centuries and three different versions of the American experiment, about lovers, family, loss and the elusive promise of utopia. In an alternate version of 1893 America, New York is part of the Free States, where people may live and love whomever they please (or so it seems). The fragile young scion of a distinguished family resists betrothal to a worthy suitor, drawn to a charming music teacher of no means. In a 1993 Manhattan besieged by the AIDS epidemic, a young Hawaiian man lives with his much older, wealthier partner, hiding his troubled childhood and the fate of his father. And in 2093, in a world riven by plagues and governed by totalitarian rule, a powerful scientist's damaged granddaughter tries to navigate life without him - and solve the mystery of her husband's disappearances. These three sections are joined in an enthralling and ingenious symphony, as recurring notes and themes deepen and enrich one another: A townhouse in Washington Square Park in Greenwich Village; illness, and treatments that come at a terrible cost; wealth and squalor; the weak and the strong; race; the definition of family, and of nationhood; the dangerous righteousness of the powerful, and of revolutionaries; the longing to find a place in an earthly paradise, and the gradual realization that it can't exist. What unites not just the characters, but these Americas, are their reckonings with the qualities that make us human: Fear. Love. Shame. Need. Loneliness. To Paradise is a fin de siecle novel of marvelous literary effect, but above all it is a work of emotional genius. The great power of this remarkable novel is driven by Hanya Yanagihara's understanding of the aching desire to protect those we love - partners, lovers, children, friends, family and even our fellow citizens - and the pain that ensues when we cannot.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1529077478"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781529077476"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 668,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=d_1fzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=d_1fzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=d_1fzgEACAAJ&dq=intitle:to+paradise&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=d_1fzgEACAAJ&dq=intitle:to+paradise&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/To_Paradise.html?hl=&id=d_1fzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=d_1fzgEACAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The eagerly anticipated novel from Hanya Yanagihara, a brilliant exploration of inclusion and exclusion, race and empire, sexuality and disease, love and family."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Cql3qTEptHUC",
+      "etag": "qCTYGypsjH8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Cql3qTEptHUC",
+      "volumeInfo": {
+        "title": "Zebras",
+        "authors": [
+          "Anthony D. Fredericks"
+        ],
+        "publisher": "Lerner Publications",
+        "publishedDate": "2000-09-01",
+        "description": "Describes the physical characteristics, behavior, habitat, uses, and endangered status of this black and white striped animal found on the plains of Africa.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0822530430"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780822530435"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 48,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Nonfiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Cql3qTEptHUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Cql3qTEptHUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=Cql3qTEptHUC&printsec=frontcover&dq=zebras&hl=&as_pt=BOOKS&cd=15&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=Cql3qTEptHUC&dq=zebras&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Zebras.html?hl=&id=Cql3qTEptHUC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Cql3qTEptHUC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Describes the physical characteristics, behavior, habitat, uses, and endangered status of this black and white striped animal found on the plains of Africa."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "cBDNzQEACAAJ",
+      "etag": "kRH7UE+pqrk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/cBDNzQEACAAJ",
+      "volumeInfo": {
+        "title": "Graceful Giraffe Coloring Book",
+        "subtitle": "Beautiful Giraffes Adult Coloring Book",
+        "authors": [
+          "Dylanna Press"
+        ],
+        "publishedDate": "2020-08-25",
+        "description": "A beautiful adult coloring book of gorgeous giraffe designs. Contains 40 full-page illustrations. Carefully curated designs will provide hours of fun, stress relief, creativity, and relaxation. A variety of styles from simpler to complex allows colorists of all levels to enjoy and create.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1647900549"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781647900540"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 82,
+        "printType": "BOOK",
+        "categories": [
+          "Games & Activities"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=cBDNzQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=cBDNzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=cBDNzQEACAAJ&dq=giraffes&hl=&as_pt=BOOKS&cd=27&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=cBDNzQEACAAJ&dq=giraffes&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Graceful_Giraffe_Coloring_Book.html?hl=&id=cBDNzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=cBDNzQEACAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A beautiful adult coloring book of gorgeous giraffe designs."
       }
     }
   ],
@@ -88388,6 +88738,1345 @@
       },
       "searchInfo": {
         "textSnippet": "Fifteen thousand years after Leto II&#39;s death, the remnants of the Bene Gesserit contend with the ruthless leaders of an alien culture to forge a new civilization and preserve the best of the Old Empire."
+      }
+    }
+  ],
+  "new": [
+    {
+      "kind": "books#volume",
+      "id": "ZnF3rgEACAAJ",
+      "etag": "sLBJ5PwaEu0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ZnF3rgEACAAJ",
+      "volumeInfo": {
+        "title": "The Body Keeps the Score",
+        "subtitle": "Mind, Brain and Body in the Transformation of Trauma",
+        "authors": [
+          "Bessel A. Van der Kolk"
+        ],
+        "publishedDate": "2015-09-24",
+        "description": "What causes people to continually relive what they most want to forget, and what treatments could help restore them to a life with purpose and joy? Here, Dr Bessel van der Kolk offers a new paradigm for effectively treating traumatic stress. Neither talking nor drug therapies have proven entirely satisfactory. With stories of his own work and those of specialists around the globe, The Body Keeps the Score sheds new light on the routes away from trauma - which lie in the regulation and syncing of body and mind, using sport, drama, yoga, mindfulness, meditation and other routes to equilibrium.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0141978619"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780141978611"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 464,
+        "printType": "BOOK",
+        "averageRating": 4.5,
+        "ratingsCount": 12,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ZnF3rgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ZnF3rgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=ZnF3rgEACAAJ&dq=intitle:body+keeps+the&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=ZnF3rgEACAAJ&dq=intitle:body+keeps+the&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Body_Keeps_the_Score.html?hl=&id=ZnF3rgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ZnF3rgEACAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "With stories of his own work and those of specialists around the globe, The Body Keeps the Score sheds new light on the routes away from trauma - which lie in the regulation and syncing of body and mind, using sport, drama, yoga, ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "C8vhxQEACAAJ",
+      "etag": "KFtM/ncum0E",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/C8vhxQEACAAJ",
+      "volumeInfo": {
+        "title": "The Thursday Murder Club",
+        "authors": [
+          "Richard Osman"
+        ],
+        "publisher": "Viking",
+        "publishedDate": "2020-08-29",
+        "description": "Krimi. In a peaceful retirement village, four unlikely friends meet up once a week to investigate unsolved killings. But when a local property developer shows up dead, 'The Thursday Murder Club' find themselves in the middle of their first live case. The four friends, Elizabeth, Joyce, Ibrahim and Ron, might be octogenarians, but they still have a few tricks up their sleeves. Can our unorthodox but brilliant gang catch the killer, before it's too late?",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0241425441"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780241425442"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 400,
+        "printType": "BOOK",
+        "categories": [
+          "Clubs"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 56,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=C8vhxQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=C8vhxQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=C8vhxQEACAAJ&dq=intitle:thursday+murder+club&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=C8vhxQEACAAJ&dq=intitle:thursday+murder+club&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Thursday_Murder_Club.html?hl=&id=C8vhxQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=C8vhxQEACAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "But when a local property developer shows up dead, &#39;The Thursday Murder Club&#39; find themselves in the middle of their first live case."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "S7jrDwAAQBAJ",
+      "etag": "V7ryrnJT1mA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/S7jrDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Klara and the Sun",
+        "subtitle": "A novel",
+        "authors": [
+          "Kazuo Ishiguro"
+        ],
+        "publisher": "Vintage",
+        "publishedDate": "2021-03-02",
+        "description": "NEW YORK TIMES BEST SELLER • Once in a great while, a book comes along that changes our view of the world. This magnificent novel from the Nobel laureate and author of Never Let Me Go is “an intriguing take on how artificial intelligence might play a role in our futures ... a poignant meditation on love and loneliness” (The Associated Press). • A GOOD MORNING AMERICA Book Club Pick! “What stays with you in ‘Klara and the Sun’ is the haunting narrative voice—a genuinely innocent, egoless perspective on the strange behavior of humans obsessed and wounded by power, status and fear.” —Booker Prize committee Here is the story of Klara, an Artificial Friend with outstanding observational qualities, who, from her place in the store, watches carefully the behavior of those who come in to browse, and of those who pass on the street outside. She remains hopeful that a customer will soon choose her. Klara and the Sun is a thrilling book that offers a look at our changing world through the eyes of an unforgettable narrator, and one that explores the fundamental question: what does it mean to love?",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780593318188"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0593318188"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 320,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 3.5,
+        "ratingsCount": 53,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.4.4.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=S7jrDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=S7jrDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=S7jrDwAAQBAJ&printsec=frontcover&dq=intitle:klara+and+the+sun&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=S7jrDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=S7jrDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 14.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 14.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=S7jrDwAAQBAJ&rdid=book-S7jrDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 14990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 14990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Klara_and_the_Sun-sample-epub.acsm?id=S7jrDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=S7jrDwAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This magnificent novel from the Nobel laureate and author of Never Let Me Go is “an intriguing take on how artificial intelligence might play a role in our futures ... a poignant meditation on love and loneliness” (The Associated Press) ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "30UlEAAAQBAJ",
+      "etag": "jcHAc6bor8M",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/30UlEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Crying in H Mart",
+        "subtitle": "A Memoir",
+        "authors": [
+          "Michelle Zauner"
+        ],
+        "publisher": "Knopf",
+        "publishedDate": "2021",
+        "description": "NEW YORK TIMES BEST SELLER - A Best Book of 2021: Entertainment Weekly, Good Morning America, Wall Street Journal, and more From the indie rockstar of Japanese Breakfast fame, and author of the viral 2018 New Yorker essay that shares the title of this book, an unflinching, powerful memoir about growing up Korean American, losing her mother, and forging her own identity. In this exquisite story of family, food, grief, and endurance, Michelle Zauner proves herself far more than a dazzling singer, songwriter, and guitarist. With humor and heart, she tells of growing up one of the few Asian American kids at her school in Eugene, Oregon; of struggling with her mother's particular, high expectations of her; of a painful adolescence; of treasured months spent in her grandmother's tiny apartment in Seoul, where she and her mother would bond, late at night, over heaping plates of food. As she grew up, moving to the East Coast for college, finding work in the restaurant industry, and performing gigs with her fledgling band--and meeting the man who would become her husband--her Koreanness began to feel ever more distant, even as she found the life she wanted to live. It was her mother's diagnosis of terminal cancer, when Michelle was twenty-five, that forced a reckoning with her identity and brought her to reclaim the gifts of taste, language, and history her mother had given her. Vivacious and plainspoken, lyrical and honest, Zauner's voice is as radiantly alive on the page as it is onstage. Rich with intimate anecdotes that will resonate widely, and complete with family photos, Crying in H Mart is a book to cherish, share, and reread.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780525657743"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0525657746"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 256,
+        "printType": "BOOK",
+        "categories": [
+          "Biography & Autobiography"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 17,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.0.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=30UlEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=30UlEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=30UlEAAAQBAJ&printsec=frontcover&dq=intitle:h+mart&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=30UlEAAAQBAJ&dq=intitle:h+mart&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Crying_in_H_Mart.html?hl=&id=30UlEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=30UlEAAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A NEW YORK TIMES NOTABLE BOOK OF THE YEAR - NEW YORK TIMES BEST SELLER - From the indie rockstar of Japanese Breakfast fame, and author of the viral 2018 New Yorker essay that shares the title of this book, an unflinching, powerful memoir ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "d_1fzgEACAAJ",
+      "etag": "aZU5a6K1oJY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/d_1fzgEACAAJ",
+      "volumeInfo": {
+        "title": "To Paradise",
+        "authors": [
+          "Hanya Yanagihara"
+        ],
+        "publisher": "Picador",
+        "publishedDate": "2022-01-11",
+        "description": "From the author of the classic A Little Life, a bold, brilliant novel spanning three centuries and three different versions of the American experiment, about lovers, family, loss and the elusive promise of utopia. In an alternate version of 1893 America, New York is part of the Free States, where people may live and love whomever they please (or so it seems). The fragile young scion of a distinguished family resists betrothal to a worthy suitor, drawn to a charming music teacher of no means. In a 1993 Manhattan besieged by the AIDS epidemic, a young Hawaiian man lives with his much older, wealthier partner, hiding his troubled childhood and the fate of his father. And in 2093, in a world riven by plagues and governed by totalitarian rule, a powerful scientist's damaged granddaughter tries to navigate life without him - and solve the mystery of her husband's disappearances. These three sections are joined in an enthralling and ingenious symphony, as recurring notes and themes deepen and enrich one another: A townhouse in Washington Square Park in Greenwich Village; illness, and treatments that come at a terrible cost; wealth and squalor; the weak and the strong; race; the definition of family, and of nationhood; the dangerous righteousness of the powerful, and of revolutionaries; the longing to find a place in an earthly paradise, and the gradual realization that it can't exist. What unites not just the characters, but these Americas, are their reckonings with the qualities that make us human: Fear. Love. Shame. Need. Loneliness. To Paradise is a fin de siecle novel of marvelous literary effect, but above all it is a work of emotional genius. The great power of this remarkable novel is driven by Hanya Yanagihara's understanding of the aching desire to protect those we love - partners, lovers, children, friends, family and even our fellow citizens - and the pain that ensues when we cannot.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1529077478"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781529077476"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 668,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=d_1fzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=d_1fzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=d_1fzgEACAAJ&dq=intitle:to+paradise&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=d_1fzgEACAAJ&dq=intitle:to+paradise&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/To_Paradise.html?hl=&id=d_1fzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=d_1fzgEACAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The eagerly anticipated novel from Hanya Yanagihara, a brilliant exploration of inclusion and exclusion, race and empire, sexuality and disease, love and family."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "UTE4DwAAQBAJ",
+      "etag": "Mn1V0ipQUqg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/UTE4DwAAQBAJ",
+      "volumeInfo": {
+        "title": "The Anomaly",
+        "authors": [
+          "Michael Rutger"
+        ],
+        "publisher": "Grand Central Publishing",
+        "publishedDate": "2018-06-19",
+        "description": "INDIANA JONES MEETS THE X-FILES IN THIS \"TAKE NO PRISONERS' (PRESTON & CHILD) SURVIVAL THRILLER OF A ROGUE ARCHAELOGIST TRAPPED IN A GRAND CANYON CAVE THAT'S A CONSPIRACY THEORY COME TO LIFE. Not all secrets are meant to be found. If Indiana Jones lived in the X-Files era, he might bear at least a passing resemblance to Nolan Moore -- a rogue archaeologist hosting a documentary series derisively dismissed by the \"real\" experts, but beloved of conspiracy theorists. Nolan sets out to retrace the steps of an explorer from 1909 who claimed to have discovered a mysterious cavern high up in the ancient rock of the Grand Canyon. And, for once, he may have actually found what he seeks. Then the trip takes a nasty turn, and the cave begins turning against them in mysterious ways. Nolan's story becomes one of survival against seemingly impossible odds. The only way out is to answer a series of intriguing questions: What is this strange cave? How has it remained hidden for so long? And what secret does it conceal that made its last visitors attempt to seal it forever?",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781538761847"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "153876184X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 400,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 13,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.2.4.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=UTE4DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=UTE4DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=UTE4DwAAQBAJ&printsec=frontcover&dq=intitle:the+anomaly&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=UTE4DwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=UTE4DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 7.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 7.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=UTE4DwAAQBAJ&rdid=book-UTE4DwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 7990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 7990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Anomaly-sample-epub.acsm?id=UTE4DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=UTE4DwAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A rogue archaeologist is trapped in a Grand Canyon cave as a conspiracy theory comes to life in this &quot;take no prisoners&quot; survival thriller that puts our hero up against impossible odds (Preston &amp; Child)."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "emhaEAAAQBAJ",
+      "etag": "4gixOwzgygk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/emhaEAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Splendid and the Vile",
+        "subtitle": "A Saga of Churchill, Family, and Defiance During the Blitz",
+        "authors": [
+          "Erik Larson"
+        ],
+        "publisher": "Crown",
+        "publishedDate": "2022-02-15",
+        "description": "#1 NEW YORK TIMES BESTSELLER * The author of The Devil in the White City and Dead Wake delivers an intimate chronicle of Winston Churchill and London during the Blitz--an inspiring portrait of courage and leadership in a time of unprecedented crisis \"One of [Erik Larson's] best books yet . . . perfectly timed for the moment.\"--Time * \"A bravura performance by one of America's greatest storytellers.\"--NPR NAMED ONE OF THE BEST BOOKS OF THE YEAR BY The New York Times Book Review * Time * Vogue * NPR * The Washington Post * Chicago Tribune * The Globe & Mail * Fortune * Bloomberg * New York Post * The New York Public Library * Kirkus Reviews * LibraryReads * PopMatters On Winston Churchill's first day as prime minister, Adolf Hitler invaded Holland and Belgium. Poland and Czechoslovakia had already fallen, and the Dunkirk evacuation was just two weeks away. For the next twelve months, Hitler would wage a relentless bombing campaign, killing 45,000 Britons. It was up to Churchill to hold his country together and persuade President Franklin Roosevelt that Britain was a worthy ally--and willing to fight to the end. In The Splendid and the Vile, Erik Larson shows, in cinematic detail, how Churchill taught the British people \"the art of being fearless.\" It is a story of political brinkmanship, but it's also an intimate domestic drama, set against the backdrop of Churchill's prime-ministerial country home, Chequers; his wartime retreat, Ditchley, where he and his entourage go when the moon is brightest and the bombing threat is highest; and of course 10 Downing Street in London. Drawing on diaries, original archival documents, and once-secret intelligence reports--some released only recently--Larson provides a new lens on London's darkest year through the day-to-day experience of Churchill and his family: his wife, Clementine; their youngest daughter, Mary, who chafes against her parents' wartime protectiveness; their son, Randolph, and his beautiful, unhappy wife, Pamela; Pamela's illicit lover, a dashing American emissary; and the advisers in Churchill's \"Secret Circle,\" to whom he turns in the hardest moments. The Splendid and the Vile takes readers out of today's political dysfunction and back to a time of true leadership, when, in the face of unrelenting horror, Churchill's eloquence, courage, and perseverance bound a country, and a family, together.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780385348737"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0385348738"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 624,
+        "printType": "BOOK",
+        "categories": [
+          "History"
+        ],
+        "averageRating": 4.5,
+        "ratingsCount": 61,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=emhaEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=emhaEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=emhaEAAAQBAJ&printsec=frontcover&dq=intitle:the+splendid+and+the+vile&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=emhaEAAAQBAJ&dq=intitle:the+splendid+and+the+vile&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Splendid_and_the_Vile.html?hl=&id=emhaEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=emhaEAAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;--NPR NAMED ONE OF THE BEST BOOKS OF THE YEAR BY The New York Times Book Review * Time * Vogue * NPR * The Washington Post * Chicago Tribune * The Globe &amp; Mail * Fortune * Bloomberg * New York Post * The New York Public Library * Kirkus ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "hzVxiw2DiOsC",
+      "etag": "Ym4h/uIEAZs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/hzVxiw2DiOsC",
+      "volumeInfo": {
+        "title": "The Four Agreements",
+        "subtitle": "A Practical Guide to Personal Freedom",
+        "authors": [
+          "Don Miguel Ruiz",
+          "Janet Mills"
+        ],
+        "publisher": "Amber-Allen Publishing",
+        "publishedDate": "2010-01-18",
+        "description": "Bestselling author don Miguel Ruiz reveals the source of self-limiting beliefs that rob us of joy and create needless suffering. Based on ancient Toltec wisdom, The Four Agreements offer a powerful code of conduct that can rapidly transform our lives to a new experience of freedom, true happiness, and love. • A New York Times bestseller for over 7 years • Over 5.2 million copies sold in the U.S. • Translated into 38 languages worldwide Don Miguel Ruiz’s book is a roadmap to enlightenment and freedom.” — Deepak Chopra, Author, The Seven Spiritual Laws of Success “An inspiring book with many great lessons . . .” — Wayne Dyer, Author, Real Magic “In the tradition of Castaneda, Ruiz distills essential Toltec wisdom, expressing with clarity and impeccability what it means for men and women to live as peaceful warriors in the modern world.” — Dan Millman, Author, Way of the Peaceful Warrior",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781934408018"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1934408018"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 160,
+        "printType": "BOOK",
+        "categories": [
+          "Self-Help"
+        ],
+        "averageRating": 3,
+        "ratingsCount": 12,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.9.10.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=hzVxiw2DiOsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=hzVxiw2DiOsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=hzVxiw2DiOsC&printsec=frontcover&dq=intitle:the+four+agreements&hl=&as_pt=BOOKS&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=hzVxiw2DiOsC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=hzVxiw2DiOsC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 7.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 7.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=hzVxiw2DiOsC&rdid=book-hzVxiw2DiOsC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 7990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 7990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Four_Agreements-sample-epub.acsm?id=hzVxiw2DiOsC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=hzVxiw2DiOsC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Based on ancient Toltec wisdom, The Four Agreements offer a powerful code of conduct that can rapidly transform our lives to a new experience of freedom, true happiness, and love. • A New York Times bestseller for over 7 years • Over 5 ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "tQl0zgEACAAJ",
+      "etag": "A4dw9SUOIWA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/tQl0zgEACAAJ",
+      "volumeInfo": {
+        "title": "The Family Chao",
+        "subtitle": "A Novel",
+        "authors": [
+          "Lan Samantha Chang"
+        ],
+        "publishedDate": "2022",
+        "description": "An acclaimed storyteller returns with \"a gorgeous and gripping literary mystery\" that explores \"family, betrayal, passion, race, culture and the American Dream\" (Jean Kwok). The residents of Haven, Wisconsin, have dined on the Fine Chao restaurant's delicious Americanized Chinese food for thirty-five years, content to ignore any unsavory whispers about the family owners. Whether or not Big Leo Chao is honest, or his wife, Winnie, is happy, their food tastes good and their three sons earned scholarships to respectable colleges. But when the brothers reunite in Haven, the Chao family's secrets and simmering resentments erupt at last. Before long, brash, charismatic, and tyrannical patriarch Leo is found dead--presumed murdered--and his sons find they've drawn the exacting gaze of the entire town. The ensuing trial brings to light potential motives for all three brothers: Dagou, the restaurant's reckless head chef; Ming, financially successful but personally tortured; and the youngest, gentle but lost college student James. As the spotlight on the brothers tightens--and the family dog meets an unexpected fate--Dagou, Ming, and James must reckon with the legacy of their father's outsized appetites and their own future survival. Brimming with heartbreak, comedy, and suspense, The Family Chao offers a kaleidoscopic, highly entertaining portrait of a Chinese American family grappling with the dark undercurrents of a seemingly pleasant small town.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0393868079"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780393868074"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 320,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=tQl0zgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=tQl0zgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=tQl0zgEACAAJ&dq=intitle:the+family+chao&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=tQl0zgEACAAJ&dq=intitle:the+family+chao&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Family_Chao.html?hl=&id=tQl0zgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=tQl0zgEACAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "One of Literary Hub&#39;s and The Millions&#39; Most Anticipated Books of 2022 A Goodreads Readers&#39; Most Anticipated Mystery of 2022 An acclaimed storyteller returns with &quot;a gorgeous and gripping literary mystery&quot; that explores &quot;family, betrayal, ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "bGA3EAAAQBAJ",
+      "etag": "4JZ0EZqs9r0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/bGA3EAAAQBAJ",
+      "volumeInfo": {
+        "title": "Heartbreak: A Personal and Scientific Journey",
+        "authors": [
+          "Florence Williams"
+        ],
+        "publisher": "W. W. Norton & Company",
+        "publishedDate": "2022-02-01",
+        "description": "Florence Williams explores the fascinating, cutting-edge science of heartbreak while seeking creative ways to mend her own. When her twenty-five-year marriage unexpectedly falls apart, journalist Florence Williams expects the loss to hurt. What she doesn’t expect is that she’ll end up in the hospital, examining close-up the way our cells listen to loneliness. She travels to the frontiers of the science of “social pain” to learn why heartbreak hurts so much and why so much of the conventional wisdom about it is wrong. Searching for insight as well as personal strategies to game her way back to health, Williams tests her blood for genetic markers of grief, undergoes electrical shocks in a laboratory while looking at pictures of her ex, and ventures to the wilderness in search of awe as an antidote to loneliness. For readers of Wild and Lab Girl, Heartbreak is a remarkable merging of science and self-discovery that will change the way we think about loneliness, health, and what it means to fall in and out of love.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781324003496"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1324003499"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 304,
+        "printType": "BOOK",
+        "categories": [
+          "Science"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.1.1.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=bGA3EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=bGA3EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=bGA3EAAAQBAJ&printsec=frontcover&dq=intitle:Heartbreak:&hl=&as_pt=BOOKS&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=bGA3EAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=bGA3EAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 27.61,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 9.66,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=bGA3EAAAQBAJ&rdid=book-bGA3EAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 27610000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 9660000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Heartbreak_A_Personal_and_Scientific_Jou-sample-epub.acsm?id=bGA3EAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=bGA3EAAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "“Keen observer [and] deft writer” (David Quammen) Florence Williams explores the fascinating, cutting-edge science of heartbreak while seeking creative ways to mend her own."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "D7UjEAAAQBAJ",
+      "etag": "g39hk+8ZJ6E",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/D7UjEAAAQBAJ",
+      "volumeInfo": {
+        "title": "The President and the Freedom Fighter",
+        "subtitle": "Abraham Lincoln, Frederick Douglass, and Their Battle to Save America's Soul",
+        "authors": [
+          "Brian Kilmeade"
+        ],
+        "publisher": "Penguin",
+        "publishedDate": "2021-11-02",
+        "description": "NEW YORK TIMES BESTSELLER The New York Times bestselling author of George Washington's Secret Six and Thomas Jefferson and the Tripoli Pirates turns to two other heroes of the nation: Abraham Lincoln and Frederick Douglass. In The President and the Freedom Fighter, Brian Kilmeade tells the little-known story of how two American heroes moved from strong disagreement to friendship, and in the process changed the entire course of history. Abraham Lincoln was White, born impoverished on a frontier farm. Frederick Douglass was Black, a child of slavery who had risked his life escaping to freedom in the North. Neither man had a formal education, and neither had had an easy path to influence. No one would have expected them to become friends—or to transform the country. But Lincoln and Douglass believed in their nation’s greatness. They were determined to make the grand democratic experiment live up to its ideals. Lincoln’s problem: he knew it was time for slavery to go, but how fast could the country change without being torn apart? And would it be possible to get rid of slavery while keeping America’s Constitution intact? Douglass said no, that the Constitution was irredeemably corrupted by slavery—and he wanted Lincoln to move quickly. Sharing little more than the conviction that slavery was wrong, the two men’s paths eventually converged. Over the course of the Civil War, they’d endure bloodthirsty mobs, feverish conspiracies, devastating losses on the battlefield, and a growing firestorm of unrest that would culminate on the fields of Gettysburg. As he did in George Washington's Secret Six, Kilmeade has transformed this nearly forgotten slice of history into a dramatic story that will keep you turning the pages to find out how these two heroes, through their principles and patience, not only changed each other, but made America truly free for all.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780525540601"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0525540601"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 304,
+        "printType": "BOOK",
+        "categories": [
+          "History"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.2.2.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=D7UjEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=D7UjEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=D7UjEAAAQBAJ&printsec=frontcover&dq=intitle:the+president+and+the+freedom+fighter&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=D7UjEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=D7UjEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 14.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 14.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=D7UjEAAAQBAJ&rdid=book-D7UjEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 14990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 14990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_President_and_the_Freedom_Fighter-sample-epub.acsm?id=D7UjEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=D7UjEAAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In The President and the Freedom Fighter, Brian Kilmeade tells the little-known story of how two American heroes moved from strong disagreement to friendship, and in the process changed the entire course of history."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "dX3HDwAAQBAJ",
+      "etag": "B4B6+J5LkOU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/dX3HDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Bad Blood",
+        "subtitle": "Secrets and Lies in a Silicon Valley Startup",
+        "authors": [
+          "John Carreyrou"
+        ],
+        "publisher": "Vintage",
+        "publishedDate": "2020-01-28",
+        "description": "The Financial Times & McKinsey Business Book of the Year A New York Times Notable Book A Washington Post Notable Book One of the Best Books of the Year: NPR, San Francisco Chronicle, Time, Esquire, Fortune, Marie Claire, GQ, Mental Floss, Science Friday, Bloomberg, Popular Mechanics, BookRiot, The Seattle Times, The Oregonian, Publishers Weekly, Library Journal In 2014, Theranos founder and CEO Elizabeth Holmes was widely seen as the next Steve Jobs: a brilliant Stanford dropout whose startup \"unicorn\" promised to revolutionize the medical industry with its breakthrough device, which performed the whole range of laboratory tests from a single drop of blood. Backed by investors such as Larry Ellison and Tim Draper, Theranos sold shares in a fundraising round that valued the company at more than $9 billion, putting Holmes's worth at an estimated $4.5 billion. There was just one problem: The technology didn't work. Erroneous results put patients in danger, leading to misdiagnoses and unnecessary treatments. All the while, Holmes and her partner, Sunny Balwani, worked to silence anyone who voiced misgivings--from journalists to their own employees. Rigorously reported and fearlessly written, Bad Blood is a gripping story of the biggest corporate fraud since Enron--a tale of ambition and hubris set amid the bold promises of Silicon Valley.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780525431992"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0525431993"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 368,
+        "printType": "BOOK",
+        "categories": [
+          "Business & Economics"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 62,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=dX3HDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=dX3HDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=dX3HDwAAQBAJ&printsec=frontcover&dq=intitle:bad+blood&hl=&as_pt=BOOKS&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=dX3HDwAAQBAJ&dq=intitle:bad+blood&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Bad_Blood.html?hl=&id=dX3HDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=dX3HDwAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Financial Times &amp; McKinsey Business Book of the Year A New York Times Notable Book A Washington Post Notable Book One of the Best Books of the Year: NPR, San Francisco Chronicle, Time, Esquire, Fortune, Marie Claire, GQ, Mental Floss, ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "sYJXEAAAQBAJ",
+      "etag": "yWk5IE9CnFc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/sYJXEAAAQBAJ",
+      "volumeInfo": {
+        "title": "I Must Betray You",
+        "authors": [
+          "Ruta Sepetys"
+        ],
+        "publisher": "Penguin",
+        "publishedDate": "2022",
+        "description": "In a country governed by isolation, fear, and a tyrannical dictator, seventeen-year-old Cristian Florescu is blackmailed by the secret police to become an informer, but he decides to use his position to try to outwit his handler, undermine the regime, give voice to fellow Romanians, and expose to the world what is happening in his country. Includes author's note.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781984836038"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "198483603X"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 336,
+        "printType": "BOOK",
+        "categories": [
+          "Young Adult Fiction"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=sYJXEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=sYJXEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=sYJXEAAAQBAJ&printsec=frontcover&dq=intitle:I+must+betray+you&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=sYJXEAAAQBAJ&dq=intitle:I+must+betray+you&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/I_Must_Betray_You.html?hl=&id=sYJXEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=sYJXEAAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In a country governed by isolation, fear, and a tyrannical dictator, seventeen-year-old Cristian Florescu is blackmailed by the secret police to become an informer, but he decides to use his position to try to outwit his handler, undermine ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "yVMsEAAAQBAJ",
+      "etag": "4QdtQI9LQSU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/yVMsEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Walking the Bowl",
+        "subtitle": "A True Story of Murder and Survival Among the Street Children of Lusaka",
+        "authors": [
+          "Chris Lockhart",
+          "Daniel Mulilo Chama"
+        ],
+        "publisher": "Harlequin",
+        "publishedDate": "2022-02-15",
+        "description": "For readers of Behind the Beautiful Forevers and Nothing to Envy, this is a breathtaking real-life story of four street children in contemporary Zambia whose lives are drawn together and forever altered by the mysterious murder of a fellow street child. Based on years of investigative reporting and unprecedented fieldwork, Walking the Bowl immerses readers in the daily lives of four unforgettable characters: Lusabilo, a determined waste picker; Kapula, a burned-out brothel worker; Moonga, a former rock crusher turned beggar; and Timo, an ambitious gang leader. These children navigate the violent and poverty-stricken underworld of Lusaka, one of Africa’s fastest growing cities. When the dead body of a ten-year-old boy is discovered under a heap of garbage in Lusaka’s largest landfill, a murder investigation quickly heats up due to the influence of the victim’s mother and her far-reaching political connections. The children’s lives become more closely intertwined as each child engages in a desperate bid for survival against forces they could never have imagined. Gripping and fast-paced, the book exposes the perilous aspects of street life through the eyes of the children who survive, endure and dream there, and what emerges is an ultimately hopeful story about human kindness and how one small good deed, passed on to others, can make a difference in the face of seemingly insurmountable odds.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780369718815"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "036971881X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Social Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=yVMsEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=yVMsEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=yVMsEAAAQBAJ&printsec=frontcover&dq=intitle:walking+the+bowl&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=yVMsEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=yVMsEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 14.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 14.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=yVMsEAAAQBAJ&rdid=book-yVMsEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 14990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 14990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Walking_the_Bowl-sample-epub.acsm?id=yVMsEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=yVMsEAAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "For readers of Behind the Beautiful Forevers and Nothing to Envy, this is a breathtaking real-life story of four street children in contemporary Zambia whose lives are drawn together and forever altered by the mysterious murder of a fellow ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "WN5TDwAAQBAJ",
+      "etag": "RKWU+SImTS4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/WN5TDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Behave",
+        "subtitle": "The Biology of Humans at Our Best and Worst",
+        "authors": [
+          "Robert M. Sapolsky"
+        ],
+        "publisher": "Penguin",
+        "publishedDate": "2018-05-01",
+        "description": "The New York Times Bestseller “It’s no exaggeration to say that Behave is one of the best nonfiction books I’ve ever read.” —David P. Barash, The Wall Street Journal \"It has my vote for science book of the year.” —Parul Sehgal, The New York Times \"Hands-down one of the best books I’ve read in years. I loved it.\" —Dina Temple-Raston, The Washington Post Named a Best Book of the Year by The Washington Post and The Wall Street Journal From the celebrated neurobiologist and primatologist, a landmark, genre-defining examination of human behavior, both good and bad, and an answer to the question: Why do we do the things we do? Sapolsky's storytelling concept is delightful but it also has a powerful intrinsic logic: he starts by looking at the factors that bear on a person's reaction in the precise moment a behavior occurs, and then hops back in time from there, in stages, ultimately ending up at the deep history of our species and its evolutionary legacy. And so the first category of explanation is the neurobiological one. A behavior occurs--whether an example of humans at our best, worst, or somewhere in between. What went on in a person's brain a second before the behavior happened? Then Sapolsky pulls out to a slightly larger field of vision, a little earlier in time: What sight, sound, or smell caused the nervous system to produce that behavior? And then, what hormones acted hours to days earlier to change how responsive that individual is to the stimuli that triggered the nervous system? By now he has increased our field of vision so that we are thinking about neurobiology and the sensory world of our environment and endocrinology in trying to explain what happened. Sapolsky keeps going: How was that behavior influenced by structural changes in the nervous system over the preceding months, by that person's adolescence, childhood, fetal life, and then back to his or her genetic makeup? Finally, he expands the view to encompass factors larger than one individual. How did culture shape that individual's group, what ecological factors millennia old formed that culture? And on and on, back to evolutionary factors millions of years old. The result is one of the most dazzling tours d'horizon of the science of human behavior ever attempted, a majestic synthesis that harvests cutting-edge research across a range of disciplines to provide a subtle and nuanced perspective on why we ultimately do the things we do...for good and for ill. Sapolsky builds on this understanding to wrestle with some of our deepest and thorniest questions relating to tribalism and xenophobia, hierarchy and competition, morality and free will, and war and peace. Wise, humane, often very funny, Behave is a towering achievement, powerfully humanizing, and downright heroic in its own right.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780143110910"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0143110918"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 800,
+        "printType": "BOOK",
+        "categories": [
+          "Science"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 6,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.0.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=WN5TDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=WN5TDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=WN5TDwAAQBAJ&printsec=frontcover&dq=intitle:behave&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=WN5TDwAAQBAJ&dq=intitle:behave&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Behave.html?hl=&id=WN5TDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=WN5TDwAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The New York Times Bestseller “It’s no exaggeration to say that Behave is one of the best nonfiction books I’ve ever read.” —David P. Barash, The Wall Street Journal &quot;It has my vote for science book of the year.” —Parul Sehgal ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "gUouBQAAQBAJ",
+      "etag": "GHB0rI7/xT0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/gUouBQAAQBAJ",
+      "volumeInfo": {
+        "title": "Breathe",
+        "authors": [
+          "Scott Magoon"
+        ],
+        "publisher": "Simon and Schuster",
+        "publishedDate": "2014-04",
+        "description": "A young whale enjoys its first day of independence.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781442412583"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1442412585"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 40,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.0.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=gUouBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=gUouBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=gUouBQAAQBAJ&printsec=frontcover&dq=intitle:breathe&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=gUouBQAAQBAJ&dq=intitle:breathe&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Breathe.html?hl=&id=gUouBQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=gUouBQAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A young whale enjoys its first day of independence."
       }
     }
   ]

@@ -1,11 +1,3 @@
-Please run the following commands in the terminal in order for the program to run properly:
-
-npm install @mui/icons-material
-
-npm install @mui/material @emotion/react @emotion/styled
-
-npm install axios
-
 Google Books API Field Documentation:
 
 https://www.googleapis.com/books/v1/volumes?q={{{atomic}}}+inauthor:{{{clear}}}&printType={{{books}}}&projection=lite&key=AIzaSyDQgG9PY_tH65Mss-EP1a8M_YQNZqORmys
