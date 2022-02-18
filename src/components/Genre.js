@@ -74,8 +74,9 @@ function Genre({onFavoriteClick,onReadClick}){
     }
   
     function titleCase(str) {
+        // str = str.substr(0, str.indexOf('(')); 
         str = str.toLowerCase().split(' ');
-        for (var i = 0; i < str.length; i++) {
+        for (let i = 0; i < str.length; i++) {
             str[i] = str[i].charAt(0).toUpperCase() + str[i].slice(1); 
         }
         return str.join(' ');
