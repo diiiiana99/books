@@ -6,6 +6,15 @@ import { NavLink } from "react-router-dom";
 
 function MoreList(){
 
+    let genreList = ['history','tech','Fiction','Science','Biography','Fantasy','Philosophy','Politics','Self-Help','Religion','Thriller','Crime','Humor','Children','Romance','zebras']
+
+    let genreButtons = genreList.sort().map((category) =>
+        <NavLink key={category} className='nav-link-small-category' style={{ marginRight: "10px" }} to={`/genre/${category}`}>
+          <div>{titleCase(category)}</div>
+        </NavLink>
+    )
+
+
     const bestSellers = 'http://localhost:4000/bestsellers';
     const nycbooks='http://localhost:4000/nyc';
     const devdigest='http://localhost:4000/devdigest';
@@ -55,14 +64,14 @@ function MoreList(){
         // const Genres = await requestGenre(inserthere)
 
 
-        const uniqueGenres = new Array(...new Set([...bestSellersGenres,...fictionGenres,...nycbooksGenres,...devdigestGenres,...benjaminfranklinGenres,...moviesGenres,...duneGenres]))
+        const uniqueGenres = new Array(...new Set([...scienceGenres,...BiographyGenres,...fantasyGenres,...scifiGenres, ...bestSellersGenres,...fictionGenres,...devdigestGenres,...benjaminfranklinGenres,...moviesGenres]))
         setGenres(uniqueGenres)
     }, [])
   
   
 
     let sortedGenres = genres.sort().map((category) =>
-        <NavLink key={category} className='nav-link-small' style={{ marginRight: "10px" }} to={`/genre/${category}`}>
+        <NavLink key={category} className='nav-link-small-category' style={{ marginRight: "10px" }} to={`/genre-more/${category}`}>
           <div>{titleCase(category)}</div>
         </NavLink>
     )
@@ -70,6 +79,8 @@ function MoreList(){
     let sg1 = sortedGenres.slice(0,10)
     let sg2 = sortedGenres.slice(10,20)
     let sg3 = sortedGenres.slice(20,30)
+    let sg4 = sortedGenres.slice(30,40)
+    let sg5 = sortedGenres.slice(40,50)
 
     function titleCase(str) {
         str = str.toLowerCase().split(' ');
@@ -84,7 +95,21 @@ function MoreList(){
     return (
         <React.Fragment>
             <div className="spacer"></div>
-            <h1 className="heading">More</h1>
+
+            <h1 className="heading">Genres</h1>
+            <div className="backdrop">
+                <div className='book-carousel'> 
+                    {genreButtons}
+                </div> 
+            </div>
+            <div className="backdrop">
+                <div className='book-carousel'> 
+                </div> 
+            </div>
+
+
+
+            <div className="spacer-books"></div>
             <div className="backdrop">
                 <div className='book-carousel'> 
                     {sg1}
@@ -103,9 +128,20 @@ function MoreList(){
                 </div> 
             </div>
 
+            <div className="backdrop">
+                <div className='book-carousel'> 
+                    {sg4}
+                </div> 
+            </div>
+
+            <div className="backdrop">
+                <div className='book-carousel'> 
+                    {sg5}
+                </div> 
+            </div>
 
 
-            <div className="bot-spacer"></div>
+        <div className="bot-spacer"></div>
         </React.Fragment>
 )
 }

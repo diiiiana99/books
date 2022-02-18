@@ -96,7 +96,7 @@ let genreList = ['history','tech','Fiction','Science','Biography','Fantasy','Phi
         <div id = 'genrecontainer' className={'genre-container hidden'}>
           <div className="dropdownContent">
           {genreList.sort().map((category) =>
-              <NavLink key={category} className='nav-link-small' style={{ marginRight: "10px" }} to={`/genre/${category}`}>
+              <NavLink key={category} className='nav-link-small' to={`/genre/${category}`}>
                 <div>{titleCase(category)}</div>
               </NavLink>
           )}
