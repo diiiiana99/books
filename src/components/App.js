@@ -273,7 +273,7 @@ function App() {
             onFavoriteClick={handleFavoritesClickOUT}
         />
         </Route>
-        <Route path ='/more'>
+        <Route path ='/genres'>
           <MoreList
             books={newReleases}
             setBooks={setBooks}

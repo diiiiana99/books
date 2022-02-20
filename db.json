@@ -86482,256 +86482,6 @@
   "favorites": [
     {
       "kind": "books#volume",
-      "id": "dbL9rr2kvLAC",
-      "etag": "VUD+NN3mDKc",
-      "selfLink": "https://www.googleapis.com/books/v1/volumes/dbL9rr2kvLAC",
-      "volumeInfo": {
-        "title": "Guide to New York City Landmarks",
-        "authors": [
-          "New York City Landmarks Preservation Commission"
-        ],
-        "publisher": "Wiley",
-        "publishedDate": "2003-10-13",
-        "description": "Five boroughs rich with history-and one guide to it all The official and only complete guide to New York City's landmarks, this beautiful Third Edition has been updated to include 128 new individual sites and sixteen new historic districts. Mayor Michael Bloomberg opens this treasure trove of historical discovery with an elegant Foreword. What follows are insightful descriptions of more than 1,000 individual landmarks and 84 historic districts. Everyone will feel like a native New Yorker when they quickly point out landmarks with the help of 80 easy-to-read maps. This new edition also features new photographs, enhanced maps, and more than a dozen themed sections that make it easy to create a customized sightseeing experience. New York City Landmarks Preservation Commission (New York, NY) is the agency responsible for identifying and designating local landmarks and historic districts. Established in 1965 in response to the destruction of the original Penn Station, the agency is comprised of eleven members appointed by the mayor and a professional staff.",
-        "industryIdentifiers": [
-          {
-            "type": "ISBN_10",
-            "identifier": "0471369004"
-          },
-          {
-            "type": "ISBN_13",
-            "identifier": "9780471369004"
-          }
-        ],
-        "readingModes": {
-          "text": false,
-          "image": false
-        },
-        "pageCount": 464,
-        "printType": "BOOK",
-        "categories": [
-          "Architecture"
-        ],
-        "maturityRating": "NOT_MATURE",
-        "allowAnonLogging": false,
-        "contentVersion": "0.1.2.0.preview.0",
-        "panelizationSummary": {
-          "containsEpubBubbles": false,
-          "containsImageBubbles": false
-        },
-        "imageLinks": {
-          "smallThumbnail": "http://books.google.com/books/content?id=dbL9rr2kvLAC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-          "thumbnail": "http://books.google.com/books/content?id=dbL9rr2kvLAC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
-        },
-        "language": "en",
-        "previewLink": "http://books.google.com/books?id=dbL9rr2kvLAC&q=intitle:new+york+city&dq=intitle:new+york+city&hl=&as_pt=BOOKS&cd=14&source=gbs_api",
-        "infoLink": "http://books.google.com/books?id=dbL9rr2kvLAC&dq=intitle:new+york+city&hl=&as_pt=BOOKS&source=gbs_api",
-        "canonicalVolumeLink": "https://books.google.com/books/about/Guide_to_New_York_City_Landmarks.html?hl=&id=dbL9rr2kvLAC"
-      },
-      "saleInfo": {
-        "country": "US",
-        "saleability": "NOT_FOR_SALE",
-        "isEbook": false
-      },
-      "accessInfo": {
-        "country": "US",
-        "viewability": "NO_PAGES",
-        "embeddable": false,
-        "publicDomain": false,
-        "textToSpeechPermission": "ALLOWED",
-        "epub": {
-          "isAvailable": false
-        },
-        "pdf": {
-          "isAvailable": false
-        },
-        "webReaderLink": "http://play.google.com/books/reader?id=dbL9rr2kvLAC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
-        "accessViewStatus": "NONE",
-        "quoteSharingAllowed": false
-      },
-      "searchInfo": {
-        "textSnippet": "This book will guide you through the extraordinary places that make New York New York.&quot; –Paul Goldberger Architecture critic, The New Yorker The official guide to New York City’s landmarks This updated and revised edition of the Guide ..."
-      }
-    },
-    {
-      "kind": "books#volume",
-      "id": "blRFEAAAQBAJ",
-      "etag": "587lswM3DCc",
-      "selfLink": "https://www.googleapis.com/books/v1/volumes/blRFEAAAQBAJ",
-      "volumeInfo": {
-        "title": "Cloud Cuckoo Land",
-        "subtitle": "A Novel",
-        "authors": [
-          "Anthony Doerr"
-        ],
-        "publisher": "Simon and Schuster",
-        "publishedDate": "2021-09-28",
-        "description": "Finalist for the 2021 National Book Award, longlisted for the 2022 Andrew Carnegie Medal, and the instant New York Times bestseller! From the Pulitzer Prize-winning author of All the Light We Cannot See, perhaps the most bestselling and beloved literary fiction of our time, comes the highly anticipated Cloud Cuckoo Land. Set in Constantinople in the fifteenth century, in a small town in present-day Idaho, and on an interstellar ship decades from now, Anthony Doerr's gorgeous third novel is a triumph of imagination and compassion, a soaring story about children on the cusp of adulthood in worlds in peril, who find resilience, hope--and a book. In Cloud Cuckoo Land, Doerr has created a magnificent tapestry of times and places that reflects our vast interconnectedness--with other species, with each other, with those who lived before us, and with those who will be here after we're gone. Thirteen-year-old Anna, an orphan, lives inside the formidable walls of Constantinople in a house of women who make their living embroidering the robes of priests. Restless, insatiably curious, Anna learns to read, and in this ancient city, famous for its libraries, she finds a book, the story of Aethon, who longs to be turned into a bird so that he can fly to a utopian paradise in the sky. This she reads to her ailing sister as the walls of the only place she has known are bombarded in the great siege of Constantinople. Outside the walls is Omeir, a village boy, miles from home, conscripted with his beloved oxen into the invading army. His path and Anna's will cross. Five hundred years later, in a library in Idaho, octogenarian Zeno, who learned Greek as a prisoner of war, rehearses five children in a play adaptation of Aethon's story, preserved against all odds through centuries. Tucked among the library shelves is a bomb, planted by a troubled, idealistic teenager, Seymour. This is another siege. And in a not-so-distant future, on the interstellar ship Argos, Konstance is alone in a vault, copying on scraps of sacking the story of Aethon, told to her by her father. She has never set foot on our planet. Like Marie-Laure and Werner in All the Light We Cannot See, Anna, Omeir, Seymour, Zeno, and Konstance are dreamers and outsiders who find resourcefulness and hope in the midst of gravest danger. Their lives are gloriously intertwined. Doerr's dazzling imagination transports us to worlds so dramatic and immersive that we forget, for a time, our own. Dedicated to \"the librarians then, now, and in the years to come,\" Cloud Cuckoo Land is a beautiful and redemptive novel about stewardship--of the book, of the Earth, of the human heart.",
-        "industryIdentifiers": [
-          {
-            "type": "ISBN_13",
-            "identifier": "9781982168438"
-          },
-          {
-            "type": "ISBN_10",
-            "identifier": "1982168439"
-          }
-        ],
-        "readingModes": {
-          "text": false,
-          "image": false
-        },
-        "pageCount": 640,
-        "printType": "BOOK",
-        "categories": [
-          "Fiction"
-        ],
-        "averageRating": 4,
-        "ratingsCount": 33,
-        "maturityRating": "NOT_MATURE",
-        "allowAnonLogging": false,
-        "contentVersion": "0.3.0.0.preview.0",
-        "panelizationSummary": {
-          "containsEpubBubbles": false,
-          "containsImageBubbles": false
-        },
-        "imageLinks": {
-          "smallThumbnail": "http://books.google.com/books/content?id=blRFEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-          "thumbnail": "http://books.google.com/books/content?id=blRFEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-        },
-        "language": "en",
-        "previewLink": "http://books.google.com/books?id=blRFEAAAQBAJ&printsec=frontcover&dq=isbn:1982168439&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
-        "infoLink": "http://books.google.com/books?id=blRFEAAAQBAJ&dq=isbn:1982168439&hl=&as_pt=BOOKS&source=gbs_api",
-        "canonicalVolumeLink": "https://books.google.com/books/about/Cloud_Cuckoo_Land.html?hl=&id=blRFEAAAQBAJ"
-      },
-      "saleInfo": {
-        "country": "US",
-        "saleability": "NOT_FOR_SALE",
-        "isEbook": false
-      },
-      "accessInfo": {
-        "country": "US",
-        "viewability": "PARTIAL",
-        "embeddable": true,
-        "publicDomain": false,
-        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
-        "epub": {
-          "isAvailable": false
-        },
-        "pdf": {
-          "isAvailable": false
-        },
-        "webReaderLink": "http://play.google.com/books/reader?id=blRFEAAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
-        "accessViewStatus": "SAMPLE",
-        "quoteSharingAllowed": false
-      },
-      "searchInfo": {
-        "textSnippet": "A &quot;novel about children on the cusp of adulthood in a broken world who find resilience, hope, and story ... [They] are trying to figure out the world around them, and to survive."
-      }
-    },
-    {
-      "kind": "books#volume",
-      "id": "hzVxiw2DiOsC",
-      "etag": "Ym4h/uIEAZs",
-      "selfLink": "https://www.googleapis.com/books/v1/volumes/hzVxiw2DiOsC",
-      "volumeInfo": {
-        "title": "The Four Agreements",
-        "subtitle": "A Practical Guide to Personal Freedom",
-        "authors": [
-          "Don Miguel Ruiz",
-          "Janet Mills"
-        ],
-        "publisher": "Amber-Allen Publishing",
-        "publishedDate": "2010-01-18",
-        "description": "Bestselling author don Miguel Ruiz reveals the source of self-limiting beliefs that rob us of joy and create needless suffering. Based on ancient Toltec wisdom, The Four Agreements offer a powerful code of conduct that can rapidly transform our lives to a new experience of freedom, true happiness, and love. • A New York Times bestseller for over 7 years • Over 5.2 million copies sold in the U.S. • Translated into 38 languages worldwide Don Miguel Ruiz’s book is a roadmap to enlightenment and freedom.” — Deepak Chopra, Author, The Seven Spiritual Laws of Success “An inspiring book with many great lessons . . .” — Wayne Dyer, Author, Real Magic “In the tradition of Castaneda, Ruiz distills essential Toltec wisdom, expressing with clarity and impeccability what it means for men and women to live as peaceful warriors in the modern world.” — Dan Millman, Author, Way of the Peaceful Warrior",
-        "industryIdentifiers": [
-          {
-            "type": "ISBN_13",
-            "identifier": "9781934408018"
-          },
-          {
-            "type": "ISBN_10",
-            "identifier": "1934408018"
-          }
-        ],
-        "readingModes": {
-          "text": true,
-          "image": false
-        },
-        "pageCount": 160,
-        "printType": "BOOK",
-        "categories": [
-          "Self-Help"
-        ],
-        "averageRating": 3,
-        "ratingsCount": 12,
-        "maturityRating": "NOT_MATURE",
-        "allowAnonLogging": true,
-        "contentVersion": "2.9.10.0.preview.2",
-        "panelizationSummary": {
-          "containsEpubBubbles": false,
-          "containsImageBubbles": false
-        },
-        "imageLinks": {
-          "smallThumbnail": "http://books.google.com/books/content?id=hzVxiw2DiOsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-          "thumbnail": "http://books.google.com/books/content?id=hzVxiw2DiOsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-        },
-        "language": "en",
-        "previewLink": "http://books.google.com/books?id=hzVxiw2DiOsC&printsec=frontcover&dq=intitle:the+four+agreements&hl=&as_pt=BOOKS&cd=3&source=gbs_api",
-        "infoLink": "https://play.google.com/store/books/details?id=hzVxiw2DiOsC&source=gbs_api",
-        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=hzVxiw2DiOsC"
-      },
-      "saleInfo": {
-        "country": "US",
-        "saleability": "FOR_SALE",
-        "isEbook": true,
-        "listPrice": {
-          "amount": 7.99,
-          "currencyCode": "USD"
-        },
-        "retailPrice": {
-          "amount": 7.99,
-          "currencyCode": "USD"
-        },
-        "buyLink": "https://play.google.com/store/books/details?id=hzVxiw2DiOsC&rdid=book-hzVxiw2DiOsC&rdot=1&source=gbs_api",
-        "offers": [
-          {
-            "finskyOfferType": 1,
-            "listPrice": {
-              "amountInMicros": 7990000,
-              "currencyCode": "USD"
-            },
-            "retailPrice": {
-              "amountInMicros": 7990000,
-              "currencyCode": "USD"
-            },
-            "giftable": true
-          }
-        ]
-      },
-      "accessInfo": {
-        "country": "US",
-        "viewability": "PARTIAL",
-        "embeddable": true,
-        "publicDomain": false,
-        "textToSpeechPermission": "ALLOWED",
-        "epub": {
-          "isAvailable": true,
-          "acsTokenLink": "http://books.google.com/books/download/The_Four_Agreements-sample-epub.acsm?id=hzVxiw2DiOsC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
-        },
-        "pdf": {
-          "isAvailable": false
-        },
-        "webReaderLink": "http://play.google.com/books/reader?id=hzVxiw2DiOsC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
-        "accessViewStatus": "SAMPLE",
-        "quoteSharingAllowed": false
-      },
-      "searchInfo": {
-        "textSnippet": "Based on ancient Toltec wisdom, The Four Agreements offer a powerful code of conduct that can rapidly transform our lives to a new experience of freedom, true happiness, and love. • A New York Times bestseller for over 7 years • Over 5 ..."
-      }
-    },
-    {
-      "kind": "books#volume",
       "id": "tQl0zgEACAAJ",
       "etag": "A4dw9SUOIWA",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/tQl0zgEACAAJ",
@@ -86879,6 +86629,102 @@
       },
       "searchInfo": {
         "textSnippet": "The Financial Times &amp; McKinsey Business Book of the Year A New York Times Notable Book A Washington Post Notable Book One of the Best Books of the Year: NPR, San Francisco Chronicle, Time, Esquire, Fortune, Marie Claire, GQ, Mental Floss, ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "wmrqaYNQ79AC",
+      "etag": "geD/HQ3gjes",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/wmrqaYNQ79AC",
+      "volumeInfo": {
+        "title": "The Approaching Storm: Star Wars Legends",
+        "authors": [
+          "Alan Dean Foster"
+        ],
+        "publisher": "Del Rey",
+        "publishedDate": "2011-06-28",
+        "description": "“ENTERTAINING AND INTELLIGENT . . . This book is pure class all the way. . . . The final page is a great climax.” –Starburst The Republic is decaying, even under the leadership of Supreme Chancellor Palpatine, who was elected to save the galaxy from collapsing under the forces of discontent. On the tiny but strategic planet of Ansion, a powerful faction is on the verge of joining the growing secessionist movement. At the Chancellor’s request, the Jedi Council sends two Jedi Knights, Obi-Wan Kenobi and Luminara Unduli, along with their Padawans Anakin Skywalker and Barriss Offee, to stabilize the planet’s population. To succeed, the Jedi will have to fulfill near-impossible tasks, befriend wary strangers, and influence two great armies, stalked all the while by an enemy sworn to see the negotiations collapse and the mission fail. . . . Features a bonus section following the novel that includes a primer on the Star Wars expanded universe, and over half a dozen excerpts from some of the most popular Star Wars books of the last thirty years!",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780307795717"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0307795713"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 384,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.5.5.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=wmrqaYNQ79AC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=wmrqaYNQ79AC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=wmrqaYNQ79AC&printsec=frontcover&dq=subject:Fiction&hl=&as_pt=BOOKS&cd=33&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=wmrqaYNQ79AC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=wmrqaYNQ79AC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 7.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 7.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=wmrqaYNQ79AC&rdid=book-wmrqaYNQ79AC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 7990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 7990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Approaching_Storm_Star_Wars_Legends-sample-epub.acsm?id=wmrqaYNQ79AC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=wmrqaYNQ79AC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
       }
     }
   ],

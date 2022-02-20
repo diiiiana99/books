@@ -91,6 +91,7 @@ let genreList = ['history','tech','Fiction','Science','Biography','Fantasy','Phi
           <div className="nav-link">Home</div>
         </NavLink>
 
+        <NavLink to="/genres">
         <div className="nav-link" onMouseOver={handleOver} onMouseOut={handleOff}>
           Browse
         <div id = 'genrecontainer' className={'genre-container hidden'}>
@@ -100,12 +101,14 @@ let genreList = ['history','tech','Fiction','Science','Biography','Fantasy','Phi
                 <div>{titleCase(category)}</div>
               </NavLink>
           )}
+          
           {/* <NavLink to="/more">
             <div className="nav-link-small">More</div>
           </NavLink> */}
           </div>
         </div>
         </div>
+        </NavLink>
 {/* 
         <NavLink to="/new">
           <div className="nav-link">New Releases</div>
