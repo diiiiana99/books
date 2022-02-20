@@ -28,6 +28,9 @@ function MoreList(){
     const fantasy = 'http://localhost:4000/Fantasy';
     const scifi = 'http://localhost:4000/ScienceFiction'
 
+    const favorites = 'http://localhost:4000/favorites'
+    const toRead = 'http://localhost:4000/to-read'
+
   
     const [ genres, setGenres] = useState([]);
     
@@ -59,13 +62,14 @@ function MoreList(){
         const BiographyGenres = await requestGenre(Biography)
         const fantasyGenres = await requestGenre(fantasy)
         const scifiGenres = await requestGenre(scifi)
-        // const Genres = await requestGenre(inserthere)
-        // const Genres = await requestGenre(inserthere)
+        const favoritesGenres = await requestGenre(favorites)
+        const toReadGenres = await requestGenre(toRead)
         // const Genres = await requestGenre(inserthere)
 
 
-        const uniqueGenres = new Array(...new Set([...scienceGenres,...BiographyGenres,...fantasyGenres,...scifiGenres, ...bestSellersGenres,...fictionGenres,...devdigestGenres,...benjaminfranklinGenres,...moviesGenres]))
+        const uniqueGenres = new Array(...new Set([...toReadGenres,...scienceGenres,...BiographyGenres,...fantasyGenres,...scifiGenres, ...bestSellersGenres,...fictionGenres,...devdigestGenres,...benjaminfranklinGenres,...moviesGenres]))
         setGenres(uniqueGenres)
+        // console.log(uniqueGenres)
     }, [])
   
   

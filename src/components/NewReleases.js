@@ -1,20 +1,20 @@
 import React, { useState, useEffect } from "react";
 import axios from "axios";
-import BookCard from "./BookCard";
+import BigBookCard from "./BigBookCard";
 
 function NewReleases({books,onReadClick,onFavoriteClick}){
 
-    function displayBooks(bookList){
+    function displayBigBooks(bookList){
         // let newBookList = bookList.filter((book)=>book.volumeInfo.imageLinks !== undefined)
         return bookList.map((book,i)=>{
             return (
-                <BookCard book={book} key={i} onFavoriteClick={onFavoriteClick} onReadClick={onReadClick}/>
+                <BigBookCard book={book} key={i} onFavoriteClick={onFavoriteClick} onReadClick={onReadClick}/>
                 )
             })
     }
   
-    let booksToDisplay1 = displayBooks(books.slice(0,10));
-    let booksToDisplay2 = displayBooks(books.slice(10));
+    let booksToDisplay1 = displayBigBooks(books.slice(0,10));
+    let booksToDisplay2 = displayBigBooks(books.slice(10));
 
 
 
@@ -29,12 +29,13 @@ function NewReleases({books,onReadClick,onFavoriteClick}){
                 </div> 
             </div>
 
-            <div className="backdrop">
+            {/* <div className="backdrop">
                 <div className='book-carousel'> 
                         {booksToDisplay2}
                 </div> 
-            </div>
+            </div> */}
             <div className="bot-spacer"></div>
+            <div className='spacer-bot'></div>
         </React.Fragment>
 )
 }

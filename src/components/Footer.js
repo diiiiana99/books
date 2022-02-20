@@ -16,8 +16,8 @@ import {
 
 
 function Footer() {
-    const shareUrl = 'http://localhost:3002/';
-    const title = 'Book-Report';
+    const shareUrl = 'https://book-report-0.herokuapp.com/';
+    const title = 'Find your next favorite read on Book-Report!';
     return(
         <React.Fragment>
         <div className="spacer"></div>

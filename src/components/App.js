@@ -31,9 +31,6 @@ let booksUrl = 'https://www.googleapis.com/books/v1/volumes?q=atomic+inauthor:cl
 
 let zebras = 'https://www.googleapis.com/books/v1/volumes?q=zebras&printType=books&maxResults=25&key='+apiKey
 
-let localZebras = 'http://localhost:4000/zebras'
-let localGiraffes = ' http://localhost:4000/giraffes'
-let localSputnik = 'http://localhost:4000/sputnik'
 
 //local favorites/to read
 const localFavorites= 'http://localhost:4000/favorites'
@@ -62,9 +59,12 @@ function App() {
   // let [searchUrl,setSearchUrl] = useState('');
   let [searchBooks,setSearchBooks]= useState([]);
   let [searchUrl,setSearchUrl]= useState('')
+
+  let [searchTitle,setSearchtitle]=useState('')
   function handleSubmit(event){
     event.preventDefault();
     setSearchUrl(`https://www.googleapis.com/books/v1/volumes?q=${search}&printType=books&key=${allanKey}&maxResults=40`)
+    setSearchtitle(search)
     history.push('./search-results')
       if (search!==''){
         history.push('./search-results')
@@ -74,11 +74,24 @@ function App() {
 
   
     let [toReadBooks,setToReadBooks] = useState([]);
+    let [favoriteBooks,setFavoriteBooks] = useState([]);
+    let [newReleases,setNewReleases] = useState([]);
 
       useEffect(()=>{
+        //Reading List fetch
         axios.get(localToRead)
         .then(r=> {
         setToReadBooks(r.data)
+        })
+        //Favorites List fetch
+        axios.get(localFavorites)
+        .then(r=> {
+        setFavoriteBooks(r.data)
+        })
+        //Fetch new releases
+        axios.get(localNew)
+        .then(r=> {
+          setNewReleases(r.data)
         })
     }, [])
 
@@ -90,22 +103,15 @@ function App() {
 
     // WHEN NOT IN THE 'TO-READ' PAGE, the book is added to the to read list
     function handleReadClickoutList(selectedBook){
-      if (toReadBooks.includes(selectedBook)){
-      } else {
-          axios.post(localToRead,selectedBook)
-          setToReadBooks([...toReadBooks,selectedBook])
-        }  
+      const clickedBooks = toReadBooks.find(book => {
+        return book.id === selectedBook.id
+      })
+      if (clickedBooks) {alert(`${selectedBook.volumeInfo.title} by ${selectedBook.volumeInfo.authors} is already in your reading list!`)}
+      if (!clickedBooks){
+        axios.post(localToRead,selectedBook)
+        setToReadBooks([...toReadBooks,selectedBook])
       }
-
-  
-    let [favoriteBooks,setFavoriteBooks] = useState([]);
-
-      useEffect(()=>{
-        axios.get(localFavorites)
-        .then(r=> {
-        setFavoriteBooks(r.data)
-        })
-    }, [])
+      }
     
     // WHEN IN THE 'favorite' PAGE the book is removed from the read list
     function handleFavoritesClickIN(selectedBook){
@@ -115,25 +121,88 @@ function App() {
 
     // WHEN NOT IN THE 'favorite' PAGE, the book is added to the to read list
     function handleFavoritesClickOUT(selectedBook){
-      if (favoriteBooks.includes(selectedBook)){
-      } else {
+      const clickedBooks = favoriteBooks.find(favBook => {
+        return favBook.id === selectedBook.id
+      })
+      if (clickedBooks) {alert(`${selectedBook.volumeInfo.title} by ${selectedBook.volumeInfo.authors} is already in your favorites!`)}
+      if (!clickedBooks){
         axios.post(localFavorites,selectedBook)
         setFavoriteBooks([...favoriteBooks,selectedBook])  
       }
       }
 
-        
-    let [newReleases,setNewReleases] = useState([]);
+    let [genres,setGenres] = useState([]);
+    let [randGenre,setRandGenre] = useState(0);
 
-    useEffect(()=>{
-      axios.get(localNew)
-      .then(r=> {
-        setNewReleases(r.data)
+    const requestGenre = async (topic) => {
+        const genresArray = [];
+        let req = await fetch(topic)
+        let res = await req.json()
+        res.forEach((book) => {
+          const categories = book.volumeInfo.categories;
+          if(categories) {
+            if(genresArray.indexOf(categories[0].toLowerCase()) === -1) {
+              genresArray.push(categories[0].toLowerCase())
+            }
+          }
+        })
+        return(genresArray)
+      }
+
+    const requestGenre2  = async (bookList) => {
+      const genresArray = [];
+      bookList.forEach((book) => {
+        const categories = book.volumeInfo.categories;
+        if(categories) {
+          // console.log(categories)
+          if(genresArray.indexOf(categories[0].toLowerCase()) === -1) {
+            console.log('working')
+            genresArray.push(categories[0].toLowerCase())
+          }
+        }
       })
-  }, [])
-    
+      // console.log(genresArray)
+      return(genresArray)
+    }
 
-  
+      useEffect(async()=>{
+        // let favoritesGenre = await requestGenre(localFavorites)
+        // let toReadGenre = await requestGenre(localToRead)
+        let favGenres = await requestGenre2(favoriteBooks)
+        let toReadGenres = await requestGenre2(toReadBooks)
+
+        // let genreList2 = new Array(...new Set([...favoritesGenre,...toReadGenre]));
+
+        let genreList = new Array(...new Set([...favGenres,...toReadGenres]));
+        // console.log(genreList2)
+
+        let noInput = genreList.length ===0;
+        // console.log(noInput)
+        if(noInput){setRandGenre(0)}
+        else{setRandGenre(genreList[Math.floor(Math.random()*genreList.length)])}
+
+      },[favoriteBooks,toReadBooks])
+
+
+
+      let [randomBooks,setRandomBooks] = useState([]);
+
+      useEffect(async()=>{
+        if (await randGenre===0){
+            console.log('zero')
+      } else if (randGenre!==0){
+        let randomUrl =(isNaN(randGenre)?`https://www.googleapis.com/books/v1/volumes?q=+subject:${randGenre}&printType=books&maxResults=15`:undefined)
+        console.log(randomUrl)
+          await axios.get(randomUrl)
+          .then(r=>setRandomBooks(r.data.items))
+          // setRandomBooks(favoriteBooks)
+      }
+      },[randGenre])
+
+
+
+      // console.log(randomBooks)
+
   return (
     <div className="App">
       <div >
@@ -149,6 +218,8 @@ function App() {
               setBooks={setBooks}
               onReadClick={handleReadClickoutList}
               onFavoriteClick={handleFavoritesClickOUT}
+              randomBooks={randomBooks}
+              randGenre={randGenre}
             />
           </Route>
           <Route path='/search-results'>
@@ -157,7 +228,7 @@ function App() {
               onReadClick={handleReadClickoutList}
               onFavoriteClick={handleFavoritesClickOUT}
               searchUrl={searchUrl}
-              search= {search}
+              search= {searchTitle}
               setBooks={setBooks}
             />
           </Route>

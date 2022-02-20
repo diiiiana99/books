@@ -100,9 +100,9 @@ let genreList = ['history','tech','Fiction','Science','Biography','Fantasy','Phi
                 <div>{titleCase(category)}</div>
               </NavLink>
           )}
-          <NavLink to="/more">
+          {/* <NavLink to="/more">
             <div className="nav-link-small">More</div>
-          </NavLink>
+          </NavLink> */}
           </div>
         </div>
         </div>

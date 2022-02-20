@@ -1,5 +1,4 @@
 .App{
-  /* background-color: aquamarine; */
   background-color: rgb(59, 57, 57);
   color: #fff;
 }
@@ -43,6 +42,15 @@
   display: flex;
 }
 
+.big-book-card {
+  padding: 10px;
+  margin-right: 40px;
+  width: 300px;
+  height: 400px;
+  object-fit:scale-down;
+  display: flex;
+}
+
 .book-details {
   font-size: 8px;
   margin-top: 2.5cm;
@@ -52,9 +60,9 @@
   width: 128px;
 }
 
-.book-details-background {
+/* .book-details-background {
 
-}
+} */
 
 .book-details-text{
   opacity: 100%;
@@ -300,6 +308,10 @@
   margin-top: 110px;
 }
 
+.spacer-top-home {
+  margin-top: 90px;
+}
+
 .spacer-books {
   margin-top: 10px;
 }
@@ -311,12 +323,12 @@
 
 .bot-spacer{
   padding-bottom: 90px;
-
 }
 
 .fixed-footer{
   width: 100%;
   position: fixed;
+  z-index: 2000;
 
 }
 
@@ -387,4 +399,13 @@
   /* // margin: 0; */
   padding-left: 2rem;
   font-weight: 500;
+}
+
+.top-heading {
+  position: relative;
+   margin: 0;
+  padding-left: 2rem;
+  font-weight: 500;
+  font-size: 55px;
+  padding-bottom: 1rem;
 }

@@ -86553,50 +86553,51 @@
   "favorites": [
     {
       "kind": "books#volume",
-      "id": "B4d1swEACAAJ",
-      "etag": "Yx235uMiXSE",
-      "selfLink": "https://www.googleapis.com/books/v1/volumes/B4d1swEACAAJ",
+      "id": "dbL9rr2kvLAC",
+      "etag": "VUD+NN3mDKc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/dbL9rr2kvLAC",
       "volumeInfo": {
-        "title": "Watership Down",
+        "title": "Guide to New York City Landmarks",
         "authors": [
-          "Richard Adams"
+          "New York City Landmarks Preservation Commission"
         ],
-        "publisher": "Puffin",
-        "publishedDate": "2018-11-29",
-        "description": "Fiver could sense danger. Something terrible was going to happen to the warren - he felt sure of it. So did his brother Hazel, for Fiver's sixth sense was never wrong. They had to leave immediately, and they had to persuade the other rabbits to join them. And so begins a long and perilous journey of a small band of rabbits in search of a safe home. Fiver's vision finally leads them to Watership Down, but here they face their most difficult challenge of all... Watership Down is an epic journey, a stirring tale of adventure, courage and survival against the odds.",
+        "publisher": "Wiley",
+        "publishedDate": "2003-10-13",
+        "description": "Five boroughs rich with history-and one guide to it all The official and only complete guide to New York City's landmarks, this beautiful Third Edition has been updated to include 128 new individual sites and sixteen new historic districts. Mayor Michael Bloomberg opens this treasure trove of historical discovery with an elegant Foreword. What follows are insightful descriptions of more than 1,000 individual landmarks and 84 historic districts. Everyone will feel like a native New Yorker when they quickly point out landmarks with the help of 80 easy-to-read maps. This new edition also features new photographs, enhanced maps, and more than a dozen themed sections that make it easy to create a customized sightseeing experience. New York City Landmarks Preservation Commission (New York, NY) is the agency responsible for identifying and designating local landmarks and historic districts. Established in 1965 in response to the destruction of the original Penn Station, the agency is comprised of eleven members appointed by the mayor and a professional staff.",
         "industryIdentifiers": [
           {
             "type": "ISBN_10",
-            "identifier": "0141378948"
+            "identifier": "0471369004"
           },
           {
             "type": "ISBN_13",
-            "identifier": "9780141378947"
+            "identifier": "9780471369004"
           }
         ],
         "readingModes": {
           "text": false,
           "image": false
         },
-        "pageCount": 656,
+        "pageCount": 464,
         "printType": "BOOK",
-        "averageRating": 4,
-        "ratingsCount": 240,
+        "categories": [
+          "Architecture"
+        ],
         "maturityRating": "NOT_MATURE",
         "allowAnonLogging": false,
-        "contentVersion": "preview-1.0.0",
+        "contentVersion": "0.1.2.0.preview.0",
         "panelizationSummary": {
           "containsEpubBubbles": false,
           "containsImageBubbles": false
         },
         "imageLinks": {
-          "smallThumbnail": "http://books.google.com/books/content?id=B4d1swEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-          "thumbnail": "http://books.google.com/books/content?id=B4d1swEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          "smallThumbnail": "http://books.google.com/books/content?id=dbL9rr2kvLAC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=dbL9rr2kvLAC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
         },
         "language": "en",
-        "previewLink": "http://books.google.com/books?id=B4d1swEACAAJ&dq=intitle:Watership+down&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
-        "infoLink": "http://books.google.com/books?id=B4d1swEACAAJ&dq=intitle:Watership+down&hl=&as_pt=BOOKS&source=gbs_api",
-        "canonicalVolumeLink": "https://books.google.com/books/about/Watership_Down.html?hl=&id=B4d1swEACAAJ"
+        "previewLink": "http://books.google.com/books?id=dbL9rr2kvLAC&q=intitle:new+york+city&dq=intitle:new+york+city&hl=&as_pt=BOOKS&cd=14&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=dbL9rr2kvLAC&dq=intitle:new+york+city&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Guide_to_New_York_City_Landmarks.html?hl=&id=dbL9rr2kvLAC"
       },
       "saleInfo": {
         "country": "US",
@@ -86615,699 +86616,164 @@
         "pdf": {
           "isAvailable": false
         },
-        "webReaderLink": "http://play.google.com/books/reader?id=B4d1swEACAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "webReaderLink": "http://play.google.com/books/reader?id=dbL9rr2kvLAC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
         "accessViewStatus": "NONE",
         "quoteSharingAllowed": false
       },
       "searchInfo": {
-        "textSnippet": "Fiver&#39;s vision finally leads them to Watership Down, but here they face their most difficult challenge of all... Watership Down is an epic journey, a stirring tale of adventure, courage and survival against the odds."
+        "textSnippet": "This book will guide you through the extraordinary places that make New York New York.&quot; –Paul Goldberger Architecture critic, The New Yorker The official guide to New York City’s landmarks This updated and revised edition of the Guide ..."
       }
     },
     {
       "kind": "books#volume",
-      "id": "FM4y7N1kM9AC",
+      "id": "blRFEAAAQBAJ",
+      "etag": "587lswM3DCc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/blRFEAAAQBAJ",
       "volumeInfo": {
-        "title": "Slaughterhouse-Five",
+        "title": "Cloud Cuckoo Land",
         "subtitle": "A Novel",
         "authors": [
-          "Kurt Vonnegut"
+          "Anthony Doerr"
         ],
-        "publisher": "Dial Press",
-        "publishedDate": "2009-08-11",
-        "description": "A special fiftieth anniversary edition of Kurt Vonnegut’s masterpiece, “a desperate, painfully honest attempt to confront the monstrous crimes of the twentieth century” (Time), featuring a new introduction by Kevin Powers, author of the National Book Award finalist The Yellow Birds Selected by the Modern Library as one of the 100 best novels of all time Slaughterhouse-Five, an American classic, is one of the world’s great antiwar books. Centering on the infamous World War II firebombing of Dresden, the novel is the result of what Kurt Vonnegut described as a twenty-three-year struggle to write a book about what he had witnessed as an American prisoner of war. It combines historical fiction, science fiction, autobiography, and satire in an account of the life of Billy Pilgrim, a barber’s son turned draftee turned optometrist turned alien abductee. As Vonnegut had, Billy experiences the destruction of Dresden as a POW. Unlike Vonnegut, he experiences time travel, or coming “unstuck in time.” An instant bestseller, Slaughterhouse-Five made Kurt Vonnegut a cult hero in American literature, a reputation that only strengthened over time, despite his being banned and censored by some libraries and schools for content and language. But it was precisely those elements of Vonnegut’s writing—the political edginess, the genre-bending inventiveness, the frank violence, the transgressive wit—that have inspired generations of readers not just to look differently at the world around them but to find the confidence to say something about it. Authors as wide-ranging as Norman Mailer, John Irving, Michael Crichton, Tim O’Brien, Margaret Atwood, Elizabeth Strout, David Sedaris, Jennifer Egan, and J. K. Rowling have all found inspiration in Vonnegut’s words. Jonathan Safran Foer has described Vonnegut as “the kind of writer who made people—young people especially—want to write.” George Saunders has declared Vonnegut to be “the great, urgent, passionate American writer of our century, who offers us . . . a model of the kind of compassionate thinking that might yet save us from ourselves.” Fifty years after its initial publication at the height of the Vietnam War, Vonnegut's portrayal of political disillusionment, PTSD, and postwar anxiety feels as relevant, darkly humorous, and profoundly affecting as ever, an enduring beacon through our own era’s uncertainties. “Poignant and hilarious, threaded with compassion and, behind everything, the cataract of a thundering moral statement.”—The Boston Globe",
+        "publisher": "Simon and Schuster",
+        "publishedDate": "2021-09-28",
+        "description": "Finalist for the 2021 National Book Award, longlisted for the 2022 Andrew Carnegie Medal, and the instant New York Times bestseller! From the Pulitzer Prize-winning author of All the Light We Cannot See, perhaps the most bestselling and beloved literary fiction of our time, comes the highly anticipated Cloud Cuckoo Land. Set in Constantinople in the fifteenth century, in a small town in present-day Idaho, and on an interstellar ship decades from now, Anthony Doerr's gorgeous third novel is a triumph of imagination and compassion, a soaring story about children on the cusp of adulthood in worlds in peril, who find resilience, hope--and a book. In Cloud Cuckoo Land, Doerr has created a magnificent tapestry of times and places that reflects our vast interconnectedness--with other species, with each other, with those who lived before us, and with those who will be here after we're gone. Thirteen-year-old Anna, an orphan, lives inside the formidable walls of Constantinople in a house of women who make their living embroidering the robes of priests. Restless, insatiably curious, Anna learns to read, and in this ancient city, famous for its libraries, she finds a book, the story of Aethon, who longs to be turned into a bird so that he can fly to a utopian paradise in the sky. This she reads to her ailing sister as the walls of the only place she has known are bombarded in the great siege of Constantinople. Outside the walls is Omeir, a village boy, miles from home, conscripted with his beloved oxen into the invading army. His path and Anna's will cross. Five hundred years later, in a library in Idaho, octogenarian Zeno, who learned Greek as a prisoner of war, rehearses five children in a play adaptation of Aethon's story, preserved against all odds through centuries. Tucked among the library shelves is a bomb, planted by a troubled, idealistic teenager, Seymour. This is another siege. And in a not-so-distant future, on the interstellar ship Argos, Konstance is alone in a vault, copying on scraps of sacking the story of Aethon, told to her by her father. She has never set foot on our planet. Like Marie-Laure and Werner in All the Light We Cannot See, Anna, Omeir, Seymour, Zeno, and Konstance are dreamers and outsiders who find resourcefulness and hope in the midst of gravest danger. Their lives are gloriously intertwined. Doerr's dazzling imagination transports us to worlds so dramatic and immersive that we forget, for a time, our own. Dedicated to \"the librarians then, now, and in the years to come,\" Cloud Cuckoo Land is a beautiful and redemptive novel about stewardship--of the book, of the Earth, of the human heart.",
         "industryIdentifiers": [
           {
             "type": "ISBN_13",
-            "identifier": "9780440339069"
+            "identifier": "9781982168438"
           },
           {
             "type": "ISBN_10",
-            "identifier": "0440339065"
-          }
-        ],
-        "readingModes": {
-          "text": true,
-          "image": true
-        },
-        "pageCount": 240,
-        "printType": "BOOK",
-        "categories": [
-          "Fiction"
-        ],
-        "averageRating": 4,
-        "ratingsCount": 1588,
-        "maturityRating": "NOT_MATURE",
-        "allowAnonLogging": true,
-        "contentVersion": "2.10.10.0.preview.3",
-        "panelizationSummary": {
-          "containsEpubBubbles": false,
-          "containsImageBubbles": false
-        },
-        "imageLinks": {
-          "smallThumbnail": "http://books.google.com/books/content?id=gFSHD40Y320C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-          "thumbnail": "http://books.google.com/books/content?id=gFSHD40Y320C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-        },
-        "language": "en",
-        "previewLink": "http://books.google.com/books?id=FM4y7N1kM9AC&printsec=frontcover&dq=inauthor:vonnegut&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
-        "infoLink": "https://play.google.com/store/books/details?id=FM4y7N1kM9AC&source=gbs_api",
-        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=FM4y7N1kM9AC"
-      },
-      "saleInfo": {
-        "country": "US",
-        "saleability": "FOR_SALE",
-        "isEbook": true,
-        "listPrice": {
-          "amount": 7.99,
-          "currencyCode": "USD"
-        },
-        "retailPrice": {
-          "amount": 7.99,
-          "currencyCode": "USD"
-        },
-        "buyLink": "https://play.google.com/store/books/details?id=FM4y7N1kM9AC&rdid=book-FM4y7N1kM9AC&rdot=1&source=gbs_api",
-        "offers": [
-          {
-            "finskyOfferType": 1,
-            "listPrice": {
-              "amountInMicros": 7990000,
-              "currencyCode": "USD"
-            },
-            "retailPrice": {
-              "amountInMicros": 7990000,
-              "currencyCode": "USD"
-            },
-            "giftable": true
-          }
-        ]
-      },
-      "accessInfo": {
-        "country": "US",
-        "viewability": "PARTIAL",
-        "embeddable": true,
-        "publicDomain": false,
-        "textToSpeechPermission": "ALLOWED",
-        "epub": {
-          "isAvailable": true,
-          "acsTokenLink": "http://books.google.com/books/download/Slaughterhouse_Five-sample-epub.acsm?id=FM4y7N1kM9AC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
-        },
-        "pdf": {
-          "isAvailable": true,
-          "acsTokenLink": "http://books.google.com/books/download/Slaughterhouse_Five-sample-pdf.acsm?id=FM4y7N1kM9AC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
-        },
-        "webReaderLink": "http://play.google.com/books/reader?id=FM4y7N1kM9AC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
-        "accessViewStatus": "SAMPLE",
-        "quoteSharingAllowed": false
-      },
-      "searchInfo": {
-        "textSnippet": "A special fiftieth anniversary edition of Kurt Vonnegut’s masterpiece, “a desperate, painfully honest attempt to confront the monstrous crimes of the twentieth century” (Time), featuring a new introduction by Kevin Powers, author of ..."
-      }
-    },
-    {
-      "kind": "books#volume",
-      "id": "dIWuXz6Xr8oC",
-      "etag": "sgJqypYQNVE",
-      "selfLink": "https://www.googleapis.com/books/v1/volumes/dIWuXz6Xr8oC",
-      "volumeInfo": {
-        "title": "New York Burning",
-        "subtitle": "Liberty, Slavery, and Conspiracy in Eighteenth-century Manhattan",
-        "authors": [
-          "Jill Lepore"
-        ],
-        "publisher": "Vintage",
-        "publishedDate": "2006",
-        "description": "A chronicle of an alleged eighteenth-century slave conspiracy to destroy New York City explores the social and political climate of the 1730s and 1740s and the implications of the conspiracy in terms of American politics and history.",
-        "industryIdentifiers": [
-          {
-            "type": "ISBN_13",
-            "identifier": "9781400032266"
-          },
-          {
-            "type": "ISBN_10",
-            "identifier": "1400032261"
+            "identifier": "1982168439"
           }
         ],
         "readingModes": {
           "text": false,
           "image": false
         },
-        "pageCount": 323,
+        "pageCount": 640,
         "printType": "BOOK",
         "categories": [
-          "History"
+          "Fiction"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 33,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.0.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=blRFEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=blRFEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=blRFEAAAQBAJ&printsec=frontcover&dq=isbn:1982168439&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=blRFEAAAQBAJ&dq=isbn:1982168439&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cloud_Cuckoo_Land.html?hl=&id=blRFEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=blRFEAAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A &quot;novel about children on the cusp of adulthood in a broken world who find resilience, hope, and story ... [They] are trying to figure out the world around them, and to survive."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "hzVxiw2DiOsC",
+      "etag": "Ym4h/uIEAZs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/hzVxiw2DiOsC",
+      "volumeInfo": {
+        "title": "The Four Agreements",
+        "subtitle": "A Practical Guide to Personal Freedom",
+        "authors": [
+          "Don Miguel Ruiz",
+          "Janet Mills"
+        ],
+        "publisher": "Amber-Allen Publishing",
+        "publishedDate": "2010-01-18",
+        "description": "Bestselling author don Miguel Ruiz reveals the source of self-limiting beliefs that rob us of joy and create needless suffering. Based on ancient Toltec wisdom, The Four Agreements offer a powerful code of conduct that can rapidly transform our lives to a new experience of freedom, true happiness, and love. • A New York Times bestseller for over 7 years • Over 5.2 million copies sold in the U.S. • Translated into 38 languages worldwide Don Miguel Ruiz’s book is a roadmap to enlightenment and freedom.” — Deepak Chopra, Author, The Seven Spiritual Laws of Success “An inspiring book with many great lessons . . .” — Wayne Dyer, Author, Real Magic “In the tradition of Castaneda, Ruiz distills essential Toltec wisdom, expressing with clarity and impeccability what it means for men and women to live as peaceful warriors in the modern world.” — Dan Millman, Author, Way of the Peaceful Warrior",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781934408018"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1934408018"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 160,
+        "printType": "BOOK",
+        "categories": [
+          "Self-Help"
         ],
         "averageRating": 3,
-        "ratingsCount": 2,
-        "maturityRating": "NOT_MATURE",
-        "allowAnonLogging": false,
-        "contentVersion": "0.4.1.0.preview.0",
-        "panelizationSummary": {
-          "containsEpubBubbles": false,
-          "containsImageBubbles": false
-        },
-        "imageLinks": {
-          "smallThumbnail": "http://books.google.com/books/content?id=dIWuXz6Xr8oC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-          "thumbnail": "http://books.google.com/books/content?id=dIWuXz6Xr8oC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-        },
-        "language": "en",
-        "previewLink": "http://books.google.com/books?id=dIWuXz6Xr8oC&printsec=frontcover&dq=intitle:new+york+city&hl=&as_pt=BOOKS&cd=17&source=gbs_api",
-        "infoLink": "http://books.google.com/books?id=dIWuXz6Xr8oC&dq=intitle:new+york+city&hl=&as_pt=BOOKS&source=gbs_api",
-        "canonicalVolumeLink": "https://books.google.com/books/about/New_York_Burning.html?hl=&id=dIWuXz6Xr8oC"
-      },
-      "saleInfo": {
-        "country": "US",
-        "saleability": "NOT_FOR_SALE",
-        "isEbook": false
-      },
-      "accessInfo": {
-        "country": "US",
-        "viewability": "PARTIAL",
-        "embeddable": true,
-        "publicDomain": false,
-        "textToSpeechPermission": "ALLOWED",
-        "epub": {
-          "isAvailable": false
-        },
-        "pdf": {
-          "isAvailable": false
-        },
-        "webReaderLink": "http://play.google.com/books/reader?id=dIWuXz6Xr8oC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
-        "accessViewStatus": "SAMPLE",
-        "quoteSharingAllowed": false
-      },
-      "searchInfo": {
-        "textSnippet": "Lucid, probing, captivatingly written, &quot;New York Burning is a revelatory study of the ways in which slavery both destabilized and created American politics."
-      }
-    },
-    {
-      "kind": "books#volume",
-      "id": "JktNBQAAQBAJ",
-      "etag": "hWp0kZJaOhs",
-      "selfLink": "https://www.googleapis.com/books/v1/volumes/JktNBQAAQBAJ",
-      "volumeInfo": {
-        "title": "If Hemingway Wrote JavaScript",
-        "authors": [
-          "Angus Croll"
-        ],
-        "publisher": "No Starch Press",
-        "publishedDate": "2014-10-14",
-        "description": "What if William Shakespeare were asked to generate the Fibonacci series or Jane Austen had to write a factorial program? In If Hemingway Wrote JavaScript, author Angus Croll imagines short JavaScript programs as written by famous wordsmiths. The result is a peculiar and charming combination of prose, poetry, and programming. The best authors are those who obsess about language—and the same goes for JavaScript developers. To master either craft, you must experiment with language to develop your own style, your own idioms, and your own expressions. To that end, If Hemingway Wrote JavaScript playfully bridges the worlds of programming and literature for the literary geek in all of us. Featuring original artwork by Miran Lipovača.",
-        "industryIdentifiers": [
-          {
-            "type": "ISBN_13",
-            "identifier": "9781593275853"
-          },
-          {
-            "type": "ISBN_10",
-            "identifier": "1593275854"
-          }
-        ],
-        "readingModes": {
-          "text": true,
-          "image": true
-        },
-        "pageCount": 192,
-        "printType": "BOOK",
-        "categories": [
-          "Computers"
-        ],
-        "averageRating": 4,
-        "ratingsCount": 1,
+        "ratingsCount": 12,
         "maturityRating": "NOT_MATURE",
         "allowAnonLogging": true,
-        "contentVersion": "2.2.1.0.preview.3",
+        "contentVersion": "2.9.10.0.preview.2",
         "panelizationSummary": {
           "containsEpubBubbles": false,
           "containsImageBubbles": false
         },
         "imageLinks": {
-          "smallThumbnail": "http://books.google.com/books/content?id=JktNBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-          "thumbnail": "http://books.google.com/books/content?id=JktNBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          "smallThumbnail": "http://books.google.com/books/content?id=hzVxiw2DiOsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=hzVxiw2DiOsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
         },
         "language": "en",
-        "previewLink": "http://books.google.com/books?id=JktNBQAAQBAJ&printsec=frontcover&dq=intitle:javascript&hl=&as_pt=BOOKS&cd=32&source=gbs_api",
-        "infoLink": "http://books.google.com/books?id=JktNBQAAQBAJ&dq=intitle:javascript&hl=&as_pt=BOOKS&source=gbs_api",
-        "canonicalVolumeLink": "https://books.google.com/books/about/If_Hemingway_Wrote_JavaScript.html?hl=&id=JktNBQAAQBAJ"
-      },
-      "saleInfo": {
-        "country": "US",
-        "saleability": "NOT_FOR_SALE",
-        "isEbook": false
-      },
-      "accessInfo": {
-        "country": "US",
-        "viewability": "PARTIAL",
-        "embeddable": true,
-        "publicDomain": false,
-        "textToSpeechPermission": "ALLOWED",
-        "epub": {
-          "isAvailable": true
-        },
-        "pdf": {
-          "isAvailable": true
-        },
-        "webReaderLink": "http://play.google.com/books/reader?id=JktNBQAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
-        "accessViewStatus": "SAMPLE",
-        "quoteSharingAllowed": false
-      },
-      "searchInfo": {
-        "textSnippet": "What if William Shakespeare were asked to generate the Fibonacci series or Jane Austen had to write a factorial program?"
-      }
-    },
-    {
-      "kind": "books#volume",
-      "id": "Y32wOLkDz1oC",
-      "etag": "Ji67R95ElZs",
-      "selfLink": "https://www.googleapis.com/books/v1/volumes/Y32wOLkDz1oC",
-      "volumeInfo": {
-        "title": "Autobiography of Benjamin Franklin",
-        "subtitle": "1706-1757",
-        "authors": [
-          "Benjamin Franklin"
-        ],
-        "publisher": "Applewood Books",
-        "publishedDate": "2008-10",
-        "description": "The Autobiography of Benjamin Franklin was written by Benjamin Franklin from 1771 to 1790; however, Franklin himself appears to have called the work his Memoirs. Although it had a torturous publication history after Franklin's death, this work has become one of the most famous and influential examples of autobiography ever written.",
-        "industryIdentifiers": [
-          {
-            "type": "ISBN_13",
-            "identifier": "9781557090799"
-          },
-          {
-            "type": "ISBN_10",
-            "identifier": "1557090793"
-          }
-        ],
-        "readingModes": {
-          "text": false,
-          "image": true
-        },
-        "pageCount": 263,
-        "printType": "BOOK",
-        "categories": [
-          "Biography & Autobiography"
-        ],
-        "averageRating": 4.5,
-        "ratingsCount": 2,
-        "maturityRating": "NOT_MATURE",
-        "allowAnonLogging": false,
-        "contentVersion": "0.1.0.0.preview.1",
-        "panelizationSummary": {
-          "containsEpubBubbles": false,
-          "containsImageBubbles": false
-        },
-        "imageLinks": {
-          "smallThumbnail": "http://books.google.com/books/content?id=Y32wOLkDz1oC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-          "thumbnail": "http://books.google.com/books/content?id=Y32wOLkDz1oC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-        },
-        "language": "en",
-        "previewLink": "http://books.google.com/books?id=Y32wOLkDz1oC&printsec=frontcover&dq=inauthor:benjamin+franklin&hl=&as_pt=BOOKS&cd=5&source=gbs_api",
-        "infoLink": "http://books.google.com/books?id=Y32wOLkDz1oC&dq=inauthor:benjamin+franklin&hl=&as_pt=BOOKS&source=gbs_api",
-        "canonicalVolumeLink": "https://books.google.com/books/about/Autobiography_of_Benjamin_Franklin.html?hl=&id=Y32wOLkDz1oC"
-      },
-      "saleInfo": {
-        "country": "US",
-        "saleability": "NOT_FOR_SALE",
-        "isEbook": false
-      },
-      "accessInfo": {
-        "country": "US",
-        "viewability": "ALL_PAGES",
-        "embeddable": true,
-        "publicDomain": false,
-        "textToSpeechPermission": "ALLOWED",
-        "epub": {
-          "isAvailable": false
-        },
-        "pdf": {
-          "isAvailable": false
-        },
-        "webReaderLink": "http://play.google.com/books/reader?id=Y32wOLkDz1oC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
-        "accessViewStatus": "SAMPLE",
-        "quoteSharingAllowed": false
-      },
-      "searchInfo": {
-        "textSnippet": "The Autobiography of Benjamin Franklin was written by Benjamin Franklin from 1771 to 1790; however, Franklin himself appears to have called the work his Memoirs."
-      }
-    },
-    {
-      "kind": "books#volume",
-      "id": "vxbUjwEACAAJ",
-      "etag": "mVjMJgXIt2k",
-      "selfLink": "https://www.googleapis.com/books/v1/volumes/vxbUjwEACAAJ",
-      "volumeInfo": {
-        "title": "Secrets of the JavaScript Ninja",
-        "authors": [
-          "John Resig",
-          "Bibeault",
-          "Josip Maras"
-        ],
-        "publisher": "Manning Publications",
-        "publishedDate": "2016-03",
-        "description": "More than ever, the web is a universal platform for all types of applications, and JavaScript is the language of the web. For anyone serious about web development, it's not enough to be a decent JavaScript coder. They need to be ninja-stealthy, efficient, and ready for anything. Secrets of the JavaScript Ninja, Second Edition dives below the surface and helps readers understand the deceptively-complex world of JavaScript and browser-based application development. It skips the basics, and dives into core JavaScript concepts such as functions, closures, objects, prototypes, promises, and so on. With examples, illustrations, and insightful explanations, readers will benefit from the collective wisdom of seasoned experts John Resig, Bear Bibeault, and Josip Maras. Purchase of the print book includes a free eBook in PDF, Kindle, and ePub formats from Manning Publications.",
-        "industryIdentifiers": [
-          {
-            "type": "ISBN_10",
-            "identifier": "1617292850"
-          },
-          {
-            "type": "ISBN_13",
-            "identifier": "9781617292859"
-          }
-        ],
-        "readingModes": {
-          "text": false,
-          "image": false
-        },
-        "pageCount": 375,
-        "printType": "BOOK",
-        "categories": [
-          "Computers"
-        ],
-        "maturityRating": "NOT_MATURE",
-        "allowAnonLogging": false,
-        "contentVersion": "preview-1.0.0",
-        "panelizationSummary": {
-          "containsEpubBubbles": false,
-          "containsImageBubbles": false
-        },
-        "imageLinks": {
-          "smallThumbnail": "http://books.google.com/books/content?id=vxbUjwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-          "thumbnail": "http://books.google.com/books/content?id=vxbUjwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
-        },
-        "language": "en",
-        "previewLink": "http://books.google.com/books?id=vxbUjwEACAAJ&dq=intitle:javascript&hl=&as_pt=BOOKS&cd=18&source=gbs_api",
-        "infoLink": "http://books.google.com/books?id=vxbUjwEACAAJ&dq=intitle:javascript&hl=&as_pt=BOOKS&source=gbs_api",
-        "canonicalVolumeLink": "https://books.google.com/books/about/Secrets_of_the_JavaScript_Ninja.html?hl=&id=vxbUjwEACAAJ"
-      },
-      "saleInfo": {
-        "country": "US",
-        "saleability": "NOT_FOR_SALE",
-        "isEbook": false
-      },
-      "accessInfo": {
-        "country": "US",
-        "viewability": "NO_PAGES",
-        "embeddable": false,
-        "publicDomain": false,
-        "textToSpeechPermission": "ALLOWED",
-        "epub": {
-          "isAvailable": false
-        },
-        "pdf": {
-          "isAvailable": false
-        },
-        "webReaderLink": "http://play.google.com/books/reader?id=vxbUjwEACAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
-        "accessViewStatus": "NONE",
-        "quoteSharingAllowed": false
-      },
-      "searchInfo": {
-        "textSnippet": "You need to be ninja-stealthy, efficient, and ready for anything. This book shows you how. Purchase of the print book includes a free eBook in PDF, Kindle, and ePub formats from Manning Publications."
-      }
-    },
-    {
-      "kind": "books#volume",
-      "id": "6ctFAQAAQBAJ",
-      "etag": "fJNqEO6cBBI",
-      "selfLink": "https://www.googleapis.com/books/v1/volumes/6ctFAQAAQBAJ",
-      "volumeInfo": {
-        "title": "Theodore Roosevelt",
-        "subtitle": "The American Presidents Series: The 26th President, 1901-1909",
-        "authors": [
-          "Louis Auchincloss"
-        ],
-        "publisher": "Macmillan",
-        "publishedDate": "2002-01-04",
-        "description": "A biography of the first president of the twentieth century delves into the life of this great leader, from his early involvement in the politics of New York City to his presidency.",
-        "industryIdentifiers": [
-          {
-            "type": "ISBN_13",
-            "identifier": "9780805069068"
-          },
-          {
-            "type": "ISBN_10",
-            "identifier": "0805069062"
-          }
-        ],
-        "readingModes": {
-          "text": false,
-          "image": false
-        },
-        "pageCount": 155,
-        "printType": "BOOK",
-        "categories": [
-          "Biography & Autobiography"
-        ],
-        "maturityRating": "NOT_MATURE",
-        "allowAnonLogging": false,
-        "contentVersion": "0.2.0.0.preview.0",
-        "imageLinks": {
-          "smallThumbnail": "http://books.google.com/books/content?id=6ctFAQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-          "thumbnail": "http://books.google.com/books/content?id=6ctFAQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-        },
-        "language": "en",
-        "previewLink": "http://books.google.com/books?id=6ctFAQAAQBAJ&printsec=frontcover&dq=subject:Biography&hl=&as_pt=BOOKS&cd=6&source=gbs_api",
-        "infoLink": "http://books.google.com/books?id=6ctFAQAAQBAJ&dq=subject:Biography&hl=&as_pt=BOOKS&source=gbs_api",
-        "canonicalVolumeLink": "https://books.google.com/books/about/Theodore_Roosevelt.html?hl=&id=6ctFAQAAQBAJ"
-      },
-      "saleInfo": {
-        "country": "US",
-        "saleability": "NOT_FOR_SALE",
-        "isEbook": false
-      },
-      "accessInfo": {
-        "country": "US",
-        "viewability": "PARTIAL",
-        "embeddable": true,
-        "publicDomain": false,
-        "textToSpeechPermission": "ALLOWED",
-        "epub": {
-          "isAvailable": false
-        },
-        "pdf": {
-          "isAvailable": false
-        },
-        "webReaderLink": "http://play.google.com/books/reader?id=6ctFAQAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
-        "accessViewStatus": "SAMPLE",
-        "quoteSharingAllowed": false
-      }
-    },
-    {
-      "kind": "books#volume",
-      "id": "Cql3qTEptHUC",
-      "etag": "qCTYGypsjH8",
-      "selfLink": "https://www.googleapis.com/books/v1/volumes/Cql3qTEptHUC",
-      "volumeInfo": {
-        "title": "Zebras",
-        "authors": [
-          "Anthony D. Fredericks"
-        ],
-        "publisher": "Lerner Publications",
-        "publishedDate": "2000-09-01",
-        "description": "Describes the physical characteristics, behavior, habitat, uses, and endangered status of this black and white striped animal found on the plains of Africa.",
-        "industryIdentifiers": [
-          {
-            "type": "ISBN_10",
-            "identifier": "0822530430"
-          },
-          {
-            "type": "ISBN_13",
-            "identifier": "9780822530435"
-          }
-        ],
-        "readingModes": {
-          "text": false,
-          "image": true
-        },
-        "pageCount": 48,
-        "printType": "BOOK",
-        "categories": [
-          "Juvenile Nonfiction"
-        ],
-        "maturityRating": "NOT_MATURE",
-        "allowAnonLogging": false,
-        "contentVersion": "0.2.2.0.preview.1",
-        "panelizationSummary": {
-          "containsEpubBubbles": false,
-          "containsImageBubbles": false
-        },
-        "imageLinks": {
-          "smallThumbnail": "http://books.google.com/books/content?id=Cql3qTEptHUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-          "thumbnail": "http://books.google.com/books/content?id=Cql3qTEptHUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-        },
-        "language": "en",
-        "previewLink": "http://books.google.com/books?id=Cql3qTEptHUC&printsec=frontcover&dq=zebras&hl=&as_pt=BOOKS&cd=15&source=gbs_api",
-        "infoLink": "http://books.google.com/books?id=Cql3qTEptHUC&dq=zebras&hl=&as_pt=BOOKS&source=gbs_api",
-        "canonicalVolumeLink": "https://books.google.com/books/about/Zebras.html?hl=&id=Cql3qTEptHUC"
-      },
-      "saleInfo": {
-        "country": "US",
-        "saleability": "NOT_FOR_SALE",
-        "isEbook": false
-      },
-      "accessInfo": {
-        "country": "US",
-        "viewability": "PARTIAL",
-        "embeddable": true,
-        "publicDomain": false,
-        "textToSpeechPermission": "ALLOWED",
-        "epub": {
-          "isAvailable": false
-        },
-        "pdf": {
-          "isAvailable": false
-        },
-        "webReaderLink": "http://play.google.com/books/reader?id=Cql3qTEptHUC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
-        "accessViewStatus": "SAMPLE",
-        "quoteSharingAllowed": false
-      },
-      "searchInfo": {
-        "textSnippet": "Describes the physical characteristics, behavior, habitat, uses, and endangered status of this black and white striped animal found on the plains of Africa."
-      }
-    },
-    {
-      "kind": "books#volume",
-      "id": "cBDNzQEACAAJ",
-      "etag": "kRH7UE+pqrk",
-      "selfLink": "https://www.googleapis.com/books/v1/volumes/cBDNzQEACAAJ",
-      "volumeInfo": {
-        "title": "Graceful Giraffe Coloring Book",
-        "subtitle": "Beautiful Giraffes Adult Coloring Book",
-        "authors": [
-          "Dylanna Press"
-        ],
-        "publishedDate": "2020-08-25",
-        "description": "A beautiful adult coloring book of gorgeous giraffe designs. Contains 40 full-page illustrations. Carefully curated designs will provide hours of fun, stress relief, creativity, and relaxation. A variety of styles from simpler to complex allows colorists of all levels to enjoy and create.",
-        "industryIdentifiers": [
-          {
-            "type": "ISBN_10",
-            "identifier": "1647900549"
-          },
-          {
-            "type": "ISBN_13",
-            "identifier": "9781647900540"
-          }
-        ],
-        "readingModes": {
-          "text": false,
-          "image": false
-        },
-        "pageCount": 82,
-        "printType": "BOOK",
-        "categories": [
-          "Games & Activities"
-        ],
-        "maturityRating": "NOT_MATURE",
-        "allowAnonLogging": false,
-        "contentVersion": "preview-1.0.0",
-        "panelizationSummary": {
-          "containsEpubBubbles": false,
-          "containsImageBubbles": false
-        },
-        "imageLinks": {
-          "smallThumbnail": "http://books.google.com/books/content?id=cBDNzQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-          "thumbnail": "http://books.google.com/books/content?id=cBDNzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
-        },
-        "language": "en",
-        "previewLink": "http://books.google.com/books?id=cBDNzQEACAAJ&dq=giraffes&hl=&as_pt=BOOKS&cd=27&source=gbs_api",
-        "infoLink": "http://books.google.com/books?id=cBDNzQEACAAJ&dq=giraffes&hl=&as_pt=BOOKS&source=gbs_api",
-        "canonicalVolumeLink": "https://books.google.com/books/about/Graceful_Giraffe_Coloring_Book.html?hl=&id=cBDNzQEACAAJ"
-      },
-      "saleInfo": {
-        "country": "US",
-        "saleability": "NOT_FOR_SALE",
-        "isEbook": false
-      },
-      "accessInfo": {
-        "country": "US",
-        "viewability": "NO_PAGES",
-        "embeddable": false,
-        "publicDomain": false,
-        "textToSpeechPermission": "ALLOWED",
-        "epub": {
-          "isAvailable": false
-        },
-        "pdf": {
-          "isAvailable": false
-        },
-        "webReaderLink": "http://play.google.com/books/reader?id=cBDNzQEACAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
-        "accessViewStatus": "NONE",
-        "quoteSharingAllowed": false
-      },
-      "searchInfo": {
-        "textSnippet": "A beautiful adult coloring book of gorgeous giraffe designs."
-      }
-    },
-    {
-      "kind": "books#volume",
-      "id": "SF9mgXguwaUC",
-      "etag": "+qbZDBA6IOI",
-      "selfLink": "https://www.googleapis.com/books/v1/volumes/SF9mgXguwaUC",
-      "volumeInfo": {
-        "title": "A Goomba's Guide to Life",
-        "authors": [
-          "Steven R. Schirripa",
-          "Charles Fleming"
-        ],
-        "publisher": "Crown",
-        "publishedDate": "2010-06-23",
-        "description": "Attention would-be paesans: Can’t distinguish “gabagool” from “pasta fazool”? Not sure how to properly accessorize your track suit with gold chains? Does the phrase “go to the mattresses” make you sleepy? Now Steven R. Schirripa, The Sopranos’ own Bobby Bacala, exposes the inner mysteries of this unique Italian-American hybrid in A Goomba’s Guide to Life so that anyone can walk, talk, and live like a guy “from the neighborhood.” Über-goomba Steve Schirripa shows how being a goomba made him what he is today, offering lessons learned on his own journey from Bensonhurst to Vegas, and to his current gig as Bobby Bacala on one of TV’s most popular shows. Along the way, he shares secrets that will help you get in touch with your own inner goomba. You’ll learn what music to enjoy (Sinatra, yes; Snoop Dogg, no), what movies to watch (Raging Bull, yes; Titanic, never), which sports to follow (baseball is good; golf and tennis, fuhgeddaboudit), and even tips on goomba etiquette. Ever wonder how a real goomba gets the best seat in the house? (Hint: It involves tipping, jewelry, and intimidation.) Schirripa even includes goomba do’s and don’ts (never, ever criticize a goomba’s mother or her gravy; always wear more jewelry than you think you need). With knockout photographs of Schirripa and his compares, and insider information on how to think goomba, speak goomba, cook and eat goomba, and even how to behave at goomba weddings and funerals, A Goomba’s Guide to Life will show any wiseguy wannabe how to sing like a Soprano.",
-        "industryIdentifiers": [
-          {
-            "type": "ISBN_13",
-            "identifier": "9780307528933"
-          },
-          {
-            "type": "ISBN_10",
-            "identifier": "0307528936"
-          }
-        ],
-        "readingModes": {
-          "text": true,
-          "image": true
-        },
-        "pageCount": 256,
-        "printType": "BOOK",
-        "categories": [
-          "Humor"
-        ],
-        "maturityRating": "NOT_MATURE",
-        "allowAnonLogging": true,
-        "contentVersion": "1.1.3.0.preview.3",
-        "panelizationSummary": {
-          "containsEpubBubbles": false,
-          "containsImageBubbles": false
-        },
-        "imageLinks": {
-          "smallThumbnail": "http://books.google.com/books/content?id=SF9mgXguwaUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-          "thumbnail": "http://books.google.com/books/content?id=SF9mgXguwaUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-        },
-        "language": "en",
-        "previewLink": "http://books.google.com/books?id=SF9mgXguwaUC&printsec=frontcover&dq=gabagool&hl=&as_pt=BOOKS&cd=37&source=gbs_api",
-        "infoLink": "https://play.google.com/store/books/details?id=SF9mgXguwaUC&source=gbs_api",
-        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=SF9mgXguwaUC"
+        "previewLink": "http://books.google.com/books?id=hzVxiw2DiOsC&printsec=frontcover&dq=intitle:the+four+agreements&hl=&as_pt=BOOKS&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=hzVxiw2DiOsC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=hzVxiw2DiOsC"
       },
       "saleInfo": {
         "country": "US",
         "saleability": "FOR_SALE",
         "isEbook": true,
         "listPrice": {
-          "amount": 12.99,
+          "amount": 7.99,
           "currencyCode": "USD"
         },
         "retailPrice": {
-          "amount": 12.99,
+          "amount": 7.99,
           "currencyCode": "USD"
         },
-        "buyLink": "https://play.google.com/store/books/details?id=SF9mgXguwaUC&rdid=book-SF9mgXguwaUC&rdot=1&source=gbs_api",
+        "buyLink": "https://play.google.com/store/books/details?id=hzVxiw2DiOsC&rdid=book-hzVxiw2DiOsC&rdot=1&source=gbs_api",
         "offers": [
           {
             "finskyOfferType": 1,
             "listPrice": {
-              "amountInMicros": 12990000,
+              "amountInMicros": 7990000,
               "currencyCode": "USD"
             },
             "retailPrice": {
-              "amountInMicros": 12990000,
+              "amountInMicros": 7990000,
               "currencyCode": "USD"
             },
             "giftable": true
@@ -87322,497 +86788,47 @@
         "textToSpeechPermission": "ALLOWED",
         "epub": {
           "isAvailable": true,
-          "acsTokenLink": "http://books.google.com/books/download/A_Goomba_s_Guide_to_Life-sample-epub.acsm?id=SF9mgXguwaUC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          "acsTokenLink": "http://books.google.com/books/download/The_Four_Agreements-sample-epub.acsm?id=hzVxiw2DiOsC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
         },
         "pdf": {
-          "isAvailable": true,
-          "acsTokenLink": "http://books.google.com/books/download/A_Goomba_s_Guide_to_Life-sample-pdf.acsm?id=SF9mgXguwaUC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          "isAvailable": false
         },
-        "webReaderLink": "http://play.google.com/books/reader?id=SF9mgXguwaUC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "webReaderLink": "http://play.google.com/books/reader?id=hzVxiw2DiOsC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
         "accessViewStatus": "SAMPLE",
         "quoteSharingAllowed": false
       },
       "searchInfo": {
-        "textSnippet": "With knockout photographs of Schirripa and his compares, and insider information on how to think goomba, speak goomba, cook and eat goomba, and even how to behave at goomba weddings and funerals, A Goomba’s Guide to Life will show any ..."
-      }
-    }
-  ],
-  "to-read": [
-    {
-      "kind": "books#volume",
-      "id": "FcZvzgEACAAJ",
-      "etag": "LONEi5jNBgo",
-      "selfLink": "https://www.googleapis.com/books/v1/volumes/FcZvzgEACAAJ",
-      "volumeInfo": {
-        "title": "Wish You Were Here",
-        "authors": [
-          "Jodi Picoult"
-        ],
-        "publisher": "Ballantine Books",
-        "publishedDate": "2021-11-30",
-        "description": "An upcoming book to be published by Penguin Random House.",
-        "industryIdentifiers": [
-          {
-            "type": "ISBN_10",
-            "identifier": "1984818414"
-          },
-          {
-            "type": "ISBN_13",
-            "identifier": "9781984818416"
-          }
-        ],
-        "readingModes": {
-          "text": false,
-          "image": false
-        },
-        "pageCount": 336,
-        "printType": "BOOK",
-        "categories": [
-          "Fiction"
-        ],
-        "averageRating": 4,
-        "ratingsCount": 20,
-        "maturityRating": "NOT_MATURE",
-        "allowAnonLogging": false,
-        "contentVersion": "preview-1.0.0",
-        "panelizationSummary": {
-          "containsEpubBubbles": false,
-          "containsImageBubbles": false
-        },
-        "imageLinks": {
-          "smallThumbnail": "http://books.google.com/books/content?id=FcZvzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-          "thumbnail": "http://books.google.com/books/content?id=FcZvzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
-        },
-        "language": "en",
-        "previewLink": "http://books.google.com/books?id=FcZvzgEACAAJ&dq=isbn:1984818414&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
-        "infoLink": "http://books.google.com/books?id=FcZvzgEACAAJ&dq=isbn:1984818414&hl=&as_pt=BOOKS&source=gbs_api",
-        "canonicalVolumeLink": "https://books.google.com/books/about/Wish_You_Were_Here.html?hl=&id=FcZvzgEACAAJ"
-      },
-      "saleInfo": {
-        "country": "US",
-        "saleability": "NOT_FOR_SALE",
-        "isEbook": false
-      },
-      "accessInfo": {
-        "country": "US",
-        "viewability": "NO_PAGES",
-        "embeddable": false,
-        "publicDomain": false,
-        "textToSpeechPermission": "ALLOWED",
-        "epub": {
-          "isAvailable": false
-        },
-        "pdf": {
-          "isAvailable": false
-        },
-        "webReaderLink": "http://play.google.com/books/reader?id=FcZvzgEACAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
-        "accessViewStatus": "NONE",
-        "quoteSharingAllowed": false
-      },
-      "searchInfo": {
-        "textSnippet": "&quot;Emily is having the time of her lifeshes in the mountains of Chile with her best friend, Kristen, on their annual reunion trip, and the women are feeling closer than ever."
+        "textSnippet": "Based on ancient Toltec wisdom, The Four Agreements offer a powerful code of conduct that can rapidly transform our lives to a new experience of freedom, true happiness, and love. • A New York Times bestseller for over 7 years • Over 5 ..."
       }
     },
     {
       "kind": "books#volume",
-      "id": "IIabzQEACAAJ",
-      "etag": "SPkqI9t/0c4",
-      "selfLink": "https://www.googleapis.com/books/v1/volumes/IIabzQEACAAJ",
+      "id": "tQl0zgEACAAJ",
+      "etag": "A4dw9SUOIWA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/tQl0zgEACAAJ",
       "volumeInfo": {
-        "title": "Money Has No Smell",
-        "subtitle": "The Africanization of New York City",
-        "authors": [
-          "Paul Stoller"
-        ],
-        "publisher": "University of Chicago Press",
-        "publishedDate": "2002-04-15",
-        "description": "In February 1999 the tragic New York City police shooting of Amadou Diallo, an unarmed street vendor from Guinea, brought into focus the existence of West African merchants in urban America. In Money Has No Smell, Paul Stoller offers us a more complete portrait of the complex lives of West African immigrants like Diallo, a portrait based on years of research Stoller conducted on the streets of New York City during the 1990s. Blending fascinating ethnographic description with incisive social analysis, Stoller shows how these savvy West African entrepreneurs have built cohesive and effective multinational trading networks, in part through selling a simulated Africa to African Americans. These and other networks set up by the traders, along with their faith as devout Muslims, help them cope with the formidable state regulations and personal challenges they face in America. As Stoller demonstrates, the stories of these West African traders illustrate and illuminate ongoing debates about globalization, the informal economy, and the changing nature of American communities.",
-        "industryIdentifiers": [
-          {
-            "type": "ISBN_10",
-            "identifier": "0226775305"
-          },
-          {
-            "type": "ISBN_13",
-            "identifier": "9780226775302"
-          }
-        ],
-        "readingModes": {
-          "text": false,
-          "image": false
-        },
-        "pageCount": 234,
-        "printType": "BOOK",
-        "categories": [
-          "Social Science"
-        ],
-        "maturityRating": "NOT_MATURE",
-        "allowAnonLogging": false,
-        "contentVersion": "preview-1.0.0",
-        "panelizationSummary": {
-          "containsEpubBubbles": false,
-          "containsImageBubbles": false
-        },
-        "imageLinks": {
-          "smallThumbnail": "http://books.google.com/books/content?id=IIabzQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-          "thumbnail": "http://books.google.com/books/content?id=IIabzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
-        },
-        "language": "en",
-        "previewLink": "http://books.google.com/books?id=IIabzQEACAAJ&dq=intitle:new+york+city&hl=&as_pt=BOOKS&cd=38&source=gbs_api",
-        "infoLink": "http://books.google.com/books?id=IIabzQEACAAJ&dq=intitle:new+york+city&hl=&as_pt=BOOKS&source=gbs_api",
-        "canonicalVolumeLink": "https://books.google.com/books/about/Money_Has_No_Smell.html?hl=&id=IIabzQEACAAJ"
-      },
-      "saleInfo": {
-        "country": "US",
-        "saleability": "NOT_FOR_SALE",
-        "isEbook": false
-      },
-      "accessInfo": {
-        "country": "US",
-        "viewability": "NO_PAGES",
-        "embeddable": false,
-        "publicDomain": false,
-        "textToSpeechPermission": "ALLOWED",
-        "epub": {
-          "isAvailable": false
-        },
-        "pdf": {
-          "isAvailable": false
-        },
-        "webReaderLink": "http://play.google.com/books/reader?id=IIabzQEACAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
-        "accessViewStatus": "NONE",
-        "quoteSharingAllowed": false
-      },
-      "searchInfo": {
-        "textSnippet": "As Stoller demonstrates, the stories of these West African traders illustrate and illuminate ongoing debates about globalization, the informal economy, and the changing nature of American communities."
-      }
-    },
-    {
-      "kind": "books#volume",
-      "id": "_E2YZwEACAAJ",
-      "etag": "9zQmOsxwFpA",
-      "selfLink": "https://www.googleapis.com/books/v1/volumes/_E2YZwEACAAJ",
-      "volumeInfo": {
-        "title": "Central Park Trees and Landscapes",
-        "subtitle": "A Guide to New York City's Masterpiece",
-        "authors": [
-          "Edward S. Barnard",
-          "Neil Calvanese"
-        ],
-        "publishedDate": "2016-04-17",
-        "description": "The splendor of New York's most famous green space comes alive in this essential companion for nature lovers and travelers to New York. In more than 900 color images, a leading nature writer and a long-time Central Park naturalist detail the park's tree species and their place in the park's iconic landscapes. More than a botanical guide, this book cultivates an appreciation of the park as both a natural triumph and an embodiment of the city's varied spirit.",
-        "industryIdentifiers": [
-          {
-            "type": "ISBN_10",
-            "identifier": "0231152876"
-          },
-          {
-            "type": "ISBN_13",
-            "identifier": "9780231152877"
-          }
-        ],
-        "readingModes": {
-          "text": false,
-          "image": false
-        },
-        "pageCount": 336,
-        "printType": "BOOK",
-        "categories": [
-          "Central Park (New York, N.Y.)"
-        ],
-        "maturityRating": "NOT_MATURE",
-        "allowAnonLogging": false,
-        "contentVersion": "preview-1.0.0",
-        "panelizationSummary": {
-          "containsEpubBubbles": false,
-          "containsImageBubbles": false
-        },
-        "imageLinks": {
-          "smallThumbnail": "http://books.google.com/books/content?id=_E2YZwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-          "thumbnail": "http://books.google.com/books/content?id=_E2YZwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
-        },
-        "language": "en",
-        "previewLink": "http://books.google.com/books?id=_E2YZwEACAAJ&dq=intitle:new+york+city&hl=&as_pt=BOOKS&cd=35&source=gbs_api",
-        "infoLink": "http://books.google.com/books?id=_E2YZwEACAAJ&dq=intitle:new+york+city&hl=&as_pt=BOOKS&source=gbs_api",
-        "canonicalVolumeLink": "https://books.google.com/books/about/Central_Park_Trees_and_Landscapes.html?hl=&id=_E2YZwEACAAJ"
-      },
-      "saleInfo": {
-        "country": "US",
-        "saleability": "NOT_FOR_SALE",
-        "isEbook": false
-      },
-      "accessInfo": {
-        "country": "US",
-        "viewability": "NO_PAGES",
-        "embeddable": false,
-        "publicDomain": false,
-        "textToSpeechPermission": "ALLOWED",
-        "epub": {
-          "isAvailable": false
-        },
-        "pdf": {
-          "isAvailable": false
-        },
-        "webReaderLink": "http://play.google.com/books/reader?id=_E2YZwEACAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
-        "accessViewStatus": "NONE",
-        "quoteSharingAllowed": false
-      },
-      "searchInfo": {
-        "textSnippet": "More than a botanical guide, this book cultivates an appreciation of the park as both a natural triumph and an embodiment of the city&#39;s varied spirit."
-      }
-    },
-    {
-      "kind": "books#volume",
-      "id": "4EA2xwEACAAJ",
-      "etag": "4OUqQxOZspw",
-      "selfLink": "https://www.googleapis.com/books/v1/volumes/4EA2xwEACAAJ",
-      "volumeInfo": {
-        "title": "Dune Messiah",
-        "authors": [
-          "Frank Herbert"
-        ],
-        "publisher": "Berkley Books",
-        "publishedDate": "1975",
-        "description": "For use in schools and libraries only. The sisterhood of the Bene Gesserit plots to seize control of the galaxy-wide empire of their supernatural leader.",
-        "industryIdentifiers": [
-          {
-            "type": "ISBN_10",
-            "identifier": "0425029522"
-          },
-          {
-            "type": "ISBN_13",
-            "identifier": "9780425029527"
-          }
-        ],
-        "readingModes": {
-          "text": false,
-          "image": false
-        },
-        "pageCount": 256,
-        "printType": "BOOK",
-        "categories": [
-          "Dune (Imaginary place)"
-        ],
-        "maturityRating": "NOT_MATURE",
-        "allowAnonLogging": false,
-        "contentVersion": "preview-1.0.0",
-        "panelizationSummary": {
-          "containsEpubBubbles": false,
-          "containsImageBubbles": false
-        },
-        "imageLinks": {
-          "smallThumbnail": "http://books.google.com/books/content?id=8pHqDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-          "thumbnail": "http://books.google.com/books/content?id=8pHqDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-        },
-        "language": "en",
-        "previewLink": "http://books.google.com/books?id=4EA2xwEACAAJ&dq=intitle:messiah+inauthor:herbert&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
-        "infoLink": "http://books.google.com/books?id=4EA2xwEACAAJ&dq=intitle:messiah+inauthor:herbert&hl=&as_pt=BOOKS&source=gbs_api",
-        "canonicalVolumeLink": "https://books.google.com/books/about/Dune_Messiah.html?hl=&id=4EA2xwEACAAJ"
-      },
-      "saleInfo": {
-        "country": "US",
-        "saleability": "NOT_FOR_SALE",
-        "isEbook": false
-      },
-      "accessInfo": {
-        "country": "US",
-        "viewability": "NO_PAGES",
-        "embeddable": false,
-        "publicDomain": false,
-        "textToSpeechPermission": "ALLOWED",
-        "epub": {
-          "isAvailable": false
-        },
-        "pdf": {
-          "isAvailable": false
-        },
-        "webReaderLink": "http://play.google.com/books/reader?id=4EA2xwEACAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
-        "accessViewStatus": "NONE",
-        "quoteSharingAllowed": false
-      },
-      "searchInfo": {
-        "textSnippet": "Paul Atreides, genetically bred and trained to become the leader of his planet, is still subject to human frailties. The second book of the series. Copyright © Libri GmbH. All rights reserved."
-      }
-    },
-    {
-      "kind": "books#volume",
-      "id": "GKVPEAAAQBAJ",
-      "etag": "op7ZXkunKhc",
-      "selfLink": "https://www.googleapis.com/books/v1/volumes/GKVPEAAAQBAJ",
-      "volumeInfo": {
-        "title": "The Midnight Library",
+        "title": "The Family Chao",
         "subtitle": "A Novel",
         "authors": [
-          "Matt Haig"
+          "Lan Samantha Chang"
         ],
-        "publisher": "Penguin",
-        "publishedDate": "2020-09-29",
-        "description": "The #1 New York Times bestselling WORLDWIDE phenomenon Winner of the Goodreads Choice Award for Fiction | A Good Morning America Book Club Pick | Independent (London) Ten Best Books of the Year \"A feel-good book guaranteed to lift your spirits.\"—The Washington Post The dazzling reader-favorite about the choices that go into a life well lived, from the acclaimed author of How To Stop Time and The Comfort Book. Somewhere out beyond the edge of the universe there is a library that contains an infinite number of books, each one the story of another reality. One tells the story of your life as it is, along with another book for the other life you could have lived if you had made a different choice at any point in your life. While we all wonder how our lives might have been, what if you had the chance to go to the library and see for yourself? Would any of these other lives truly be better? In The Midnight Library, Matt Haig's enchanting blockbuster novel, Nora Seed finds herself faced with this decision. Faced with the possibility of changing her life for a new one, following a different career, undoing old breakups, realizing her dreams of becoming a glaciologist; she must search within herself as she travels through the Midnight Library to decide what is truly fulfilling in life, and what makes it worth living in the first place.",
+        "publishedDate": "2022",
+        "description": "An acclaimed storyteller returns with \"a gorgeous and gripping literary mystery\" that explores \"family, betrayal, passion, race, culture and the American Dream\" (Jean Kwok). The residents of Haven, Wisconsin, have dined on the Fine Chao restaurant's delicious Americanized Chinese food for thirty-five years, content to ignore any unsavory whispers about the family owners. Whether or not Big Leo Chao is honest, or his wife, Winnie, is happy, their food tastes good and their three sons earned scholarships to respectable colleges. But when the brothers reunite in Haven, the Chao family's secrets and simmering resentments erupt at last. Before long, brash, charismatic, and tyrannical patriarch Leo is found dead--presumed murdered--and his sons find they've drawn the exacting gaze of the entire town. The ensuing trial brings to light potential motives for all three brothers: Dagou, the restaurant's reckless head chef; Ming, financially successful but personally tortured; and the youngest, gentle but lost college student James. As the spotlight on the brothers tightens--and the family dog meets an unexpected fate--Dagou, Ming, and James must reckon with the legacy of their father's outsized appetites and their own future survival. Brimming with heartbreak, comedy, and suspense, The Family Chao offers a kaleidoscopic, highly entertaining portrait of a Chinese American family grappling with the dark undercurrents of a seemingly pleasant small town.",
         "industryIdentifiers": [
           {
-            "type": "ISBN_13",
-            "identifier": "9780525559474"
+            "type": "ISBN_10",
+            "identifier": "0393868079"
           },
           {
-            "type": "ISBN_10",
-            "identifier": "0525559477"
-          }
-        ],
-        "readingModes": {
-          "text": true,
-          "image": false
-        },
-        "pageCount": 304,
-        "printType": "BOOK",
-        "categories": [
-          "Fiction"
-        ],
-        "averageRating": 4,
-        "ratingsCount": 105,
-        "maturityRating": "NOT_MATURE",
-        "allowAnonLogging": false,
-        "contentVersion": "preview-1.0.0",
-        "panelizationSummary": {
-          "containsEpubBubbles": false,
-          "containsImageBubbles": false
-        },
-        "imageLinks": {
-          "smallThumbnail": "http://books.google.com/books/content?id=GKVPEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-          "thumbnail": "http://books.google.com/books/content?id=GKVPEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
-        },
-        "language": "en",
-        "previewLink": "http://books.google.com/books?id=GKVPEAAAQBAJ&dq=isbn:0525559477&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
-        "infoLink": "http://books.google.com/books?id=GKVPEAAAQBAJ&dq=isbn:0525559477&hl=&as_pt=BOOKS&source=gbs_api",
-        "canonicalVolumeLink": "https://books.google.com/books/about/The_Midnight_Library.html?hl=&id=GKVPEAAAQBAJ"
-      },
-      "saleInfo": {
-        "country": "US",
-        "saleability": "NOT_FOR_SALE",
-        "isEbook": false
-      },
-      "accessInfo": {
-        "country": "US",
-        "viewability": "NO_PAGES",
-        "embeddable": false,
-        "publicDomain": false,
-        "textToSpeechPermission": "ALLOWED",
-        "epub": {
-          "isAvailable": false
-        },
-        "pdf": {
-          "isAvailable": false
-        },
-        "webReaderLink": "http://play.google.com/books/reader?id=GKVPEAAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
-        "accessViewStatus": "NONE",
-        "quoteSharingAllowed": false
-      },
-      "searchInfo": {
-        "textSnippet": "One tells the story of your life as it is, along with another book for the other life you could have lived if you had made a different choice at any point in your life."
-      }
-    },
-    {
-      "kind": "books#volume",
-      "id": "ZKVPEAAAQBAJ",
-      "etag": "QC/LvjDPCXk",
-      "selfLink": "https://www.googleapis.com/books/v1/volumes/ZKVPEAAAQBAJ",
-      "volumeInfo": {
-        "title": "The Books of Jacob",
-        "subtitle": "A Novel",
-        "authors": [
-          "Olga Tokarczuk"
-        ],
-        "publisher": "Penguin",
-        "publishedDate": "2022-02-01",
-        "description": "The Nobel Prize–winner’s richest, most sweeping and ambitious novel yet follows the comet-like rise and fall of a mysterious, messianic religious leader as he blazes his way across eighteenth-century Europe. In the mid-eighteenth century, as new ideas—and a new unrest—begin to sweep the Continent, a young Jew of mysterious origins arrives in a village in Poland. Before long, he has changed not only his name but his persona; visited by what seem to be ecstatic experiences, Jacob Frank casts a charismatic spell that attracts an increasingly fervent following. In the decade to come, Frank will traverse the Hapsburg and Ottoman empires with throngs of disciples in his thrall as he reinvents himself again and again, converts to Islam and then Catholicism, is pilloried as a heretic and revered as the Messiah, and wreaks havoc on the conventional order, Jewish and Christian alike, with scandalous rumors of his sect’s secret rituals and the spread of his increasingly iconoclastic beliefs. The story of Frank—a real historical figure around whom mystery and controversy swirl to this day—is the perfect canvas for the genius and unparalleled reach of Olga Tokarczuk. Narrated through the perspectives of his contemporaries—those who revere him, those who revile him, the friend who betrays him, the lone woman who sees him for what he is—The Books of Jacob captures a world on the cusp of precipitous change, searching for certainty and longing for transcendence. In a nod to books written in Hebrew, The Books of Jacob is paginated in reverse, beginning on p. 955 and ending on p. 1 – but read traditionally, front cover to back.",
-        "industryIdentifiers": [
-          {
             "type": "ISBN_13",
-            "identifier": "9780593087480"
-          },
-          {
-            "type": "ISBN_10",
-            "identifier": "0593087488"
+            "identifier": "9780393868074"
           }
         ],
         "readingModes": {
           "text": false,
           "image": false
         },
-        "pageCount": 992,
-        "printType": "BOOK",
-        "categories": [
-          "Fiction"
-        ],
-        "maturityRating": "NOT_MATURE",
-        "allowAnonLogging": false,
-        "contentVersion": "1.1.1.0.preview.0",
-        "panelizationSummary": {
-          "containsEpubBubbles": false,
-          "containsImageBubbles": false
-        },
-        "imageLinks": {
-          "smallThumbnail": "http://books.google.com/books/content?id=ZKVPEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-          "thumbnail": "http://books.google.com/books/content?id=ZKVPEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-        },
-        "language": "en",
-        "previewLink": "http://books.google.com/books?id=ZKVPEAAAQBAJ&printsec=frontcover&dq=isbn:0593087488&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
-        "infoLink": "http://books.google.com/books?id=ZKVPEAAAQBAJ&dq=isbn:0593087488&hl=&as_pt=BOOKS&source=gbs_api",
-        "canonicalVolumeLink": "https://books.google.com/books/about/The_Books_of_Jacob.html?hl=&id=ZKVPEAAAQBAJ"
-      },
-      "saleInfo": {
-        "country": "US",
-        "saleability": "NOT_FOR_SALE",
-        "isEbook": false
-      },
-      "accessInfo": {
-        "country": "US",
-        "viewability": "PARTIAL",
-        "embeddable": true,
-        "publicDomain": false,
-        "textToSpeechPermission": "ALLOWED",
-        "epub": {
-          "isAvailable": false
-        },
-        "pdf": {
-          "isAvailable": false
-        },
-        "webReaderLink": "http://play.google.com/books/reader?id=ZKVPEAAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
-        "accessViewStatus": "SAMPLE",
-        "quoteSharingAllowed": false
-      },
-      "searchInfo": {
-        "textSnippet": "The comedy in this novel blends, as it does in life, with genuine tragedy.” –Dwight Garner, The New York Times The Nobel Prize–winner’s richest, most sweeping and ambitious novel yet follows the comet-like rise and fall of a ..."
-      }
-    },
-    {
-      "kind": "books#volume",
-      "id": "ERQ2zgEACAAJ",
-      "etag": "joXRBD9S4XQ",
-      "selfLink": "https://www.googleapis.com/books/v1/volumes/ERQ2zgEACAAJ",
-      "volumeInfo": {
-        "title": "Recitatif",
-        "subtitle": "A Story",
-        "authors": [
-          "Toni Morrison"
-        ],
-        "publisher": "Knopf",
-        "publishedDate": "2022-02",
-        "description": "A beautiful, arresting story about race and the relationships that shape us through life by the legendary Toni Morrison, in a stand-alone Knopf hardcover for the first time, with an introduction by Zadie Smith. In this 1983 short story--the only short story Morrison ever wrote--we meet Twyla and Roberta, who have known each other since they were eight years old and spent four months together as roommates in St. Bonaventure shelter. Inseparable then, they lose touch as they grow older, only later to find each other again at a diner, a grocery store, and again at a protest. Seemingly at opposite ends of every problem, and at each other's throats each time they meet, the two women still cannot deny the deep bond their shared experience has forged between them. Another work of genius by this masterly writer, Recitatif keeps Twyla's and Roberta's races ambiguous throughout the story. Morrison herself described Recitatif, a story which will keep readers thinking and discussing for years to come, as \"an experiment in the removal of all racial codes from a narrative about two characters of different races for whom racial identity is crucial.\" We know that one is white and one is Black, but which is which? And who is right about the race of the woman the girls tormented at the orphanage? A remarkable look into what keeps us together and what keeps us apart, and how perceptions are made tangible by reality, Recitatif is a gift to readers in these changing times.",
-        "industryIdentifiers": [
-          {
-            "type": "ISBN_10",
-            "identifier": "0593315030"
-          },
-          {
-            "type": "ISBN_13",
-            "identifier": "9780593315033"
-          }
-        ],
-        "readingModes": {
-          "text": false,
-          "image": false
-        },
-        "pageCount": 64,
+        "pageCount": 320,
         "printType": "BOOK",
         "categories": [
           "Fiction"
@@ -87827,13 +86843,13 @@
           "containsImageBubbles": false
         },
         "imageLinks": {
-          "smallThumbnail": "http://books.google.com/books/content?id=ERQ2zgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-          "thumbnail": "http://books.google.com/books/content?id=ERQ2zgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          "smallThumbnail": "http://books.google.com/books/content?id=tQl0zgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=tQl0zgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
         },
         "language": "en",
-        "previewLink": "http://books.google.com/books?id=ERQ2zgEACAAJ&dq=isbn:0593315030&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
-        "infoLink": "http://books.google.com/books?id=ERQ2zgEACAAJ&dq=isbn:0593315030&hl=&as_pt=BOOKS&source=gbs_api",
-        "canonicalVolumeLink": "https://books.google.com/books/about/Recitatif.html?hl=&id=ERQ2zgEACAAJ"
+        "previewLink": "http://books.google.com/books?id=tQl0zgEACAAJ&dq=intitle:the+family+chao&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=tQl0zgEACAAJ&dq=intitle:the+family+chao&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Family_Chao.html?hl=&id=tQl0zgEACAAJ"
       },
       "saleInfo": {
         "country": "US",
@@ -87852,564 +86868,49 @@
         "pdf": {
           "isAvailable": false
         },
-        "webReaderLink": "http://play.google.com/books/reader?id=ERQ2zgEACAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "webReaderLink": "http://play.google.com/books/reader?id=tQl0zgEACAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
         "accessViewStatus": "NONE",
         "quoteSharingAllowed": false
       },
       "searchInfo": {
-        "textSnippet": "&quot; --Zadie Smith, award-winning, best-selling author of White Teeth In this 1983 short story--the only short story Morrison ever wrote--we meet Twyla and Roberta, who have known each other since they were eight years old and spent four ..."
+        "textSnippet": "One of Literary Hub&#39;s and The Millions&#39; Most Anticipated Books of 2022 A Goodreads Readers&#39; Most Anticipated Mystery of 2022 An acclaimed storyteller returns with &quot;a gorgeous and gripping literary mystery&quot; that explores &quot;family, betrayal, ..."
       }
     },
     {
       "kind": "books#volume",
-      "id": "jAetDwAAQBAJ",
-      "etag": "j3PWF+ww3T4",
-      "selfLink": "https://www.googleapis.com/books/v1/volumes/jAetDwAAQBAJ",
+      "id": "dX3HDwAAQBAJ",
+      "etag": "B4B6+J5LkOU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/dX3HDwAAQBAJ",
       "volumeInfo": {
-        "title": "The Communist Manifesto",
+        "title": "Bad Blood",
+        "subtitle": "Secrets and Lies in a Silicon Valley Startup",
         "authors": [
-          "Karl Marx",
-          "Friedrich Engels"
+          "John Carreyrou"
         ],
         "publisher": "Vintage",
-        "publishedDate": "2019-08-06",
-        "description": "The Communist Manifesto was first published in London in 1848 by two young men in their twenties, Karl Marx and Friedrich Engels, and its impact reverberated across the globe and through the next century. Foreshadowing globalization 150 years before it happened, the Manifesto brims with prescient insights into the crisis facing capitalism today. It is an essential read for anyone seeking to understand the modern political landscape. This edition includes a new introduction by the bestselling author of And the Weak Suffer What They Must? and Talking to My Daughter About the Economy, Yanis Varoufakis.",
+        "publishedDate": "2020-01-28",
+        "description": "The Financial Times & McKinsey Business Book of the Year A New York Times Notable Book A Washington Post Notable Book One of the Best Books of the Year: NPR, San Francisco Chronicle, Time, Esquire, Fortune, Marie Claire, GQ, Mental Floss, Science Friday, Bloomberg, Popular Mechanics, BookRiot, The Seattle Times, The Oregonian, Publishers Weekly, Library Journal In 2014, Theranos founder and CEO Elizabeth Holmes was widely seen as the next Steve Jobs: a brilliant Stanford dropout whose startup \"unicorn\" promised to revolutionize the medical industry with its breakthrough device, which performed the whole range of laboratory tests from a single drop of blood. Backed by investors such as Larry Ellison and Tim Draper, Theranos sold shares in a fundraising round that valued the company at more than $9 billion, putting Holmes's worth at an estimated $4.5 billion. There was just one problem: The technology didn't work. Erroneous results put patients in danger, leading to misdiagnoses and unnecessary treatments. All the while, Holmes and her partner, Sunny Balwani, worked to silence anyone who voiced misgivings--from journalists to their own employees. Rigorously reported and fearlessly written, Bad Blood is a gripping story of the biggest corporate fraud since Enron--a tale of ambition and hubris set amid the bold promises of Silicon Valley.",
         "industryIdentifiers": [
           {
             "type": "ISBN_13",
-            "identifier": "9780525566724"
+            "identifier": "9780525431992"
           },
           {
             "type": "ISBN_10",
-            "identifier": "0525566724"
+            "identifier": "0525431993"
           }
         ],
         "readingModes": {
           "text": false,
           "image": false
         },
-        "pageCount": 128,
+        "pageCount": 368,
         "printType": "BOOK",
         "categories": [
-          "Philosophy"
+          "Business & Economics"
         ],
-        "maturityRating": "NOT_MATURE",
-        "allowAnonLogging": false,
-        "contentVersion": "preview-1.0.0",
-        "panelizationSummary": {
-          "containsEpubBubbles": false,
-          "containsImageBubbles": false
-        },
-        "imageLinks": {
-          "smallThumbnail": "http://books.google.com/books/content?id=aUf1DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-          "thumbnail": "http://books.google.com/books/content?id=aUf1DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-        },
-        "language": "en",
-        "previewLink": "http://books.google.com/books?id=jAetDwAAQBAJ&printsec=frontcover&dq=intitle:communist&hl=&as_pt=BOOKS&cd=2&source=gbs_api",
-        "infoLink": "http://books.google.com/books?id=jAetDwAAQBAJ&dq=intitle:communist&hl=&as_pt=BOOKS&source=gbs_api",
-        "canonicalVolumeLink": "https://books.google.com/books/about/The_Communist_Manifesto.html?hl=&id=jAetDwAAQBAJ"
-      },
-      "saleInfo": {
-        "country": "US",
-        "saleability": "NOT_FOR_SALE",
-        "isEbook": false
-      },
-      "accessInfo": {
-        "country": "US",
-        "viewability": "PARTIAL",
-        "embeddable": true,
-        "publicDomain": false,
-        "textToSpeechPermission": "ALLOWED",
-        "epub": {
-          "isAvailable": false
-        },
-        "pdf": {
-          "isAvailable": false
-        },
-        "webReaderLink": "http://play.google.com/books/reader?id=jAetDwAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
-        "accessViewStatus": "SAMPLE",
-        "quoteSharingAllowed": false
-      },
-      "searchInfo": {
-        "textSnippet": "This edition includes a new introduction by the bestselling author of And the Weak Suffer What They Must? and Talking to My Daughter About the Economy, Yanis Varoufakis."
-      }
-    },
-    {
-      "kind": "books#volume",
-      "id": "udcwDgAAQBAJ",
-      "etag": "ySb+FL8Ci0c",
-      "selfLink": "https://www.googleapis.com/books/v1/volumes/udcwDgAAQBAJ",
-      "volumeInfo": {
-        "title": "The Odyssey",
-        "authors": [
-          "Homer",
-          "George Herbert Palmer"
-        ],
-        "publisher": "Courier Corporation",
-        "publishedDate": "1998-12-23",
-        "description": "Excellent prose translation of the ancient epic poem recounts the adventures of Odysseus on his homeward voyage from the Trojan War. The clever hero circumvents the wrath of Poseidon to overcome an incredible array of obstacles, including a fantastic cast of adversaries — Cyclops, the one-eyed giant; the enchantress Circe; plus cannibals, sirens, and many other monstrous creatures. A selection of the Common Core State Standards Initiative.",
-        "industryIdentifiers": [
-          {
-            "type": "ISBN_13",
-            "identifier": "9780486406541"
-          },
-          {
-            "type": "ISBN_10",
-            "identifier": "0486406547"
-          }
-        ],
-        "readingModes": {
-          "text": false,
-          "image": true
-        },
-        "pageCount": 239,
-        "printType": "BOOK",
-        "categories": [
-          "Poetry"
-        ],
-        "averageRating": 4.5,
-        "ratingsCount": 7,
-        "maturityRating": "NOT_MATURE",
-        "allowAnonLogging": true,
-        "contentVersion": "0.3.0.0.preview.1",
-        "panelizationSummary": {
-          "containsEpubBubbles": false,
-          "containsImageBubbles": false
-        },
-        "imageLinks": {
-          "smallThumbnail": "http://books.google.com/books/content?id=udcwDgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-          "thumbnail": "http://books.google.com/books/content?id=udcwDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-        },
-        "language": "en",
-        "previewLink": "http://books.google.com/books?id=udcwDgAAQBAJ&printsec=frontcover&dq=intitle:the+odyssey&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
-        "infoLink": "http://books.google.com/books?id=udcwDgAAQBAJ&dq=intitle:the+odyssey&hl=&as_pt=BOOKS&source=gbs_api",
-        "canonicalVolumeLink": "https://books.google.com/books/about/The_Odyssey.html?hl=&id=udcwDgAAQBAJ"
-      },
-      "saleInfo": {
-        "country": "US",
-        "saleability": "NOT_FOR_SALE",
-        "isEbook": false
-      },
-      "accessInfo": {
-        "country": "US",
-        "viewability": "PARTIAL",
-        "embeddable": true,
-        "publicDomain": false,
-        "textToSpeechPermission": "ALLOWED",
-        "epub": {
-          "isAvailable": false
-        },
-        "pdf": {
-          "isAvailable": false
-        },
-        "webReaderLink": "http://play.google.com/books/reader?id=udcwDgAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
-        "accessViewStatus": "SAMPLE",
-        "quoteSharingAllowed": false
-      },
-      "searchInfo": {
-        "textSnippet": "Excellent prose translation of the ancient epic poem recounts the adventures of Odysseus on his homeward voyage from the Trojan War."
-      }
-    },
-    {
-      "kind": "books#volume",
-      "id": "IpLqDwAAQBAJ",
-      "etag": "6ugDTsbyQD0",
-      "selfLink": "https://www.googleapis.com/books/v1/volumes/IpLqDwAAQBAJ",
-      "volumeInfo": {
-        "title": "Children of Dune",
-        "authors": [
-          "Frank Herbert"
-        ],
-        "publisher": "Ace",
-        "publishedDate": "2020-07-07",
-        "description": "Book Three in the Magnificent Dune Chronicles--the Bestselling Science Fiction Adventure of All Time The Children of Dune are twin siblings Leto and Ghanima Atreides, whose father, the Emperor Paul Muad'Dib, disappeared in the desert wastelands of Arrakis nine years ago. Like their father, the twins possess supernormal abilities--making them valuable to their manipulative aunt Alia, who rules the Empire in the name of House Atreides. Facing treason and rebellion on two fronts, Alia's rule is not absolute. The displaced House Corrino is plotting to regain the throne while the fanatical Fremen are being provoked into open revolt by the enigmatic figure known only as The Preacher. Alia believes that by obtaining the secrets of the twins' prophetic visions, she can maintain control over her dynasty. But Leto and Ghanima have their own plans for their visions--and their destinies....",
-        "industryIdentifiers": [
-          {
-            "type": "ISBN_13",
-            "identifier": "9780593201749"
-          },
-          {
-            "type": "ISBN_10",
-            "identifier": "0593201744"
-          }
-        ],
-        "readingModes": {
-          "text": false,
-          "image": false
-        },
-        "pageCount": 496,
-        "printType": "BOOK",
-        "categories": [
-          "Fiction"
-        ],
-        "averageRating": 3.5,
-        "ratingsCount": 33,
-        "maturityRating": "NOT_MATURE",
-        "allowAnonLogging": false,
-        "contentVersion": "preview-1.0.0",
-        "panelizationSummary": {
-          "containsEpubBubbles": false,
-          "containsImageBubbles": false
-        },
-        "imageLinks": {
-          "smallThumbnail": "http://books.google.com/books/content?id=IpLqDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-          "thumbnail": "http://books.google.com/books/content?id=IpLqDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-        },
-        "language": "en",
-        "previewLink": "http://books.google.com/books?id=IpLqDwAAQBAJ&printsec=frontcover&dq=intitle:children+inauthor:herbert&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
-        "infoLink": "http://books.google.com/books?id=IpLqDwAAQBAJ&dq=intitle:children+inauthor:herbert&hl=&as_pt=BOOKS&source=gbs_api",
-        "canonicalVolumeLink": "https://books.google.com/books/about/Children_of_Dune.html?hl=&id=IpLqDwAAQBAJ"
-      },
-      "saleInfo": {
-        "country": "US",
-        "saleability": "NOT_FOR_SALE",
-        "isEbook": false
-      },
-      "accessInfo": {
-        "country": "US",
-        "viewability": "PARTIAL",
-        "embeddable": true,
-        "publicDomain": false,
-        "textToSpeechPermission": "ALLOWED",
-        "epub": {
-          "isAvailable": false
-        },
-        "pdf": {
-          "isAvailable": false
-        },
-        "webReaderLink": "http://play.google.com/books/reader?id=IpLqDwAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
-        "accessViewStatus": "SAMPLE",
-        "quoteSharingAllowed": false
-      },
-      "searchInfo": {
-        "textSnippet": "Book Three in the Magnificent Dune Chronicles--the Bestselling Science Fiction Adventure of All Time The Children of Dune are twin siblings Leto and Ghanima Atreides, whose father, the Emperor Paul Muad&#39;Dib, disappeared in the desert ..."
-      }
-    },
-    {
-      "kind": "books#volume",
-      "id": "BpLqDwAAQBAJ",
-      "etag": "fzW8ywfRnvw",
-      "selfLink": "https://www.googleapis.com/books/v1/volumes/BpLqDwAAQBAJ",
-      "volumeInfo": {
-        "title": "God Emperor of Dune",
-        "authors": [
-          "Frank Herbert"
-        ],
-        "publisher": "Ace",
-        "publishedDate": "2020-07-07",
-        "description": "Book Four in the Magnificent Dune Chronicles--the Bestselling Science Fiction Adventure of All Time Millennia have passed on Arrakis, and the once-desert planet is green with life. Leto Atreides, the son of the world's savior, the Emperor Paul Muad'Dib, is still alive but far from human. To preserve humanity's future, he sacrificed his own by merging with a sandworm, granting him near immortality as God Emperor of Dune for the past thirty-five hundred years. Leto's rule is not a benevolent one. His transformation has made not only his appearance but his morality inhuman. A rebellion, led by Siona, a member of the Atreides family, has risen to oppose the despot's rule. But Siona is unaware that Leto's vision of a Golden Path for humanity requires her to fulfill a destiny she never wanted--or could possibly conceive....",
-        "industryIdentifiers": [
-          {
-            "type": "ISBN_13",
-            "identifier": "9780593201756"
-          },
-          {
-            "type": "ISBN_10",
-            "identifier": "0593201752"
-          }
-        ],
-        "readingModes": {
-          "text": false,
-          "image": false
-        },
-        "pageCount": 496,
-        "printType": "BOOK",
-        "categories": [
-          "Fiction"
-        ],
-        "maturityRating": "NOT_MATURE",
-        "allowAnonLogging": false,
-        "contentVersion": "preview-1.0.0",
-        "panelizationSummary": {
-          "containsEpubBubbles": false,
-          "containsImageBubbles": false
-        },
-        "imageLinks": {
-          "smallThumbnail": "http://books.google.com/books/content?id=BpLqDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-          "thumbnail": "http://books.google.com/books/content?id=BpLqDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-        },
-        "language": "en",
-        "previewLink": "http://books.google.com/books?id=BpLqDwAAQBAJ&printsec=frontcover&dq=intitle:god+inauthor:herbert&hl=&as_pt=BOOKS&cd=2&source=gbs_api",
-        "infoLink": "http://books.google.com/books?id=BpLqDwAAQBAJ&dq=intitle:god+inauthor:herbert&hl=&as_pt=BOOKS&source=gbs_api",
-        "canonicalVolumeLink": "https://books.google.com/books/about/God_Emperor_of_Dune.html?hl=&id=BpLqDwAAQBAJ"
-      },
-      "saleInfo": {
-        "country": "US",
-        "saleability": "NOT_FOR_SALE",
-        "isEbook": false
-      },
-      "accessInfo": {
-        "country": "US",
-        "viewability": "PARTIAL",
-        "embeddable": true,
-        "publicDomain": false,
-        "textToSpeechPermission": "ALLOWED",
-        "epub": {
-          "isAvailable": false
-        },
-        "pdf": {
-          "isAvailable": false
-        },
-        "webReaderLink": "http://play.google.com/books/reader?id=BpLqDwAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
-        "accessViewStatus": "SAMPLE",
-        "quoteSharingAllowed": false
-      },
-      "searchInfo": {
-        "textSnippet": "To preserve humanity&#39;s future, he sacrificed his own by merging with a sandworm, granting him near immortality as God Emperor of Dune for the past thirty-five hundred years. Leto&#39;s rule is not a benevolent one."
-      }
-    },
-    {
-      "kind": "books#volume",
-      "id": "DJLqDwAAQBAJ",
-      "etag": "B1sT5rcIZHU",
-      "selfLink": "https://www.googleapis.com/books/v1/volumes/DJLqDwAAQBAJ",
-      "volumeInfo": {
-        "title": "Heretics of Dune",
-        "authors": [
-          "Frank Herbert"
-        ],
-        "publisher": "Ace",
-        "publishedDate": "2020-07-07",
-        "description": "Book Five in the Magnificent Dune Chronicles--the Bestselling Science Fiction Adventure of All Time Leto Atreides, the God Emperor of Dune, is dead. In the fifteen hundred years since his passing, the Empire has fallen into ruin. The great Scattering saw millions abandon the crumbling civilization and spread out beyond the reaches of known space. The planet Arrakis--now called Rakis--has reverted to its desert climate, and its great sandworms are dying. Now the Lost Ones are returning home in pursuit of power. And as these factions vie for control over the remnants of the Empire, a girl named Sheeana rises to prominence in the wastelands of Rakis, sending religious fervor throughout the galaxy. For she possesses the abilities of the Fremen sandriders--fulfilling a prophecy foretold by the late God Emperor....",
-        "industryIdentifiers": [
-          {
-            "type": "ISBN_13",
-            "identifier": "9780593201763"
-          },
-          {
-            "type": "ISBN_10",
-            "identifier": "0593201760"
-          }
-        ],
-        "readingModes": {
-          "text": false,
-          "image": false
-        },
-        "pageCount": 560,
-        "printType": "BOOK",
-        "categories": [
-          "Fiction"
-        ],
-        "maturityRating": "NOT_MATURE",
-        "allowAnonLogging": false,
-        "contentVersion": "preview-1.0.0",
-        "panelizationSummary": {
-          "containsEpubBubbles": false,
-          "containsImageBubbles": false
-        },
-        "imageLinks": {
-          "smallThumbnail": "http://books.google.com/books/content?id=DJLqDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-          "thumbnail": "http://books.google.com/books/content?id=DJLqDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-        },
-        "language": "en",
-        "previewLink": "http://books.google.com/books?id=DJLqDwAAQBAJ&printsec=frontcover&dq=intitle:heretics+inauthor:herbert&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
-        "infoLink": "http://books.google.com/books?id=DJLqDwAAQBAJ&dq=intitle:heretics+inauthor:herbert&hl=&as_pt=BOOKS&source=gbs_api",
-        "canonicalVolumeLink": "https://books.google.com/books/about/Heretics_of_Dune.html?hl=&id=DJLqDwAAQBAJ"
-      },
-      "saleInfo": {
-        "country": "US",
-        "saleability": "NOT_FOR_SALE",
-        "isEbook": false
-      },
-      "accessInfo": {
-        "country": "US",
-        "viewability": "PARTIAL",
-        "embeddable": true,
-        "publicDomain": false,
-        "textToSpeechPermission": "ALLOWED",
-        "epub": {
-          "isAvailable": false
-        },
-        "pdf": {
-          "isAvailable": false
-        },
-        "webReaderLink": "http://play.google.com/books/reader?id=DJLqDwAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
-        "accessViewStatus": "SAMPLE",
-        "quoteSharingAllowed": false
-      },
-      "searchInfo": {
-        "textSnippet": "Book Five in the Magnificent Dune Chronicles--the Bestselling Science Fiction Adventure of All Time Leto Atreides, the God Emperor of Dune, is dead."
-      }
-    },
-    {
-      "kind": "books#volume",
-      "id": "ypLqDwAAQBAJ",
-      "etag": "6z6yI54mQOU",
-      "selfLink": "https://www.googleapis.com/books/v1/volumes/ypLqDwAAQBAJ",
-      "volumeInfo": {
-        "title": "Chapterhouse: Dune",
-        "authors": [
-          "Frank Herbert"
-        ],
-        "publisher": "Ace",
-        "publishedDate": "2020-07-07",
-        "description": "Fifteen thousand years after Leto II's death, the remnants of the Bene Gesserit contend with the ruthless leaders of an alien culture to forge a new civilization and preserve the best of the Old Empire.",
-        "industryIdentifiers": [
-          {
-            "type": "ISBN_13",
-            "identifier": "9780593201770"
-          },
-          {
-            "type": "ISBN_10",
-            "identifier": "0593201779"
-          }
-        ],
-        "readingModes": {
-          "text": false,
-          "image": false
-        },
-        "pageCount": 512,
-        "printType": "BOOK",
-        "categories": [
-          "Fiction"
-        ],
-        "maturityRating": "NOT_MATURE",
-        "allowAnonLogging": false,
-        "contentVersion": "preview-1.0.0",
-        "panelizationSummary": {
-          "containsEpubBubbles": false,
-          "containsImageBubbles": false
-        },
-        "imageLinks": {
-          "smallThumbnail": "http://books.google.com/books/content?id=ypLqDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-          "thumbnail": "http://books.google.com/books/content?id=ypLqDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-        },
-        "language": "en",
-        "previewLink": "http://books.google.com/books?id=ypLqDwAAQBAJ&printsec=frontcover&dq=intitle:chapterhouse+inauthor:herbert&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
-        "infoLink": "http://books.google.com/books?id=ypLqDwAAQBAJ&dq=intitle:chapterhouse+inauthor:herbert&hl=&as_pt=BOOKS&source=gbs_api",
-        "canonicalVolumeLink": "https://books.google.com/books/about/Chapterhouse_Dune.html?hl=&id=ypLqDwAAQBAJ"
-      },
-      "saleInfo": {
-        "country": "US",
-        "saleability": "NOT_FOR_SALE",
-        "isEbook": false
-      },
-      "accessInfo": {
-        "country": "US",
-        "viewability": "PARTIAL",
-        "embeddable": true,
-        "publicDomain": false,
-        "textToSpeechPermission": "ALLOWED",
-        "epub": {
-          "isAvailable": false
-        },
-        "pdf": {
-          "isAvailable": false
-        },
-        "webReaderLink": "http://play.google.com/books/reader?id=ypLqDwAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
-        "accessViewStatus": "SAMPLE",
-        "quoteSharingAllowed": false
-      },
-      "searchInfo": {
-        "textSnippet": "Fifteen thousand years after Leto II&#39;s death, the remnants of the Bene Gesserit contend with the ruthless leaders of an alien culture to forge a new civilization and preserve the best of the Old Empire."
-      }
-    },
-    {
-      "kind": "books#volume",
-      "id": "hLNduHheg7QC",
-      "etag": "K7xJi3ALu08",
-      "selfLink": "https://www.googleapis.com/books/v1/volumes/hLNduHheg7QC",
-      "volumeInfo": {
-        "title": "The Compleated Autobiography of Benjamin Franklin",
-        "authors": [
-          "Mark Skousen",
-          "Benjamin Franklin"
-        ],
-        "publisher": "Regnery Publishing",
-        "publishedDate": "2005-11-01",
-        "description": "A lifelong scholar of Benjamin Franklin's life completes the unfinished \"Autobiography\" with information on Franklin's attitudes about such topics as the Constitutional Convention, slavery, and Thomas Jefferson.",
-        "industryIdentifiers": [
-          {
-            "type": "ISBN_13",
-            "identifier": "9780895260338"
-          },
-          {
-            "type": "ISBN_10",
-            "identifier": "0895260336"
-          }
-        ],
-        "readingModes": {
-          "text": false,
-          "image": true
-        },
-        "pageCount": 256,
-        "printType": "BOOK",
-        "categories": [
-          "Biography & Autobiography"
-        ],
-        "maturityRating": "NOT_MATURE",
-        "allowAnonLogging": false,
-        "contentVersion": "preview-1.0.0",
-        "panelizationSummary": {
-          "containsEpubBubbles": false,
-          "containsImageBubbles": false
-        },
-        "imageLinks": {
-          "smallThumbnail": "http://books.google.com/books/content?id=hLNduHheg7QC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-          "thumbnail": "http://books.google.com/books/content?id=hLNduHheg7QC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-        },
-        "language": "en",
-        "previewLink": "http://books.google.com/books?id=hLNduHheg7QC&printsec=frontcover&dq=inauthor:benjamin+franklin&hl=&as_pt=BOOKS&cd=3&source=gbs_api",
-        "infoLink": "http://books.google.com/books?id=hLNduHheg7QC&dq=inauthor:benjamin+franklin&hl=&as_pt=BOOKS&source=gbs_api",
-        "canonicalVolumeLink": "https://books.google.com/books/about/The_Compleated_Autobiography_of_Benjamin.html?hl=&id=hLNduHheg7QC"
-      },
-      "saleInfo": {
-        "country": "US",
-        "saleability": "NOT_FOR_SALE",
-        "isEbook": false
-      },
-      "accessInfo": {
-        "country": "US",
-        "viewability": "PARTIAL",
-        "embeddable": true,
-        "publicDomain": false,
-        "textToSpeechPermission": "ALLOWED",
-        "epub": {
-          "isAvailable": false
-        },
-        "pdf": {
-          "isAvailable": true,
-          "acsTokenLink": "http://books.google.com/books/download/The_Compleated_Autobiography_of_Benjamin-sample-pdf.acsm?id=hLNduHheg7QC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
-        },
-        "webReaderLink": "http://play.google.com/books/reader?id=hLNduHheg7QC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
-        "accessViewStatus": "SAMPLE",
-        "quoteSharingAllowed": false
-      },
-      "searchInfo": {
-        "textSnippet": "A lifelong scholar of Benjamin Franklin&#39;s life completes the unfinished &quot;Autobiography&quot; with information on Franklin&#39;s attitudes about such topics as the Constitutional Convention, slavery, and Thomas Jefferson."
-      }
-    },
-    {
-      "kind": "books#volume",
-      "id": "B4d1swEACAAJ",
-      "etag": "Yx235uMiXSE",
-      "selfLink": "https://www.googleapis.com/books/v1/volumes/B4d1swEACAAJ",
-      "volumeInfo": {
-        "title": "Watership Down",
-        "authors": [
-          "Richard Adams"
-        ],
-        "publisher": "Puffin",
-        "publishedDate": "2018-11-29",
-        "description": "Fiver could sense danger. Something terrible was going to happen to the warren - he felt sure of it. So did his brother Hazel, for Fiver's sixth sense was never wrong. They had to leave immediately, and they had to persuade the other rabbits to join them. And so begins a long and perilous journey of a small band of rabbits in search of a safe home. Fiver's vision finally leads them to Watership Down, but here they face their most difficult challenge of all... Watership Down is an epic journey, a stirring tale of adventure, courage and survival against the odds.",
-        "industryIdentifiers": [
-          {
-            "type": "ISBN_10",
-            "identifier": "0141378948"
-          },
-          {
-            "type": "ISBN_13",
-            "identifier": "9780141378947"
-          }
-        ],
-        "readingModes": {
-          "text": false,
-          "image": false
-        },
-        "pageCount": 656,
-        "printType": "BOOK",
         "averageRating": 4,
-        "ratingsCount": 240,
+        "ratingsCount": 62,
         "maturityRating": "NOT_MATURE",
         "allowAnonLogging": false,
         "contentVersion": "preview-1.0.0",
@@ -88418,13 +86919,13 @@
           "containsImageBubbles": false
         },
         "imageLinks": {
-          "smallThumbnail": "http://books.google.com/books/content?id=B4d1swEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-          "thumbnail": "http://books.google.com/books/content?id=B4d1swEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          "smallThumbnail": "http://books.google.com/books/content?id=dX3HDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=dX3HDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
         },
         "language": "en",
-        "previewLink": "http://books.google.com/books?id=B4d1swEACAAJ&dq=intitle:Watership+down&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
-        "infoLink": "http://books.google.com/books?id=B4d1swEACAAJ&dq=intitle:Watership+down&hl=&as_pt=BOOKS&source=gbs_api",
-        "canonicalVolumeLink": "https://books.google.com/books/about/Watership_Down.html?hl=&id=B4d1swEACAAJ"
+        "previewLink": "http://books.google.com/books?id=dX3HDwAAQBAJ&printsec=frontcover&dq=intitle:bad+blood&hl=&as_pt=BOOKS&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=dX3HDwAAQBAJ&dq=intitle:bad+blood&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Bad_Blood.html?hl=&id=dX3HDwAAQBAJ"
       },
       "saleInfo": {
         "country": "US",
@@ -88433,8 +86934,8 @@
       },
       "accessInfo": {
         "country": "US",
-        "viewability": "NO_PAGES",
-        "embeddable": false,
+        "viewability": "PARTIAL",
+        "embeddable": true,
         "publicDomain": false,
         "textToSpeechPermission": "ALLOWED",
         "epub": {
@@ -88443,15 +86944,16 @@
         "pdf": {
           "isAvailable": false
         },
-        "webReaderLink": "http://play.google.com/books/reader?id=B4d1swEACAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
-        "accessViewStatus": "NONE",
+        "webReaderLink": "http://play.google.com/books/reader?id=dX3HDwAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
         "quoteSharingAllowed": false
       },
       "searchInfo": {
-        "textSnippet": "Fiver&#39;s vision finally leads them to Watership Down, but here they face their most difficult challenge of all... Watership Down is an epic journey, a stirring tale of adventure, courage and survival against the odds."
+        "textSnippet": "The Financial Times &amp; McKinsey Business Book of the Year A New York Times Notable Book A Washington Post Notable Book One of the Best Books of the Year: NPR, San Francisco Chronicle, Time, Esquire, Fortune, Marie Claire, GQ, Mental Floss, ..."
       }
     }
   ],
+  "to-read": [],
   "new": [
     {
       "kind": "books#volume",
