@@ -12123,77 +12123,6 @@
   "history": [
     {
       "kind": "books#volume",
-      "id": "yjNZEAAAQBAJ",
-      "etag": "OH9V+Er48gc",
-      "selfLink": "https://www.googleapis.com/books/v1/volumes/yjNZEAAAQBAJ",
-      "volumeInfo": {
-        "title": "Stalin's Library",
-        "subtitle": "A Dictator and His Books",
-        "authors": [
-          "Geoffrey Roberts"
-        ],
-        "publisher": "Yale University Press",
-        "publishedDate": "2022-02-08",
-        "description": "A compelling intellectual biography of Stalin told through his personal library In this engaging life of the twentieth century's most self-consciously learned dictator, Geoffrey Roberts explores the books Stalin read, how he read them, and what they taught him. Stalin firmly believed in the transformative potential of words and his voracious appetite for reading guided him throughout his years. A biography as well as an intellectual portrait, this book explores all aspects of Stalin's tumultuous life and politics. Stalin, an avid reader from an early age, amassed a surprisingly diverse personal collection of thousands of books, many of which he marked and annotated revealing his intimate thoughts, feelings, and beliefs. Based on his wide-ranging research in Russian archives, Roberts tells the story of the creation, fragmentation, and resurrection of Stalin's personal library. As a true believer in communist ideology, Stalin was a fanatical idealist who hated his enemies--the bourgeoisie, kulaks, capitalists, imperialists, reactionaries, counter-revolutionaries, traitors--but detested their ideas even more.",
-        "industryIdentifiers": [
-          {
-            "type": "ISBN_13",
-            "identifier": "9780300179040"
-          },
-          {
-            "type": "ISBN_10",
-            "identifier": "0300179049"
-          }
-        ],
-        "readingModes": {
-          "text": false,
-          "image": true
-        },
-        "pageCount": 272,
-        "printType": "BOOK",
-        "categories": [
-          "Biography & Autobiography"
-        ],
-        "maturityRating": "NOT_MATURE",
-        "allowAnonLogging": false,
-        "contentVersion": "preview-1.0.0",
-        "panelizationSummary": {
-          "containsEpubBubbles": false,
-          "containsImageBubbles": false
-        },
-        "imageLinks": {
-          "smallThumbnail": "http://books.google.com/books/content?id=yjNZEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-          "thumbnail": "http://books.google.com/books/content?id=yjNZEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-        },
-        "language": "en",
-        "previewLink": "http://books.google.com/books?id=yjNZEAAAQBAJ&printsec=frontcover&dq=subject:history&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
-        "infoLink": "http://books.google.com/books?id=yjNZEAAAQBAJ&dq=subject:history&hl=&as_pt=BOOKS&source=gbs_api",
-        "canonicalVolumeLink": "https://books.google.com/books/about/Stalin_s_Library.html?hl=&id=yjNZEAAAQBAJ"
-      },
-      "saleInfo": {
-        "country": "US",
-        "saleability": "NOT_FOR_SALE",
-        "isEbook": false
-      },
-      "accessInfo": {
-        "country": "US",
-        "viewability": "PARTIAL",
-        "embeddable": true,
-        "publicDomain": false,
-        "textToSpeechPermission": "ALLOWED",
-        "epub": {
-          "isAvailable": false
-        },
-        "pdf": {
-          "isAvailable": false
-        },
-        "webReaderLink": "http://play.google.com/books/reader?id=yjNZEAAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
-        "accessViewStatus": "SAMPLE",
-        "quoteSharingAllowed": false
-      }
-    },
-    {
-      "kind": "books#volume",
       "id": "CYPevgEACAAJ",
       "etag": "1hWPg1VbNQ4",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/CYPevgEACAAJ",
@@ -86212,7 +86141,7 @@
         "pageCount": 256,
         "printType": "BOOK",
         "categories": [
-          "Dune (Imaginary place)"
+          "Fiction"
         ],
         "maturityRating": "NOT_MATURE",
         "allowAnonLogging": false,
