@@ -2,6 +2,7 @@ import React, {useState,useEffect} from "react";
 import axios from "axios";
 import BookCard from "./BookCard";
 import BigBookCard from "./BigBookCard";
+import ExBigBookCard from "./ExBigBookCard";
 
 //joke
 let localBooks = 'http://localhost:4000';
@@ -85,10 +86,9 @@ function HomePage( {books, setBooks, apiKey,onReadClick, onFavoriteClick,display
     }
 
 
-
     //fetch information
     useEffect(()=>{
-        axios.get(localHistory)
+        axios.get(localDune)
         .then(r=> {
             setZebraBooks(r.data)
         })
@@ -176,7 +176,7 @@ function HomePage( {books, setBooks, apiKey,onReadClick, onFavoriteClick,display
         <React.Fragment>
             <div className="spacer-top-home"></div>
 
-            {bigCarousel("Your Home",zebrasToDisplay)}
+            {bigCarousel("",zebrasToDisplay)}
 
             {randGenre===0?'':bookCarousel(`Recommended for you in ${titleCase(randGenre)}`,displayBooks(randomBooks))}
 

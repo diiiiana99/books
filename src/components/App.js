@@ -65,10 +65,10 @@ function App() {
     event.preventDefault();
     setSearchUrl(`https://www.googleapis.com/books/v1/volumes?q=${search}&printType=books&key=${allanKey}&maxResults=40`)
     setSearchtitle(search)
-    history.push('./search-results')
       if (search!==''){
-        history.push('./search-results')
+        history.push('/search-results')
       } else if (search===''){
+        alert("Please enter a search term before submitting.")
     }
   }
 

@@ -13,20 +13,108 @@ function Favorites({books,onReadClick,onFavoriteClick}){
             })
     }
 
+    function bookCarousel(header,bookList) {
+        if (bookList.length >=35){
+            return (
+                <React.Fragment>
+                    <h1 className="heading">{header}</h1>
+                    <div className="backdrop">
+                    <div className='book-carousel'> 
+                            {bookList.slice(0,10)}
+                    </div> 
+                    </div>
+
+                    <h1 className="heading">{header}</h1>
+                    <div className="backdrop">
+                    <div className='book-carousel'> 
+                            {bookList.slice(10,20)}
+                    </div> 
+                    </div>
+
+                    <h1 className="heading">{header}</h1>
+                    <div className="backdrop">
+                    <div className='book-carousel'> 
+                            {bookList.slice(20,30)}
+                    </div> 
+                    </div>
+
+                    <h1 className="heading">{header}</h1>
+                    <div className="backdrop">
+                    <div className='book-carousel'> 
+                            {bookList.slice(30,)}
+                    </div> 
+                    </div>
+
+
+                </React.Fragment>)
+        } else if (bookList.length >=25){
+            return (
+                <React.Fragment>
+                    <h1 className="heading">{header}</h1>
+                    <div className="backdrop">
+                    <div className='book-carousel'> 
+                            {bookList.slice(0,10)}
+                    </div> 
+                    </div>
+
+                    <div className="spacer-books"></div>
+                    <div className="backdrop">
+                    <div className='book-carousel'> 
+                            {bookList.slice(10,20)}
+                    </div> 
+                    </div>
+
+                    <div className="spacer-books"></div>
+                    <div className="backdrop">
+                    <div className='book-carousel'> 
+                            {bookList.slice(20,)}
+                    </div> 
+                    </div>
+
+                </React.Fragment>)
+        } else if (bookList.length>=15){
+            return (
+                <React.Fragment>
+                    <h1 className="heading">{header}</h1>
+                    <div className="backdrop">
+                    <div className='book-carousel'> 
+                            {bookList.slice(0,10)}
+                    </div> 
+                    </div>
+
+                    <div className="spacer-books"></div>
+                    <div className="backdrop">
+                    <div className='book-carousel'> 
+                            {bookList.slice(10,)}
+                    </div> 
+                    </div>
+                </React.Fragment>)
+        }else {
+        return (
+            <React.Fragment>
+                <h1 className="heading">{header}</h1>
+                <div className="backdrop">
+                <div className='book-carousel'> 
+                        {bookList}
+                </div> 
+                </div>
+            </React.Fragment>
+        )}
+    }
+
+
     let booksToDisplay = displayBooks(books);
+
 
 
 
     return (
         <React.Fragment>
+
             <div className="spacer"></div>
-            <h1 className="heading">Favorite Books</h1>
-            {/* <p>Testing</p> */}
-            <div className="backdrop">
-                <div className='book-carousel'> 
-                        {booksToDisplay}
-                </div> 
-            </div>
+
+            {bookCarousel("Favorite Books",booksToDisplay)}
+
             <div className="bot-spacer"></div>
         </React.Fragment>
 )

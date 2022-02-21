@@ -25,7 +25,7 @@ function SearchResults({books,setBooks,search,onReadClick,onFavoriteClick,search
   
     function displayBooks(bookList){
         let newBookList = bookList.filter((book)=>book.volumeInfo.imageLinks !== undefined)
-        return bookList.map((book,i)=>{
+        return newBookList.map((book,i)=>{
             return (
                 <BookCard book={book} key={i} onFavoriteClick={onFavoriteClick} onReadClick={onReadClick}/>
                 )

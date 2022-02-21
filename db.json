@@ -12471,10 +12471,6 @@
           "containsEpubBubbles": false,
           "containsImageBubbles": false
         },
-        "imageLinks": {
-          "smallThumbnail": "http://books.google.com/books/content?id=eYQpDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-          "thumbnail": "http://books.google.com/books/content?id=eYQpDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-        },
         "language": "en",
         "previewLink": "http://books.google.com/books?id=eYQpDwAAQBAJ&printsec=frontcover&dq=subject:history&hl=&as_pt=BOOKS&cd=6&source=gbs_api",
         "infoLink": "https://play.google.com/store/books/details?id=eYQpDwAAQBAJ&source=gbs_api",
@@ -86482,129 +86478,52 @@
   "favorites": [
     {
       "kind": "books#volume",
-      "id": "tQl0zgEACAAJ",
-      "etag": "A4dw9SUOIWA",
-      "selfLink": "https://www.googleapis.com/books/v1/volumes/tQl0zgEACAAJ",
+      "id": "ZKVPEAAAQBAJ",
+      "etag": "QC/LvjDPCXk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ZKVPEAAAQBAJ",
       "volumeInfo": {
-        "title": "The Family Chao",
+        "title": "The Books of Jacob",
         "subtitle": "A Novel",
         "authors": [
-          "Lan Samantha Chang"
+          "Olga Tokarczuk"
         ],
-        "publishedDate": "2022",
-        "description": "An acclaimed storyteller returns with \"a gorgeous and gripping literary mystery\" that explores \"family, betrayal, passion, race, culture and the American Dream\" (Jean Kwok). The residents of Haven, Wisconsin, have dined on the Fine Chao restaurant's delicious Americanized Chinese food for thirty-five years, content to ignore any unsavory whispers about the family owners. Whether or not Big Leo Chao is honest, or his wife, Winnie, is happy, their food tastes good and their three sons earned scholarships to respectable colleges. But when the brothers reunite in Haven, the Chao family's secrets and simmering resentments erupt at last. Before long, brash, charismatic, and tyrannical patriarch Leo is found dead--presumed murdered--and his sons find they've drawn the exacting gaze of the entire town. The ensuing trial brings to light potential motives for all three brothers: Dagou, the restaurant's reckless head chef; Ming, financially successful but personally tortured; and the youngest, gentle but lost college student James. As the spotlight on the brothers tightens--and the family dog meets an unexpected fate--Dagou, Ming, and James must reckon with the legacy of their father's outsized appetites and their own future survival. Brimming with heartbreak, comedy, and suspense, The Family Chao offers a kaleidoscopic, highly entertaining portrait of a Chinese American family grappling with the dark undercurrents of a seemingly pleasant small town.",
+        "publisher": "Penguin",
+        "publishedDate": "2022-02-01",
+        "description": "The Nobel Prize–winner’s richest, most sweeping and ambitious novel yet follows the comet-like rise and fall of a mysterious, messianic religious leader as he blazes his way across eighteenth-century Europe. In the mid-eighteenth century, as new ideas—and a new unrest—begin to sweep the Continent, a young Jew of mysterious origins arrives in a village in Poland. Before long, he has changed not only his name but his persona; visited by what seem to be ecstatic experiences, Jacob Frank casts a charismatic spell that attracts an increasingly fervent following. In the decade to come, Frank will traverse the Hapsburg and Ottoman empires with throngs of disciples in his thrall as he reinvents himself again and again, converts to Islam and then Catholicism, is pilloried as a heretic and revered as the Messiah, and wreaks havoc on the conventional order, Jewish and Christian alike, with scandalous rumors of his sect’s secret rituals and the spread of his increasingly iconoclastic beliefs. The story of Frank—a real historical figure around whom mystery and controversy swirl to this day—is the perfect canvas for the genius and unparalleled reach of Olga Tokarczuk. Narrated through the perspectives of his contemporaries—those who revere him, those who revile him, the friend who betrays him, the lone woman who sees him for what he is—The Books of Jacob captures a world on the cusp of precipitous change, searching for certainty and longing for transcendence. In a nod to books written in Hebrew, The Books of Jacob is paginated in reverse, beginning on p. 955 and ending on p. 1 – but read traditionally, front cover to back.",
         "industryIdentifiers": [
           {
-            "type": "ISBN_10",
-            "identifier": "0393868079"
+            "type": "ISBN_13",
+            "identifier": "9780593087480"
           },
           {
-            "type": "ISBN_13",
-            "identifier": "9780393868074"
+            "type": "ISBN_10",
+            "identifier": "0593087488"
           }
         ],
         "readingModes": {
           "text": false,
           "image": false
         },
-        "pageCount": 320,
+        "pageCount": 992,
         "printType": "BOOK",
         "categories": [
           "Fiction"
         ],
-        "averageRating": 5,
-        "ratingsCount": 1,
         "maturityRating": "NOT_MATURE",
         "allowAnonLogging": false,
-        "contentVersion": "preview-1.0.0",
+        "contentVersion": "1.1.1.0.preview.0",
         "panelizationSummary": {
           "containsEpubBubbles": false,
           "containsImageBubbles": false
         },
         "imageLinks": {
-          "smallThumbnail": "http://books.google.com/books/content?id=tQl0zgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-          "thumbnail": "http://books.google.com/books/content?id=tQl0zgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          "smallThumbnail": "http://books.google.com/books/content?id=ZKVPEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ZKVPEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
         },
         "language": "en",
-        "previewLink": "http://books.google.com/books?id=tQl0zgEACAAJ&dq=intitle:the+family+chao&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
-        "infoLink": "http://books.google.com/books?id=tQl0zgEACAAJ&dq=intitle:the+family+chao&hl=&as_pt=BOOKS&source=gbs_api",
-        "canonicalVolumeLink": "https://books.google.com/books/about/The_Family_Chao.html?hl=&id=tQl0zgEACAAJ"
-      },
-      "saleInfo": {
-        "country": "US",
-        "saleability": "NOT_FOR_SALE",
-        "isEbook": false
-      },
-      "accessInfo": {
-        "country": "US",
-        "viewability": "NO_PAGES",
-        "embeddable": false,
-        "publicDomain": false,
-        "textToSpeechPermission": "ALLOWED",
-        "epub": {
-          "isAvailable": false
-        },
-        "pdf": {
-          "isAvailable": false
-        },
-        "webReaderLink": "http://play.google.com/books/reader?id=tQl0zgEACAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
-        "accessViewStatus": "NONE",
-        "quoteSharingAllowed": false
-      },
-      "searchInfo": {
-        "textSnippet": "One of Literary Hub&#39;s and The Millions&#39; Most Anticipated Books of 2022 A Goodreads Readers&#39; Most Anticipated Mystery of 2022 An acclaimed storyteller returns with &quot;a gorgeous and gripping literary mystery&quot; that explores &quot;family, betrayal, ..."
-      }
-    },
-    {
-      "kind": "books#volume",
-      "id": "dX3HDwAAQBAJ",
-      "etag": "B4B6+J5LkOU",
-      "selfLink": "https://www.googleapis.com/books/v1/volumes/dX3HDwAAQBAJ",
-      "volumeInfo": {
-        "title": "Bad Blood",
-        "subtitle": "Secrets and Lies in a Silicon Valley Startup",
-        "authors": [
-          "John Carreyrou"
-        ],
-        "publisher": "Vintage",
-        "publishedDate": "2020-01-28",
-        "description": "The Financial Times & McKinsey Business Book of the Year A New York Times Notable Book A Washington Post Notable Book One of the Best Books of the Year: NPR, San Francisco Chronicle, Time, Esquire, Fortune, Marie Claire, GQ, Mental Floss, Science Friday, Bloomberg, Popular Mechanics, BookRiot, The Seattle Times, The Oregonian, Publishers Weekly, Library Journal In 2014, Theranos founder and CEO Elizabeth Holmes was widely seen as the next Steve Jobs: a brilliant Stanford dropout whose startup \"unicorn\" promised to revolutionize the medical industry with its breakthrough device, which performed the whole range of laboratory tests from a single drop of blood. Backed by investors such as Larry Ellison and Tim Draper, Theranos sold shares in a fundraising round that valued the company at more than $9 billion, putting Holmes's worth at an estimated $4.5 billion. There was just one problem: The technology didn't work. Erroneous results put patients in danger, leading to misdiagnoses and unnecessary treatments. All the while, Holmes and her partner, Sunny Balwani, worked to silence anyone who voiced misgivings--from journalists to their own employees. Rigorously reported and fearlessly written, Bad Blood is a gripping story of the biggest corporate fraud since Enron--a tale of ambition and hubris set amid the bold promises of Silicon Valley.",
-        "industryIdentifiers": [
-          {
-            "type": "ISBN_13",
-            "identifier": "9780525431992"
-          },
-          {
-            "type": "ISBN_10",
-            "identifier": "0525431993"
-          }
-        ],
-        "readingModes": {
-          "text": false,
-          "image": false
-        },
-        "pageCount": 368,
-        "printType": "BOOK",
-        "categories": [
-          "Business & Economics"
-        ],
-        "averageRating": 4,
-        "ratingsCount": 62,
-        "maturityRating": "NOT_MATURE",
-        "allowAnonLogging": false,
-        "contentVersion": "preview-1.0.0",
-        "panelizationSummary": {
-          "containsEpubBubbles": false,
-          "containsImageBubbles": false
-        },
-        "imageLinks": {
-          "smallThumbnail": "http://books.google.com/books/content?id=dX3HDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-          "thumbnail": "http://books.google.com/books/content?id=dX3HDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-        },
-        "language": "en",
-        "previewLink": "http://books.google.com/books?id=dX3HDwAAQBAJ&printsec=frontcover&dq=intitle:bad+blood&hl=&as_pt=BOOKS&cd=2&source=gbs_api",
-        "infoLink": "http://books.google.com/books?id=dX3HDwAAQBAJ&dq=intitle:bad+blood&hl=&as_pt=BOOKS&source=gbs_api",
-        "canonicalVolumeLink": "https://books.google.com/books/about/Bad_Blood.html?hl=&id=dX3HDwAAQBAJ"
+        "previewLink": "http://books.google.com/books?id=ZKVPEAAAQBAJ&printsec=frontcover&dq=isbn:0593087488&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=ZKVPEAAAQBAJ&dq=isbn:0593087488&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Books_of_Jacob.html?hl=&id=ZKVPEAAAQBAJ"
       },
       "saleInfo": {
         "country": "US",
@@ -86623,63 +86542,354 @@
         "pdf": {
           "isAvailable": false
         },
-        "webReaderLink": "http://play.google.com/books/reader?id=dX3HDwAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "webReaderLink": "http://play.google.com/books/reader?id=ZKVPEAAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
         "accessViewStatus": "SAMPLE",
         "quoteSharingAllowed": false
       },
       "searchInfo": {
-        "textSnippet": "The Financial Times &amp; McKinsey Business Book of the Year A New York Times Notable Book A Washington Post Notable Book One of the Best Books of the Year: NPR, San Francisco Chronicle, Time, Esquire, Fortune, Marie Claire, GQ, Mental Floss, ..."
+        "textSnippet": "The comedy in this novel blends, as it does in life, with genuine tragedy.” –Dwight Garner, The New York Times The Nobel Prize–winner’s richest, most sweeping and ambitious novel yet follows the comet-like rise and fall of a ..."
       }
     },
     {
       "kind": "books#volume",
-      "id": "wmrqaYNQ79AC",
-      "etag": "geD/HQ3gjes",
-      "selfLink": "https://www.googleapis.com/books/v1/volumes/wmrqaYNQ79AC",
+      "id": "C8vhxQEACAAJ",
+      "etag": "KFtM/ncum0E",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/C8vhxQEACAAJ",
       "volumeInfo": {
-        "title": "The Approaching Storm: Star Wars Legends",
+        "title": "The Thursday Murder Club",
         "authors": [
-          "Alan Dean Foster"
+          "Richard Osman"
         ],
-        "publisher": "Del Rey",
-        "publishedDate": "2011-06-28",
-        "description": "“ENTERTAINING AND INTELLIGENT . . . This book is pure class all the way. . . . The final page is a great climax.” –Starburst The Republic is decaying, even under the leadership of Supreme Chancellor Palpatine, who was elected to save the galaxy from collapsing under the forces of discontent. On the tiny but strategic planet of Ansion, a powerful faction is on the verge of joining the growing secessionist movement. At the Chancellor’s request, the Jedi Council sends two Jedi Knights, Obi-Wan Kenobi and Luminara Unduli, along with their Padawans Anakin Skywalker and Barriss Offee, to stabilize the planet’s population. To succeed, the Jedi will have to fulfill near-impossible tasks, befriend wary strangers, and influence two great armies, stalked all the while by an enemy sworn to see the negotiations collapse and the mission fail. . . . Features a bonus section following the novel that includes a primer on the Star Wars expanded universe, and over half a dozen excerpts from some of the most popular Star Wars books of the last thirty years!",
+        "publisher": "Viking",
+        "publishedDate": "2020-08-29",
+        "description": "Krimi. In a peaceful retirement village, four unlikely friends meet up once a week to investigate unsolved killings. But when a local property developer shows up dead, 'The Thursday Murder Club' find themselves in the middle of their first live case. The four friends, Elizabeth, Joyce, Ibrahim and Ron, might be octogenarians, but they still have a few tricks up their sleeves. Can our unorthodox but brilliant gang catch the killer, before it's too late?",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0241425441"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780241425442"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 400,
+        "printType": "BOOK",
+        "categories": [
+          "Clubs"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 56,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=C8vhxQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=C8vhxQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=C8vhxQEACAAJ&dq=intitle:thursday+murder+club&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=C8vhxQEACAAJ&dq=intitle:thursday+murder+club&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Thursday_Murder_Club.html?hl=&id=C8vhxQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=C8vhxQEACAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "But when a local property developer shows up dead, &#39;The Thursday Murder Club&#39; find themselves in the middle of their first live case."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ZnF3rgEACAAJ",
+      "etag": "sLBJ5PwaEu0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ZnF3rgEACAAJ",
+      "volumeInfo": {
+        "title": "The Body Keeps the Score",
+        "subtitle": "Mind, Brain and Body in the Transformation of Trauma",
+        "authors": [
+          "Bessel A. Van der Kolk"
+        ],
+        "publishedDate": "2015-09-24",
+        "description": "What causes people to continually relive what they most want to forget, and what treatments could help restore them to a life with purpose and joy? Here, Dr Bessel van der Kolk offers a new paradigm for effectively treating traumatic stress. Neither talking nor drug therapies have proven entirely satisfactory. With stories of his own work and those of specialists around the globe, The Body Keeps the Score sheds new light on the routes away from trauma - which lie in the regulation and syncing of body and mind, using sport, drama, yoga, mindfulness, meditation and other routes to equilibrium.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0141978619"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780141978611"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 464,
+        "printType": "BOOK",
+        "averageRating": 4.5,
+        "ratingsCount": 12,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ZnF3rgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ZnF3rgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=ZnF3rgEACAAJ&dq=intitle:body+keeps+the&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=ZnF3rgEACAAJ&dq=intitle:body+keeps+the&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Body_Keeps_the_Score.html?hl=&id=ZnF3rgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ZnF3rgEACAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "With stories of his own work and those of specialists around the globe, The Body Keeps the Score sheds new light on the routes away from trauma - which lie in the regulation and syncing of body and mind, using sport, drama, yoga, ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "30UlEAAAQBAJ",
+      "etag": "jcHAc6bor8M",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/30UlEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Crying in H Mart",
+        "subtitle": "A Memoir",
+        "authors": [
+          "Michelle Zauner"
+        ],
+        "publisher": "Knopf",
+        "publishedDate": "2021",
+        "description": "NEW YORK TIMES BEST SELLER - A Best Book of 2021: Entertainment Weekly, Good Morning America, Wall Street Journal, and more From the indie rockstar of Japanese Breakfast fame, and author of the viral 2018 New Yorker essay that shares the title of this book, an unflinching, powerful memoir about growing up Korean American, losing her mother, and forging her own identity. In this exquisite story of family, food, grief, and endurance, Michelle Zauner proves herself far more than a dazzling singer, songwriter, and guitarist. With humor and heart, she tells of growing up one of the few Asian American kids at her school in Eugene, Oregon; of struggling with her mother's particular, high expectations of her; of a painful adolescence; of treasured months spent in her grandmother's tiny apartment in Seoul, where she and her mother would bond, late at night, over heaping plates of food. As she grew up, moving to the East Coast for college, finding work in the restaurant industry, and performing gigs with her fledgling band--and meeting the man who would become her husband--her Koreanness began to feel ever more distant, even as she found the life she wanted to live. It was her mother's diagnosis of terminal cancer, when Michelle was twenty-five, that forced a reckoning with her identity and brought her to reclaim the gifts of taste, language, and history her mother had given her. Vivacious and plainspoken, lyrical and honest, Zauner's voice is as radiantly alive on the page as it is onstage. Rich with intimate anecdotes that will resonate widely, and complete with family photos, Crying in H Mart is a book to cherish, share, and reread.",
         "industryIdentifiers": [
           {
             "type": "ISBN_13",
-            "identifier": "9780307795717"
+            "identifier": "9780525657743"
           },
           {
             "type": "ISBN_10",
-            "identifier": "0307795713"
+            "identifier": "0525657746"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 256,
+        "printType": "BOOK",
+        "categories": [
+          "Biography & Autobiography"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 17,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.0.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=30UlEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=30UlEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=30UlEAAAQBAJ&printsec=frontcover&dq=intitle:h+mart&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=30UlEAAAQBAJ&dq=intitle:h+mart&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Crying_in_H_Mart.html?hl=&id=30UlEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=30UlEAAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A NEW YORK TIMES NOTABLE BOOK OF THE YEAR - NEW YORK TIMES BEST SELLER - From the indie rockstar of Japanese Breakfast fame, and author of the viral 2018 New Yorker essay that shares the title of this book, an unflinching, powerful memoir ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "d_1fzgEACAAJ",
+      "etag": "aZU5a6K1oJY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/d_1fzgEACAAJ",
+      "volumeInfo": {
+        "title": "To Paradise",
+        "authors": [
+          "Hanya Yanagihara"
+        ],
+        "publisher": "Picador",
+        "publishedDate": "2022-01-11",
+        "description": "From the author of the classic A Little Life, a bold, brilliant novel spanning three centuries and three different versions of the American experiment, about lovers, family, loss and the elusive promise of utopia. In an alternate version of 1893 America, New York is part of the Free States, where people may live and love whomever they please (or so it seems). The fragile young scion of a distinguished family resists betrothal to a worthy suitor, drawn to a charming music teacher of no means. In a 1993 Manhattan besieged by the AIDS epidemic, a young Hawaiian man lives with his much older, wealthier partner, hiding his troubled childhood and the fate of his father. And in 2093, in a world riven by plagues and governed by totalitarian rule, a powerful scientist's damaged granddaughter tries to navigate life without him - and solve the mystery of her husband's disappearances. These three sections are joined in an enthralling and ingenious symphony, as recurring notes and themes deepen and enrich one another: A townhouse in Washington Square Park in Greenwich Village; illness, and treatments that come at a terrible cost; wealth and squalor; the weak and the strong; race; the definition of family, and of nationhood; the dangerous righteousness of the powerful, and of revolutionaries; the longing to find a place in an earthly paradise, and the gradual realization that it can't exist. What unites not just the characters, but these Americas, are their reckonings with the qualities that make us human: Fear. Love. Shame. Need. Loneliness. To Paradise is a fin de siecle novel of marvelous literary effect, but above all it is a work of emotional genius. The great power of this remarkable novel is driven by Hanya Yanagihara's understanding of the aching desire to protect those we love - partners, lovers, children, friends, family and even our fellow citizens - and the pain that ensues when we cannot.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1529077478"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781529077476"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 668,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=d_1fzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=d_1fzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=d_1fzgEACAAJ&dq=intitle:to+paradise&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=d_1fzgEACAAJ&dq=intitle:to+paradise&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/To_Paradise.html?hl=&id=d_1fzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=d_1fzgEACAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The eagerly anticipated novel from Hanya Yanagihara, a brilliant exploration of inclusion and exclusion, race and empire, sexuality and disease, love and family."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "hzVxiw2DiOsC",
+      "etag": "Ym4h/uIEAZs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/hzVxiw2DiOsC",
+      "volumeInfo": {
+        "title": "The Four Agreements",
+        "subtitle": "A Practical Guide to Personal Freedom",
+        "authors": [
+          "Don Miguel Ruiz",
+          "Janet Mills"
+        ],
+        "publisher": "Amber-Allen Publishing",
+        "publishedDate": "2010-01-18",
+        "description": "Bestselling author don Miguel Ruiz reveals the source of self-limiting beliefs that rob us of joy and create needless suffering. Based on ancient Toltec wisdom, The Four Agreements offer a powerful code of conduct that can rapidly transform our lives to a new experience of freedom, true happiness, and love. • A New York Times bestseller for over 7 years • Over 5.2 million copies sold in the U.S. • Translated into 38 languages worldwide Don Miguel Ruiz’s book is a roadmap to enlightenment and freedom.” — Deepak Chopra, Author, The Seven Spiritual Laws of Success “An inspiring book with many great lessons . . .” — Wayne Dyer, Author, Real Magic “In the tradition of Castaneda, Ruiz distills essential Toltec wisdom, expressing with clarity and impeccability what it means for men and women to live as peaceful warriors in the modern world.” — Dan Millman, Author, Way of the Peaceful Warrior",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781934408018"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1934408018"
           }
         ],
         "readingModes": {
           "text": true,
           "image": false
         },
-        "pageCount": 384,
+        "pageCount": 160,
         "printType": "BOOK",
         "categories": [
-          "Fiction"
+          "Self-Help"
         ],
-        "averageRating": 5,
-        "ratingsCount": 2,
+        "averageRating": 3,
+        "ratingsCount": 12,
         "maturityRating": "NOT_MATURE",
         "allowAnonLogging": true,
-        "contentVersion": "1.5.5.0.preview.2",
+        "contentVersion": "2.9.10.0.preview.2",
         "panelizationSummary": {
           "containsEpubBubbles": false,
           "containsImageBubbles": false
         },
         "imageLinks": {
-          "smallThumbnail": "http://books.google.com/books/content?id=wmrqaYNQ79AC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-          "thumbnail": "http://books.google.com/books/content?id=wmrqaYNQ79AC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          "smallThumbnail": "http://books.google.com/books/content?id=hzVxiw2DiOsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=hzVxiw2DiOsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
         },
         "language": "en",
-        "previewLink": "http://books.google.com/books?id=wmrqaYNQ79AC&printsec=frontcover&dq=subject:Fiction&hl=&as_pt=BOOKS&cd=33&source=gbs_api",
-        "infoLink": "https://play.google.com/store/books/details?id=wmrqaYNQ79AC&source=gbs_api",
-        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=wmrqaYNQ79AC"
+        "previewLink": "http://books.google.com/books?id=hzVxiw2DiOsC&printsec=frontcover&dq=intitle:the+four+agreements&hl=&as_pt=BOOKS&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=hzVxiw2DiOsC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=hzVxiw2DiOsC"
       },
       "saleInfo": {
         "country": "US",
@@ -86693,7 +86903,7 @@
           "amount": 7.99,
           "currencyCode": "USD"
         },
-        "buyLink": "https://play.google.com/store/books/details?id=wmrqaYNQ79AC&rdid=book-wmrqaYNQ79AC&rdot=1&source=gbs_api",
+        "buyLink": "https://play.google.com/store/books/details?id=hzVxiw2DiOsC&rdid=book-hzVxiw2DiOsC&rdot=1&source=gbs_api",
         "offers": [
           {
             "finskyOfferType": 1,
@@ -86717,18 +86927,1000 @@
         "textToSpeechPermission": "ALLOWED",
         "epub": {
           "isAvailable": true,
-          "acsTokenLink": "http://books.google.com/books/download/The_Approaching_Storm_Star_Wars_Legends-sample-epub.acsm?id=wmrqaYNQ79AC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          "acsTokenLink": "http://books.google.com/books/download/The_Four_Agreements-sample-epub.acsm?id=hzVxiw2DiOsC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
         },
         "pdf": {
           "isAvailable": false
         },
-        "webReaderLink": "http://play.google.com/books/reader?id=wmrqaYNQ79AC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "webReaderLink": "http://play.google.com/books/reader?id=hzVxiw2DiOsC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
         "accessViewStatus": "SAMPLE",
         "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Based on ancient Toltec wisdom, The Four Agreements offer a powerful code of conduct that can rapidly transform our lives to a new experience of freedom, true happiness, and love. • A New York Times bestseller for over 7 years • Over 5 ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "IpLqDwAAQBAJ",
+      "etag": "6ugDTsbyQD0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/IpLqDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Children of Dune",
+        "authors": [
+          "Frank Herbert"
+        ],
+        "publisher": "Ace",
+        "publishedDate": "2020-07-07",
+        "description": "Book Three in the Magnificent Dune Chronicles--the Bestselling Science Fiction Adventure of All Time The Children of Dune are twin siblings Leto and Ghanima Atreides, whose father, the Emperor Paul Muad'Dib, disappeared in the desert wastelands of Arrakis nine years ago. Like their father, the twins possess supernormal abilities--making them valuable to their manipulative aunt Alia, who rules the Empire in the name of House Atreides. Facing treason and rebellion on two fronts, Alia's rule is not absolute. The displaced House Corrino is plotting to regain the throne while the fanatical Fremen are being provoked into open revolt by the enigmatic figure known only as The Preacher. Alia believes that by obtaining the secrets of the twins' prophetic visions, she can maintain control over her dynasty. But Leto and Ghanima have their own plans for their visions--and their destinies....",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780593201749"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0593201744"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 496,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 3.5,
+        "ratingsCount": 33,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=IpLqDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=IpLqDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=IpLqDwAAQBAJ&printsec=frontcover&dq=intitle:children+inauthor:herbert&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=IpLqDwAAQBAJ&dq=intitle:children+inauthor:herbert&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Children_of_Dune.html?hl=&id=IpLqDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=IpLqDwAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Book Three in the Magnificent Dune Chronicles--the Bestselling Science Fiction Adventure of All Time The Children of Dune are twin siblings Leto and Ghanima Atreides, whose father, the Emperor Paul Muad&#39;Dib, disappeared in the desert ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "BpLqDwAAQBAJ",
+      "etag": "fzW8ywfRnvw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/BpLqDwAAQBAJ",
+      "volumeInfo": {
+        "title": "God Emperor of Dune",
+        "authors": [
+          "Frank Herbert"
+        ],
+        "publisher": "Ace",
+        "publishedDate": "2020-07-07",
+        "description": "Book Four in the Magnificent Dune Chronicles--the Bestselling Science Fiction Adventure of All Time Millennia have passed on Arrakis, and the once-desert planet is green with life. Leto Atreides, the son of the world's savior, the Emperor Paul Muad'Dib, is still alive but far from human. To preserve humanity's future, he sacrificed his own by merging with a sandworm, granting him near immortality as God Emperor of Dune for the past thirty-five hundred years. Leto's rule is not a benevolent one. His transformation has made not only his appearance but his morality inhuman. A rebellion, led by Siona, a member of the Atreides family, has risen to oppose the despot's rule. But Siona is unaware that Leto's vision of a Golden Path for humanity requires her to fulfill a destiny she never wanted--or could possibly conceive....",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780593201756"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0593201752"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 496,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=BpLqDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=BpLqDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=BpLqDwAAQBAJ&printsec=frontcover&dq=intitle:god+inauthor:herbert&hl=&as_pt=BOOKS&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=BpLqDwAAQBAJ&dq=intitle:god+inauthor:herbert&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/God_Emperor_of_Dune.html?hl=&id=BpLqDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=BpLqDwAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "To preserve humanity&#39;s future, he sacrificed his own by merging with a sandworm, granting him near immortality as God Emperor of Dune for the past thirty-five hundred years. Leto&#39;s rule is not a benevolent one."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "DJLqDwAAQBAJ",
+      "etag": "B1sT5rcIZHU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/DJLqDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Heretics of Dune",
+        "authors": [
+          "Frank Herbert"
+        ],
+        "publisher": "Ace",
+        "publishedDate": "2020-07-07",
+        "description": "Book Five in the Magnificent Dune Chronicles--the Bestselling Science Fiction Adventure of All Time Leto Atreides, the God Emperor of Dune, is dead. In the fifteen hundred years since his passing, the Empire has fallen into ruin. The great Scattering saw millions abandon the crumbling civilization and spread out beyond the reaches of known space. The planet Arrakis--now called Rakis--has reverted to its desert climate, and its great sandworms are dying. Now the Lost Ones are returning home in pursuit of power. And as these factions vie for control over the remnants of the Empire, a girl named Sheeana rises to prominence in the wastelands of Rakis, sending religious fervor throughout the galaxy. For she possesses the abilities of the Fremen sandriders--fulfilling a prophecy foretold by the late God Emperor....",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780593201763"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0593201760"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 560,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=DJLqDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=DJLqDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=DJLqDwAAQBAJ&printsec=frontcover&dq=intitle:heretics+inauthor:herbert&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=DJLqDwAAQBAJ&dq=intitle:heretics+inauthor:herbert&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Heretics_of_Dune.html?hl=&id=DJLqDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=DJLqDwAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Book Five in the Magnificent Dune Chronicles--the Bestselling Science Fiction Adventure of All Time Leto Atreides, the God Emperor of Dune, is dead."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ypLqDwAAQBAJ",
+      "etag": "6z6yI54mQOU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ypLqDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Chapterhouse: Dune",
+        "authors": [
+          "Frank Herbert"
+        ],
+        "publisher": "Ace",
+        "publishedDate": "2020-07-07",
+        "description": "Fifteen thousand years after Leto II's death, the remnants of the Bene Gesserit contend with the ruthless leaders of an alien culture to forge a new civilization and preserve the best of the Old Empire.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780593201770"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0593201779"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 512,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ypLqDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ypLqDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=ypLqDwAAQBAJ&printsec=frontcover&dq=intitle:chapterhouse+inauthor:herbert&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=ypLqDwAAQBAJ&dq=intitle:chapterhouse+inauthor:herbert&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Chapterhouse_Dune.html?hl=&id=ypLqDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ypLqDwAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Fifteen thousand years after Leto II&#39;s death, the remnants of the Bene Gesserit contend with the ruthless leaders of an alien culture to forge a new civilization and preserve the best of the Old Empire."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "4EA2xwEACAAJ",
+      "etag": "4OUqQxOZspw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/4EA2xwEACAAJ",
+      "volumeInfo": {
+        "title": "Dune Messiah",
+        "authors": [
+          "Frank Herbert"
+        ],
+        "publisher": "Berkley Books",
+        "publishedDate": "1975",
+        "description": "For use in schools and libraries only. The sisterhood of the Bene Gesserit plots to seize control of the galaxy-wide empire of their supernatural leader.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0425029522"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780425029527"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 256,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=8pHqDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=8pHqDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=4EA2xwEACAAJ&dq=intitle:messiah+inauthor:herbert&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=4EA2xwEACAAJ&dq=intitle:messiah+inauthor:herbert&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Dune_Messiah.html?hl=&id=4EA2xwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=4EA2xwEACAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Paul Atreides, genetically bred and trained to become the leader of his planet, is still subject to human frailties. The second book of the series. Copyright © Libri GmbH. All rights reserved."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "B1hSG45JCX4C",
+      "etag": "bS4qF7kL43I",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/B1hSG45JCX4C",
+      "volumeInfo": {
+        "title": "Dune",
+        "authors": [
+          "Frank Herbert"
+        ],
+        "publisher": "Penguin",
+        "publishedDate": "2005",
+        "description": "Follows the adventures of Paul Atreides, the son of a betrayed duke given up for dead on a treacherous desert planet and adopted by its fierce, nomadic people, who help him unravel his most unexpected destiny.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0441013597"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780441013593"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 528,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 4.5,
+        "ratingsCount": 25,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "3.2.4.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=B1hSG45JCX4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=B1hSG45JCX4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=B1hSG45JCX4C&printsec=frontcover&dq=intitle:dune&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=B1hSG45JCX4C&dq=intitle:dune&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Dune.html?hl=&id=B1hSG45JCX4C"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=B1hSG45JCX4C&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Follows the adventures of Paul Atreides, the son of a betrayed duke given up for dead on a treacherous desert planet and adopted by its fierce, nomadic people, who help him unravel his most unexpected destiny."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "SzfvHXu_5t8C",
+      "etag": "T54CdgGsRNM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/SzfvHXu_5t8C",
+      "volumeInfo": {
+        "title": "Fight Club: A Novel",
+        "authors": [
+          "Chuck Palahniuk"
+        ],
+        "publisher": "W. W. Norton & Company",
+        "publishedDate": "2005-10-17",
+        "description": "In a confusing world poised on the brink of mayhem, Tyler Durden, a projectionist, waiter, and anarchic genius, comes up with an idea to create clubs in which young men can escape their humdrum existence and prove themselves in barehanded fights. Reprint. 50,000 first printing.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780393327342"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0393327345"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 218,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 3.5,
+        "ratingsCount": 174,
+        "maturityRating": "MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.0.0.preview.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=SzfvHXu_5t8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=SzfvHXu_5t8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=SzfvHXu_5t8C&printsec=frontcover&dq=intitle:fight+club&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=SzfvHXu_5t8C&dq=intitle:fight+club&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Fight_Club_A_Novel.html?hl=&id=SzfvHXu_5t8C"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=SzfvHXu_5t8C&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In a confusing world poised on the brink of mayhem, Tyler Durden, a projectionist, waiter, and anarchic genius, comes up with an idea to create clubs in which young men can escape their humdrum existence and prove themselves in barehanded ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "2edvDwAAQBAJ",
+      "etag": "N30oMNNYloI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/2edvDwAAQBAJ",
+      "volumeInfo": {
+        "title": "One Giant Leap",
+        "authors": [
+          "Robert Burleigh"
+        ],
+        "publisher": "Puffin Books",
+        "publishedDate": "2014-06-12",
+        "description": "Recreates the experiences of Neil Armstrong and Buzz Aldrin as they approach, land, and walk on the Moon, plant the American flag, collect rocks, take pictures, and finally lift off, reconnecting with their space ship, the Columbia.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780147511652"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0147511658"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 48,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Nonfiction"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 8,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=2edvDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=2edvDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=2edvDwAAQBAJ&printsec=frontcover&dq=intitle:one+giant+leap&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=2edvDwAAQBAJ&dq=intitle:one+giant+leap&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/One_Giant_Leap.html?hl=&id=2edvDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=2edvDwAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Recreates the experiences of Neil Armstrong and Buzz Aldrin as they approach, land, and walk on the Moon, plant the American flag, collect rocks, take pictures, and finally lift off, reconnecting with their space ship, the Columbia."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "a5kNrgEACAAJ",
+      "etag": "gftyQoCaE5A",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/a5kNrgEACAAJ",
+      "volumeInfo": {
+        "title": "American Psycho",
+        "authors": [
+          "Bret Easton Ellis"
+        ],
+        "publisher": "10/18",
+        "publishedDate": "2007-03-01",
+        "description": "\" Je suis créatif, je suis jeune, [...] extrêmement motivé et extrêmement performant. Autrement dit, je suis foncièrement indispensable a la société \". Avec son sourire carnassier et ses costumes chics, Patrick Bateman correspond au profil type du jeune Yuppie des années Trump. Comme ses associés de la Chemical Bank, il est d'une ambition sans scrupules. Comme ses amis, de il rythme ses soirées-cocktails pauses cocaïne. À la seule différence que Patrick Bateman viole torture et tue. La nuit, il dévoile sa double personnalité en agressant de simples passants, des clochards, voire un ami. Mais il ne ressent jamais rien. Juste une légère contrariété lorsque ses scénarios ne se déroulent pas exactement comme prévu...",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "226403937X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9782264039378"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 526,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=a5kNrgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=a5kNrgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.com/books?id=a5kNrgEACAAJ&dq=intitle:american+psycho&hl=&as_pt=BOOKS&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=a5kNrgEACAAJ&dq=intitle:american+psycho&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/American_Psycho.html?hl=&id=a5kNrgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=a5kNrgEACAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Roman policier"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ZgViSB2SCFkC",
+      "etag": "vveUymdqQWA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ZgViSB2SCFkC",
+      "volumeInfo": {
+        "title": "Wiseguy",
+        "authors": [
+          "Nicholas Pileggi"
+        ],
+        "publisher": "Simon and Schuster",
+        "publishedDate": "1990-09-01",
+        "description": "A longtime member of organized crime recounts his criminal career, his involvement in the six-million dollar Lufthansa robbery, and his decision to become a federal witness",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780671723224"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0671723227"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 308,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 7,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.0.0.preview.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ZgViSB2SCFkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ZgViSB2SCFkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=ZgViSB2SCFkC&printsec=frontcover&dq=inauthor:nicholas+pileggi&hl=&as_pt=BOOKS&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=ZgViSB2SCFkC&dq=inauthor:nicholas+pileggi&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Wiseguy.html?hl=&id=ZgViSB2SCFkC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ZgViSB2SCFkC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A longtime member of organized crime recounts his criminal career, his involvement in the six-million dollar Lufthansa robbery, and his decision to become a federal witness"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "PfmjWho_zOAC",
+      "etag": "97NT+e2/nv8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/PfmjWho_zOAC",
+      "volumeInfo": {
+        "title": "The Road",
+        "authors": [
+          "Cormac McCarthy"
+        ],
+        "publisher": "Vintage",
+        "publishedDate": "2007-03-20",
+        "description": "NATIONAL BESTSELLER • WINNER OF THE PULITZER PRIZE • A searing, post-apocalyptic novel about a father and son's fight to survive, this \"tale of survival and the miracle of goodness only adds to McCarthy's stature as a living master. It's gripping, frightening and, ultimately, beautiful\" (San Francisco Chronicle). A father and his son walk alone through burned America. Nothing moves in the ravaged landscape save the ash on the wind. It is cold enough to crack stones, and when the snow falls it is gray. The sky is dark. Their destination is the coast, although they don't know what, if anything, awaits them there. They have nothing; just a pistol to defend themselves against the lawless bands that stalk the road, the clothes they are wearing, a cart of scavenged food—and each other. The Road is the profoundly moving story of a journey. It boldly imagines a future in which no hope remains, but in which the father and his son, \"each the other's world entire,\" are sustained by love. Awesome in the totality of its vision, it is an unflinching meditation on the worst and the best that we are capable of: ultimate destructiveness, desperate tenacity, and the tenderness that keeps two people alive in the face of total devastation.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780307267450"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0307267458"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 256,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 1021,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.20.15.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=PfmjWho_zOAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=PfmjWho_zOAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=PfmjWho_zOAC&printsec=frontcover&dq=inauthor:cormac&hl=&as_pt=BOOKS&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=PfmjWho_zOAC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=PfmjWho_zOAC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 2.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 2.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=PfmjWho_zOAC&rdid=book-PfmjWho_zOAC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 2990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 2990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Road-sample-epub.acsm?id=PfmjWho_zOAC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Road-sample-pdf.acsm?id=PfmjWho_zOAC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=PfmjWho_zOAC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "NATIONAL BESTSELLER • WINNER OF THE PULITZER PRIZE • A searing, post-apocalyptic novel about a father and son&#39;s fight to survive, this &quot;tale of survival and the miracle of goodness only adds to McCarthy&#39;s stature as a living master."
       }
     }
   ],
-  "to-read": [],
+  "to-read": [
+    {
+      "kind": "books#volume",
+      "id": "4EA2xwEACAAJ",
+      "etag": "4OUqQxOZspw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/4EA2xwEACAAJ",
+      "volumeInfo": {
+        "title": "Dune Messiah",
+        "authors": [
+          "Frank Herbert"
+        ],
+        "publisher": "Berkley Books",
+        "publishedDate": "1975",
+        "description": "For use in schools and libraries only. The sisterhood of the Bene Gesserit plots to seize control of the galaxy-wide empire of their supernatural leader.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0425029522"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780425029527"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 256,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=8pHqDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=8pHqDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=4EA2xwEACAAJ&dq=intitle:messiah+inauthor:herbert&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=4EA2xwEACAAJ&dq=intitle:messiah+inauthor:herbert&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Dune_Messiah.html?hl=&id=4EA2xwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=4EA2xwEACAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Paul Atreides, genetically bred and trained to become the leader of his planet, is still subject to human frailties. The second book of the series. Copyright © Libri GmbH. All rights reserved."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "IpLqDwAAQBAJ",
+      "etag": "6ugDTsbyQD0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/IpLqDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Children of Dune",
+        "authors": [
+          "Frank Herbert"
+        ],
+        "publisher": "Ace",
+        "publishedDate": "2020-07-07",
+        "description": "Book Three in the Magnificent Dune Chronicles--the Bestselling Science Fiction Adventure of All Time The Children of Dune are twin siblings Leto and Ghanima Atreides, whose father, the Emperor Paul Muad'Dib, disappeared in the desert wastelands of Arrakis nine years ago. Like their father, the twins possess supernormal abilities--making them valuable to their manipulative aunt Alia, who rules the Empire in the name of House Atreides. Facing treason and rebellion on two fronts, Alia's rule is not absolute. The displaced House Corrino is plotting to regain the throne while the fanatical Fremen are being provoked into open revolt by the enigmatic figure known only as The Preacher. Alia believes that by obtaining the secrets of the twins' prophetic visions, she can maintain control over her dynasty. But Leto and Ghanima have their own plans for their visions--and their destinies....",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780593201749"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0593201744"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 496,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 3.5,
+        "ratingsCount": 33,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=IpLqDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=IpLqDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=IpLqDwAAQBAJ&printsec=frontcover&dq=intitle:children+inauthor:herbert&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=IpLqDwAAQBAJ&dq=intitle:children+inauthor:herbert&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Children_of_Dune.html?hl=&id=IpLqDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=IpLqDwAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Book Three in the Magnificent Dune Chronicles--the Bestselling Science Fiction Adventure of All Time The Children of Dune are twin siblings Leto and Ghanima Atreides, whose father, the Emperor Paul Muad&#39;Dib, disappeared in the desert ..."
+      }
+    }
+  ],
   "new": [
     {
       "kind": "books#volume",
